@@ -118,20 +118,6 @@ const Homepage = () => {
                 </Focusable>
                 <Focusable
                   onClickEnter={() => {
-                    filterHandler('MH-TV');
-                  }}
-                >
-                  <li
-                    onClick={() => {
-                      filterHandler('Marathi');
-                    }}
-                    className='channelListItem'
-                  >
-                    News
-                  </li>
-                </Focusable>
-                <Focusable
-                  onClickEnter={() => {
                     filterHandler('information');
                   }}
                 >
@@ -144,6 +130,21 @@ const Homepage = () => {
                     Information
                   </li>
                 </Focusable>
+                <Focusable
+                  onClickEnter={() => {
+                    filterHandler('news');
+                  }}
+                >
+                  <li
+                    onClick={() => {
+                      filterHandler('news');
+                    }}
+                    className='channelListItem'
+                  >
+                    News
+                  </li>
+                </Focusable>
+
               </FocusableSection>
             </ul>
           </div>
@@ -179,7 +180,7 @@ const Homepage = () => {
                         alt='channelImage'
                         placeholderImage={placeholderImage}
                       />
-                     <h4 style={{color:'white', textAlign:'center'}}>{channelItem.name}</h4>
+                      <h4 style={{ color: 'white', textAlign: 'center' }}>{channelItem.name}</h4>
                     </span>
                   </Focusable>
                 );

@@ -27,7 +27,7 @@ const ChannelStreaming = () => {
     <div className='channelStreamingWrapper'>
       <ReactPlayer
         className='player-wrapper'
-        controls='true'
+        controls= 'true'
         url={
           window.decodeURIComponent(searchParams.get('channelUrl')) ||
           'http://forevertv.me:8080/movie/anand615/pass123/87757.mp4'
