@@ -1,347 +1,1081 @@
 #EXTM3U
-#EXTINF:-1,Marathi: Sony Marathi HD
-http://livetvbox.live:8080/live/7878/7878/5856.ts
-#EXTINF:-1,Marathi:9x Jhakaas  HD
-http://livetvbox.live:8080/live/7878/7878/5858.ts
-#EXTINF:-1,Marathi:ABP Majha
-http://livetvbox.live:8080/live/7878/7878/5859.ts
-#EXTINF:-1,Marathi:DD Sahyadri HD(lk)
-http://livetvbox.live:8080/live/7878/7878/5860.ts
-#EXTINF:-1,Marathi:Fakt marathi
-http://livetvbox.live:8080/live/7878/7878/5861.ts
-#EXTINF:-1,Marathi:News18 Lokmat
-http://livetvbox.live:8080/live/7878/7878/5862.ts
-#EXTINF:-1,Marathi:TV9 Marathi HD
-http://livetvbox.live:8080/live/7878/7878/5863.ts
-#EXTINF:-1,Marathi:Sangeet Marathi(lk)
-http://livetvbox.live:8080/live/7878/7878/5864.ts
-#EXTINF:-1,Marathi:Zee Yuva
-http://livetvbox.live:8080/live/7878/7878/5866.ts
-#EXTINF:-1,Marathi:Zee Marathi HD
-http://livetvbox.live:8080/live/7878/7878/5867.ts
-#EXTINF:-1,Marathi:Zee  24 Taas
-http://livetvbox.live:8080/live/7878/7878/5868.ts
-#EXTINF:-1,Marathi: ZEE Marathi (usa)
-http://livetvbox.live:8080/live/7878/7878/5869.ts
-#EXTINF:-1,Marathi:Zee Talkies HD
-http://livetvbox.live:8080/live/7878/7878/5871.ts
-#EXTINF:-1,Marathi:Colors:Marathi
-http://livetvbox.live:8080/live/7878/7878/5872.ts
-#EXTINF:-1,Marathi:Star Parvaha FHD (Hotstar)
-http://livetvbox.live:8080/live/7878/7878/5874.ts
-#EXTINF:-1,Marathi: STAR-PRAVAH (4K).
-http://livetvbox.live:8080/live/7878/7878/98902.ts
-#EXTINF:-1,Marathi: ZEE Marathi (4K).
-http://livetvbox.live:8080/live/7878/7878/98903.ts
-#EXTINF:-1,Marathi: ZEE TALKIES (4K).
-http://livetvbox.live:8080/live/7878/7878/98904.ts
-#EXTINF:-1,MARATHI: COLORS MARATHI (4K).
-http://livetvbox.live:8080/live/7878/7878/98905.ts
-
-#EXTINF:-1,IN: SONY HD
-http://livetvbox.live:8080/live/7878/7878/144.ts
-#EXTINF:-1,IN: SONY TV HD
-http://livetvbox.live:8080/live/7878/7878/224.ts
-#EXTINF:-1,IN: SONY (FHD)
-http://livetvbox.live:8080/live/7878/7878/9365.ts
-#EXTINF:-1,IN: STAR PLUS HD
-http://livetvbox.live:8080/live/7878/7878/221.ts
-#EXTINF:-1,IN: STAR PLUS FHD
-http://livetvbox.live:8080/live/7878/7878/167.ts
-#EXTINF:-1,IN: STAR PLUS (FHD)
-http://livetvbox.live:8080/live/7878/7878/9366.ts
-#EXTINF:-1,IN: COLOR HD
-http://livetvbox.live:8080/live/7878/7878/219.ts
-#EXTINF:-1,IN: COLORS FHD
-http://livetvbox.live:8080/live/7878/7878/195.ts
-#EXTINF:-1,IN: Colors (FHD)
-http://livetvbox.live:8080/live/7878/7878/9370.ts
-#EXTINF:-1,IN: STAR BHARAT HD
-http://livetvbox.live:8080/live/7878/7878/199.ts
-#EXTINF:-1,IN: STAR BHARAT (FHD)
-http://livetvbox.live:8080/live/7878/7878/9367.ts
-#EXTINF:-1,IN: SONY SAB HD
-http://livetvbox.live:8080/live/7878/7878/145.ts
-#EXTINF:-1,IN: SAB (FHD)
-http://livetvbox.live:8080/live/7878/7878/9368.ts
-#EXTINF:-1,IN: & TV HD
-http://livetvbox.live:8080/live/7878/7878/232.ts
-#EXTINF:-1,IN: Zee Anmol
-http://livetvbox.live:8080/live/7878/7878/203.ts
-#EXTINF:-1,IN: &TV (FHD)
-http://livetvbox.live:8080/live/7878/7878/9369.ts
-#EXTINF:-1,IN: ZEE TV HD
-http://livetvbox.live:8080/live/7878/7878/161.ts
-#EXTINF:-1,IN: ZEE TV FHD
-http://livetvbox.live:8080/live/7878/7878/220.ts
-#EXTINF:-1,IN: ZEE TV (FHD)
-http://livetvbox.live:8080/live/7878/7878/9371.ts
-#EXTINF:-1,IN: SONY (4K).
-http://livetvbox.live:8080/live/7878/7878/98854.ts
-#EXTINF:-1,IN: SONY SAB (4K).
-http://livetvbox.live:8080/live/7878/7878/98853.ts
-#EXTINF:-1,IN: COLORS (4K).
-http://livetvbox.live:8080/live/7878/7878/98851.ts
-#EXTINF:-1,IN: STAR PLUS (4K).
-http://livetvbox.live:8080/live/7878/7878/98849.ts
-#EXTINF:-1,IN: STAR BHARAT (4K).
-http://livetvbox.live:8080/live/7878/7878/98855.ts
-#EXTINF:-1,IN: &TV (4K).
-http://livetvbox.live:8080/live/7878/7878/98852.ts
-#EXTINF:-1,IN: ZEETV (4K).
-http://livetvbox.live:8080/live/7878/7878/98850.ts
-#EXTINF:-1,IN: Sony Pal
-http://livetvbox.live:8080/live/7878/7878/6627.ts
-
-#EXTINF:-1,IN: SONY MAX HD
-http://livetvbox.live:8080/live/7878/7878/151.ts
-#EXTINF:-1,IN: SONY MAX (FHD)
-http://livetvbox.live:8080/live/7878/7878/9373.ts
-#EXTINF:-1,IN: STAR GOLD HD
-http://livetvbox.live:8080/live/7878/7878/194.ts
-#EXTINF:-1,IN: Star GOLD (FHD)
-http://livetvbox.live:8080/live/7878/7878/9375.ts
-#EXTINF:-1,IN:  STAR GOLD 2 HD
-http://livetvbox.live:8080/live/7878/7878/157081.ts
-#EXTINF:-1,IN: STAR GOLD SELECT HD
-http://livetvbox.live:8080/live/7878/7878/210.ts
-#EXTINF:-1,IN: Star Gold SELECT (FHD)
-http://livetvbox.live:8080/live/7878/7878/9376.ts
-#EXTINF:-1,IN: ZEE CINEMA HD
-http://livetvbox.live:8080/live/7878/7878/230.ts
-#EXTINF:-1,IN: & PICTURES HD
-http://livetvbox.live:8080/live/7878/7878/231.ts
-#EXTINF:-1,IN: CINEPLEX HD
-http://livetvbox.live:8080/live/7878/7878/867.ts
-#EXTINF:-1,IN: Colors Cineplex (FHD)
-http://livetvbox.live:8080/live/7878/7878/9378.ts
-#EXTINF:-1,IN: COLORS CINEPLEX SUPERHITS
-http://livetvbox.live:8080/live/7878/7878/172368.ts
-#EXTINF:-1,IN: Colors Cineplex Bollywood
-http://livetvbox.live:8080/live/7878/7878/37074.ts
-#EXTINF:-1,IN: Zee Classic
-http://livetvbox.live:8080/live/7878/7878/7064.ts
-#EXTINF:-1,IN: Zee Anmol Cinema
-http://livetvbox.live:8080/live/7878/7878/7065.ts
-#EXTINF:-1,IN: MINIPLEX (FHD)
-http://livetvbox.live:8080/live/7878/7878/23427.ts
-#EXTINF:-1,IN: SONY MAX (4K).
-http://livetvbox.live:8080/live/7878/7878/98857.ts
-#EXTINF:-1,IN: &PICTURE (4K).
-http://livetvbox.live:8080/live/7878/7878/98856.ts
-#EXTINF:-1,IN: STAR GOLD (4K).
-http://livetvbox.live:8080/live/7878/7878/98858.ts
-#EXTINF:-1,IN: STAR GOLD SELECT (4K).
-http://livetvbox.live:8080/live/7878/7878/98859.ts
-#EXTINF:-1,IN: ZEE CINEMA (4K).
-http://livetvbox.live:8080/live/7878/7878/98860.ts
-#EXTINF:-1,IN: Colors Cineplex (4K).
-http://livetvbox.live:8080/live/7878/7878/98908.ts
-#EXTINF:-1,IN: STAR MOVIE (4K).
-http://livetvbox.live:8080/live/7878/7878/98842.ts
-#EXTINF:-1,IN: STAR MOVIE SELECT (4K).
-http://livetvbox.live:8080/live/7878/7878/98843.ts
-#EXTINF:-1,IN: &PRIVE (4K).
-http://livetvbox.live:8080/live/7878/7878/98840.ts
-#EXTINF:-1,IN: AXN (4K).
-http://livetvbox.live:8080/live/7878/7878/98915.ts
-#EXTINF:-1,IN: &FLIX (4K).
-http://livetvbox.live:8080/live/7878/7878/98841.ts
-#EXTINF:-1,IN: SONY PIX (4K).
-http://livetvbox.live:8080/live/7878/7878/98846.ts
-#EXTINF:-1,IN: MN+ (4K).
-http://livetvbox.live:8080/live/7878/7878/98847.ts
-#EXTINF:-1,IN: ZEE CAFE (4K).
-http://livetvbox.live:8080/live/7878/7878/98848.ts
-#EXTINF:-1,IN: Colors INFINITY (4K).
-http://livetvbox.live:8080/live/7878/7878/98879.ts
-#EXTINF:-1,IN: &XPLOR HD
-http://livetvbox.live:8080/live/7878/7878/4082.ts
-#EXTINF:-1,IN: & XPLOR (FHD)
-http://livetvbox.live:8080/live/7878/7878/20648.ts
-#EXTINF:-1,IN: MOVIES ACTIVE HD D2H
-http://livetvbox.live:8080/live/7878/7878/7336.ts
-#EXTINF:-1,IN: MBC BOLLYWOOD (FHD)
-http://livetvbox.live:8080/live/7878/7878/20512.ts
-#EXTINF:-1,IN: B FLIX
-http://livetvbox.live:8080/live/7878/7878/4081.ts
-#EXTINF:-1,IN: STAR MOVIES HD
-http://livetvbox.live:8080/live/7878/7878/979.ts
-#EXTINF:-1,IN: STAR MOVIES SELECT HD
-http://livetvbox.live:8080/live/7878/7878/218.ts
-#EXTINF:-1,IN: SONY PIX HD
-http://livetvbox.live:8080/live/7878/7878/147.ts
-#EXTINF:-1,IN: MN PLUS
-http://livetvbox.live:8080/live/7878/7878/178.ts
-#EXTINF:-1,IN: MNX HD
-http://livetvbox.live:8080/live/7878/7878/191.ts
-#EXTINF:-1,IN: & PRIVE HD
-http://livetvbox.live:8080/live/7878/7878/201.ts
-#EXTINF:-1,IN: & FLIX HD
-http://livetvbox.live:8080/live/7878/7878/253.ts
-#EXTINF:-1,IN: HBO 2 HD
-http://livetvbox.live:8080/live/7878/7878/185.ts
-#EXTINF:-1,IN: COLORS INFINITY HD
-http://livetvbox.live:8080/live/7878/7878/187.ts
-#EXTINF:-1,IN: ZEECAFE HD
-http://livetvbox.live:8080/live/7878/7878/196.ts
-
-#EXTINF:-1,IN : CARTOON NETWORK HD
-http://livetvbox.live:8080/live/7878/7878/8.ts
-#EXTINF:-1, IN: Pogo_Hindi
-http://livetvbox.live:8080/live/7878/7878/1918.ts
-#EXTINF:-1,IN: POGO (ENGLISH)
-http://livetvbox.live:8080/live/7878/7878/7220.ts
-#EXTINF:-1,IN:  Nick_Hindi
-http://livetvbox.live:8080/live/7878/7878/205.ts
-#EXTINF:-1,IN: NICK (4K).
-http://livetvbox.live:8080/live/7878/7878/98880.ts
-#EXTINF:-1,IN: Nick_Junior
-http://livetvbox.live:8080/live/7878/7878/206.ts
-#EXTINF:-1,IN: sonic_Hindi
-http://livetvbox.live:8080/live/7878/7878/207.ts
-#EXTINF:-1,IN: Discovery_Kids_1
-http://livetvbox.live:8080/live/7878/7878/208.ts
-#EXTINF:-1,IN:  Nick_Hindi
-http://livetvbox.live:8080/live/7878/7878/205.ts
-#EXTINF:-1,IN: Sony_Yay_Hindi
-http://livetvbox.live:8080/live/7878/7878/204.ts
-
-#EXTINF:-1,IN: FYI TV18 HD
-http://livetvbox.live:8080/live/7878/7878/152.ts
-#EXTINF:-1,IN: FOX LIFE
-http://livetvbox.live:8080/live/7878/7878/2115.ts
-#EXTINF:-1,IN: HISTORY HD
-http://livetvbox.live:8080/live/7878/7878/180.ts
-#EXTINF:-1,IN: HISTORY 18 (HINDI)
-http://livetvbox.live:8080/live/7878/7878/5252.ts
-#EXTINF:-1,IN: FOX LIFE (4K).
-http://livetvbox.live:8080/live/7878/7878/98876.ts
-#EXTINF:-1,IN: TLC (4K).
-http://livetvbox.live:8080/live/7878/7878/98878.ts
-#EXTINF:-1,IN: DISCOVERY (4K).
-http://livetvbox.live:8080/live/7878/7878/98872.ts
-#EXTINF:-1,IN: ANIMAL PLANET (4K).
-http://livetvbox.live:8080/live/7878/7878/98873.ts
-#EXTINF:-1,IN: National GEO (4K).
-http://livetvbox.live:8080/live/7878/7878/98874.ts
-#EXTINF:-1,IN: NAT Geo Wild (4K).
-http://livetvbox.live:8080/live/7878/7878/98875.ts
-#EXTINF:-1,IN: Sony BBC EARTH (4K).
-http://livetvbox.live:8080/live/7878/7878/98871.ts
-#EXTINF:-1,IN: HISTORY TV (4K).
-http://livetvbox.live:8080/live/7878/7878/98877.ts
-#EXTINF:-1,IN: DISCOVERY WORLD HD
-http://livetvbox.live:8080/live/7878/7878/156.ts
-#EXTINF:-1,IN: NATIONAL GEOGRAPHIC INDIA
-http://livetvbox.live:8080/live/7878/7878/7342.ts
-#EXTINF:-1,IN: NATIONAL GEOGRAPHIC
-http://livetvbox.live:8080/live/7878/7878/7343.ts
-#EXTINF:-1,IN: NATGEO WILD HD
-http://livetvbox.live:8080/live/7878/7878/7344.ts
-#EXTINF:-1,IN: SONY BBC EARTH HD (ENG)
-http://livetvbox.live:8080/live/7878/7878/174.ts
-#EXTINF:-1,IN: SONY BBC EARTH HD (HINDI)
-http://livetvbox.live:8080/live/7878/7878/7721.ts
-#EXTINF:-1,IN: SONY BBC EARTH HD (ENGLISH)
-http://livetvbox.live:8080/live/7878/7878/190.ts
-#EXTINF:-1,IN: TRAVEL XP HD (HINDI)
-http://livetvbox.live:8080/live/7878/7878/181.ts
-#EXTINF:-1,IN: TRAVEL XP HD
-http://livetvbox.live:8080/live/7878/7878/1623.ts
-#EXTINF:-1,IN: ANIMAL PLANET HD
-http://livetvbox.live:8080/live/7878/7878/182.ts
-#EXTINF:-1,IN: Food Food
-http://livetvbox.live:8080/live/7878/7878/250.ts
-
-
-
-
-
-#EXTINF:-1,IN: 9XM
-http://livetvbox.live:8080/live/7878/7878/7255.ts
-#EXTINF:-1,IN: Mastiii
-http://livetvbox.live:8080/live/7878/7878/7256.ts
-#EXTINF:-1,IN: B4U Music
-http://livetvbox.live:8080/live/7878/7878/7258.ts
-#EXTINF:-1,IN: MTV BEATS HD
-http://livetvbox.live:8080/live/7878/7878/153.ts
-#EXTINF:-1,IN: MTV HD PLUS
-http://livetvbox.live:8080/live/7878/7878/4029.ts
-
-
-
-#EXTINF:-1,IN: STAR SPORTS 1 (4K).
-http://livetvbox.live:8080/live/7878/7878/98864.ts
-#EXTINF:-1,IN: STAR SPORTS 2 (4K).
-http://livetvbox.live:8080/live/7878/7878/98865.ts
-#EXTINF:-1,IN: STAR SPORTS 1 HINDI (4K).
-http://livetvbox.live:8080/live/7878/7878/98866.ts
-#EXTINF:-1,IN: STAR SPORTS SELECT 1 (4K).
-http://livetvbox.live:8080/live/7878/7878/98867.ts
-#EXTINF:-1,IN: START SPORTS SELECT 2 (4K).
-http://livetvbox.live:8080/live/7878/7878/98868.ts
-#EXTINF:-1,IN: TEN 1 (4K).
-http://livetvbox.live:8080/live/7878/7878/98861.ts
-#EXTINF:-1,IN: TEN 2 (4K).
-http://livetvbox.live:8080/live/7878/7878/98862.ts
-#EXTINF:-1,IN: TEN 3 (4K).
-http://livetvbox.live:8080/live/7878/7878/98863.ts
-#EXTINF:-1,IN: SONY TEN 5 (4K).
-http://livetvbox.live:8080/live/7878/7878/98870.ts
-#EXTINF:-1,CRI: TEN SPORTS
-http://livetvbox.live:8080/live/7878/7878/98.ts
-#EXTINF:-1,CRI: TEN CRICKET (FHD)
-http://livetvbox.live:8080/live/7878/7878/196594.ts
-#EXTINF:-1,CRI: TEN CRICKET
-http://livetvbox.live:8080/live/7878/7878/9886.ts
-#EXTINF:-1,CRI: STAR SPORT 1 HD
-http://livetvbox.live:8080/live/7878/7878/148.ts
-#EXTINF:-1,CRI: Star Sport-1  (FHD)
-http://livetvbox.live:8080/live/7878/7878/9397.ts
-#EXTINF:-1,CRI: STAR SPORTS 1 (4K)
-http://livetvbox.live:8080/live/7878/7878/124281.ts
-#EXTINF:-1,CRI: STAR SPORTS 2 HD
-http://livetvbox.live:8080/live/7878/7878/239.ts
-#EXTINF:-1,CRI: Star Sport-2  (FHD)
-http://livetvbox.live:8080/live/7878/7878/9398.ts
-#EXTINF:-1,CRI: STAR SPORTS 2 (4K)
-http://livetvbox.live:8080/live/7878/7878/124284.ts
-#EXTINF:-1,CRI: STAR SPORTS HINDI HD
-http://livetvbox.live:8080/live/7878/7878/211.ts
-#EXTINF:-1,CRI: Star Sport 1 HINDI (FHD)
-http://livetvbox.live:8080/live/7878/7878/9399.ts
-#EXTINF:-1,CRI: STAR SPORTS 1 HINDI (4K)
-http://livetvbox.live:8080/live/7878/7878/124287.ts
-#EXTINF:-1,CRI: STAR SPORTS SELECT 1 HD
-http://livetvbox.live:8080/live/7878/7878/238.ts
-#EXTINF:-1,CRI: STAR SPORTS SELECT 2 HD
-http://livetvbox.live:8080/live/7878/7878/148801.ts
-#EXTINF:-1,CRI: STAR SPORTS TAMIL 1 HD
-http://livetvbox.live:8080/live/7878/7878/9722.ts
-#EXTINF:-1,CRI: STAR SPORTS TELUGU 1 HD
-http://livetvbox.live:8080/live/7878/7878/177843.ts
-#EXTINF:-1,CRI: STAR SPORTS 3
-http://livetvbox.live:8080/live/7878/7878/1080.ts
-#EXTINF:-1,CRI: T SPORTS FHD
-http://livetvbox.live:8080/live/7878/7878/18452.ts
-#EXTINF:-1,CRI: T SPORTS.
-http://livetvbox.live:8080/live/7878/7878/130714.ts
-#EXTINF:-1,CRI: RTA Sports
-http://livetvbox.live:8080/live/7878/7878/1039.ts
-#EXTINF:-1,CRI: SONY TEN 1 HD
-http://livetvbox.live:8080/live/7878/7878/154.ts
-#EXTINF:-1,CRI: SONY Ten 2 HD
-http://livetvbox.live:8080/live/7878/7878/192.ts
-#EXTINF:-1,CRI: SONY Ten 2 HD.
-http://livetvbox.live:8080/live/7878/7878/31314.ts
-#EXTINF:-1,CRI: SONY TEN 3 HD
-http://livetvbox.live:8080/live/7878/7878/146.ts
-#EXTINF:-1,CRI: SONY TEN 4 (FHD)
-http://livetvbox.live:8080/live/7878/7878/29469.ts
-#EXTINF:-1,CRI: SONY 5 HD
-http://livetvbox.live:8080/live/7878/7878/176.ts
-#EXTINF:-1,CRI: SONY ESPN HD
-http://livetvbox.live:8080/live/7878/7878/155.ts
-#EXTINF:-1,CRI: Jio Cricket HD
-http://livetvbox.live:8080/live/7878/7878/158899.ts
+#EXTINF:-1 tvg-id=" zeeindia@0-9-zeetvhd" tvg-name="Zee Tv India HD" tvg-logo="http://go.justflix.tv/images/indialogo/ZeeTvEuropeHD.png" group-title="HINDI",Zee Tv India HD
+http://go.justflix.tv:80/client106/strawbees7/163
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Sony TV India HD" tvg-logo="http://go.justflix.tv/images/india/Sony_HD.png" group-title="HINDI",Sony TV India HD
+http://go.justflix.tv:80/client106/strawbees7/166
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Star Plus India HD" tvg-logo="http://go.justflix.tv/images/indialogo/StarPlusEuropeHD.png" group-title="HINDI",Star Plus India HD
+http://go.justflix.tv:80/client106/strawbees7/162
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Star Bharat India HD" tvg-logo="http://go.justflix.tv/images/india/Star_Bharat_HD.png" group-title="HINDI",Star Bharat India HD
+http://go.justflix.tv:80/client106/strawbees7/874
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Sony Sab India HD" tvg-logo="http://go.justflix.tv/images/india/Sony_SAB_HD.png" group-title="HINDI",Sony Sab India HD
+http://go.justflix.tv:80/client106/strawbees7/227
+#EXTINF:-1 tvg-id="zeeindia@0-9-tvhd_0" tvg-name="& Tv India HD" tvg-logo="http://go.justflix.tv/images/india/And_TV_HD.png" group-title="HINDI",& Tv India HD
+http://go.justflix.tv:80/client106/strawbees7/120
+#EXTINF:-1 tvg-id="zeeindia@0-9-tvpictureshd" tvg-name="& Pictures India HD" tvg-logo="http://go.justflix.tv/images/india/And_Pictures_HD.png" group-title="HINDI",& Pictures India HD
+http://go.justflix.tv:80/client106/strawbees7/26
+#EXTINF:-1 tvg-id=" ukserver2@sony.entertainment.asia.gb" tvg-name="Star Gold Select India HD" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="HINDI",Star Gold Select India HD
+http://go.justflix.tv:80/client106/strawbees7/235
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Star Gold India HD" tvg-logo="http://go.justflix.tv:80/images/8zjztTjnab0n2kahhnNxDGbi7TvIQVyA.png" group-title="HINDI",Star Gold India HD
+http://go.justflix.tv:80/client106/strawbees7/185
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Beats India HD" tvg-logo="http://go.justflix.tv:80/images/ohtQPxmpUueUufuJmfXzJNmW4qwktEKr.png" group-title="HINDI",Mtv Beats India HD
+http://go.justflix.tv:80/client106/strawbees7/167
+#EXTINF:-1 tvg-id="zeeindia@0-9-zeecinemahd" tvg-name="Zee Cinema India HD" tvg-logo="http://go.justflix.tv/images/india/Zee_Cinema_HD.png" group-title="HINDI",Zee Cinema India HD
+http://go.justflix.tv:80/client106/strawbees7/165
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Sony Max India HD" tvg-logo="http://go.justflix.tv:80/images/CxDR1XlgheqDeshctrM9dGjb2rt9TzBC.png" group-title="HINDI",Sony Max India HD
+http://go.justflix.tv:80/client106/strawbees7/97
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Sony BBC Earth India HD" tvg-logo="http://go.justflix.tv/images/india/Sony_BBC_Earth_HD.png" group-title="HINDI",Sony BBC Earth India HD
+http://go.justflix.tv:80/client106/strawbees7/65
+#EXTINF:-1 tvg-id="605" tvg-name="National Geograhic India HD" tvg-logo="" group-title="HINDI",National Geograhic India HD
+http://go.justflix.tv:80/client106/strawbees7/192
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="History Tv India HD" tvg-logo="http://go.justflix.tv/images/india/History_HD.png" group-title="HINDI",History Tv India HD
+http://go.justflix.tv:80/client106/strawbees7/138
+#EXTINF:-1 tvg-id="" tvg-name="Travel Xp India HD" tvg-logo="http://go.justflix.tv/images/india/Travel_XP_HD.png" group-title="HINDI",Travel Xp India HD
+http://go.justflix.tv:80/client106/strawbees7/128
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World India HD" tvg-logo="http://go.justflix.tv/images/indialogo/HINDIDISCOVERYWORLDHD.png" group-title="HINDI",Discovery World India HD
+http://go.justflix.tv:80/client106/strawbees7/229
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex SuperHits" tvg-logo="http://go.justflix.tv/images/indialogo/ColorsCineplexIndiaHD.png" group-title="HINDI",Colors Cineplex SuperHits
+http://go.justflix.tv:80/client106/strawbees7/966
+#EXTINF:-1 tvg-id="" tvg-name="Saileela TV " tvg-logo="" group-title="HINDI",Saileela TV 
+http://go.justflix.tv:80/client106/strawbees7/182
+#EXTINF:-1 tvg-id="" tvg-name="Nimbark TV" tvg-logo="" group-title="HINDI",Nimbark TV
+http://go.justflix.tv:80/client106/strawbees7/221
+#EXTINF:-1 tvg-id="" tvg-name="Miniplex HD" tvg-logo="http://go.justflix.tv/images/india/miniplex.png" group-title="HINDI",Miniplex HD
+http://go.justflix.tv:80/client106/strawbees7/563
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Colors  HD" tvg-logo="http://go.justflix.tv/images/india/Colors_Tamil_HD.png" group-title="TAMIL",Tamil | Colors  HD
+http://go.justflix.tv:80/client106/strawbees7/269
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Colors  HD" tvg-logo="http://go.justflix.tv/images/india/Colors_Marathi_HD.png" group-title="MARATHI",Marathi | Colors  HD
+http://go.justflix.tv:80/client106/strawbees7/802
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Colors  HD" tvg-logo="http://go.justflix.tv/images/india/Colors_Kannada_HD.png" group-title="KANNADA",Kannada | Colors  HD
+http://go.justflix.tv:80/client106/strawbees7/838
+#EXTINF:-1 tvg-id="" tvg-name="Gujarati | Colors  India" tvg-logo="http://go.justflix.tv/images/india/Colors_Gujarati.png" group-title="GUJARATI",Gujarati | Colors  India
+http://go.justflix.tv:80/client106/strawbees7/70
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gemini TV  HD" tvg-logo="http://go.justflix.tv/images/india/Gemini_TV_HD.png" group-title="TELUGU",Telugu | Gemini TV  HD
+http://go.justflix.tv:80/client106/strawbees7/716
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gemini Music  HD" tvg-logo="http://go.justflix.tv/images/india/Gemini_Music_HD.png" group-title="TELUGU",Telugu | Gemini Music  HD
+http://go.justflix.tv:80/client106/strawbees7/720
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gemini Movies  HD" tvg-logo="http://go.justflix.tv/images/india/Gemini_Movies_HD.png" group-title="TELUGU",Telugu | Gemini Movies  HD
+http://go.justflix.tv:80/client106/strawbees7/717
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gemini Life  HD" tvg-logo="http://go.justflix.tv/images/india/Gemini_Life.png" group-title="TELUGU",Telugu | Gemini Life  HD
+http://go.justflix.tv:80/client106/strawbees7/719
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gemini Comedy  HD" tvg-logo="http://go.justflix.tv/images/india/Gemini_Comedy.png" group-title="TELUGU",Telugu | Gemini Comedy  HD
+http://go.justflix.tv:80/client106/strawbees7/718
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Star Maa TV  HD" tvg-logo="http://go.justflix.tv/images/india/Maa_TV.png" group-title="TELUGU",Telugu | Star Maa TV  HD
+http://go.justflix.tv:80/client106/strawbees7/723
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Star Maa Movies  HD" tvg-logo="http://go.justflix.tv/images/indialogo/TELUGUMAAMOVIESHD.png" group-title="TELUGU",Telugu | Star Maa Movies  HD
+http://go.justflix.tv:80/client106/strawbees7/722
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Star Maa Gold  HD" tvg-logo="http://go.justflix.tv/images/indialogo/TELUGUSTARMAAGOLDHD.png" group-title="TELUGU",Telugu | Star Maa Gold  HD
+http://go.justflix.tv:80/client106/strawbees7/721
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Etv " tvg-logo="http://go.justflix.tv/images/india/ETV_Telugu.png" group-title="TELUGU",Telugu | Etv 
+http://go.justflix.tv:80/client106/strawbees7/727
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Etv Plus " tvg-logo="http://go.justflix.tv/images/india/ETV_Plus.png" group-title="TELUGU",Telugu | Etv Plus 
+http://go.justflix.tv:80/client106/strawbees7/726
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Etv Life " tvg-logo="" group-title="TELUGU",Telugu | Etv Life 
+http://go.justflix.tv:80/client106/strawbees7/728
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Sun tv  HD" tvg-logo="http://go.justflix.tv/images/india/Sun_TV_HD.png" group-title="TAMIL",Tamil | Sun tv  HD
+http://go.justflix.tv:80/client106/strawbees7/237
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | KTV  HD" tvg-logo="http://go.justflix.tv/images/india/KTV_HD.png" group-title="TAMIL",Tamil | KTV  HD
+http://go.justflix.tv:80/client106/strawbees7/203
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay  HD" tvg-logo="http://go.justflix.tv/images/india/Star_Vijay.png" group-title="TAMIL",Tamil | Star Vijay  HD
+http://go.justflix.tv:80/client106/strawbees7/296
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Sun Life " tvg-logo="http://go.justflix.tv/images/indialogo/TAMILSUNLIFE.png" group-title="TAMIL",Tamil | Sun Life 
+http://go.justflix.tv:80/client106/strawbees7/282
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Zee  HD" tvg-logo="http://go.justflix.tv/images/india/Zee_Marathi.png" group-title="MARATHI",Marathi | Zee  HD
+http://go.justflix.tv:80/client106/strawbees7/789
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Star Pravah  HD" tvg-logo="http://go.justflix.tv/images/india/Star_Pravah.png" group-title="MARATHI",Marathi | Star Pravah  HD
+http://go.justflix.tv:80/client106/strawbees7/803
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Asianet  HD" tvg-logo="http://go.justflix.tv/images/india/Asianet.png" group-title="MALAYALAM",Malayalam | Asianet  HD
+http://go.justflix.tv:80/client106/strawbees7/767
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Asianet Movies  HD" tvg-logo="http://go.justflix.tv/images/indialogo/MALASIANETMOVIESHD.png" group-title="MALAYALAM",Malayalam | Asianet Movies  HD
+http://go.justflix.tv:80/client106/strawbees7/768
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Asianet Plus  HD" tvg-logo="http://go.justflix.tv/images/indialogo/MALASIANETPLUSHD.png" group-title="MALAYALAM",Malayalam | Asianet Plus  HD
+http://go.justflix.tv:80/client106/strawbees7/769
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Surya  HD" tvg-logo="http://go.justflix.tv/images/indialogo/MALSURYATVHDâ—‰.png" group-title="MALAYALAM",Malayalam | Surya  HD
+http://go.justflix.tv:80/client106/strawbees7/765
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Zee Keralam  HD" tvg-logo="http://go.justflix.tv/images/indialogo/MALZEEKERALAMHD.png" group-title="MALAYALAM",Malayalam | Zee Keralam  HD
+http://go.justflix.tv:80/client106/strawbees7/762
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Kochu tv " tvg-logo="http://go.justflix.tv/images/india/Kochu_TV.png" group-title="MALAYALAM",Malayalam | Kochu tv 
+http://go.justflix.tv:80/client106/strawbees7/774
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Surya Tv Hd  Uk" tvg-logo="" group-title="MALAYALAM",Malayalam | Surya Tv Hd  Uk
+http://go.justflix.tv:80/client106/strawbees7/778
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Star Suvarna  HD" tvg-logo="http://go.justflix.tv/images/india/Suvarna.png" group-title="KANNADA",Kannada | Star Suvarna  HD
+http://go.justflix.tv:80/client106/strawbees7/839
+#EXTINF:-1 tvg-id="" tvg-name="Zee Classic India" tvg-logo="http://go.justflix.tv/images/indialogo/HINDIZEECLASSIC.png" group-title="HINDI",Zee Classic India
+http://go.justflix.tv:80/client106/strawbees7/956
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Colors Cineplex India HD " tvg-logo="http://go.justflix.tv/images/indialogo/INUKCOLORSCINEPLEX.png" group-title="HINDI",Colors Cineplex India HD 
+http://go.justflix.tv:80/client106/strawbees7/191
+#EXTINF:-1 tvg-id="" tvg-name="Zee Ganga" tvg-logo="" group-title="HINDI",Zee Ganga
+http://go.justflix.tv:80/client106/strawbees7/863
+#EXTINF:-1 tvg-id="" tvg-name="Janta tv India" tvg-logo="" group-title="HINDI",Janta tv India
+http://go.justflix.tv:80/client106/strawbees7/967
+#EXTINF:-1 tvg-id=" ukserver2@sony.entertainment.asia.gb" tvg-name="Aaj Tak India HD" tvg-logo="http://go.justflix.tv/images/india/CNBC_Awaaz.png" group-title="HINDI",Aaj Tak India HD
+http://go.justflix.tv:80/client106/strawbees7/668
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sport PK" tvg-logo="http://go.justflix.tv/images/sports/ptvsportsfullhd.png" group-title="SPORTS",Ptv Sport PK
+http://go.justflix.tv:80/client106/strawbees7/22
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super PK" tvg-logo="" group-title="SPORTS",Geo Super PK
+http://go.justflix.tv:80/client106/strawbees7/21
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 India HD" tvg-logo="http://go.justflix.tv/images/india/Ten_1.png" group-title="SPORTS",Sony Ten 1 India HD
+http://go.justflix.tv:80/client106/strawbees7/217
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 India HD" tvg-logo="http://go.justflix.tv/images/india/Ten_3.png" group-title="SPORTS",Sony Ten 3 India HD
+http://go.justflix.tv:80/client106/strawbees7/219
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 India HD" tvg-logo="" group-title="SPORTS",Sony Ten 4 India HD
+http://go.justflix.tv:80/client106/strawbees7/126
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 5 India HD" tvg-logo="" group-title="SPORTS",Sony Ten 5 India HD
+http://go.justflix.tv:80/client106/strawbees7/606
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="" group-title="SPORTS",Ten Sports
+http://go.justflix.tv:80/client106/strawbees7/127
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD" tvg-logo="http://go.justflix.tv/images/sports/astrocricketfullhd.png" group-title="SPORTS",Astro Cricket HD
+http://go.justflix.tv:80/client106/strawbees7/141
+#EXTINF:-1 tvg-id="78" tvg-name="Star Sports 1 India HD" tvg-logo="http://go.justflix.tv/images/india/starsp1.png" group-title="SPORTS",Star Sports 1 India HD
+http://go.justflix.tv:80/client106/strawbees7/121
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 India HD" tvg-logo="http://go.justflix.tv/images/india/starsp2.png" group-title="SPORTS",Star Sports 2 India HD
+http://go.justflix.tv:80/client106/strawbees7/122
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Hindi India HD" tvg-logo="http://go.justflix.tv/images/india/starsphindi.png" group-title="SPORTS",Star Sports Hindi India HD
+http://go.justflix.tv:80/client106/strawbees7/123
+#EXTINF:-1 tvg-id="" tvg-name="Star Sport Select 1 India HD" tvg-logo="http://go.justflix.tv/images/india/spselect1.png" group-title="SPORTS",Star Sport Select 1 India HD
+http://go.justflix.tv:80/client106/strawbees7/189
+#EXTINF:-1 tvg-id="" tvg-name="Star Sport Select 2 India HD" tvg-logo="http://go.justflix.tv/images/india/spselect2.png" group-title="SPORTS",Star Sport Select 2 India HD
+http://go.justflix.tv:80/client106/strawbees7/190
+#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket HD" tvg-logo="http://go.justflix.tv/images/sports/willowcricketfullhd.png" group-title="SPORTS",Willow Cricket HD
+http://go.justflix.tv:80/client106/strawbees7/125
+#EXTINF:-1 tvg-id="" tvg-name="Romedy Now India HD" tvg-logo="http://go.justflix.tv/images/india/Romedy_Now_HD.png" group-title="ENGLISH",Romedy Now India HD
+http://go.justflix.tv:80/client106/strawbees7/90
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now India HD" tvg-logo="http://go.justflix.tv/images/india/Movies_Now_HD.png" group-title="ENGLISH",Movies Now India HD
+http://go.justflix.tv:80/client106/strawbees7/900
+#EXTINF:-1 tvg-id="" tvg-name="Star World India HD" tvg-logo="" group-title="ENGLISH",Star World India HD
+http://go.justflix.tv:80/client106/strawbees7/899
+#EXTINF:-1 tvg-id="" tvg-name="MNX India HD" tvg-logo="http://go.justflix.tv/images/india/Movies_Now2_HD.png" group-title="ENGLISH",MNX India HD
+http://go.justflix.tv:80/client106/strawbees7/901
+#EXTINF:-1 tvg-id="" tvg-name="Colors infinity India HD" tvg-logo="http://go.justflix.tv/images/india/Colors_Infinity_HD.png" group-title="ENGLISH",Colors infinity India HD
+http://go.justflix.tv:80/client106/strawbees7/898
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://go.justflix.tv/images/india/HBO_HD.png" group-title="ENGLISH",HBO HD
+http://go.justflix.tv:80/client106/strawbees7/236
+#EXTINF:-1 tvg-id="" tvg-name="& Flix India HD" tvg-logo="" group-title="ENGLISH",& Flix India HD
+http://go.justflix.tv:80/client106/strawbees7/130
+#EXTINF:-1 tvg-id="" tvg-name="& Prive India HD" tvg-logo="" group-title="ENGLISH",& Prive India HD
+http://go.justflix.tv:80/client106/strawbees7/89
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="" group-title="ENGLISH",Zee Cafe HD
+http://go.justflix.tv:80/client106/strawbees7/889
+#EXTINF:-1 tvg-id="" tvg-name="WB India HD" tvg-logo="http://go.justflix.tv/images/india/WB.png" group-title="ENGLISH",WB India HD
+http://go.justflix.tv:80/client106/strawbees7/902
+#EXTINF:-1 tvg-id="" tvg-name="Axn HD" tvg-logo="http://go.justflix.tv/images/india/AXN_HD.png" group-title="ENGLISH",Axn HD
+http://go.justflix.tv:80/client106/strawbees7/161
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix India HD" tvg-logo="http://go.justflix.tv/images/india/Sony_Pix_HD.png" group-title="ENGLISH",Sony Pix India HD
+http://go.justflix.tv:80/client106/strawbees7/234
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies India HD" tvg-logo="" group-title="ENGLISH",Star Movies India HD
+http://go.justflix.tv:80/client106/strawbees7/160
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Thriller" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="HINDI",Star Gold Thriller
+http://go.justflix.tv:80/client106/strawbees7/27
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3" tvg-logo="http://go.justflix.tv/images/india/starsports3.png" group-title="SPORTS",Star Sports 3
+http://go.justflix.tv:80/client106/strawbees7/959
+#EXTINF:-1 tvg-id=" zeeusa@0-9-zeetvhd" tvg-name="Zee Tv Usa HD" tvg-logo="http://go.justflix.tv/images/indialogo/ZeeTvEuropeHD.png" group-title="HINDI",Zee Tv Usa HD
+http://go.justflix.tv:80/client106/strawbees7/3335
+#EXTINF:-1 tvg-id=" indianchannels-USA@476" tvg-name="Star Plus Usa HD" tvg-logo="http://go.justflix.tv/images/india/StarPlusHD.png" group-title="HINDI",Star Plus Usa HD
+http://go.justflix.tv:80/client106/strawbees7/3338
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Star Jalsha Usa HD" tvg-logo="" group-title="BANGLADESH",Bangla | Star Jalsha Usa HD
+http://go.justflix.tv:80/client106/strawbees7/3339
+#EXTINF:-1 tvg-id=" indianchannels-USA@" tvg-name="Star Gold Usa HD" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="HINDI",Star Gold Usa HD
+http://go.justflix.tv:80/client106/strawbees7/3340
+#EXTINF:-1 tvg-id="" tvg-name="Sony Tv Usa HD" tvg-logo="http://go.justflix.tv/images/indialogo/SonyTvUK.png" group-title="HINDI",Sony Tv Usa HD
+http://go.justflix.tv:80/client106/strawbees7/3341
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold 2" tvg-logo="" group-title="HINDI",Star Gold 2
+http://go.justflix.tv:80/client106/strawbees7/3342
+#EXTINF:-1 tvg-id="indianchannels-USA@1477" tvg-name="Colors Cineplex Usa HD" tvg-logo="http://go.justflix.tv/images/indialogo/ColorsCineplexIndiaHD.png" group-title="HINDI",Colors Cineplex Usa HD
+http://go.justflix.tv:80/client106/strawbees7/3343
+#EXTINF:-1 tvg-id=" indianchannels-USA@" tvg-name="Sony Max Usa HD" tvg-logo="http://go.justflix.tv:80/images/CxDR1XlgheqDeshctrM9dGjb2rt9TzBC.png" group-title="HINDI",Sony Max Usa HD
+http://go.justflix.tv:80/client106/strawbees7/3374
+#EXTINF:-1 tvg-id="zeeusa@0-9-zeecinemahd" tvg-name="Zee Cinema Usa HD" tvg-logo="" group-title="HINDI",Zee Cinema Usa HD
+http://go.justflix.tv:80/client106/strawbees7/3367
+#EXTINF:-1 tvg-id=" indianchannels-USA@" tvg-name="Star Bharat Usa HD" tvg-logo="http://go.justflix.tv/images/india/Star_Bharat_HD.png" group-title="HINDI",Star Bharat Usa HD
+http://go.justflix.tv:80/client106/strawbees7/3381
+#EXTINF:-1 tvg-id="zeeusa@0-9-tvpictureshd" tvg-name="& Pictures Usa HD" tvg-logo="http://go.justflix.tv/images/indialogo/PicturesIndiaHD.png" group-title="HINDI",& Pictures Usa HD
+http://go.justflix.tv:80/client106/strawbees7/3379
+#EXTINF:-1 tvg-id="zeeusa@0-9-209" tvg-name=" Shemaroo Bollywood Usa HD" tvg-logo="" group-title="HINDI", Shemaroo Bollywood Usa HD
+http://go.justflix.tv:80/client106/strawbees7/870
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Surya Tv Hd  Usa" tvg-logo="" group-title="MALAYALAM",Malayalam | Surya Tv Hd  Usa
+http://go.justflix.tv:80/client106/strawbees7/779
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Surya Movies Hd  Usa" tvg-logo="" group-title="MALAYALAM",Malayalam | Surya Movies Hd  Usa
+http://go.justflix.tv:80/client106/strawbees7/780
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay  Usa" tvg-logo="http://go.justflix.tv/images/india/Nambikkai.png" group-title="TAMIL",Tamil | Star Vijay  Usa
+http://go.justflix.tv:80/client106/strawbees7/280
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Asianet  Usa" tvg-logo="" group-title="MALAYALAM",Malayalam | Asianet  Usa
+http://go.justflix.tv:80/client106/strawbees7/781
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select Usa HD" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="HINDI",Star Gold Select Usa HD
+http://go.justflix.tv:80/client106/strawbees7/909
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Colors Tv  Usa" tvg-logo="http://go.justflix.tv/images/india/Discovery_Kids_Tamil.png" group-title="TAMIL",Tamil | Colors Tv  Usa
+http://go.justflix.tv:80/client106/strawbees7/306
+#EXTINF:-1 tvg-id="hindi_action_movies" tvg-name="Justflix Action HD" tvg-logo="" group-title="HINDI",Justflix Action HD
+http://go.justflix.tv:80/client106/strawbees7/3382
+#EXTINF:-1 tvg-id="hindi_comedy_movies" tvg-name="Justflix Comedy HD" tvg-logo="" group-title="HINDI",Justflix Comedy HD
+http://go.justflix.tv:80/client106/strawbees7/3383
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Justflix Music HD" tvg-logo="" group-title="HINDI",Justflix Music HD
+http://go.justflix.tv:80/client106/strawbees7/214
+#EXTINF:-1 tvg-id="hindi_crime_movies" tvg-name="Justflix Crime HD" tvg-logo="" group-title="HINDI",Justflix Crime HD
+http://go.justflix.tv:80/client106/strawbees7/3384
+#EXTINF:-1 tvg-id="hindi_drama_movies" tvg-name="Justflix Drama HD" tvg-logo="" group-title="HINDI",Justflix Drama HD
+http://go.justflix.tv:80/client106/strawbees7/3385
+#EXTINF:-1 tvg-id="hindi_horror_movies" tvg-name="Justflix Horror HD" tvg-logo="" group-title="HINDI",Justflix Horror HD
+http://go.justflix.tv:80/client106/strawbees7/3386
+#EXTINF:-1 tvg-id="hindi_romance_movies" tvg-name="Justflix Romance HD" tvg-logo="" group-title="HINDI",Justflix Romance HD
+http://go.justflix.tv:80/client106/strawbees7/3387
+#EXTINF:-1 tvg-id="hindi_thriller_movies" tvg-name="Justflix Thriller HD" tvg-logo="" group-title="HINDI",Justflix Thriller HD
+http://go.justflix.tv:80/client106/strawbees7/3388
+#EXTINF:-1 tvg-id="premiere_live" tvg-name="Justflix Premiere HD" tvg-logo="" group-title="HINDI",Justflix Premiere HD
+http://go.justflix.tv:80/client106/strawbees7/3389
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Asianet news " tvg-logo="" group-title="TAMIL",Tamil | Asianet news 
+http://go.justflix.tv:80/client106/strawbees7/283
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Sony BBC Earth HD " tvg-logo="http://go.justflix.tv/images/india/Sony_BBC_Earth_HD_Telugu.png" group-title="TELUGU",Telugu | Sony BBC Earth HD 
+http://go.justflix.tv:80/client106/strawbees7/724
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Sony BBC Earth " tvg-logo="http://go.justflix.tv/images/india/Sony_BBC_Earth_HD_Tamil.png" group-title="TAMIL",Tamil | Sony BBC Earth 
+http://go.justflix.tv:80/client106/strawbees7/277
+#EXTINF:-1 tvg-id="" tvg-name="BBO HD" tvg-logo="" group-title="HINDI",BBO HD
+http://go.justflix.tv:80/client106/strawbees7/158
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Discovery " tvg-logo="http://go.justflix.tv/images/india/Discovery_Channel_Telugu.png" group-title="TELUGU",Telugu | Discovery 
+http://go.justflix.tv:80/client106/strawbees7/700
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | History 18 " tvg-logo="http://go.justflix.tv/images/india/History_18_Telugu.png" group-title="TELUGU",Telugu | History 18 
+http://go.justflix.tv:80/client106/strawbees7/725
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Discovery HD" tvg-logo="" group-title="MALAYALAM",Malayalam | Discovery HD
+http://go.justflix.tv:80/client106/strawbees7/782
+#EXTINF:-1 tvg-id="" tvg-name="Ary Digital PK HD" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUARYFAMILY.png" group-title="URDU",Ary Digital PK HD
+http://go.justflix.tv:80/client106/strawbees7/35
+#EXTINF:-1 tvg-id="" tvg-name="A Sports Pk HD" tvg-logo="http://go.justflix.tv/images/sports/asportshd.png" group-title="SPORTS",A Sports Pk HD
+http://go.justflix.tv:80/client106/strawbees7/960
+#EXTINF:-1 tvg-id="" tvg-name="Ary Digital Usa HD" tvg-logo="http://go.justflix.tv/images/pklogo/PKARYDIGITAL.png" group-title="URDU",Ary Digital Usa HD
+http://go.justflix.tv:80/client106/strawbees7/230
+#EXTINF:-1 tvg-id="" tvg-name="Geo tv Usa HD" tvg-logo="http://go.justflix.tv/images/pklogo/PKGEONEWS.png" group-title="URDU",Geo tv Usa HD
+http://go.justflix.tv:80/client106/strawbees7/952
+#EXTINF:-1 tvg-id="" tvg-name="Hum Tv Usa HD " tvg-logo="http://go.justflix.tv/images/pklogo/PKEUHUMTV.png" group-title="URDU",Hum Tv Usa HD 
+http://go.justflix.tv:80/client106/strawbees7/859
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="HINDI",BBC World
+http://go.justflix.tv:80/client106/strawbees7/852
+#EXTINF:-1 tvg-id="7" tvg-name="Shemaroo Bollywood HD" tvg-logo="" group-title="HINDI",Shemaroo Bollywood HD
+http://go.justflix.tv:80/client106/strawbees7/950
+#EXTINF:-1 tvg-id="ukserver@StarGold.uk" tvg-name="Utsav Gold UK" tvg-logo="http://go.justflix.tv/images/indialogo/INUKUSTAVGOLDHD.png" group-title="HINDI",Utsav Gold UK
+http://go.justflix.tv:80/client106/strawbees7/33
+#EXTINF:-1 tvg-id="ukserver@SonyMax.uk" tvg-name="Sony Max UK" tvg-logo="http://go.justflix.tv:80/images/3djGJGbaPf9Ji443agLY03jmspV60Zm8.png" group-title="HINDI",Sony Max UK
+http://go.justflix.tv:80/client106/strawbees7/34
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Colors Rishtey Europe UK" tvg-logo="" group-title="HINDI",Colors Rishtey Europe UK
+http://go.justflix.tv:80/client106/strawbees7/117
+#EXTINF:-1 tvg-id="" tvg-name="Geo News Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKGEONEWS.png" group-title="URDU",Geo News Pk
+http://go.justflix.tv:80/client106/strawbees7/3358
+#EXTINF:-1 tvg-id=" zeeuk@0-9-zeetvuk" tvg-name="Zee TV Uk HD" tvg-logo="http://go.justflix.tv/images/indialogo/ZeeTvEuropeHD.png" group-title="HINDI",Zee TV Uk HD
+http://go.justflix.tv:80/client106/strawbees7/30
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay Super" tvg-logo="" group-title="TAMIL",Tamil | Star Vijay Super
+http://go.justflix.tv:80/client106/strawbees7/822
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay Music" tvg-logo="" group-title="TAMIL",Tamil | Star Vijay Music
+http://go.justflix.tv:80/client106/strawbees7/293
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select HD" tvg-logo="" group-title="ENGLISH",Star Movies Select HD
+http://go.justflix.tv:80/client106/strawbees7/566
+#EXTINF:-1 tvg-id="" tvg-name="Sony Kal India HD" tvg-logo="" group-title="HINDI",Sony Kal India HD
+http://go.justflix.tv:80/client106/strawbees7/2791
+#EXTINF:-1 tvg-id="" tvg-name="IPL Tamil 4K" tvg-logo="" group-title="SPORTS",IPL Tamil 4K
+http://go.justflix.tv:80/client106/strawbees7/963
+#EXTINF:-1 tvg-id="" tvg-name="IPL ENGLISH 4K" tvg-logo="" group-title="SPORTS",IPL ENGLISH 4K
+http://go.justflix.tv:80/client106/strawbees7/962
+#EXTINF:-1 tvg-id="" tvg-name="IPL Malayalam 4K" tvg-logo="" group-title="SPORTS",IPL Malayalam 4K
+http://go.justflix.tv:80/client106/strawbees7/622
+#EXTINF:-1 tvg-id="" tvg-name="IPL BANGALI" tvg-logo="" group-title="SPORTS",IPL BANGALI
+http://go.justflix.tv:80/client106/strawbees7/955
+#EXTINF:-1 tvg-id="ukserver2@star.plus.gb" tvg-name="Utsav Plus UK HD" tvg-logo="http://go.justflix.tv/images/indialogo/INUKUTSAVPLUS.png" group-title="HINDI",Utsav Plus UK HD
+http://go.justflix.tv:80/client106/strawbees7/36
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1  HD Tamil" tvg-logo="" group-title="TAMIL",Star Sports 1  HD Tamil
+http://go.justflix.tv:80/client106/strawbees7/2588
+#EXTINF:-1 tvg-id="" tvg-name="Samaa News Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKUKSAMAA.png" group-title="URDU",Samaa News Pk
+http://go.justflix.tv:80/client106/strawbees7/3359
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Adithya TV " tvg-logo="http://go.justflix.tv/images/india/Adithya_TV.png" group-title="TAMIL",Tamil | Adithya TV 
+http://go.justflix.tv:80/client106/strawbees7/286
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Asianet sd" tvg-logo="" group-title="MALAYALAM",Malayalam | Asianet sd
+http://go.justflix.tv:80/client106/strawbees7/783
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Star Vijay sd" tvg-logo="" group-title="TAMIL",Tamil | Star Vijay sd
+http://go.justflix.tv:80/client106/strawbees7/784
+#EXTINF:-1 tvg-id=" ukserver2@sony.entertainment.asia.gb" tvg-name="Sony Tv UK" tvg-logo="http://go.justflix.tv/images/indialogo/INUKSONYASIAHD.png" group-title="HINDI",Sony Tv UK
+http://go.justflix.tv:80/client106/strawbees7/46
+#EXTINF:-1 tvg-id="ukserver2@colors.gb" tvg-name="Colors TV UK" tvg-logo="http://go.justflix.tv/images/india/Colors_HD.png" group-title="HINDI",Colors TV UK
+http://go.justflix.tv:80/client106/strawbees7/39
+#EXTINF:-1 tvg-id="ukserver@StarBharat.uk" tvg-name="Utsav Bharat Uk" tvg-logo="http://go.justflix.tv/images/indialogo/HINDIUTSAVBHARATHD.png" group-title="HINDI",Utsav Bharat Uk
+http://go.justflix.tv:80/client106/strawbees7/51
+#EXTINF:-1 tvg-id="" tvg-name="& Tv UK" tvg-logo="http://go.justflix.tv/images/india/And_TV_HD.png" group-title="HINDI",& Tv UK
+http://go.justflix.tv:80/client106/strawbees7/155
+#EXTINF:-1 tvg-id="ukserver@SONYSAB.uk" tvg-name="Sony Sab UK" tvg-logo="http://go.justflix.tv/images/indialogo/SonySabIndiaHD.png" group-title="HINDI",Sony Sab UK
+http://go.justflix.tv:80/client106/strawbees7/45
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pal India" tvg-logo="http://go.justflix.tv/images/india/Sony_Pal.png" group-title="HINDI",Sony Pal India
+http://go.justflix.tv:80/client106/strawbees7/96
+#EXTINF:-1 tvg-id="zeeindia@0-9-zeeanmol" tvg-name="Zee Anmol India" tvg-logo="http://go.justflix.tv/images/india/Zee_Anmol_Cinema.png" group-title="HINDI",Zee Anmol India
+http://go.justflix.tv:80/client106/strawbees7/193
+#EXTINF:-1 tvg-id="zeeuk@0-9-zeecinemauk" tvg-name="Zee cinema UK" tvg-logo="http://go.justflix.tv/images/india/Zee_Cinema_HD.png" group-title="HINDI",Zee cinema UK
+http://go.justflix.tv:80/client106/strawbees7/31
+#EXTINF:-1 tvg-id="ukserver@RishteyCineplex.uk" tvg-name="Colors CinePlex UK" tvg-logo="http://go.justflix.tv/images/indialogo/INUKCOLORSCINEPLEX.png" group-title="HINDI",Colors CinePlex UK
+http://go.justflix.tv:80/client106/strawbees7/37
+#EXTINF:-1 tvg-id="" tvg-name="Republic Tv News India" tvg-logo="http://go.justflix.tv/images/india/Republic_TV.png" group-title="HINDI",Republic Tv News India
+http://go.justflix.tv:80/client106/strawbees7/887
+#EXTINF:-1 tvg-id="ukserver@B4UMovies.uk" tvg-name="B4u Movies UK" tvg-logo="http://go.justflix.tv/images/indialogo/INUKB4UPLUS.png" group-title="HINDI",B4u Movies UK
+http://go.justflix.tv:80/client106/strawbees7/48
+#EXTINF:-1 tvg-id="" tvg-name="Little Treehouse Nursery" tvg-logo="" group-title="CARTOON",Little Treehouse Nursery
+http://go.justflix.tv:80/client106/strawbees7/893
+#EXTINF:-1 tvg-id="" tvg-name="Wion News India" tvg-logo="http://go.justflix.tv/images/india/Wion.png" group-title="HINDI",Wion News India
+http://go.justflix.tv:80/client106/strawbees7/892
+#EXTINF:-1 tvg-id="" tvg-name="News24 India" tvg-logo="http://go.justflix.tv/images/india/Republic_TV.png" group-title="HINDI",News24 India
+http://go.justflix.tv:80/client106/strawbees7/890
+#EXTINF:-1 tvg-id="" tvg-name="Abp News HD" tvg-logo="http://go.justflix.tv/images/india/ABP_News_India.png" group-title="HINDI",Abp News HD
+http://go.justflix.tv:80/client106/strawbees7/891
+#EXTINF:-1 tvg-id="" tvg-name="Filmachi India" tvg-logo="" group-title="HINDI",Filmachi India
+http://go.justflix.tv:80/client106/strawbees7/378
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Tv India" tvg-logo="" group-title="HINDI",Cinema Tv India
+http://go.justflix.tv:80/client106/strawbees7/143
+#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol Cinema India" tvg-logo="http://go.justflix.tv/images/india/Zee_Anmol_Cinema.png" group-title="HINDI",Zee Anmol Cinema India
+http://go.justflix.tv:80/client106/strawbees7/194
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action India" tvg-logo="http://go.justflix.tv/images/india/Zee_Action.png" group-title="HINDI",Zee Action India
+http://go.justflix.tv:80/client106/strawbees7/29
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bollywood India" tvg-logo="" group-title="HINDI",Zee Bollywood India
+http://go.justflix.tv:80/client106/strawbees7/142
+#EXTINF:-1 tvg-id="" tvg-name="Sony wah India" tvg-logo="" group-title="HINDI",Sony wah India
+http://go.justflix.tv:80/client106/strawbees7/233
+#EXTINF:-1 tvg-id="" tvg-name="Fox life India" tvg-logo="http://go.justflix.tv/images/indialogo/HINDIFOXLIFEHD.png" group-title="HINDI",Fox life India
+http://go.justflix.tv:80/client106/strawbees7/159
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Zing Music UK" tvg-logo="http://go.justflix.tv/images/india/Zing.png" group-title="HINDI",Zing Music UK
+http://go.justflix.tv:80/client106/strawbees7/112
+#EXTINF:-1 tvg-id="" tvg-name="B4u Music UK" tvg-logo="http://go.justflix.tv/images/india/B4U_Music.png" group-title="HINDI",B4u Music UK
+http://go.justflix.tv:80/client106/strawbees7/116
+#EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="http://go.justflix.tv/images/india/Music_India.png" group-title="HINDI",Music India
+http://go.justflix.tv:80/client106/strawbees7/113
+#EXTINF:-1 tvg-id="" tvg-name="Brit Asia UK" tvg-logo="http://go.justflix.tv/images/indialogo/INUKBRITASIATV.png" group-title="HINDI",Brit Asia UK
+http://go.justflix.tv:80/client106/strawbees7/91
+#EXTINF:-1 tvg-id="" tvg-name="Mtv India" tvg-logo="http://go.justflix.tv/images/india/MTV.png" group-title="HINDI",Mtv India
+http://go.justflix.tv:80/client106/strawbees7/140
+#EXTINF:-1 tvg-id="" tvg-name="Masti Music India" tvg-logo="http://go.justflix.tv/images/india/Mastiii.png" group-title="HINDI",Masti Music India
+http://go.justflix.tv:80/client106/strawbees7/134
+#EXTINF:-1 tvg-id="" tvg-name="9XM Music India" tvg-logo="http://go.justflix.tv/images/india/9XM.png" group-title="HINDI",9XM Music India
+http://go.justflix.tv:80/client106/strawbees7/86
+#EXTINF:-1 tvg-id="" tvg-name="9X Jalwa India" tvg-logo="http://go.justflix.tv/images/india/9X_Jalwa.png" group-title="HINDI",9X Jalwa India
+http://go.justflix.tv:80/client106/strawbees7/85
+#EXTINF:-1 tvg-id="" tvg-name="E 24 India" tvg-logo="http://go.justflix.tv/images/india/E_24.png" group-title="HINDI",E 24 India
+http://go.justflix.tv:80/client106/strawbees7/197
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV - Nursery" tvg-logo="" group-title="CARTOON",Kids TV - Nursery
+http://go.justflix.tv:80/client106/strawbees7/864
+#EXTINF:-1 tvg-id="ukserver@AryFamily.uk" tvg-name="Ary Digital UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUARYFAMILY.png" group-title="URDU",Ary Digital UK
+http://go.justflix.tv:80/client106/strawbees7/881
+#EXTINF:-1 tvg-id="ukserver@GEOTV.uk" tvg-name="Geo Tv UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUGEOTV.png" group-title="URDU",Geo Tv UK
+http://go.justflix.tv:80/client106/strawbees7/47
+#EXTINF:-1 tvg-id="" tvg-name="Geo Kahani UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUGEOKAHANI.png" group-title="URDU",Geo Kahani UK
+http://go.justflix.tv:80/client106/strawbees7/23
+#EXTINF:-1 tvg-id="ukserver@HUM-EUROPE.uk" tvg-name="Hum Tv UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUHUMTV.png" group-title="URDU",Hum Tv UK
+http://go.justflix.tv:80/client106/strawbees7/50
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Urdu 1" tvg-logo="" group-title="URDU",Urdu 1
+http://go.justflix.tv:80/client106/strawbees7/11
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="A Plus" tvg-logo="http://go.justflix.tv/images/pklogo/PKAPLUS.png" group-title="URDU",A Plus
+http://go.justflix.tv:80/client106/strawbees7/4
+#EXTINF:-1 tvg-id="" tvg-name="News One PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKNEWSONE.png" group-title="URDU",News One PK
+http://go.justflix.tv:80/client106/strawbees7/213
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Hum Tv PK HD" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUHUMTV.png" group-title="URDU",Hum Tv PK HD
+http://go.justflix.tv:80/client106/strawbees7/17
+#EXTINF:-1 tvg-id="" tvg-name="Hum Masala UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUHUMMASALA.png" group-title="URDU",Hum Masala UK
+http://go.justflix.tv:80/client106/strawbees7/10
+#EXTINF:-1 tvg-id="" tvg-name="Hum Sitaray PK" tvg-logo="http://go.justflix.tv/images/indialogo/PKHUMSITARY.png" group-title="URDU",Hum Sitaray PK
+http://go.justflix.tv:80/client106/strawbees7/9
+#EXTINF:-1 tvg-id="" tvg-name="Ary Zindagi PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKARYZINDAGI.png" group-title="URDU",Ary Zindagi PK
+http://go.justflix.tv:80/client106/strawbees7/3
+#EXTINF:-1 tvg-id="" tvg-name="Lahore News Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKLAHORENEWSHD.png" group-title="URDU",Lahore News Pk
+http://go.justflix.tv:80/client106/strawbees7/5
+#EXTINF:-1 tvg-id="" tvg-name="Kay 2" tvg-logo="http://go.justflix.tv/images/pklogo/PKKAY2.png" group-title="URDU",Kay 2
+http://go.justflix.tv:80/client106/strawbees7/209
+#EXTINF:-1 tvg-id="" tvg-name="Tv One PK" tvg-logo="" group-title="URDU",Tv One PK
+http://go.justflix.tv:80/client106/strawbees7/14
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Colors Rishtey Asia India" tvg-logo="" group-title="HINDI",Colors Rishtey Asia India
+http://go.justflix.tv:80/client106/strawbees7/13
+#EXTINF:-1 tvg-id="" tvg-name="Express Enterterment PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEXPRESSENTERTINMENT.png" group-title="URDU",Express Enterterment PK
+http://go.justflix.tv:80/client106/strawbees7/7
+#EXTINF:-1 tvg-id="" tvg-name="Bol Entertainment PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKBOLENTERTAINMENT.png" group-title="URDU",Bol Entertainment PK
+http://go.justflix.tv:80/client106/strawbees7/16
+#EXTINF:-1 tvg-id="" tvg-name="ATV PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKATVENTERTAINMENT.png" group-title="URDU",ATV PK
+http://go.justflix.tv:80/client106/strawbees7/208
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Ptv Home" tvg-logo="http://go.justflix.tv/images/pklogo/PKPTVHOME.png" group-title="URDU",Ptv Home
+http://go.justflix.tv:80/client106/strawbees7/111
+#EXTINF:-1 tvg-id="" tvg-name="City 41 News Pk" tvg-logo="" group-title="URDU",City 41 News Pk
+http://go.justflix.tv:80/client106/strawbees7/20
+#EXTINF:-1 tvg-id="" tvg-name="Khyber Tv PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKAVTKHYBER.png" group-title="URDU",Khyber Tv PK
+http://go.justflix.tv:80/client106/strawbees7/19
+#EXTINF:-1 tvg-id="" tvg-name="Peace Tv English" tvg-logo="" group-title="URDU",Peace Tv English
+http://go.justflix.tv:80/client106/strawbees7/211
+#EXTINF:-1 tvg-id=" ukserver@GEONews.uk" tvg-name="Geo News UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUGEONEWS.png" group-title="URDU",Geo News UK
+http://go.justflix.tv:80/client106/strawbees7/42
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Duniya News UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUDUNYANEWS.png" group-title="URDU",Duniya News UK
+http://go.justflix.tv:80/client106/strawbees7/49
+#EXTINF:-1 tvg-id="" tvg-name="Sab Tv Pk" tvg-logo="" group-title="URDU",Sab Tv Pk
+http://go.justflix.tv:80/client106/strawbees7/225
+#EXTINF:-1 tvg-id="" tvg-name="Ary World UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKARYNEWS.png" group-title="URDU",Ary World UK
+http://go.justflix.tv:80/client106/strawbees7/224
+#EXTINF:-1 tvg-id="" tvg-name="Ary News PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKARYNEWS.png" group-title="URDU",Ary News PK
+http://go.justflix.tv:80/client106/strawbees7/43
+#EXTINF:-1 tvg-id="" tvg-name="Geo Tez" tvg-logo="" group-title="URDU",Geo Tez
+http://go.justflix.tv:80/client106/strawbees7/41
+#EXTINF:-1 tvg-id="" tvg-name="Dawn news PK" tvg-logo="" group-title="URDU",Dawn news PK
+http://go.justflix.tv:80/client106/strawbees7/12
+#EXTINF:-1 tvg-id="" tvg-name="Gnn New Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKGNNNEWS.png" group-title="URDU",Gnn New Pk
+http://go.justflix.tv:80/client106/strawbees7/1
+#EXTINF:-1 tvg-id="" tvg-name="Lahore Rang Pk" tvg-logo="http://go.justflix.tv/images/pklogo/lahorerang.png" group-title="URDU",Lahore Rang Pk
+http://go.justflix.tv:80/client106/strawbees7/210
+#EXTINF:-1 tvg-id="" tvg-name="Express News PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEXPRESSNEWS.png" group-title="URDU",Express News PK
+http://go.justflix.tv:80/client106/strawbees7/6
+#EXTINF:-1 tvg-id="" tvg-name="92 News UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEU92NEWS.png" group-title="URDU",92 News UK
+http://go.justflix.tv:80/client106/strawbees7/15
+#EXTINF:-1 tvg-id="" tvg-name="Aaj News PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKAAJNEWS.png" group-title="URDU",Aaj News PK
+http://go.justflix.tv:80/client106/strawbees7/2
+#EXTINF:-1 tvg-id="" tvg-name="Bol News PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKBOLNEWSHD.png" group-title="URDU",Bol News PK
+http://go.justflix.tv:80/client106/strawbees7/212
+#EXTINF:-1 tvg-id="" tvg-name="Ptv News UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKPTVNEWS.png" group-title="URDU",Ptv News UK
+http://go.justflix.tv:80/client106/strawbees7/110
+#EXTINF:-1 tvg-id="" tvg-name="Khyber News PK" tvg-logo="" group-title="URDU",Khyber News PK
+http://go.justflix.tv:80/client106/strawbees7/18
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="NDTV News UK" tvg-logo="http://go.justflix.tv/images/india/NDTV_India.png" group-title="HINDI",NDTV News UK
+http://go.justflix.tv:80/client106/strawbees7/87
+#EXTINF:-1 tvg-id="" tvg-name="NDTV News India" tvg-logo="http://go.justflix.tv:80/images/fqCZ0QAv7tJ4MAg6w4U2MQxSlKbDaf9Y.png" group-title="HINDI",NDTV News India
+http://go.justflix.tv:80/client106/strawbees7/178
+#EXTINF:-1 tvg-id="" tvg-name="Zee News India" tvg-logo="http://go.justflix.tv/images/india/Zee_News.png" group-title="HINDI",Zee News India
+http://go.justflix.tv:80/client106/strawbees7/107
+#EXTINF:-1 tvg-id="" tvg-name="BIGBOSS" tvg-logo="" group-title="HINDI",BIGBOSS
+http://go.justflix.tv:80/client106/strawbees7/114
+#EXTINF:-1 tvg-id="" tvg-name="Tv9 India India" tvg-logo="" group-title="HINDI",Tv9 India India
+http://go.justflix.tv:80/client106/strawbees7/172
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Tak News UK" tvg-logo="http://go.justflix.tv/images/india/Aaj_Tak.png" group-title="HINDI",Aaj Tak News UK
+http://go.justflix.tv:80/client106/strawbees7/115
+#EXTINF:-1 tvg-id="" tvg-name="Tez News" tvg-logo="http://go.justflix.tv/images/india/Tez.png" group-title="HINDI",Tez News
+http://go.justflix.tv:80/client106/strawbees7/195
+#EXTINF:-1 tvg-id="" tvg-name="India Today TV India" tvg-logo="http://go.justflix.tv/images/india/Live_Today.png" group-title="HINDI",India Today TV India
+http://go.justflix.tv:80/client106/strawbees7/215
+#EXTINF:-1 tvg-id="" tvg-name="News 18 India" tvg-logo="" group-title="HINDI",News 18 India
+http://go.justflix.tv:80/client106/strawbees7/866
+#EXTINF:-1 tvg-id="" tvg-name="Ndtv Profit India" tvg-logo="http://go.justflix.tv/images/india/NDTV_Profit.png" group-title="HINDI",Ndtv Profit India
+http://go.justflix.tv:80/client106/strawbees7/865
+#EXTINF:-1 tvg-id="" tvg-name="Zee Business India" tvg-logo="http://go.justflix.tv/images/india/News_Nation.png" group-title="HINDI",Zee Business India
+http://go.justflix.tv:80/client106/strawbees7/867
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Times Now India" tvg-logo="http://go.justflix.tv/images/india/Times_Now_HD.png" group-title="HINDI",Times Now India
+http://go.justflix.tv:80/client106/strawbees7/132
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  Anandabarta" tvg-logo="http://go.justflix.tv/images/india/Mh_One_News.png" group-title="PUNJABI",|Punjabi|  Anandabarta
+http://go.justflix.tv:80/client106/strawbees7/94
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Ary Qtv UK" tvg-logo="" group-title="URDU",Ary Qtv UK
+http://go.justflix.tv:80/client106/strawbees7/44
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Takbeer TV UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUTAKBEER.png" group-title="URDU",Takbeer TV UK
+http://go.justflix.tv:80/client106/strawbees7/38
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Madni Channel UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUMADANICHANNEL.png" group-title="URDU",Madni Channel UK
+http://go.justflix.tv:80/client106/strawbees7/109
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Peace Tv Urdu UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUPEACETV.png" group-title="URDU",Peace Tv Urdu UK
+http://go.justflix.tv:80/client106/strawbees7/104
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Noor Tv UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUNOORTV.png" group-title="URDU",Noor Tv UK
+http://go.justflix.tv:80/client106/strawbees7/76
+#EXTINF:-1 tvg-id="" tvg-name="Minhaj Tv PK" tvg-logo="" group-title="URDU",Minhaj Tv PK
+http://go.justflix.tv:80/client106/strawbees7/68
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Iqra Tv UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUIQRATV.png" group-title="URDU",Iqra Tv UK
+http://go.justflix.tv:80/client106/strawbees7/69
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="http://go.justflix.tv/images/pklogo/PKSAUDISUNNAH.png" group-title="URDU",Saudi Sunnah
+http://go.justflix.tv:80/client106/strawbees7/66
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Quran" tvg-logo="http://go.justflix.tv/images/pklogo/PKSAUDISUNNAH.png" group-title="URDU",Saudi Quran
+http://go.justflix.tv:80/client106/strawbees7/170
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Madini Tv" tvg-logo="" group-title="URDU",Madini Tv
+http://go.justflix.tv:80/client106/strawbees7/52
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Hidayat Tv UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKhidayattv.png" group-title="URDU",Hidayat Tv UK
+http://go.justflix.tv:80/client106/strawbees7/54
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Ahlulbayt Tv UK" tvg-logo="http://go.justflix.tv/images/pklogo/PKAHLEBAITTV.png" group-title="URDU",Ahlulbayt Tv UK
+http://go.justflix.tv:80/client106/strawbees7/53
+#EXTINF:-1 tvg-id="AasthaUK" tvg-name="Aastha UK" tvg-logo="http://go.justflix.tv/images/india/Aastha.png" group-title="HINDI",Aastha UK
+http://go.justflix.tv:80/client106/strawbees7/67
+#EXTINF:-1 tvg-id="" tvg-name="SuperHits" tvg-logo="" group-title="HINDI",SuperHits
+http://go.justflix.tv:80/client106/strawbees7/131
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Discovery India HD" tvg-logo="http://go.justflix.tv/images/india/Discovery_Channel_Hindi.png" group-title="HINDI",Discovery India HD
+http://go.justflix.tv:80/client106/strawbees7/136
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Surya Movies " tvg-logo="http://go.justflix.tv/images/indialogo/MALSURYAMOVIES.png" group-title="MALAYALAM",Malayalam | Surya Movies 
+http://go.justflix.tv:80/client106/strawbees7/772
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Surya Comedy " tvg-logo="http://go.justflix.tv/images/indialogo/MALSURYACOMEDY	.png" group-title="MALAYALAM",Malayalam | Surya Comedy 
+http://go.justflix.tv:80/client106/strawbees7/773
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Manorama News " tvg-logo="http://go.justflix.tv/images/india/Manorama_News.jpg" group-title="MALAYALAM",Malayalam | Manorama News 
+http://go.justflix.tv:80/client106/strawbees7/755
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Shalom TV " tvg-logo="http://go.justflix.tv/images/india/Shalom.png" group-title="MALAYALAM",Malayalam | Shalom TV 
+http://go.justflix.tv:80/client106/strawbees7/763
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Raj News " tvg-logo="http://go.justflix.tv/images/indialogo/MALRAJNEWS.png" group-title="MALAYALAM",Malayalam | Raj News 
+http://go.justflix.tv:80/client106/strawbees7/754
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Raj Musix " tvg-logo="http://go.justflix.tv/images/indialogo/MALRAJMUSIC.png" group-title="MALAYALAM",Malayalam | Raj Musix 
+http://go.justflix.tv:80/client106/strawbees7/753
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Asianet News " tvg-logo="http://go.justflix.tv/images/india/Raj_Music_Malayalam.png" group-title="MALAYALAM",Malayalam | Asianet News 
+http://go.justflix.tv:80/client106/strawbees7/752
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Jeevan Tv " tvg-logo="http://go.justflix.tv/images/india/Jeevan_TV.png" group-title="MALAYALAM",Malayalam | Jeevan Tv 
+http://go.justflix.tv:80/client106/strawbees7/770
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | News 18 " tvg-logo="http://go.justflix.tv/images/indialogo/MALNEWS18KERALA.png" group-title="MALAYALAM",Malayalam | News 18 
+http://go.justflix.tv:80/client106/strawbees7/764
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Media One " tvg-logo="http://go.justflix.tv/images/india/Media_One_TV.png" group-title="MALAYALAM",Malayalam | Media One 
+http://go.justflix.tv:80/client106/strawbees7/751
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | DD " tvg-logo="http://go.justflix.tv/images/india/News_24.png" group-title="MALAYALAM",Malayalam | DD 
+http://go.justflix.tv:80/client106/strawbees7/756
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Mathrubhumi News " tvg-logo="http://go.justflix.tv/images/indialogo/MALMATHRUBHUMINEWS.png" group-title="MALAYALAM",Malayalam | Mathrubhumi News 
+http://go.justflix.tv:80/client106/strawbees7/750
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Kaumudy " tvg-logo="http://go.justflix.tv/images/indialogo/MALKAUMUDY.png" group-title="MALAYALAM",Malayalam | Kaumudy 
+http://go.justflix.tv:80/client106/strawbees7/749
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Reporter TV " tvg-logo="" group-title="MALAYALAM",Malayalam | Reporter TV 
+http://go.justflix.tv:80/client106/strawbees7/748
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Kairali TV " tvg-logo="http://go.justflix.tv/images/india/Kairali_TV.png" group-title="MALAYALAM",Malayalam | Kairali TV 
+http://go.justflix.tv:80/client106/strawbees7/761
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | People TV " tvg-logo="" group-title="MALAYALAM",Malayalam | People TV 
+http://go.justflix.tv:80/client106/strawbees7/760
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Janam TV " tvg-logo="http://go.justflix.tv/images/india/Janam_TV.png" group-title="MALAYALAM",Malayalam | Janam TV 
+http://go.justflix.tv:80/client106/strawbees7/759
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Jaihind TV " tvg-logo="http://go.justflix.tv/images/india/Jaihind_tv.png" group-title="MALAYALAM",Malayalam | Jaihind TV 
+http://go.justflix.tv:80/client106/strawbees7/758
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Harvest TV " tvg-logo="" group-title="MALAYALAM",Malayalam | Harvest TV 
+http://go.justflix.tv:80/client106/strawbees7/747
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | News 24 " tvg-logo="http://go.justflix.tv/images/india/News_24.png" group-title="MALAYALAM",Malayalam | News 24 
+http://go.justflix.tv:80/client106/strawbees7/757
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Flowers TV " tvg-logo="http://go.justflix.tv/images/indialogo/MALFLOWERSTV.png" group-title="MALAYALAM",Malayalam | Flowers TV 
+http://go.justflix.tv:80/client106/strawbees7/746
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Surya Music  HD" tvg-logo="http://go.justflix.tv/images/india/Surya_Music.png" group-title="MALAYALAM",Malayalam | Surya Music  HD
+http://go.justflix.tv:80/client106/strawbees7/766
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Amrita " tvg-logo="http://go.justflix.tv/images/indialogo/MALAMRITHATV.png" group-title="MALAYALAM",Malayalam | Amrita 
+http://go.justflix.tv:80/client106/strawbees7/745
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Zee " tvg-logo="http://go.justflix.tv/images/india/Zee_Telugu.png" group-title="TELUGU",Telugu | Zee 
+http://go.justflix.tv:80/client106/strawbees7/713
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Zee Telungu" tvg-logo="http://go.justflix.tv/images/india/Zee_Telugu.png" group-title="TELUGU",Telugu | Zee Telungu
+http://go.justflix.tv:80/client106/strawbees7/715
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Zee Cinema alu " tvg-logo="" group-title="TELUGU",Telugu | Zee Cinema alu 
+http://go.justflix.tv:80/client106/strawbees7/714
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Vissa TV " tvg-logo="http://go.justflix.tv/images/india/Vissa_TV.png" group-title="TELUGU",Telugu | Vissa TV 
+http://go.justflix.tv:80/client106/strawbees7/711
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | V6 News " tvg-logo="http://go.justflix.tv/images/india/V6_News.png" group-title="TELUGU",Telugu | V6 News 
+http://go.justflix.tv:80/client106/strawbees7/710
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Unitech TV " tvg-logo="http://go.justflix.tv/images/india/V6_News.png" group-title="TELUGU",Telugu | Unitech TV 
+http://go.justflix.tv:80/client106/strawbees7/709
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | TV9 " tvg-logo="http://go.justflix.tv/images/india/TV9_Telugu_News.png" group-title="TELUGU",Telugu | TV9 
+http://go.justflix.tv:80/client106/strawbees7/708
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | TV5 " tvg-logo="" group-title="TELUGU",Telugu | TV5 
+http://go.justflix.tv:80/client106/strawbees7/707
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Thanthi TV " tvg-logo="http://go.justflix.tv/images/india/Thanthi_TV.png" group-title="TELUGU",Telugu | Thanthi TV 
+http://go.justflix.tv:80/client106/strawbees7/706
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Telungu " tvg-logo="" group-title="TELUGU",Telugu | Telungu 
+http://go.justflix.tv:80/client106/strawbees7/705
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | T News " tvg-logo="" group-title="TELUGU",Telugu | T News 
+http://go.justflix.tv:80/client106/strawbees7/704
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Zee Thirai " tvg-logo="" group-title="TAMIL",Tamil | Zee Thirai 
+http://go.justflix.tv:80/client106/strawbees7/703
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Subhavaartha TV " tvg-logo="http://go.justflix.tv/images/india/Subhavartha_TV.png" group-title="TELUGU",Telugu | Subhavaartha TV 
+http://go.justflix.tv:80/client106/strawbees7/702
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Sirippoli " tvg-logo="" group-title="TELUGU",Telugu | Sirippoli 
+http://go.justflix.tv:80/client106/strawbees7/701
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Seithigal 24x7 " tvg-logo="" group-title="TELUGU",Telugu | Seithigal 24x7 
+http://go.justflix.tv:80/client106/strawbees7/699
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Sakshi TV " tvg-logo="http://go.justflix.tv/images/india/Sakshi_tv.png" group-title="TELUGU",Telugu | Sakshi TV 
+http://go.justflix.tv:80/client106/strawbees7/698
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Raj News " tvg-logo="http://go.justflix.tv/images/india/Raj_News_Telugu.png" group-title="TELUGU",Telugu | Raj News 
+http://go.justflix.tv:80/client106/strawbees7/697
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Raj Musix " tvg-logo="" group-title="TELUGU",Telugu | Raj Musix 
+http://go.justflix.tv:80/client106/strawbees7/696
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Puthiya Thalamurai " tvg-logo="http://go.justflix.tv/images/india/Puthiya_Thalimurai.png" group-title="TELUGU",Telugu | Puthiya Thalamurai 
+http://go.justflix.tv:80/client106/strawbees7/695
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Power Vision " tvg-logo="" group-title="TELUGU",Telugu | Power Vision 
+http://go.justflix.tv:80/client106/strawbees7/694
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Om Spiritual " tvg-logo="http://go.justflix.tv/images/india/CVR_OM_Spiritual.png" group-title="TELUGU",Telugu | Om Spiritual 
+http://go.justflix.tv:80/client106/strawbees7/693
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Naaptol " tvg-logo="" group-title="TELUGU",Telugu | Naaptol 
+http://go.justflix.tv:80/client106/strawbees7/691
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Kushi TV " tvg-logo="http://go.justflix.tv/images/india/Kushi_TV.png" group-title="TELUGU",Telugu | Kushi TV 
+http://go.justflix.tv:80/client106/strawbees7/690
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Kalingar " tvg-logo="" group-title="TAMIL",Tamil | Kalingar 
+http://go.justflix.tv:80/client106/strawbees7/689
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gemini Movies  Uk" tvg-logo="http://go.justflix.tv/images/indialogo/TELUGUGEMINIMOVIESHD.png" group-title="TELUGU",Telugu | Gemini Movies  Uk
+http://go.justflix.tv:80/client106/strawbees7/688
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gemini Tv  Uk" tvg-logo="http://go.justflix.tv/images/indialogo/TELUGUGEMINIHDâ—‰.png" group-title="TELUGU",Telugu | Gemini Tv  Uk
+http://go.justflix.tv:80/client106/strawbees7/687
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gemini Life  Uk" tvg-logo="" group-title="TELUGU",Telugu | Gemini Life  Uk
+http://go.justflix.tv:80/client106/strawbees7/686
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Jaya Max " tvg-logo="http://go.justflix.tv/images/india/Jaya_Max.png" group-title="TELUGU",Telugu | Jaya Max 
+http://go.justflix.tv:80/client106/strawbees7/685
+#EXTINF:-1 tvg-id="" tvg-name="Tamil| Isaiaruvi" tvg-logo="" group-title="TELUGU",Tamil| Isaiaruvi
+http://go.justflix.tv:80/client106/strawbees7/674
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gyana Yogi " tvg-logo="" group-title="TELUGU",Telugu | Gyana Yogi 
+http://go.justflix.tv:80/client106/strawbees7/684
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gemini Comedy " tvg-logo="http://go.justflix.tv/images/india/Gemini_Comedy.png" group-title="TELUGU",Telugu | Gemini Comedy 
+http://go.justflix.tv:80/client106/strawbees7/683
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | DD Yadagiri " tvg-logo="" group-title="TELUGU",Telugu | DD Yadagiri 
+http://go.justflix.tv:80/client106/strawbees7/682
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Gemini News " tvg-logo="" group-title="TELUGU",Telugu | Gemini News 
+http://go.justflix.tv:80/client106/strawbees7/730
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | DD Saptagiri " tvg-logo="http://go.justflix.tv/images/india/DD_Saptagiri.png" group-title="TELUGU",Telugu | DD Saptagiri 
+http://go.justflix.tv:80/client106/strawbees7/681
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | CVR News " tvg-logo="http://go.justflix.tv/images/india/CVR_News.png" group-title="TELUGU",Telugu | CVR News 
+http://go.justflix.tv:80/client106/strawbees7/680
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | CVR Health " tvg-logo="http://go.justflix.tv/images/india/CVR_Health.png" group-title="TELUGU",Telugu | CVR Health 
+http://go.justflix.tv:80/client106/strawbees7/679
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Bhakti TV " tvg-logo="http://go.justflix.tv/images/india/Bhakti_TV.png" group-title="TELUGU",Telugu | Bhakti TV 
+http://go.justflix.tv:80/client106/strawbees7/678
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Aradana TV " tvg-logo="http://go.justflix.tv/images/india/Aradhana_TV.png" group-title="TELUGU",Telugu | Aradana TV 
+http://go.justflix.tv:80/client106/strawbees7/677
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | Kalaignar Murasu" tvg-logo="http://go.justflix.tv/images/india/Sony_Yay_Telugu.png" group-title="TELUGU",Telugu | Kalaignar Murasu
+http://go.justflix.tv:80/client106/strawbees7/729
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | ABN News " tvg-logo="" group-title="TELUGU",Telugu | ABN News 
+http://go.justflix.tv:80/client106/strawbees7/676
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | 10 TV " tvg-logo="http://go.justflix.tv/images/india/10_TV.png" group-title="TELUGU",Telugu | 10 TV 
+http://go.justflix.tv:80/client106/strawbees7/675
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Jaya Movie " tvg-logo="" group-title="TAMIL",Tamil | Jaya Movie 
+http://go.justflix.tv:80/client106/strawbees7/307
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Jaya Plus " tvg-logo="http://go.justflix.tv/images/india/Jaya_Plus.png" group-title="TAMIL",Tamil | Jaya Plus 
+http://go.justflix.tv:80/client106/strawbees7/304
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | JAYA TV " tvg-logo="http://go.justflix.tv/images/india/Jaya_TV_HD.png" group-title="TAMIL",Tamil | JAYA TV 
+http://go.justflix.tv:80/client106/strawbees7/305
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Jaya Max " tvg-logo="http://go.justflix.tv/images/india/Jaya_Max.png" group-title="TAMIL",Tamil | Jaya Max 
+http://go.justflix.tv:80/client106/strawbees7/309
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Raj News 24x7 " tvg-logo="http://go.justflix.tv/images/india/Raj_News_24x7.png" group-title="TAMIL",Tamil | Raj News 24x7 
+http://go.justflix.tv:80/client106/strawbees7/297
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Raj TV " tvg-logo="http://go.justflix.tv/images/india/Raj_TV.png" group-title="TAMIL",Tamil | Raj TV 
+http://go.justflix.tv:80/client106/strawbees7/298
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Sun Tv HD  Usa" tvg-logo="http://go.justflix.tv/images/indialogo/TAMILSUNTVHDâ—‰.png" group-title="TAMIL",Tamil | Sun Tv HD  Usa
+http://go.justflix.tv:80/client106/strawbees7/861
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Raj Digital Plus " tvg-logo="http://go.justflix.tv/images/india/Raj_Digital_Plus.png" group-title="TAMIL",Tamil | Raj Digital Plus 
+http://go.justflix.tv:80/client106/strawbees7/301
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Vasanth TV " tvg-logo="http://go.justflix.tv/images/india/Vasanth_TV.png" group-title="TAMIL",Tamil | Vasanth TV 
+http://go.justflix.tv:80/client106/strawbees7/289
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Thanthi News " tvg-logo="http://go.justflix.tv/images/india/Thanthi_TV.png" group-title="TAMIL",Tamil | Thanthi News 
+http://go.justflix.tv:80/client106/strawbees7/291
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Raj Musix " tvg-logo="http://go.justflix.tv/images/indialogo/TAMILRAJMUSIX.png" group-title="TAMIL",Tamil | Raj Musix 
+http://go.justflix.tv:80/client106/strawbees7/300
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Angel TV " tvg-logo="http://go.justflix.tv/images/india/Angel_TV_HD.png" group-title="TAMIL",Tamil | Angel TV 
+http://go.justflix.tv:80/client106/strawbees7/303
+#EXTINF:-1 tvg-id="" tvg-name="Tamil |  vision TV" tvg-logo="" group-title="TAMIL",Tamil |  vision TV
+http://go.justflix.tv:80/client106/strawbees7/241
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Ktv HD  Usa" tvg-logo="http://go.justflix.tv/images/indialogo/TAMILKTVHD.png" group-title="TAMIL",Tamil | Ktv HD  Usa
+http://go.justflix.tv:80/client106/strawbees7/270
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | PUTHIYA THALAIMURAI" tvg-logo="" group-title="TAMIL",Tamil | PUTHIYA THALAIMURAI
+http://go.justflix.tv:80/client106/strawbees7/271
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Polimer " tvg-logo="http://go.justflix.tv/images/india/Polimer_TV.png" group-title="TAMIL",Tamil | Polimer 
+http://go.justflix.tv:80/client106/strawbees7/302
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | News 7 " tvg-logo="http://go.justflix.tv/images/india/Prameya_News_7.png" group-title="TAMIL",Tamil | News 7 
+http://go.justflix.tv:80/client106/strawbees7/279
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Peppers " tvg-logo="http://go.justflix.tv/images/india/Peppers_TV.png" group-title="TAMIL",Tamil | Peppers 
+http://go.justflix.tv:80/client106/strawbees7/275
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Makkal Tv " tvg-logo="" group-title="TAMIL",Tamil | Makkal Tv 
+http://go.justflix.tv:80/client106/strawbees7/284
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Travel XP " tvg-logo="" group-title="TAMIL",Tamil | Travel XP 
+http://go.justflix.tv:80/client106/strawbees7/285
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | News 18 " tvg-logo="http://go.justflix.tv/images/india/News_18_Tamilnadu.png" group-title="TAMIL",Tamil | News 18 
+http://go.justflix.tv:80/client106/strawbees7/290
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Kalingar News " tvg-logo="http://go.justflix.tv/images/india/Kalinga_TV.png" group-title="TAMIL",Tamil | Kalingar News 
+http://go.justflix.tv:80/client106/strawbees7/292
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Captain TV " tvg-logo="http://go.justflix.tv/images/india/Captain_tv.png" group-title="TAMIL",Tamil | Captain TV 
+http://go.justflix.tv:80/client106/strawbees7/311
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Polimer News " tvg-logo="http://go.justflix.tv/images/india/Polimer_News.png" group-title="TAMIL",Tamil | Polimer News 
+http://go.justflix.tv:80/client106/strawbees7/274
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Captain News " tvg-logo="http://go.justflix.tv/images/india/Captain_News.png" group-title="TAMIL",Tamil | Captain News 
+http://go.justflix.tv:80/client106/strawbees7/312
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | PuthiyaThalaimurai " tvg-logo="http://go.justflix.tv/images/india/Puthiya_Thalimurai.png" group-title="TAMIL",Tamil | PuthiyaThalaimurai 
+http://go.justflix.tv:80/client106/strawbees7/273
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Murasu TV " tvg-logo="http://go.justflix.tv/images/india/Malai_Murasu.png" group-title="TAMIL",Tamil | Murasu TV 
+http://go.justflix.tv:80/client106/strawbees7/272
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Chutti Tv " tvg-logo="http://go.justflix.tv/images/india/Chutti_TV.png" group-title="TAMIL",Tamil | Chutti Tv 
+http://go.justflix.tv:80/client106/strawbees7/308
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Ktv HD  Uk" tvg-logo="http://go.justflix.tv/images/india/Cartoon_Network_Tamil.png" group-title="TAMIL",Tamil | Ktv HD  Uk
+http://go.justflix.tv:80/client106/strawbees7/310
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Madha TV " tvg-logo="http://go.justflix.tv/images/indialogo/TAMILMADHATV.png" group-title="TAMIL",Tamil | Madha TV 
+http://go.justflix.tv:80/client106/strawbees7/239
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Discovery " tvg-logo="" group-title="TAMIL",Tamil | Discovery 
+http://go.justflix.tv:80/client106/strawbees7/278
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | TV9 " tvg-logo="http://go.justflix.tv/images/india/TV9_Karnataka.png" group-title="KANNADA",Kannada | TV9 
+http://go.justflix.tv:80/client106/strawbees7/836
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | TV5 News " tvg-logo="" group-title="KANNADA",Kannada | TV5 News 
+http://go.justflix.tv:80/client106/strawbees7/835
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Udaya Comedy " tvg-logo="http://go.justflix.tv/images/india/Udaya_Comedy.png" group-title="KANNADA",Kannada | Udaya Comedy 
+http://go.justflix.tv:80/client106/strawbees7/845
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Udaya New " tvg-logo="" group-title="KANNADA",Kannada | Udaya New 
+http://go.justflix.tv:80/client106/strawbees7/844
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Suvarna News " tvg-logo="http://go.justflix.tv/images/india/Suvarna_News.png" group-title="KANNADA",Kannada | Suvarna News 
+http://go.justflix.tv:80/client106/strawbees7/834
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Sri Sankara " tvg-logo="http://go.justflix.tv/images/india/Sri_Sankara.png" group-title="KANNADA",Kannada | Sri Sankara 
+http://go.justflix.tv:80/client106/strawbees7/833
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Saral Jeevan " tvg-logo="http://go.justflix.tv/images/india/Saral_Jeevan.png" group-title="KANNADA",Kannada | Saral Jeevan 
+http://go.justflix.tv:80/client106/strawbees7/832
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Raj Music " tvg-logo="http://go.justflix.tv/images/india/Raj_Music_Kannada.png" group-title="KANNADA",Kannada | Raj Music 
+http://go.justflix.tv:80/client106/strawbees7/829
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Raj Musix " tvg-logo="http://go.justflix.tv/images/india/Raj_Musix.png" group-title="KANNADA",Kannada | Raj Musix 
+http://go.justflix.tv:80/client106/strawbees7/830
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Raj News " tvg-logo="http://go.justflix.tv/images/india/Raj_News_Kannada.png" group-title="KANNADA",Kannada | Raj News 
+http://go.justflix.tv:80/client106/strawbees7/831
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Public TV " tvg-logo="" group-title="KANNADA",Kannada | Public TV 
+http://go.justflix.tv:80/client106/strawbees7/828
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Prajaa TV " tvg-logo="http://go.justflix.tv/images/india/Prajaa_TV.png" group-title="KANNADA",Kannada | Prajaa TV 
+http://go.justflix.tv:80/client106/strawbees7/827
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Naaptol " tvg-logo="" group-title="KANNADA",Kannada | Naaptol 
+http://go.justflix.tv:80/client106/strawbees7/825
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | DD Chandana " tvg-logo="" group-title="KANNADA",Kannada | DD Chandana 
+http://go.justflix.tv:80/client106/strawbees7/826
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | BTV News 24X7 " tvg-logo="" group-title="KANNADA",Kannada | BTV News 24X7 
+http://go.justflix.tv:80/client106/strawbees7/824
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Zee " tvg-logo="http://go.justflix.tv/images/india/Zee_Kannada.png" group-title="KANNADA",Kannada | Zee 
+http://go.justflix.tv:80/client106/strawbees7/837
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Udaya  HD" tvg-logo="http://go.justflix.tv/images/india/Udaya_HD.png" group-title="KANNADA",Kannada | Udaya  HD
+http://go.justflix.tv:80/client106/strawbees7/841
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Udaya Music " tvg-logo="http://go.justflix.tv/images/india/Udaya_Music.png" group-title="KANNADA",Kannada | Udaya Music 
+http://go.justflix.tv:80/client106/strawbees7/843
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Udaya Movies " tvg-logo="http://go.justflix.tv/images/india/Udaya_Movies.png" group-title="KANNADA",Kannada | Udaya Movies 
+http://go.justflix.tv:80/client106/strawbees7/842
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | BTV " tvg-logo="http://go.justflix.tv/images/india/BTV.png" group-title="KANNADA",Kannada | BTV 
+http://go.justflix.tv:80/client106/strawbees7/823
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Zee Talkies  HD" tvg-logo="http://go.justflix.tv/images/india/Zee_Talkies.png" group-title="MARATHI",Marathi | Zee Talkies  HD
+http://go.justflix.tv:80/client106/strawbees7/790
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Zee Yuva " tvg-logo="http://go.justflix.tv/images/india/Zee_Yuva.png" group-title="MARATHI",Marathi | Zee Yuva 
+http://go.justflix.tv:80/client106/strawbees7/796
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Zee 24 Taas " tvg-logo="http://go.justflix.tv/images/india/Zee_24_Taas.png" group-title="MARATHI",Marathi | Zee 24 Taas 
+http://go.justflix.tv:80/client106/strawbees7/800
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | TV9 " tvg-logo="http://go.justflix.tv/images/india/TV9_Maharashtra.png" group-title="MARATHI",Marathi | TV9 
+http://go.justflix.tv:80/client106/strawbees7/795
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Sony " tvg-logo="http://go.justflix.tv/images/india/Sony_Marathi_SD.png" group-title="MARATHI",Marathi | Sony 
+http://go.justflix.tv:80/client106/strawbees7/804
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Sangeet " tvg-logo="http://go.justflix.tv/images/india/Sangeet_Marathi.png" group-title="MARATHI",Marathi | Sangeet 
+http://go.justflix.tv:80/client106/strawbees7/794
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Saam " tvg-logo="http://go.justflix.tv/images/india/Saam_Tv.png" group-title="MARATHI",Marathi | Saam 
+http://go.justflix.tv:80/client106/strawbees7/799
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | News 18 Lokmat " tvg-logo="" group-title="MARATHI",Marathi | News 18 Lokmat 
+http://go.justflix.tv:80/client106/strawbees7/801
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Maiboli " tvg-logo="http://go.justflix.tv/images/india/Maiboli.png" group-title="MARATHI",Marathi | Maiboli 
+http://go.justflix.tv:80/client106/strawbees7/793
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Fakt " tvg-logo="http://go.justflix.tv/images/india/Fakt_Marathi.png" group-title="MARATHI",Marathi | Fakt 
+http://go.justflix.tv:80/client106/strawbees7/792
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | ABP Majha " tvg-logo="http://go.justflix.tv/images/india/ABP_Majha.png" group-title="MARATHI",Marathi | ABP Majha 
+http://go.justflix.tv:80/client106/strawbees7/791
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | 9X Jhakaas " tvg-logo="http://go.justflix.tv/images/india/9x_Jhakaas.png" group-title="MARATHI",Marathi | 9X Jhakaas 
+http://go.justflix.tv:80/client106/strawbees7/797
+#EXTINF:-1 tvg-id="" tvg-name="Marathi | Zee Vajwa " tvg-logo="" group-title="MARATHI",Marathi | Zee Vajwa 
+http://go.justflix.tv:80/client106/strawbees7/798
+#EXTINF:-1 tvg-id="" tvg-name="Gujarati | TV9 Gujarat India" tvg-logo="" group-title="GUJARATI",Gujarati | TV9 Gujarat India
+http://go.justflix.tv:80/client106/strawbees7/73
+#EXTINF:-1 tvg-id="" tvg-name="Gujarati | Zee 24 Kalak Guajrati" tvg-logo="http://go.justflix.tv/images/india/Zee_24_Kalak.png" group-title="GUJARATI",Gujarati | Zee 24 Kalak Guajrati
+http://go.justflix.tv:80/client106/strawbees7/869
+#EXTINF:-1 tvg-id="" tvg-name="Gujarati | Vtv  News India" tvg-logo="http://go.justflix.tv/images/india/VTV_Gujarati.png" group-title="GUJARATI",Gujarati | Vtv  News India
+http://go.justflix.tv:80/client106/strawbees7/71
+#EXTINF:-1 tvg-id="" tvg-name="Gujarati | News 18 " tvg-logo="http://go.justflix.tv/images/india/ETV_News_Gujarati.png" group-title="GUJARATI",Gujarati | News 18 
+http://go.justflix.tv:80/client106/strawbees7/664
+#EXTINF:-1 tvg-id="" tvg-name="Gujarati | Sandesh  News" tvg-logo="http://go.justflix.tv/images/india/Sandesh_News.png" group-title="GUJARATI",Gujarati | Sandesh  News
+http://go.justflix.tv:80/client106/strawbees7/665
+#EXTINF:-1 tvg-id="" tvg-name="Gujarati | Abp  Asmita" tvg-logo="http://go.justflix.tv/images/india/ABP_Ganga.png" group-title="GUJARATI",Gujarati | Abp  Asmita
+http://go.justflix.tv:80/client106/strawbees7/74
+#EXTINF:-1 tvg-id="" tvg-name="Gujarati | SardharKatha  India" tvg-logo="" group-title="GUJARATI",Gujarati | SardharKatha  India
+http://go.justflix.tv:80/client106/strawbees7/72
+#EXTINF:-1 tvg-id="" tvg-name="Gujarati | Lakshya TV" tvg-logo="http://go.justflix.tv/images/india/Lakshya_TV.png" group-title="GUJARATI",Gujarati | Lakshya TV
+http://go.justflix.tv:80/client106/strawbees7/77
+#EXTINF:-1 tvg-id="" tvg-name="Zoom India" tvg-logo="http://go.justflix.tv/images/india/ZOOM.png" group-title="HINDI",Zoom India
+http://go.justflix.tv:80/client106/strawbees7/57
+#EXTINF:-1 tvg-id="" tvg-name="Awaz Canada Tv PK" tvg-logo="" group-title="URDU",Awaz Canada Tv PK
+http://go.justflix.tv:80/client106/strawbees7/886
+#EXTINF:-1 tvg-id="" tvg-name="Public News PK" tvg-logo="" group-title="URDU",Public News PK
+http://go.justflix.tv:80/client106/strawbees7/953
+#EXTINF:-1 tvg-id="" tvg-name="92 News PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEU92NEWS.png" group-title="URDU",92 News PK
+http://go.justflix.tv:80/client106/strawbees7/968
+#EXTINF:-1 tvg-id="" tvg-name="Dunya News PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUDUNYANEWS.png" group-title="URDU",Dunya News PK
+http://go.justflix.tv:80/client106/strawbees7/969
+#EXTINF:-1 tvg-id="" tvg-name="Abb takk News PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKABBTAKKNEWS.png" group-title="URDU",Abb takk News PK
+http://go.justflix.tv:80/client106/strawbees7/971
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="|Punjabi|  Boogle Bollywood" tvg-logo="" group-title="PUNJABI",|Punjabi|  Boogle Bollywood
+http://go.justflix.tv:80/client106/strawbees7/873
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  DD Punjabi" tvg-logo="http://go.justflix.tv/images/india/DD_Punjabi.png" group-title="PUNJABI",|Punjabi|  DD Punjabi
+http://go.justflix.tv:80/client106/strawbees7/879
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  Zee Punjabi HP Haryana" tvg-logo="" group-title="PUNJABI",|Punjabi|  Zee Punjabi HP Haryana
+http://go.justflix.tv:80/client106/strawbees7/92
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  Zee Punjabi" tvg-logo="" group-title="PUNJABI",|Punjabi|  Zee Punjabi
+http://go.justflix.tv:80/client106/strawbees7/93
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Zee " tvg-logo="http://go.justflix.tv/images/india/Zee_Tamil.png" group-title="TAMIL",Tamil | Zee 
+http://go.justflix.tv:80/client106/strawbees7/287
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| PTC Chakde" tvg-logo="" group-title="PUNJABI",|Punjabi| PTC Chakde
+http://go.justflix.tv:80/client106/strawbees7/2866
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| 9x Tashan" tvg-logo="" group-title="PUNJABI",|Punjabi| 9x Tashan
+http://go.justflix.tv:80/client106/strawbees7/2867
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| Pitaara Tv" tvg-logo="" group-title="PUNJABI",|Punjabi| Pitaara Tv
+http://go.justflix.tv:80/client106/strawbees7/2868
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| India News Haryana" tvg-logo="" group-title="PUNJABI",|Punjabi| India News Haryana
+http://go.justflix.tv:80/client106/strawbees7/2869
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| News 18 Haryana" tvg-logo="" group-title="PUNJABI",|Punjabi| News 18 Haryana
+http://go.justflix.tv:80/client106/strawbees7/2870
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  Janta TV" tvg-logo="" group-title="PUNJABI",|Punjabi|  Janta TV
+http://go.justflix.tv:80/client106/strawbees7/2871
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  5AAB Today Tv" tvg-logo="" group-title="PUNJABI",|Punjabi|  5AAB Today Tv
+http://go.justflix.tv:80/client106/strawbees7/2872
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="|Punjabi|  Zee Alpha" tvg-logo="http://go.justflix.tv/images/india/Zee_Punjabi_HP_Haryana.png" group-title="PUNJABI",|Punjabi|  Zee Alpha
+http://go.justflix.tv:80/client106/strawbees7/32
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="|Punjabi|  Sikh Channel UK" tvg-logo="" group-title="PUNJABI",|Punjabi|  Sikh Channel UK
+http://go.justflix.tv:80/client106/strawbees7/169
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="|Punjabi|  Sangat Tv UK" tvg-logo="" group-title="PUNJABI",|Punjabi|  Sangat Tv UK
+http://go.justflix.tv:80/client106/strawbees7/55
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="|Punjabi|  KTV UK" tvg-logo="http://go.justflix.tv/images/india/KTV_HD.png" group-title="PUNJABI",|Punjabi|  KTV UK
+http://go.justflix.tv:80/client106/strawbees7/231
+#EXTINF:-1 tvg-id="PTCPunjabiUK" tvg-name="|Punjabi|  Ptc Punjabi UK" tvg-logo="" group-title="PUNJABI",|Punjabi|  Ptc Punjabi UK
+http://go.justflix.tv:80/client106/strawbees7/119
+#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="|Punjabi|  Akaal Tv UK" tvg-logo="" group-title="PUNJABI",|Punjabi|  Akaal Tv UK
+http://go.justflix.tv:80/client106/strawbees7/56
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  Hulchul Tv" tvg-logo="" group-title="PUNJABI",|Punjabi|  Hulchul Tv
+http://go.justflix.tv:80/client106/strawbees7/177
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| Chardikala time tv" tvg-logo="http://go.justflix.tv/images/india/PTC_Chak_De.png" group-title="PUNJABI",|Punjabi| Chardikala time tv
+http://go.justflix.tv:80/client106/strawbees7/118
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  Ptc News India" tvg-logo="http://go.justflix.tv/images/india/PTC_News.png" group-title="PUNJABI",|Punjabi|  Ptc News India
+http://go.justflix.tv:80/client106/strawbees7/133
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  Mh One Shradha" tvg-logo="" group-title="PUNJABI",|Punjabi|  Mh One Shradha
+http://go.justflix.tv:80/client106/strawbees7/181
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  Mh One Music" tvg-logo="" group-title="PUNJABI",|Punjabi|  Mh One Music
+http://go.justflix.tv:80/client106/strawbees7/180
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  A One Punjabi India" tvg-logo="" group-title="PUNJABI",|Punjabi|  A One Punjabi India
+http://go.justflix.tv:80/client106/strawbees7/105
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| Fateh TV" tvg-logo="http://go.justflix.tv/images/india/Fateh_TV.png" group-title="PUNJABI",|Punjabi| Fateh TV
+http://go.justflix.tv:80/client106/strawbees7/196
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| Jus" tvg-logo="" group-title="PUNJABI",|Punjabi| Jus
+http://go.justflix.tv:80/client106/strawbees7/106
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Kappa TV " tvg-logo="http://go.justflix.tv/images/indialogo/MALKAPPATV.png" group-title="MALAYALAM",Malayalam | Kappa TV 
+http://go.justflix.tv:80/client106/strawbees7/775
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Safari " tvg-logo="" group-title="MALAYALAM",Malayalam | Safari 
+http://go.justflix.tv:80/client106/strawbees7/776
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Kairali WE Tv " tvg-logo="http://go.justflix.tv/images/indialogo/MALKAIRALITV.png" group-title="MALAYALAM",Malayalam | Kairali WE Tv 
+http://go.justflix.tv:80/client106/strawbees7/777
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| Desi Channel" tvg-logo="" group-title="PUNJABI",|Punjabi| Desi Channel
+http://go.justflix.tv:80/client106/strawbees7/2874
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| Ptc Dhol HD" tvg-logo="" group-title="PUNJABI",|Punjabi| Ptc Dhol HD
+http://go.justflix.tv:80/client106/strawbees7/2875
+#EXTINF:-1 tvg-id="" tvg-name="Ndtv good times" tvg-logo="" group-title="HINDI",Ndtv good times
+http://go.justflix.tv:80/client106/strawbees7/25
+#EXTINF:-1 tvg-id="" tvg-name="Apna Channel Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKAPNACHANNEL.png" group-title="URDU",Apna Channel Pk
+http://go.justflix.tv:80/client106/strawbees7/242
+#EXTINF:-1 tvg-id="" tvg-name="GTv PK" tvg-logo="" group-title="URDU",GTv PK
+http://go.justflix.tv:80/client106/strawbees7/199
+#EXTINF:-1 tvg-id="" tvg-name="Waseb Tv PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKTVONE.png" group-title="URDU",Waseb Tv PK
+http://go.justflix.tv:80/client106/strawbees7/228
+#EXTINF:-1 tvg-id="" tvg-name="Filmworld PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKFILMWORLD.png" group-title="URDU",Filmworld PK
+http://go.justflix.tv:80/client106/strawbees7/243
+#EXTINF:-1 tvg-id="" tvg-name="Film max PK" tvg-logo="http://go.justflix.tv/images/pklogo/PKFILMAX.png" group-title="URDU",Film max PK
+http://go.justflix.tv:80/client106/strawbees7/244
+#EXTINF:-1 tvg-id="" tvg-name="Tag Tv" tvg-logo="" group-title="URDU",Tag Tv
+http://go.justflix.tv:80/client106/strawbees7/245
+#EXTINF:-1 tvg-id="" tvg-name="24 News HD" tvg-logo="http://go.justflix.tv/images/pklogo/PKCHANNEL24HD.png" group-title="URDU",24 News HD
+http://go.justflix.tv:80/client106/strawbees7/248
+#EXTINF:-1 tvg-id="" tvg-name="Justflix Islam HD" tvg-logo="" group-title="URDU",Justflix Islam HD
+http://go.justflix.tv:80/client106/strawbees7/3295
+#EXTINF:-1 tvg-id="" tvg-name="Bless tv India" tvg-logo="" group-title="HINDI",Bless tv India
+http://go.justflix.tv:80/client106/strawbees7/3296
+#EXTINF:-1 tvg-id="" tvg-name="Sony max 2 India" tvg-logo="" group-title="HINDI",Sony max 2 India
+http://go.justflix.tv:80/client106/strawbees7/3297
+#EXTINF:-1 tvg-id="" tvg-name="Zee Salam" tvg-logo="" group-title="HINDI",Zee Salam
+http://go.justflix.tv:80/client106/strawbees7/3298
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Vendhar Tv " tvg-logo="http://go.justflix.tv/images/india/Vendhar_TV.png" group-title="TAMIL",Tamil | Vendhar Tv 
+http://go.justflix.tv:80/client106/strawbees7/299
+#EXTINF:-1 tvg-id="" tvg-name="Food Food TV" tvg-logo="http://go.justflix.tv/images/india/Food_Food.png" group-title="HINDI",Food Food TV
+http://go.justflix.tv:80/client106/strawbees7/3354
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi| Punjabi Beats" tvg-logo="" group-title="PUNJABI",|Punjabi| Punjabi Beats
+http://go.justflix.tv:80/client106/strawbees7/3366
+#EXTINF:-1 tvg-id="" tvg-name="Hum News Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUHUMNEWS.png" group-title="URDU",Hum News Pk
+http://go.justflix.tv:80/client106/strawbees7/3357
+#EXTINF:-1 tvg-id="" tvg-name="PNN PK" tvg-logo="http://go.justflix.tv/images/pklogo/pnn.png" group-title="URDU",PNN PK
+http://go.justflix.tv:80/client106/strawbees7/240
+#EXTINF:-1 tvg-id="" tvg-name="Maha Movies" tvg-logo="" group-title="HINDI",Maha Movies
+http://go.justflix.tv:80/client106/strawbees7/1025
+#EXTINF:-1 tvg-id="" tvg-name="Zindagi Tv Pk" tvg-logo="" group-title="URDU",Zindagi Tv Pk
+http://go.justflix.tv:80/client106/strawbees7/108
+#EXTINF:-1 tvg-id="" tvg-name="Geo Tv PK HD" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUGEOTV.png" group-title="URDU",Geo Tv PK HD
+http://go.justflix.tv:80/client106/strawbees7/201
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Entertainment Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKAAJENTERTAINMENT.png" group-title="URDU",Aaj Entertainment Pk
+http://go.justflix.tv:80/client106/strawbees7/379
+#EXTINF:-1 tvg-id="" tvg-name="Prime Canada Pk" tvg-logo="" group-title="URDU",Prime Canada Pk
+http://go.justflix.tv:80/client106/strawbees7/380
+#EXTINF:-1 tvg-id="" tvg-name="Aur Life Pk" tvg-logo="" group-title="URDU",Aur Life Pk
+http://go.justflix.tv:80/client106/strawbees7/381
+#EXTINF:-1 tvg-id="" tvg-name="Prime Canada Tv Pk" tvg-logo="" group-title="URDU",Prime Canada Tv Pk
+http://go.justflix.tv:80/client106/strawbees7/382
+#EXTINF:-1 tvg-id="" tvg-name="Islam Channel Urdu Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUISLAMCHANNEL.png" group-title="URDU",Islam Channel Urdu Pk
+http://go.justflix.tv:80/client106/strawbees7/383
+#EXTINF:-1 tvg-id="" tvg-name="Eman Tv Uk" tvg-logo="" group-title="URDU",Eman Tv Uk
+http://go.justflix.tv:80/client106/strawbees7/384
+#EXTINF:-1 tvg-id="" tvg-name="Raham Tv Pk" tvg-logo="" group-title="URDU",Raham Tv Pk
+http://go.justflix.tv:80/client106/strawbees7/385
+#EXTINF:-1 tvg-id="" tvg-name="Deen Tv Uk" tvg-logo="" group-title="URDU",Deen Tv Uk
+http://go.justflix.tv:80/client106/strawbees7/386
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Global Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKEUPTVGLOBAL.png" group-title="URDU",Ptv Global Pk
+http://go.justflix.tv:80/client106/strawbees7/857
+#EXTINF:-1 tvg-id="" tvg-name="Raavi Tv Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKRAAVITV.png" group-title="URDU",Raavi Tv Pk
+http://go.justflix.tv:80/client106/strawbees7/858
+#EXTINF:-1 tvg-id="" tvg-name="Canada one Pk" tvg-logo="" group-title="URDU",Canada one Pk
+http://go.justflix.tv:80/client106/strawbees7/860
+#EXTINF:-1 tvg-id="" tvg-name="Roze News Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKROZENEWS.png" group-title="URDU",Roze News Pk
+http://go.justflix.tv:80/client106/strawbees7/862
+#EXTINF:-1 tvg-id="" tvg-name="Ary Music Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKARYMUSIC.png" group-title="URDU",Ary Music Pk
+http://go.justflix.tv:80/client106/strawbees7/3360
+#EXTINF:-1 tvg-id="" tvg-name="Apna Stage Show" tvg-logo="" group-title="URDU",Apna Stage Show
+http://go.justflix.tv:80/client106/strawbees7/3361
+#EXTINF:-1 tvg-id="" tvg-name="Discover Pakistan" tvg-logo="http://go.justflix.tv/images/pklogo/PKDISCOVERPAKISTANHD.png" group-title="URDU",Discover Pakistan
+http://go.justflix.tv:80/client106/strawbees7/3362
+#EXTINF:-1 tvg-id="" tvg-name="Jalwa Music Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PKJALWAMUSIC.png" group-title="URDU",Jalwa Music Pk
+http://go.justflix.tv:80/client106/strawbees7/3364
+#EXTINF:-1 tvg-id="" tvg-name="8xm Music Pk" tvg-logo="http://go.justflix.tv/images/pklogo/PK8XMHD.png" group-title="URDU",8xm Music Pk
+http://go.justflix.tv:80/client106/strawbees7/3365
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="HINDI",CNN
+http://go.justflix.tv:80/client106/strawbees7/3337
+#EXTINF:-1 tvg-id="" tvg-name="Fastway News India" tvg-logo="" group-title="HINDI",Fastway News India
+http://go.justflix.tv:80/client106/strawbees7/1040
+#EXTINF:-1 tvg-id="" tvg-name="Bflix Hindi" tvg-logo="" group-title="HINDI",Bflix Hindi
+http://go.justflix.tv:80/client106/strawbees7/851
+#EXTINF:-1 tvg-id="" tvg-name="Bindass India" tvg-logo="http://go.justflix.tv/images/indialogo/HINDIBINDAS.png" group-title="HINDI",Bindass India
+http://go.justflix.tv:80/client106/strawbees7/850
+#EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies India" tvg-logo="http://go.justflix.tv/images/india/Sony_Max_HD.png" group-title="HINDI",Manoranjan Movies India
+http://go.justflix.tv:80/client106/strawbees7/560
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Hindi India" tvg-logo="http://go.justflix.tv/images/india/starsporthindisd.png" group-title="SPORTS",Star Sports Hindi India
+http://go.justflix.tv:80/client106/strawbees7/907
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 India" tvg-logo="http://go.justflix.tv/images/india/starsportsd1.png" group-title="SPORTS",Star Sports 1 India
+http://go.justflix.tv:80/client106/strawbees7/905
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 India" tvg-logo="http://go.justflix.tv/images/india/starsportsd2.png" group-title="SPORTS",Star Sports 2 India
+http://go.justflix.tv:80/client106/strawbees7/906
+#EXTINF:-1 tvg-id="" tvg-name="Telugu | NTV " tvg-logo="http://go.justflix.tv/images/india/NTV.png" group-title="TELUGU",Telugu | NTV 
+http://go.justflix.tv:80/client106/strawbees7/692
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24 Bangla" tvg-logo="" group-title="BANGLADESH",CHANNEL 24 Bangla
+http://go.justflix.tv:80/client106/strawbees7/2604
+#EXTINF:-1 tvg-id="" tvg-name="Suno Tv Pk" tvg-logo="http://go.justflix.tv/images/pklogo/suno.png" group-title="URDU",Suno Tv Pk
+http://go.justflix.tv:80/client106/strawbees7/40
+#EXTINF:-1 tvg-id="" tvg-name="|Punjabi|  Tv Punjab" tvg-logo="" group-title="PUNJABI",|Punjabi|  Tv Punjab
+http://go.justflix.tv:80/client106/strawbees7/2819
+#EXTINF:-1 tvg-id="" tvg-name="Bharat Express India" tvg-logo="" group-title="HINDI",Bharat Express India
+http://go.justflix.tv:80/client106/strawbees7/3336
+#EXTINF:-1 tvg-id="ukserver2@star.plus.gb" tvg-name="Utsav Plus Uk" tvg-logo="http://go.justflix.tv/images/pklogo/INUKUTSAVPLUSHD.png" group-title="HINDI",Utsav Plus Uk
+http://go.justflix.tv:80/client106/strawbees7/564
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex Bollywood" tvg-logo="http://go.justflix.tv/images/indialogo/INUKCOLORSCINEPLEX.png" group-title="HINDI",Colors Cineplex Bollywood
+http://go.justflix.tv:80/client106/strawbees7/949
+#EXTINF:-1 tvg-id="" tvg-name="Hare Krsna TV" tvg-logo="" group-title="HINDI",Hare Krsna TV
+http://go.justflix.tv:80/client106/strawbees7/268
+#EXTINF:-1 tvg-id="" tvg-name="India Daily" tvg-logo="xxhttp://go.justflix.tv/images/indialogo/HINDIHUNGAMAKADAKHITSHD.png" group-title="HINDI",India Daily
+http://go.justflix.tv:80/client106/strawbees7/232
+#EXTINF:-1 tvg-id="" tvg-name="color HD*" tvg-logo="" group-title="",color HD*
+http://go.justflix.tv:80/client106/strawbees7/896
+#EXTINF:-1 tvg-id="" tvg-name="Malayalam | Mazavali Manorama  HD" tvg-logo="http://go.justflix.tv/images/india/Mazavali_Manorama_HD.png" group-title="MALAYALAM",Malayalam | Mazavali Manorama  HD
+http://go.justflix.tv:80/client106/strawbees7/771
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 India HD" tvg-logo="http://go.justflix.tv/images/india/Ten_2.png" group-title="SPORTS",Sony Ten 2 India HD
+http://go.justflix.tv:80/client106/strawbees7/218
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Sun News " tvg-logo="http://go.justflix.tv/images/indialogo/TAMILSUNNEWS.png" group-title="TAMIL",Tamil | Sun News 
+http://go.justflix.tv:80/client106/strawbees7/281
+#EXTINF:-1 tvg-id="" tvg-name="Tamil | Sun Music  HD" tvg-logo="http://go.justflix.tv/images/india/Sun_Music_HD.png" group-title="TAMIL",Tamil | Sun Music  HD
+http://go.justflix.tv:80/client106/strawbees7/295
+#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Colors TV India HD" tvg-logo="http://go.justflix.tv/images/india/Colors_HD.png" group-title="HINDI",Colors TV India HD
+http://go.justflix.tv:80/client106/strawbees7/164
+#EXTINF:-1 tvg-id="" tvg-name="Kannada | Colors Super  HD" tvg-logo="http://go.justflix.tv/images/india/Colors_Super.png" group-title="KANNADA",Kannada | Colors Super  HD
+http://go.justflix.tv:80/client106/strawbees7/880
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Zee " tvg-logo="" group-title="BANGLADESH",Bangla | Zee 
+http://go.justflix.tv:80/client106/strawbees7/313
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Zee Cinema " tvg-logo="" group-title="BANGLADESH",Bangla | Zee Cinema 
+http://go.justflix.tv:80/client106/strawbees7/314
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Star Jalsha " tvg-logo="" group-title="BANGLADESH",Bangla | Star Jalsha 
+http://go.justflix.tv:80/client106/strawbees7/315
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Abp Ananda " tvg-logo="" group-title="BANGLADESH",Bangla | Abp Ananda 
+http://go.justflix.tv:80/client106/strawbees7/317
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Peace TV " tvg-logo="" group-title="BANGLADESH",Bangla | Peace TV 
+http://go.justflix.tv:80/client106/strawbees7/318
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Calcutta News" tvg-logo="" group-title="BANGLADESH",Bangla | Calcutta News
+http://go.justflix.tv:80/client106/strawbees7/316
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Tv One " tvg-logo="" group-title="BANGLADESH",Bangla | Tv One 
+http://go.justflix.tv:80/client106/strawbees7/319
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channel I Europe " tvg-logo="" group-title="BANGLADESH",Bangla | Channel I Europe 
+http://go.justflix.tv:80/client106/strawbees7/320
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | National Geographic HD " tvg-logo="" group-title="BANGLADESH",Bangla | National Geographic HD 
+http://go.justflix.tv:80/client106/strawbees7/321
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Sony Aath" tvg-logo="" group-title="BANGLADESH",Bangla | Sony Aath
+http://go.justflix.tv:80/client106/strawbees7/322
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Mohona TV " tvg-logo="" group-title="BANGLADESH",Bangla | Mohona TV 
+http://go.justflix.tv:80/client106/strawbees7/323
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Masranga Tv " tvg-logo="" group-title="BANGLADESH",Bangla | Masranga Tv 
+http://go.justflix.tv:80/client106/strawbees7/324
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channel 9 " tvg-logo="" group-title="BANGLADESH",Bangla | Channel 9 
+http://go.justflix.tv:80/client106/strawbees7/325
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Colors  HD" tvg-logo="" group-title="BANGLADESH",Bangla | Colors  HD
+http://go.justflix.tv:80/client106/strawbees7/326
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Discovery " tvg-logo="" group-title="BANGLADESH",Bangla | Discovery 
+http://go.justflix.tv:80/client106/strawbees7/327
+#EXTINF:-1 tvg-id="" tvg-name="Bangla |  TV" tvg-logo="" group-title="BANGLADESH",Bangla |  TV
+http://go.justflix.tv:80/client106/strawbees7/328
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Ananda " tvg-logo="" group-title="BANGLADESH",Bangla | Ananda 
+http://go.justflix.tv:80/client106/strawbees7/329
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | 24 Ghanta " tvg-logo="" group-title="BANGLADESH",Bangla | 24 Ghanta 
+http://go.justflix.tv:80/client106/strawbees7/330
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Discovery HD " tvg-logo="" group-title="BANGLADESH",Bangla | Discovery HD 
+http://go.justflix.tv:80/client106/strawbees7/331
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channel I " tvg-logo="" group-title="BANGLADESH",Bangla | Channel I 
+http://go.justflix.tv:80/client106/strawbees7/332
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Aakash " tvg-logo="" group-title="BANGLADESH",Bangla | Aakash 
+http://go.justflix.tv:80/client106/strawbees7/333
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | News 18 " tvg-logo="" group-title="BANGLADESH",Bangla | News 18 
+http://go.justflix.tv:80/client106/strawbees7/334
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Atn music " tvg-logo="" group-title="BANGLADESH",Bangla | Atn music 
+http://go.justflix.tv:80/client106/strawbees7/335
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Boishakhi " tvg-logo="" group-title="BANGLADESH",Bangla | Boishakhi 
+http://go.justflix.tv:80/client106/strawbees7/336
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channel S " tvg-logo="" group-title="BANGLADESH",Bangla | Channel S 
+http://go.justflix.tv:80/client106/strawbees7/337
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | News 24 " tvg-logo="" group-title="BANGLADESH",Bangla | News 24 
+http://go.justflix.tv:80/client106/strawbees7/338
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Jamuna TV " tvg-logo="" group-title="BANGLADESH",Bangla | Jamuna TV 
+http://go.justflix.tv:80/client106/strawbees7/339
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Millenium TV " tvg-logo="" group-title="BANGLADESH",Bangla | Millenium TV 
+http://go.justflix.tv:80/client106/strawbees7/340
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Gazi TV " tvg-logo="" group-title="BANGLADESH",Bangla | Gazi TV 
+http://go.justflix.tv:80/client106/strawbees7/341
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Deepto Tv " tvg-logo="" group-title="BANGLADESH",Bangla | Deepto Tv 
+http://go.justflix.tv:80/client106/strawbees7/342
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Madani Channel " tvg-logo="" group-title="BANGLADESH",Bangla | Madani Channel 
+http://go.justflix.tv:80/client106/strawbees7/343
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Deshi TV " tvg-logo="" group-title="BANGLADESH",Bangla | Deshi TV 
+http://go.justflix.tv:80/client106/strawbees7/344
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Deshe Bidshe " tvg-logo="" group-title="BANGLADESH",Bangla | Deshe Bidshe 
+http://go.justflix.tv:80/client106/strawbees7/345
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | BD My Cinema " tvg-logo="" group-title="BANGLADESH",Bangla | BD My Cinema 
+http://go.justflix.tv:80/client106/strawbees7/346
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Zee Bangla Usa" tvg-logo="" group-title="BANGLADESH",Bangla | Zee Bangla Usa
+http://go.justflix.tv:80/client106/strawbees7/347
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | AL Dawah TV " tvg-logo="" group-title="BANGLADESH",Bangla | AL Dawah TV 
+http://go.justflix.tv:80/client106/strawbees7/348
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channel 99 " tvg-logo="" group-title="BANGLADESH",Bangla | Channel 99 
+http://go.justflix.tv:80/client106/strawbees7/349
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | MTA " tvg-logo="" group-title="BANGLADESH",Bangla | MTA 
+http://go.justflix.tv:80/client106/strawbees7/350
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Desh Tv " tvg-logo="" group-title="BANGLADESH",Bangla | Desh Tv 
+http://go.justflix.tv:80/client106/strawbees7/351
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Btv world " tvg-logo="" group-title="BANGLADESH",Bangla | Btv world 
+http://go.justflix.tv:80/client106/strawbees7/352
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Btv Chittagong " tvg-logo="" group-title="BANGLADESH",Bangla | Btv Chittagong 
+http://go.justflix.tv:80/client106/strawbees7/353
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Sangeet " tvg-logo="" group-title="BANGLADESH",Bangla | Sangeet 
+http://go.justflix.tv:80/client106/strawbees7/354
+#EXTINF:-1 tvg-id="" tvg-name="Bangla |  vision " tvg-logo="" group-title="BANGLADESH",Bangla |  vision 
+http://go.justflix.tv:80/client106/strawbees7/356
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Bijoy " tvg-logo="" group-title="BANGLADESH",Bangla | Bijoy 
+http://go.justflix.tv:80/client106/strawbees7/355
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Ruposhi " tvg-logo="" group-title="BANGLADESH",Bangla | Ruposhi 
+http://go.justflix.tv:80/client106/strawbees7/357
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | R Plus " tvg-logo="" group-title="BANGLADESH",Bangla | R Plus 
+http://go.justflix.tv:80/client106/strawbees7/358
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Atn News " tvg-logo="" group-title="BANGLADESH",Bangla | Atn News 
+http://go.justflix.tv:80/client106/strawbees7/359
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Atn " tvg-logo="" group-title="BANGLADESH",Bangla | Atn 
+http://go.justflix.tv:80/client106/strawbees7/360
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Asian Tv " tvg-logo="" group-title="BANGLADESH",Bangla | Asian Tv 
+http://go.justflix.tv:80/client106/strawbees7/361
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Star Jalsa Movies " tvg-logo="" group-title="BANGLADESH",Bangla | Star Jalsa Movies 
+http://go.justflix.tv:80/client106/strawbees7/362
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Ntv UK " tvg-logo="" group-title="BANGLADESH",Bangla | Ntv UK 
+http://go.justflix.tv:80/client106/strawbees7/363
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Time Television " tvg-logo="" group-title="BANGLADESH",Bangla | Time Television 
+http://go.justflix.tv:80/client106/strawbees7/364
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Music Fatafati " tvg-logo="" group-title="BANGLADESH",Bangla | Music Fatafati 
+http://go.justflix.tv:80/client106/strawbees7/365
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channeli " tvg-logo="" group-title="BANGLADESH",Bangla | Channeli 
+http://go.justflix.tv:80/client106/strawbees7/366
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Mytv " tvg-logo="" group-title="BANGLADESH",Bangla | Mytv 
+http://go.justflix.tv:80/client106/strawbees7/367
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Ntv " tvg-logo="" group-title="BANGLADESH",Bangla | Ntv 
+http://go.justflix.tv:80/client106/strawbees7/368
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Independent " tvg-logo="" group-title="BANGLADESH",Bangla | Independent 
+http://go.justflix.tv:80/client106/strawbees7/369
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Rtv " tvg-logo="" group-title="BANGLADESH",Bangla | Rtv 
+http://go.justflix.tv:80/client106/strawbees7/370
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Gaan " tvg-logo="" group-title="BANGLADESH",Bangla | Gaan 
+http://go.justflix.tv:80/client106/strawbees7/371
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Satv " tvg-logo="" group-title="BANGLADESH",Bangla | Satv 
+http://go.justflix.tv:80/client106/strawbees7/372
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Sktv " tvg-logo="" group-title="BANGLADESH",Bangla | Sktv 
+http://go.justflix.tv:80/client106/strawbees7/373
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Somoy " tvg-logo="" group-title="BANGLADESH",Bangla | Somoy 
+http://go.justflix.tv:80/client106/strawbees7/374
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Itv " tvg-logo="" group-title="BANGLADESH",Bangla | Itv 
+http://go.justflix.tv:80/client106/strawbees7/375
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Etv " tvg-logo="" group-title="BANGLADESH",Bangla | Etv 
+http://go.justflix.tv:80/client106/strawbees7/376
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | Ekatoor Tv " tvg-logo="" group-title="BANGLADESH",Bangla | Ekatoor Tv 
+http://go.justflix.tv:80/client106/strawbees7/377
