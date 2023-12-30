@@ -38,70 +38,6 @@ http://livetvbox.live:8080/live/7878/7878/98904.ts
 #EXTINF:-1,MARATHI: COLORS MARATHI (4K).
 http://livetvbox.live:8080/live/7878/7878/98905.ts
 
-#EXTINF:-1,IN: SONY (4K).
-http://livetvbox.live:8080/live/7878/7878/98854.ts
-#EXTINF:-1,IN: SONY SAB (4K).
-http://livetvbox.live:8080/live/7878/7878/98853.ts
-#EXTINF:-1,IN: COLORS (4K).
-http://livetvbox.live:8080/live/7878/7878/98851.ts
-#EXTINF:-1,IN: STAR PLUS (4K).
-http://livetvbox.live:8080/live/7878/7878/98849.ts
-#EXTINF:-1,IN: STAR BHARAT (4K).
-http://livetvbox.live:8080/live/7878/7878/98855.ts
-#EXTINF:-1,IN: &TV (4K).
-http://livetvbox.live:8080/live/7878/7878/98852.ts
-#EXTINF:-1,IN: ZEETV (4K).
-http://livetvbox.live:8080/live/7878/7878/98850.ts
-#EXTINF:-1,IN: SONY MAX (4K).
-http://livetvbox.live:8080/live/7878/7878/98857.ts
-#EXTINF:-1,IN: &PICTURE (4K).
-http://livetvbox.live:8080/live/7878/7878/98856.ts
-#EXTINF:-1,IN: STAR GOLD (4K).
-http://livetvbox.live:8080/live/7878/7878/98858.ts
-#EXTINF:-1,IN: STAR GOLD SELECT (4K).
-http://livetvbox.live:8080/live/7878/7878/98859.ts
-#EXTINF:-1,IN: ZEE CINEMA (4K).
-http://livetvbox.live:8080/live/7878/7878/98860.ts
-#EXTINF:-1,IN: Colors Cineplex (4K).
-http://livetvbox.live:8080/live/7878/7878/98908.ts
-#EXTINF:-1,IN: STAR MOVIE (4K).
-http://livetvbox.live:8080/live/7878/7878/98842.ts
-#EXTINF:-1,IN: STAR MOVIE SELECT (4K).
-http://livetvbox.live:8080/live/7878/7878/98843.ts
-#EXTINF:-1,IN: &PRIVE (4K).
-http://livetvbox.live:8080/live/7878/7878/98840.ts
-#EXTINF:-1,IN: &FLIX (4K).
-http://livetvbox.live:8080/live/7878/7878/98841.ts
-#EXTINF:-1,IN: SONY PIX (4K).
-http://livetvbox.live:8080/live/7878/7878/98846.ts
-#EXTINF:-1,IN: MN+ (4K).
-http://livetvbox.live:8080/live/7878/7878/98847.ts
-#EXTINF:-1,IN: ZEE CAFE (4K).
-http://livetvbox.live:8080/live/7878/7878/98848.ts
-#EXTINF:-1,IN: Colors INFINITY (4K).
-http://livetvbox.live:8080/live/7878/7878/98879.ts
-#EXTINF:-1,IN: FOX LIFE (4K).
-http://livetvbox.live:8080/live/7878/7878/98876.ts
-#EXTINF:-1,IN: AXN (4K).
-http://livetvbox.live:8080/live/7878/7878/98915.ts
-#EXTINF:-1,IN: TLC (4K).
-http://livetvbox.live:8080/live/7878/7878/98878.ts
-#EXTINF:-1,IN: DISCOVERY (4K).
-http://livetvbox.live:8080/live/7878/7878/98872.ts
-#EXTINF:-1,IN: ANIMAL PLANET (4K).
-http://livetvbox.live:8080/live/7878/7878/98873.ts
-#EXTINF:-1,IN: National GEO (4K).
-http://livetvbox.live:8080/live/7878/7878/98874.ts
-#EXTINF:-1,IN: NAT Geo Wild (4K).
-http://livetvbox.live:8080/live/7878/7878/98875.ts
-#EXTINF:-1,IN: Sony BBC EARTH (4K).
-http://livetvbox.live:8080/live/7878/7878/98871.ts
-#EXTINF:-1,IN: HISTORY TV (4K).
-http://livetvbox.live:8080/live/7878/7878/98877.ts
-#EXTINF:-1,IN: NICK (4K).
-http://livetvbox.live:8080/live/7878/7878/98880.ts
-
-
 #EXTINF:-1,IN: SONY HD
 http://livetvbox.live:8080/live/7878/7878/144.ts
 #EXTINF:-1,IN: SONY TV HD
@@ -130,6 +66,8 @@ http://livetvbox.live:8080/live/7878/7878/145.ts
 http://livetvbox.live:8080/live/7878/7878/9368.ts
 #EXTINF:-1,IN: & TV HD
 http://livetvbox.live:8080/live/7878/7878/232.ts
+#EXTINF:-1,IN: Zee Anmol
+http://livetvbox.live:8080/live/7878/7878/203.ts
 #EXTINF:-1,IN: &TV (FHD)
 http://livetvbox.live:8080/live/7878/7878/9369.ts
 #EXTINF:-1,IN: ZEE TV HD
@@ -138,6 +76,23 @@ http://livetvbox.live:8080/live/7878/7878/161.ts
 http://livetvbox.live:8080/live/7878/7878/220.ts
 #EXTINF:-1,IN: ZEE TV (FHD)
 http://livetvbox.live:8080/live/7878/7878/9371.ts
+#EXTINF:-1,IN: SONY (4K).
+http://livetvbox.live:8080/live/7878/7878/98854.ts
+#EXTINF:-1,IN: SONY SAB (4K).
+http://livetvbox.live:8080/live/7878/7878/98853.ts
+#EXTINF:-1,IN: COLORS (4K).
+http://livetvbox.live:8080/live/7878/7878/98851.ts
+#EXTINF:-1,IN: STAR PLUS (4K).
+http://livetvbox.live:8080/live/7878/7878/98849.ts
+#EXTINF:-1,IN: STAR BHARAT (4K).
+http://livetvbox.live:8080/live/7878/7878/98855.ts
+#EXTINF:-1,IN: &TV (4K).
+http://livetvbox.live:8080/live/7878/7878/98852.ts
+#EXTINF:-1,IN: ZEETV (4K).
+http://livetvbox.live:8080/live/7878/7878/98850.ts
+#EXTINF:-1,IN: Sony Pal
+http://livetvbox.live:8080/live/7878/7878/6627.ts
+
 #EXTINF:-1,IN: SONY MAX HD
 http://livetvbox.live:8080/live/7878/7878/151.ts
 #EXTINF:-1,IN: SONY MAX (FHD)
@@ -164,8 +119,42 @@ http://livetvbox.live:8080/live/7878/7878/9378.ts
 http://livetvbox.live:8080/live/7878/7878/172368.ts
 #EXTINF:-1,IN: Colors Cineplex Bollywood
 http://livetvbox.live:8080/live/7878/7878/37074.ts
+#EXTINF:-1,IN: Zee Classic
+http://livetvbox.live:8080/live/7878/7878/7064.ts
+#EXTINF:-1,IN: Zee Anmol Cinema
+http://livetvbox.live:8080/live/7878/7878/7065.ts
 #EXTINF:-1,IN: MINIPLEX (FHD)
 http://livetvbox.live:8080/live/7878/7878/23427.ts
+#EXTINF:-1,IN: SONY MAX (4K).
+http://livetvbox.live:8080/live/7878/7878/98857.ts
+#EXTINF:-1,IN: &PICTURE (4K).
+http://livetvbox.live:8080/live/7878/7878/98856.ts
+#EXTINF:-1,IN: STAR GOLD (4K).
+http://livetvbox.live:8080/live/7878/7878/98858.ts
+#EXTINF:-1,IN: STAR GOLD SELECT (4K).
+http://livetvbox.live:8080/live/7878/7878/98859.ts
+#EXTINF:-1,IN: ZEE CINEMA (4K).
+http://livetvbox.live:8080/live/7878/7878/98860.ts
+#EXTINF:-1,IN: Colors Cineplex (4K).
+http://livetvbox.live:8080/live/7878/7878/98908.ts
+#EXTINF:-1,IN: STAR MOVIE (4K).
+http://livetvbox.live:8080/live/7878/7878/98842.ts
+#EXTINF:-1,IN: STAR MOVIE SELECT (4K).
+http://livetvbox.live:8080/live/7878/7878/98843.ts
+#EXTINF:-1,IN: &PRIVE (4K).
+http://livetvbox.live:8080/live/7878/7878/98840.ts
+#EXTINF:-1,IN: AXN (4K).
+http://livetvbox.live:8080/live/7878/7878/98915.ts
+#EXTINF:-1,IN: &FLIX (4K).
+http://livetvbox.live:8080/live/7878/7878/98841.ts
+#EXTINF:-1,IN: SONY PIX (4K).
+http://livetvbox.live:8080/live/7878/7878/98846.ts
+#EXTINF:-1,IN: MN+ (4K).
+http://livetvbox.live:8080/live/7878/7878/98847.ts
+#EXTINF:-1,IN: ZEE CAFE (4K).
+http://livetvbox.live:8080/live/7878/7878/98848.ts
+#EXTINF:-1,IN: Colors INFINITY (4K).
+http://livetvbox.live:8080/live/7878/7878/98879.ts
 #EXTINF:-1,IN: &XPLOR HD
 http://livetvbox.live:8080/live/7878/7878/4082.ts
 #EXTINF:-1,IN: & XPLOR (FHD)
@@ -196,6 +185,28 @@ http://livetvbox.live:8080/live/7878/7878/185.ts
 http://livetvbox.live:8080/live/7878/7878/187.ts
 #EXTINF:-1,IN: ZEECAFE HD
 http://livetvbox.live:8080/live/7878/7878/196.ts
+
+#EXTINF:-1,IN : CARTOON NETWORK HD
+http://livetvbox.live:8080/live/7878/7878/8.ts
+#EXTINF:-1, IN: Pogo_Hindi
+http://livetvbox.live:8080/live/7878/7878/1918.ts
+#EXTINF:-1,IN: POGO (ENGLISH)
+http://livetvbox.live:8080/live/7878/7878/7220.ts
+#EXTINF:-1,IN:  Nick_Hindi
+http://livetvbox.live:8080/live/7878/7878/205.ts
+#EXTINF:-1,IN: NICK (4K).
+http://livetvbox.live:8080/live/7878/7878/98880.ts
+#EXTINF:-1,IN: Nick_Junior
+http://livetvbox.live:8080/live/7878/7878/206.ts
+#EXTINF:-1,IN: sonic_Hindi
+http://livetvbox.live:8080/live/7878/7878/207.ts
+#EXTINF:-1,IN: Discovery_Kids_1
+http://livetvbox.live:8080/live/7878/7878/208.ts
+#EXTINF:-1,IN:  Nick_Hindi
+http://livetvbox.live:8080/live/7878/7878/205.ts
+#EXTINF:-1,IN: Sony_Yay_Hindi
+http://livetvbox.live:8080/live/7878/7878/204.ts
+
 #EXTINF:-1,IN: FYI TV18 HD
 http://livetvbox.live:8080/live/7878/7878/152.ts
 #EXTINF:-1,IN: FOX LIFE
@@ -204,6 +215,22 @@ http://livetvbox.live:8080/live/7878/7878/2115.ts
 http://livetvbox.live:8080/live/7878/7878/180.ts
 #EXTINF:-1,IN: HISTORY 18 (HINDI)
 http://livetvbox.live:8080/live/7878/7878/5252.ts
+#EXTINF:-1,IN: FOX LIFE (4K).
+http://livetvbox.live:8080/live/7878/7878/98876.ts
+#EXTINF:-1,IN: TLC (4K).
+http://livetvbox.live:8080/live/7878/7878/98878.ts
+#EXTINF:-1,IN: DISCOVERY (4K).
+http://livetvbox.live:8080/live/7878/7878/98872.ts
+#EXTINF:-1,IN: ANIMAL PLANET (4K).
+http://livetvbox.live:8080/live/7878/7878/98873.ts
+#EXTINF:-1,IN: National GEO (4K).
+http://livetvbox.live:8080/live/7878/7878/98874.ts
+#EXTINF:-1,IN: NAT Geo Wild (4K).
+http://livetvbox.live:8080/live/7878/7878/98875.ts
+#EXTINF:-1,IN: Sony BBC EARTH (4K).
+http://livetvbox.live:8080/live/7878/7878/98871.ts
+#EXTINF:-1,IN: HISTORY TV (4K).
+http://livetvbox.live:8080/live/7878/7878/98877.ts
 #EXTINF:-1,IN: DISCOVERY WORLD HD
 http://livetvbox.live:8080/live/7878/7878/156.ts
 #EXTINF:-1,IN: NATIONAL GEOGRAPHIC INDIA
@@ -224,62 +251,24 @@ http://livetvbox.live:8080/live/7878/7878/181.ts
 http://livetvbox.live:8080/live/7878/7878/1623.ts
 #EXTINF:-1,IN: ANIMAL PLANET HD
 http://livetvbox.live:8080/live/7878/7878/182.ts
-#EXTINF:-1,IN: MTV BEATS HD
-http://livetvbox.live:8080/live/7878/7878/153.ts
-#EXTINF:-1,IN: MTV HD PLUS
-http://livetvbox.live:8080/live/7878/7878/4029.ts
-#EXTINF:-1,IN: Zee Anmol
-http://livetvbox.live:8080/live/7878/7878/203.ts
-#EXTINF:-1,IN: Sony_Yay_Hindi
-http://livetvbox.live:8080/live/7878/7878/204.ts
-#EXTINF:-1,IN:  Nick_Hindi
-http://livetvbox.live:8080/live/7878/7878/205.ts
-#EXTINF:-1,IN: Nick_Junior
-http://livetvbox.live:8080/live/7878/7878/206.ts
-#EXTINF:-1,IN: sonic_Hindi
-http://livetvbox.live:8080/live/7878/7878/207.ts
-#EXTINF:-1,IN: Discovery_Kids_1
-http://livetvbox.live:8080/live/7878/7878/208.ts
-#EXTINF:-1,IN: NDTV 24x7
-http://livetvbox.live:8080/live/7878/7878/247.ts
 #EXTINF:-1,IN: Food Food
 http://livetvbox.live:8080/live/7878/7878/250.ts
 
-#EXTINF:-1,IN : CARTOON NETWORK HD
-http://livetvbox.live:8080/live/7878/7878/8.ts
-#EXTINF:-1, IN: Pogo_Hindi
-http://livetvbox.live:8080/live/7878/7878/1918.ts
-#EXTINF:-1,IN:  Nick_Hindi
-http://livetvbox.live:8080/live/7878/7878/205.ts
-#EXTINF:-1,IN: Nick_Junior
-http://livetvbox.live:8080/live/7878/7878/206.ts
-#EXTINF:-1,IN: sonic_Hindi
-http://livetvbox.live:8080/live/7878/7878/207.ts
-#EXTINF:-1,IN: Discovery_Kids_1
-http://livetvbox.live:8080/live/7878/7878/208.ts
-#EXTINF:-1,IN:  Nick_Hindi
-http://livetvbox.live:8080/live/7878/7878/205.ts
 
-#EXTINF:-1,IN: Sony Pal
-http://livetvbox.live:8080/live/7878/7878/6627.ts
-#EXTINF:-1,IN: Zee Rajasthan news
-http://livetvbox.live:8080/live/7878/7878/7063.ts
-#EXTINF:-1,IN: Zee Classic
-http://livetvbox.live:8080/live/7878/7878/7064.ts
-#EXTINF:-1,IN: Zee Anmol Cinema
-http://livetvbox.live:8080/live/7878/7878/7065.ts
-#EXTINF:-1,IN: POGO (ENGLISH)
-http://livetvbox.live:8080/live/7878/7878/7220.ts
+
+
+
 #EXTINF:-1,IN: 9XM
 http://livetvbox.live:8080/live/7878/7878/7255.ts
 #EXTINF:-1,IN: Mastiii
 http://livetvbox.live:8080/live/7878/7878/7256.ts
 #EXTINF:-1,IN: B4U Music
 http://livetvbox.live:8080/live/7878/7878/7258.ts
-#EXTINF:-1,IN: Zee News
-http://livetvbox.live:8080/live/7878/7878/7259.ts
-#EXTINF:-1,IN:  ABP NEWS
-http://livetvbox.live:8080/live/7878/7878/7260.ts
+#EXTINF:-1,IN: MTV BEATS HD
+http://livetvbox.live:8080/live/7878/7878/153.ts
+#EXTINF:-1,IN: MTV HD PLUS
+http://livetvbox.live:8080/live/7878/7878/4029.ts
+
 
 
 #EXTINF:-1,IN: STAR SPORTS 1 (4K).
