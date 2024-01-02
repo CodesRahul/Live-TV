@@ -268,21 +268,6 @@ https://itspkg.in/avyaan/ttsky.mpd?contentID=56
 https://delta14tatasky.akamaized.net/out/i/5137035.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://go.justflix.tv/images/india/HBO_HD.png" group-title="TATAPLAY-Movies",HBO HD
-http://go.justflix.tv:80/client106/strawbees7/236
-#EXTINF:-1 tvg-id="" tvg-name="& Flix India HD" tvg-logo="" group-title="TATAPLAY-Movies",& Flix India HD
-http://go.justflix.tv:80/client106/strawbees7/130
-#EXTINF:-1 tvg-id="" tvg-name="& Prive India HD" tvg-logo="" group-title="TATAPLAY-Movies",& Prive India HD
-http://go.justflix.tv:80/client106/strawbees7/89
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="" group-title="TATAPLAY-Movies",Zee Cafe HD
-http://go.justflix.tv:80/client106/strawbees7/889
-#EXTINF:-1 tvg-id="" tvg-name="WB India HD" tvg-logo="http://go.justflix.tv/images/india/WB.png" group-title="TATAPLAY-Movies",WB India HD
-http://go.justflix.tv:80/client106/strawbees7/902
-#EXTINF:-1 tvg-id="" tvg-name="Axn HD" tvg-logo="http://go.justflix.tv/images/india/AXN_HD.png" group-title="TATAPLAY-Movies",Axn HD
-http://go.justflix.tv:80/client106/strawbees7/161
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies India HD" tvg-logo="" group-title="TATAPLAY-Movies",Star Movies India HD
-http://go.justflix.tv:80/client106/strawbees7/160
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Thriller" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="HINDI",Star Gold Thriller
 http://go.justflix.tv:80/client106/strawbees7/27
 
@@ -360,6 +345,19 @@ https://itspkg.in/avyaan/ttsky.mpd?contentID=306
 #KODIPROP:inputstream.adaptive.license_key=https://portal-jade-sigma.vercel.app/api/Getkey.php?id=32&key
 #EXTINF:-1 tvg-id="32" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="TATAPLAY-Movies",SONY PIX HD
 https://itspkg.in/avyaan/ttsky.mpd?contentID=32
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://go.justflix.tv/images/india/HBO_HD.png" group-title="TATAPLAY-Movies",HBO HD
+http://go.justflix.tv:80/client106/strawbees7/236
+#EXTINF:-1 tvg-id="" tvg-name="& Flix India HD" tvg-logo="" group-title="TATAPLAY-Movies",& Flix India HD
+http://go.justflix.tv:80/client106/strawbees7/130
+#EXTINF:-1 tvg-id="" tvg-name="& Prive India HD" tvg-logo="" group-title="TATAPLAY-Movies",& Prive India HD
+http://go.justflix.tv:80/client106/strawbees7/89
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="" group-title="TATAPLAY-Movies",Zee Cafe HD
+http://go.justflix.tv:80/client106/strawbees7/889
+#EXTINF:-1 tvg-id="" tvg-name="WB India HD" tvg-logo="http://go.justflix.tv/images/india/WB.png" group-title="TATAPLAY-Movies",WB India HD
+http://go.justflix.tv:80/client106/strawbees7/902
+#EXTINF:-1 tvg-id="" tvg-name="Axn HD" tvg-logo="http://go.justflix.tv/images/india/AXN_HD.png" group-title="TATAPLAY-Movies",Axn HD
+http://go.justflix.tv:80/client106/strawbees7/161
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://portal-jade-sigma.vercel.app/api/Getkey.php?id=562&key
