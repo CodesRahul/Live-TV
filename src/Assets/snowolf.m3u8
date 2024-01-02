@@ -262,6 +262,13 @@ https://itspkg.in/avyaan/ttsky.mpd?contentID=100
 #EXTINF:-1 tvg-id="56" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="TATAPLAY-Movies",Sony Wah
 https://itspkg.in/avyaan/ttsky.mpd?contentID=56
 
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Thriller" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="TATAPLAY-Movies",Star Gold Thriller
+http://go.justflix.tv:80/client106/strawbees7/27
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select HD" tvg-logo="" group-title="TATAPLAY-Movies",Star Movies Select HD
+http://go.justflix.tv:80/client106/strawbees7/566
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://portal-jade-sigma.vercel.app/api/Getkey.php?id=7&key
 #EXTINF:-1 tvg-id="7" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="TATAPLAY-Movies",B4U Movies
