@@ -262,12 +262,69 @@ https://itspkg.in/avyaan/ttsky.mpd?contentID=100
 #EXTINF:-1 tvg-id="56" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="TATAPLAY-Movies",Sony Wah
 https://itspkg.in/avyaan/ttsky.mpd?contentID=56
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold Thriller" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="TATAPLAY-Movies",Star Gold Thriller
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SvFLFm0ZTd2Be0c3pT9h7g","k":"nmDwaKHA3cgdmkRDorOvFA"}]}
+#EXTINF:-1 tvg-id="632" group-title="Movies" tvg-logo="https://i.ibb.co/kJCTGhg/CC-20221111-203447.png",Star Gold 2
+https://delta14tatasky.akamaized.net/out/i/5137035.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIw1Xu7hU5e-tAktotmJdGgM0LkNOWweCtQ&usqp=CAU" group-title="Kids", Doraemon 24×7
+https://ao2v.short.gy/Dorae-mon_24_7_Denver.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Kids",Disney HD
+https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Kids",Disney HD 2
+https://kingkohli.pages.dev/Play/DisneyHD_Alpha_index.m3u8
+
+#EXTINF:-1 tvg-id="345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama TV
+https://ao2v.short.gy/Hun_pkg.m3u8
+
+#EXTINF:-1 tvg-id="345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama TV 2
+https://ao2v.short.gy/Hun_Denver2.m3u8
+
+#EXTINF:-1 tvg-id="345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama TV 2
+https://kingkohli.pages.dev/Play/Hungama_OpplexTV_index.m3u8
+
+#EXTINF:-1 tvg-id="345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama Tamil 
+https://kingkohli.pages.dev/Play/HungamaTamil_Watch_index.m3u8
+
+#EXTINF:-1 tvg-id="345" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.png" group-title="Kids",Hungama
+http://103.186.77.21:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ODsuFgTFIW5M-HTyAdIQu_ycabCOqlTxhA&usqp=CAU" group-title="Kids",Shinchan 24×7
+https://ao2v.short.gy/Shin-Chan_24_7_Denver.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
+#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-zt4VBIOrE4dWL932Qp3oer2NepKmBIdRA&usqp=CAU",Willow Cricket HD
+https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://go.justflix.tv/images/india/HBO_HD.png" group-title="TATAPLAY-Movies",HBO HD
+http://go.justflix.tv:80/client106/strawbees7/236
+#EXTINF:-1 tvg-id="" tvg-name="& Flix India HD" tvg-logo="" group-title="TATAPLAY-Movies",& Flix India HD
+http://go.justflix.tv:80/client106/strawbees7/130
+#EXTINF:-1 tvg-id="" tvg-name="& Prive India HD" tvg-logo="" group-title="TATAPLAY-Movies",& Prive India HD
+http://go.justflix.tv:80/client106/strawbees7/89
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="" group-title="TATAPLAY-Movies",Zee Cafe HD
+http://go.justflix.tv:80/client106/strawbees7/889
+#EXTINF:-1 tvg-id="" tvg-name="WB India HD" tvg-logo="http://go.justflix.tv/images/india/WB.png" group-title="TATAPLAY-Movies",WB India HD
+http://go.justflix.tv:80/client106/strawbees7/902
+#EXTINF:-1 tvg-id="" tvg-name="Axn HD" tvg-logo="http://go.justflix.tv/images/india/AXN_HD.png" group-title="TATAPLAY-Movies",Axn HD
+http://go.justflix.tv:80/client106/strawbees7/161
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix India HD" tvg-logo="http://go.justflix.tv/images/india/Sony_Pix_HD.png" group-title="TATAPLAY-Movies",Sony Pix India HD
+http://go.justflix.tv:80/client106/strawbees7/234
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies India HD" tvg-logo="" group-title="TATAPLAY-Movies",Star Movies India HD
+http://go.justflix.tv:80/client106/strawbees7/160
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Thriller" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="HINDI",Star Gold Thriller
 http://go.justflix.tv:80/client106/strawbees7/27
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select HD" tvg-logo="" group-title="TATAPLAY-Movies",Star Movies Select HD
-http://go.justflix.tv:80/client106/strawbees7/566
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://portal-jade-sigma.vercel.app/api/Getkey.php?id=7&key
