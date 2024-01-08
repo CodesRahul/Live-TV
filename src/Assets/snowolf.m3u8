@@ -1,789 +1,303 @@
-#EXTM3U x-tvg-url="https://mitthu786.github.io/tvepg/tataplay/epg.xml.gz"
 
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz" 
-
-                    -----====== MARATHI LIVE TV =====-----------
-
-#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name=" COLORS MARATHI HD" tvg-logo="http://logo.protv.cc/picons/logos/colorsmarathi.png" group-title="VT TVC | Marathi Live ", COLORS MARATHI HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155758&extension=.ts
-#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name=" COLORS MARATHI" tvg-logo="http://logo.protv.cc/picons/logos/colorsmarathi.png" group-title="VT TVC | Marathi Live ", COLORS MARATHI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=282020&extension=.ts
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name=" ZEE TALKIES HD" tvg-logo="http://logo.protv.cc/picons/logos/zeetalkies.png" group-title="VT TVC | Marathi Live ", ZEE TALKIES HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155756&extension=.ts
-#EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name=" ZEE MARTHI HD" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-MARTHI-HD.jpg" group-title="VT TVC | Marathi Live ", ZEE MARTHI HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155757&extension=.ts
-#EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name=" ZEE MARATHI" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-MARTHI-HD.jpg" group-title="VT TVC | Marathi Live ", ZEE MARATHI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=282022&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR PARVAH HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-PARVAH.png" group-title="VT TVC | Marathi Live ", STAR PARVAH HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155755&extension=.ts
-#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name=" 9X JHAKAAS" tvg-logo="http://logo.protv.cc/picons/logos/9X-JHAKAAS.jpg" group-title="VT TVC | Marathi Live ", 9X JHAKAAS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155764&extension=.ts
-#EXTINF:-1 tvg-id="DDSahyadri.in" tvg-name=" DD SAHYADRI" tvg-logo="http://logo.protv.cc/picons/logos/DD-SAHYADRI.jpg" group-title="VT TVC | Marathi Live ", DD SAHYADRI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155761&extension=.ts
-#EXTINF:-1 tvg-id="FaktMarathi.in" tvg-name=" FAKHT MARATHI" tvg-logo="http://logo.protv.cc/picons/logos/FAKHT-MARATHI.jpeg" group-title="VT TVC | Marathi Live ", FAKHT MARATHI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156048&extension=.ts
-#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name=" SANGEET MARATHI" tvg-logo="http://logo.protv.cc/picons/logos/SANGEET-MARATHI.jpeg" group-title="VT TVC | Marathi Live ", SANGEET MARATHI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155763&extension=.ts
-#EXTINF:-1 tvg-id="SonyAATH.in" tvg-name=" SONY AATH" tvg-logo="http://logo.protv.cc/picons/logos/SONY-AATH.png" group-title="VT TVC | Marathi Live ", SONY AATH
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155760&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SONY MARATHI" tvg-logo="http://logo.protv.cc/picons/logos/SONY-MARATHI.jpeg" group-title="VT TVC | Marathi Live ", SONY MARATHI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155759&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TULJA BHAVANI" tvg-logo="http://logo.protv.cc/picons/logos/TULJA-BHAVANI.jpg" group-title="VT TVC | Marathi Live ", TULJA BHAVANI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155704&extension=.ts
-#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name=" ABP MAJHA" tvg-logo="http://logo.protv.cc/picons/logos/ABP-MAJHA.jpeg" group-title="VT TVC | Marathi Live ", ABP MAJHA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=282023&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MKN" tvg-logo="http://logo.protv.cc/picons/logos/MKN.png" group-title="VT TVC | Marathi Live ", MKN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1100891&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZEE 24 TAAS" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-24-TAAS.jpg" group-title="VT TVC | Marathi Live ", ZEE 24 TAAS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155762&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MAIBOLI" tvg-logo="http://logo.protv.cc/picons/logos/MAIBOLI.png" group-title="VT TVC | Marathi Live ", MAIBOLI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=282030&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MARATHIBANA" tvg-logo="http://logo.protv.cc/picons/logos/MARATHIBANA.jpeg" group-title="VT TVC | Marathi Live ", MARATHIBANA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=282025&extension=.ts
-#EXTINF:-1 tvg-id="SaamTV.in" tvg-name=" SAAM TV" tvg-logo="http://logo.protv.cc/picons/logos/SAAM-TV.png" group-title="VT TVC | Marathi Live ", SAAM TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=282031&extension=.ts
-#EXTINF:-1 tvg-id="StarPravah.in" tvg-name=" STAR PRAVAH" tvg-logo="http://logo.protv.cc/picons/logos/STAR-PARVAH.png" group-title="VT TVC | Marathi Live ", STAR PRAVAH
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=282021&extension=.ts
-#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name=" TV9" tvg-logo="http://logo.protv.cc/picons/logos/tv9.png" group-title="VT TVC | Marathi Live ", TV9 Marathi
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=282027&extension=.ts
-
-
-
-                      _________ SONY LIVE_______
-					  
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", SET HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony Sab HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony Marathi 
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony Pal
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony AATH
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony BBC Earth HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony Max HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony Max 2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony Wah
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Ten 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Ten 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Ten 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Ten 4 HD
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Ten 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Ten 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Ten 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Ten 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Ten 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Ten 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony Pix HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony KAL
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | Sony Liv", Sony Crackle
-https://crackle-plex.amagi.tv/playlist720p.m3u8
-
-
-
-              --------===== HINDI LIVE TV ====--------
-
-#EXTINF:-1 tvg-id="AndTV.in" tvg-name=" AND TV HD" tvg-logo="http://logo.protv.cc/picons/logos/andtvhd.png" group-title="VT TVC | Hindi Live ", AND TV HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=809740&extension=.ts
-#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name=" ZEE ACTION" tvg-logo="http://logo.protv.cc/picons/logos/zeeaction.jpg" group-title="VT TVC | Hindi Live ", ZEE ACTION
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156139&extension=.ts
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name=" ZEE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" group-title="VT TVC | Hindi Live ", ZEE TV HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155974&extension=.ts
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name=" ZEE TV" tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" group-title="VT TVC | Hindi Live ", ZEE TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280773&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DINCHAAK 1" tvg-logo="http://logo.protv.cc/picons/logos/zeetvhd.png" group-title="VT TVC | Hindi Live ", DINCHAAK 1
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157155&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DINCHAAK 2" tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" group-title="VT TVC | Hindi Live ", DINCHAAK 2
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157158&extension=.ts
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name=" ZEE CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/in.zeecinema.png" group-title="VT TVC | Hindi Live ", ZEE CINEMA HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155975&extension=.ts
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name=" ZEE CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/in.zeecinema.png" group-title="VT TVC | Hindi Live ", ZEE CINEMA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280772&extension=.ts
-#EXTINF:-1 tvg-id="ZETCBollywood.in" tvg-name=" ZEE BOLLWOOD" tvg-logo="http://logo.protv.cc/picons/logos/zeebollywood.jpg" group-title="VT TVC | Hindi Live ", ZEE BOLLWOOD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=311859&extension=.ts
-#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name=" ZEE CLASSIC" tvg-logo="http://logo.protv.cc/picons/logos/zeeclassic.jpg" group-title="VT TVC | Hindi Live ", ZEE CLASSIC
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=311858&extension=.ts
-#EXTINF:-1 tvg-id="Zing.in" tvg-name=" ZING" tvg-logo="http://logo.protv.cc/picons/logos/in.zing.png" group-title="VT TVC | Hindi Live ", ZING
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156046&extension=.ts
-#EXTINF:-1 tvg-id="Colors.in" tvg-name=" COLORS" tvg-logo="http://logo.protv.cc/picons/logos/colorshd.png" group-title="VT TVC | Hindi Live ", COLORS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156172&extension=.ts
-#EXTINF:-1 tvg-id="Colors.in" tvg-name=" COLORS TV HD" tvg-logo="http://logo.protv.cc/picons/logos/in.colors.png" group-title="VT TVC | Hindi Live ", COLORS TV HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280774&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AAPKA COLORS HD USA" tvg-logo="http://logo.protv.cc/picons/logos/AAPKA-COLORS.png" group-title="VT TVC | Hindi Live ", AAPKA COLORS HD USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157161&extension=.ts
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name=" STAR GOLD HD" tvg-logo="http://logo.protv.cc/picons/logos/stargoldhd.png" group-title="VT TVC | Hindi Live ", STAR GOLD HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155969&extension=.ts
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name=" STAR GOLD" tvg-logo="http://logo.protv.cc/picons/logos/in.stargold.png" group-title="VT TVC | Hindi Live ", STAR GOLD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280766&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR GOLD 2" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARGOLDHD.png" group-title="VT TVC | Hindi Live ", STAR GOLD 2
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112132&extension=.ts
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name=" STAR GOLD SELECT HD" tvg-logo="http://logo.protv.cc/picons/logos/stargoldselect.png" group-title="VT TVC | Hindi Live ", STAR GOLD SELECT HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155970&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR GOLD SELECT" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARGOLDHD.png" group-title="VT TVC | Hindi Live ", STAR GOLD SELECT
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1118071&extension=.ts
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name=" STARGOLD SELECT" tvg-logo="http://logo.protv.cc/picons/logos/stargoldselect.png" group-title="VT TVC | Hindi Live ", STARGOLD SELECT
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280778&extension=.ts
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name=" STAR PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/starplushd.png" group-title="VT TVC | Hindi Live ", STAR PLUS HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155971&extension=.ts
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name=" STAR PLUS" tvg-logo="http://logo.protv.cc/picons/logos/in.starplus.png" group-title="VT TVC | Hindi Live ", STAR PLUS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280767&extension=.ts
-#EXTINF:-1 tvg-id="StarBharat.in" tvg-name=" STAR BHARAT HD" tvg-logo="http://logo.protv.cc/picons/logos/starbharathd.jpg" group-title="VT TVC | Hindi Live ", STAR BHARAT HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156173&extension=.ts
-#EXTINF:-1 tvg-id="StarBharat.in" tvg-name=" STAR BHARAT" tvg-logo="http://logo.protv.cc/picons/logos/starbharat.png" group-title="VT TVC | Hindi Live ", STAR BHARAT
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280765&extension=.ts
-#EXTINF:-1 tvg-id="StarUtsav.in" tvg-name=" STAR UTSAV" tvg-logo="http://logo.protv.cc/picons/logos/starutsav.png" group-title="VT TVC | Hindi Live ", STAR UTSAV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156163&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR UTSAV MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STAR-UTSAV-MOVIES.png" group-title="VT TVC | Hindi Live ", STAR UTSAV MOVIES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112131&extension=.ts
-#EXTINF:-1 tvg-id="Sony.in" tvg-name=" SONY HD" tvg-logo="http://logo.protv.cc/picons/logos/in.sonytvhd.png" group-title="VT TVC | Hindi Live ", SONY HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156170&extension=.ts
-#EXTINF:-1 tvg-id="Sony.in" tvg-name=" SONY HD (Back-Up)" tvg-logo="http://logo.protv.cc/picons/logos/in.sonytvhd.png" group-title="VT TVC | Hindi Live ", SONY HD (Back-Up)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156104&extension=.ts
-#EXTINF:-1 tvg-id="Sony.in" tvg-name=" SONY TV" tvg-logo="http://logo.protv.cc/picons/logos/sonytv.png" group-title="VT TVC | Hindi Live ", SONY TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280777&extension=.ts
-#EXTINF:-1 tvg-id="Sony.in" tvg-name=" SONY HD USA" tvg-logo="http://logo.protv.cc/picons/logos/in.sonytvhd.png" group-title="VT TVC | Hindi Live ", SONY HD USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157159&extension=.ts
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name=" SONY MAX HD" tvg-logo="http://logo.protv.cc/picons/logos/in.sonymaxhd.png" group-title="VT TVC | Hindi Live ", SONY MAX HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156013&extension=.ts
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name=" SONY MAX HD (Back-Up)" tvg-logo="http://logo.protv.cc/picons/logos/SONY-MAX-HD.png" group-title="VT TVC | Hindi Live ", SONY MAX HD (Back-Up)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156106&extension=.ts
-#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name=" SONY MAX 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/sonymax2.png" group-title="VT TVC | Hindi Live ", SONY MAX 2 HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280780&extension=.ts
-#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name=" SONY MAX 2" tvg-logo="http://logo.protv.cc/picons/logos/sonymax2.png" group-title="VT TVC | Hindi Live ", SONY MAX 2
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156118
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name=" SONY SAB HD" tvg-logo="http://logo.protv.cc/picons/logos/sonysabhd.jpg" group-title="VT TVC | Hindi Live ", SONY SAB HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156014&extension=.ts
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name=" SONY SAB" tvg-logo="http://logo.protv.cc/picons/logos/sonysab.png" group-title="VT TVC | Hindi Live ", SONY SAB
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280764&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" JAYA MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/JAYA-MOVIES.png" group-title="VT TVC | Hindi Live ", JAYA MOVIES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945584&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" JAYA TV" tvg-logo="http://logo.protv.cc/picons/logos/JAYA-TV.png" group-title="VT TVC | Hindi Live ", JAYA TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945583&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" PUTHIYA THALAIMURAI" tvg-logo="http://logo.protv.cc/picons/logos/PUTHIYA-THALIMURAI.jpg" group-title="VT TVC | Hindi Live ", PUTHIYA THALAIMURAI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945582&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" KALAIGNAR TV" tvg-logo="http://logo.protv.cc/picons/logos/KALAINGAR-TV.jpg" group-title="VT TVC | Hindi Live ", KALAIGNAR TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945581&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" KTV" tvg-logo="http://logo.protv.cc/picons/logos/ktv.png" group-title="VT TVC | Hindi Live ", KTV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945580&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR JALSHA" tvg-logo="http://logo.protv.cc/picons/logos/STAR-JALSHA.png" group-title="VT TVC | Hindi Live ", STAR JALSHA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945575&extension=.ts
-#EXTINF:-1 tvg-id="StarPlus.uk" tvg-name=" UTSAV PLUS" tvg-logo="http://logo.protv.cc/picons/logos/in.starplus.png" group-title="VT TVC | Hindi Live ", UTSAV PLUS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945574&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR VIJAY" tvg-logo="http://logo.protv.cc/picons/logos/starvijay.png" group-title="VT TVC | Hindi Live ", STAR VIJAY
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945573&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR PRAVAH" tvg-logo="http://logo.protv.cc/picons/logos/starpravah.jpg" group-title="VT TVC | Hindi Live ", STAR PRAVAH
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945553&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR VIJAY" tvg-logo="http://logo.protv.cc/picons/logos/starvijay.png" group-title="VT TVC | Hindi Live ", STAR VIJAY
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945552&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR BHARAT UK" tvg-logo="http://logo.protv.cc/picons/logos/starbharat.png" group-title="VT TVC | Hindi Live ", STAR BHARAT UK
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945579&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MAKKAL TV" tvg-logo="http://logo.protv.cc/picons/logos/MAKKAL-TV.jpeg" group-title="VT TVC | Hindi Live ", MAKKAL TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945578&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" POLIMER TV" tvg-logo="http://logo.protv.cc/picons/logos/POLIMER-TV.jpeg" group-title="VT TVC | Hindi Live ", POLIMER TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945577&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" RUPASHI BANGLA" tvg-logo="http://logo.protv.cc/picons/logos/RUPASHI-BANGLA.jpg" group-title="VT TVC | Hindi Live ", RUPASHI BANGLA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945576&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SUN MUSIC" tvg-logo="http://logo.protv.cc/picons/logos/sunmusic.png" group-title="VT TVC | Hindi Live ", SUN MUSIC
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945572&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SUN TV" tvg-logo="http://logo.protv.cc/picons/logos/suntv.jpg" group-title="VT TVC | Hindi Live ", SUN TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945571&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" VENDHAR TV" tvg-logo="http://logo.protv.cc/picons/logos/VENDHAR-TV.jpeg" group-title="VT TVC | Hindi Live ", VENDHAR TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945570&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" BBO" tvg-logo="http://logo.protv.cc/picons/logos/BBO-TV.jpeg" group-title="VT TVC | Hindi Live ", BBO
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945568&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" KBO" tvg-logo="http://logo.protv.cc/picons/logos/KBO-TV.png" group-title="VT TVC | Hindi Live ", KBO
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945567&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MBO" tvg-logo="http://logo.protv.cc/picons/logos/MBO-TV.jpeg" group-title="VT TVC | Hindi Live ", MBO
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945566&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZOOM" tvg-logo="http://logo.protv.cc/picons/logos/zoom.jpg" group-title="VT TVC | Hindi Live ", ZOOM
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945564&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ADITHYA TV" tvg-logo="http://logo.protv.cc/picons/logos/ADITHYA-TV.jpeg" group-title="VT TVC | Hindi Live ", ADITHYA TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945563&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ASIANET PLUS" tvg-logo="http://logo.protv.cc/picons/logos/ASIANET-PLUS.jpg" group-title="VT TVC | Hindi Live ", ASIANET PLUS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945562&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ASIANET TV" tvg-logo="http://logo.protv.cc/picons/logos/ASIANET-HD.jpg" group-title="VT TVC | Hindi Live ", ASIANET TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945561&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" JAIHIND TV" tvg-logo="http://logo.protv.cc/picons/logos/JAIHIND-TV.jpg" group-title="VT TVC | Hindi Live ", JAIHIND TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945558&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" JEEVAN TV" tvg-logo="http://logo.protv.cc/picons/logos/JEEVAN-TV.png" group-title="VT TVC | Hindi Live ", JEEVAN TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945557&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" KAIRALI TV" tvg-logo="http://logo.protv.cc/picons/logos/KAIRALI-TV.png" group-title="VT TVC | Hindi Live ", KAIRALI TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945556&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MAA MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/MAA-MOVIES.jpeg" group-title="VT TVC | Hindi Live ", MAA MOVIES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945555&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MAA TV" tvg-logo="http://logo.protv.cc/picons/logos/MAA-TV.png" group-title="VT TVC | Hindi Live ", MAA TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945554&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SUVARNA TV" tvg-logo="http://logo.protv.cc/picons/logos/SUVARNA-TV.jpeg" group-title="VT TVC | Hindi Live ", SUVARNA TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945551&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" WE TV" tvg-logo="http://logo.protv.cc/picons/logos/WE-TV.jpg" group-title="VT TVC | Hindi Live ", WE TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=945550&extension=.ts
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name=" SAB TV HD USA" tvg-logo="http://logo.protv.cc/picons/logos/sonysabhd.jpg" group-title="VT TVC | Hindi Live ", SAB TV HD USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157162&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AND EXPLORER HD" tvg-logo="http://logo.protv.cc/picons/logos/andtv.png" group-title="VT TVC | Hindi Live ", AND EXPLORER HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=209743&extension=.ts
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name=" SONY PIX HD" tvg-logo="http://logo.protv.cc/picons/logos/SONY-PIX-HD.jpeg" group-title="VT TVC | Hindi Live ", SONY PIX HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156004&extension=.ts
-#EXTINF:-1 tvg-id="SonyPal.in" tvg-name=" SONY PAL" tvg-logo="http://logo.protv.cc/picons/logos/sonypal.jpg" group-title="VT TVC | Hindi Live ", SONY PAL
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156101&extension=.ts
-#EXTINF:-1 tvg-id="SonyWah.in" tvg-name=" SONY WAH" tvg-logo="http://logo.protv.cc/picons/logos/sonywah.jpg" group-title="VT TVC | Hindi Live ", SONY WAH
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156039&extension=.ts
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-name=" SONY YAY" tvg-logo="http://logo.protv.cc/picons/logos/SONY-YAY.jpg" group-title="VT TVC | Hindi Live ", SONY YAY
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156089&extension=.ts
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name=" B4U MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/in.b4umovies.png" group-title="VT TVC | Hindi Live ", B4U MOVIES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155987&extension=.ts
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name=" B4U MOVIES USA" tvg-logo="http://logo.protv.cc/picons/logos/in.b4umovies.png" group-title="VT TVC | Hindi Live ", B4U MOVIES USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157163&extension=.ts
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name=" B4U MUSIC INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.B4umusic.png" group-title="VT TVC | Hindi Live ", B4U MUSIC INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280800&extension=.ts
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name=" B4U MUSIC" tvg-logo="http://logo.protv.cc/picons/logos/in.B4umusic.png" group-title="VT TVC | Hindi Live ", B4U MUSIC
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156042&extension=.ts
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name=" B4U MUSIC USA" tvg-logo="http://logo.protv.cc/picons/logos/in.B4umusic.png" group-title="VT TVC | Hindi Live ", B4U MUSIC USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157164&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" B4U KADAK" tvg-logo="http://logo.protv.cc/picons/logos/b4ukadak.jpg" group-title="VT TVC | Hindi Live ", B4U KADAK
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280798&extension=.ts
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name=" B4U MOVIES INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.b4umovies.png" group-title="VT TVC | Hindi Live ", B4U MOVIES INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280799&extension=.ts
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name=" 9X JALWA HD" tvg-logo="http://logo.protv.cc/picons/logos/9xjalwa.jpg" group-title="VT TVC | Hindi Live ", 9X JALWA HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280783&extension=.ts
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name=" 9X JALWA" tvg-logo="http://logo.protv.cc/picons/logos/9xjalwa.jpg" group-title="VT TVC | Hindi Live ", 9X JALWA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156123&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" 9X MUSIC" tvg-logo="http://logo.protv.cc/picons/logos/9xmusic.png" group-title="VT TVC | Hindi Live ", 9X MUSIC
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156120&extension=.ts
-#EXTINF:-1 tvg-id="9XTashan.in" tvg-name=" 9X TASHAN" tvg-logo="http://logo.protv.cc/picons/logos/9X-TASHAN.jpeg" group-title="VT TVC | Hindi Live ", 9X TASHAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156094&extension=.ts
-#EXTINF:-1 tvg-id="9XM.in" tvg-name=" 9XM" tvg-logo="http://logo.protv.cc/picons/logos/9xm.png" group-title="VT TVC | Hindi Live ", 9XM
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280784&extension=.ts
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name=" AAJ TAK" tvg-logo="http://logo.protv.cc/picons/logos/aajtakhd.png" group-title="VT TVC | Hindi Live ", AAJ TAK
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156001&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AAJ TAKTEZ HD" tvg-logo="http://logo.protv.cc/picons/logos/aajtaktejhd.png" group-title="VT TVC | Hindi Live ", AAJ TAKTEZ HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280787&extension=.ts
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name=" AAJ TAK HD" tvg-logo="http://logo.protv.cc/picons/logos/in.aajtak.png" group-title="VT TVC | Hindi Live ", AAJ TAK HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280786&extension=.ts
-#EXTINF:-1 tvg-id="TEZ.in" tvg-name=" AAJ TAK TEZ" tvg-logo="http://logo.protv.cc/picons/logos/in.aajtak.png" group-title="VT TVC | Hindi Live ", AAJ TAK TEZ
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156108&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DILLI AAJ TAKK" tvg-logo="http://logo.protv.cc/picons/logos/DILLI-AAJ-TAKK.png" group-title="VT TVC | Hindi Live ", DILLI AAJ TAKK
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156109&extension=.ts
-#EXTINF:-1 tvg-id="Zoom.in" tvg-name=" ZOOM TV" tvg-logo="http://logo.protv.cc/picons/logos/zoomtv.png" group-title="VT TVC | Hindi Live ", ZOOM TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156161&extension=.ts
-#EXTINF:-1 tvg-id="Aastha.in" tvg-name=" AASTHA HD" tvg-logo="http://logo.protv.cc/picons/logos/in.aastha.png" group-title="VT TVC | Hindi Live ", AASTHA HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280789&extension=.ts
-#EXTINF:-1 tvg-id="Aastha.in" tvg-name=" AASTHA" tvg-logo="http://logo.protv.cc/picons/logos/AASTHA-TV.png" group-title="VT TVC | Hindi Live ", AASTHA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156030&extension=.ts
-#EXTINF:-1 tvg-id="Aastha.in" tvg-name=" AASTHA TV USA" tvg-logo="http://logo.protv.cc/picons/logos/AASTHA-TV.png" group-title="VT TVC | Hindi Live ", AASTHA TV USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157165&extension=.ts
-#EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name=" AASTHA BHAJAN" tvg-logo="http://logo.protv.cc/picons/logos/AASTHA-TV.png" group-title="VT TVC | Hindi Live ", AASTHA BHAJAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156041&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZEE ANMOL" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-ANMOL.jpg" group-title="VT TVC | Hindi Live ", ZEE ANMOL
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156165&extension=.ts
-#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name=" ZEE ANMOL CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-ANMOL-CINEMA.jpg" group-title="VT TVC | Hindi Live ", ZEE ANMOL CINEMA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156146&extension=.ts
-#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name=" ZEE BUSINESS" tvg-logo="http://logo.protv.cc/picons/logos/zeebusiness.jpg" group-title="VT TVC | Hindi Live ", ZEE BUSINESS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156122&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZEE ETC BOLLYWOOD" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-ETC-BOLLYWOOD.png" group-title="VT TVC | Hindi Live ", ZEE ETC BOLLYWOOD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156166&extension=.ts
-#EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-name=" ZEE HINDUSTAN" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-HINDUSTAN.jpg" group-title="VT TVC | Hindi Live ", ZEE HINDUSTAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156137&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZEE NEWS BIHAR" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-NEWS-BIHAR.jpg" group-title="VT TVC | Hindi Live ", ZEE NEWS BIHAR
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156147&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZEE NEWS MP" tvg-logo="http://logo.protv.cc/picons/logos/zeenews.png" group-title="VT TVC | Hindi Live ", ZEE NEWS MP
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156136&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZEE NEWS MP & CH" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-NEWS-MP&CH.jpg" group-title="VT TVC | Hindi Live ", ZEE NEWS MP & CH
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156141&extension=.ts
-#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name=" ZEE NEWS UP" tvg-logo="http://logo.protv.cc/picons/logos/zeenews.png" group-title="VT TVC | Hindi Live ", ZEE NEWS UP
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156150&extension=.ts
-#EXTINF:-1 tvg-id="ABPNews.in" tvg-name=" ABP NEWS" tvg-logo="http://logo.protv.cc/picons/logos/in.abpnews.png" group-title="VT TVC | Hindi Live ", ABP NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156044&extension=.ts
-#EXTINF:-1 tvg-id="APN.in" tvg-name=" APN NEWS" tvg-logo="http://logo.protv.cc/picons/logos/apnnews.jpg" group-title="VT TVC | Hindi Live ", APN NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156144&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" E NEWS 24" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-24.jpg" group-title="VT TVC | Hindi Live ", E NEWS 24
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156121&extension=.ts
-#EXTINF:-1 tvg-id="IndiaNews.in" tvg-name=" INDIA NEWS" tvg-logo="http://logo.protv.cc/picons/logos/INDIA--NEWS.jpg" group-title="VT TVC | Hindi Live ", INDIA NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156045&extension=.ts
-#EXTINF:-1 tvg-id="IndiaNewsHaryana.in" tvg-name=" INDIA NEWS HARYANA" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-18-PUNJAB-HARYANA.jpg" group-title="VT TVC | Hindi Live ", INDIA NEWS HARYANA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156059&extension=.ts
-#EXTINF:-1 tvg-id="IndiaNewsMPCH.in" tvg-name=" INDIA NEWS MP" tvg-logo="http://logo.protv.cc/picons/logos/INDIA-NEWS-MP.jpg" group-title="VT TVC | Hindi Live ", INDIA NEWS MP
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156057&extension=.ts
-#EXTINF:-1 tvg-id="IndiaNewsRaj.in" tvg-name=" INDIA NEWS RAJASTHAN" tvg-logo="http://logo.protv.cc/picons/logos/INDIA-NEWS-RAJASTHAN.jpeg" group-title="VT TVC | Hindi Live ", INDIA NEWS RAJASTHAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156061&extension=.ts
-#EXTINF:-1 tvg-id="IndiaNewsUPUK.in" tvg-name=" INDIA NEWS UP" tvg-logo="http://logo.protv.cc/picons/logos/INDIA-NEWS-UP.jpeg" group-title="VT TVC | Hindi Live ", INDIA NEWS UP
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156058&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MH1 NEWS" tvg-logo="http://logo.protv.cc/picons/logos/MH1-NEWS.jpeg" group-title="VT TVC | Hindi Live ", MH1 NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156169&extension=.ts
-#EXTINF:-1 tvg-id="News18India.in" tvg-name=" NEWS 18 INDIA" tvg-logo="http://logo.protv.cc/picons/logos/news18india.png" group-title="VT TVC | Hindi Live ", NEWS 18 INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156153&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NEWS 18 RAJASTHAN" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-18-RAJASTHAN.jpeg" group-title="VT TVC | Hindi Live ", NEWS 18 RAJASTHAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156113&extension=.ts
-#EXTINF:-1 tvg-id="News24.in" tvg-name=" NEWS 24" tvg-logo="http://logo.protv.cc/picons/logos/news24.png" group-title="VT TVC | Hindi Live ", NEWS 24
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156083&extension=.ts
-#EXTINF:-1 tvg-id="NewsNation.in" tvg-name=" NEWS NATION" tvg-logo="http://logo.protv.cc/picons/logos/newsnation.png" group-title="VT TVC | Hindi Live ", NEWS NATION
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156084&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NEWS STATE" tvg-logo="http://logo.protv.cc/picons/logos/newsstate.JPG" group-title="VT TVC | Hindi Live ", NEWS STATE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156081&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NEWS X" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-X.jpg" group-title="VT TVC | Hindi Live ", NEWS X
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156060&extension=.ts
-#EXTINF:-1 tvg-id="REPUBLICTV.in" tvg-name=" REPUBLIC NEWS" tvg-logo="http://logo.protv.cc/picons/logos/REPUBLIC-NEWS.png" group-title="VT TVC | Hindi Live ", REPUBLIC NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156145&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAHARA NEWS NATIONAL" tvg-logo="http://logo.protv.cc/picons/logos/SAHARA-NEWS-NATIONAL.png" group-title="VT TVC | Hindi Live ", SAHARA NEWS NATIONAL
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156064&extension=.ts
-#EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name=" SUDARSHAN NEWS" tvg-logo="http://logo.protv.cc/picons/logos/SUDARSHAN-NEWS.jpeg" group-title="VT TVC | Hindi Live ", SUDARSHAN NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156062&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TEJ NEWS" tvg-logo="http://logo.protv.cc/picons/logos/TEJ-NEWS.jpg" group-title="VT TVC | Hindi Live ", TEJ NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156159&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SADHNA PRIME NEWS" tvg-logo="http://logo.protv.cc/picons/logos/SADHNA-NEWS.png" group-title="VT TVC | Hindi Live ", SADHNA PRIME NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280880&extension=.ts
-#EXTINF:-1 tvg-id="NewsStateUPUK.in" tvg-name=" NEWS STATE UP UK" tvg-logo="http://logo.protv.cc/picons/logos/newsstate.JPG" group-title="VT TVC | Hindi Live ", NEWS STATE UP UK
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280875&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NEWS STATE MPCHG" tvg-logo="http://logo.protv.cc/picons/logos/newsstate.JPG" group-title="VT TVC | Hindi Live ", NEWS STATE MPCHG
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280874&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NEWS INDIA 24X7" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-INDIA-24X7.jpg" group-title="VT TVC | Hindi Live ", NEWS INDIA 24X7
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280872&extension=.ts
-#EXTINF:-1 tvg-id="News1India.in" tvg-name=" NEWS 1 INDIA" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-1-INDIA.png" group-title="VT TVC | Hindi Live ", NEWS 1 INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280870&extension=.ts
-#EXTINF:-1 tvg-id="News11.in" tvg-name=" NEWS 11 BHARAT" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-11-BHARAT.jpeg" group-title="VT TVC | Hindi Live ", NEWS 11 BHARAT
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280868&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" KNEWS INDIA" tvg-logo="http://logo.protv.cc/picons/logos/KNEWS-INDIA.jpg" group-title="VT TVC | Hindi Live ", KNEWS INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280855&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" KASHISH NEWS" tvg-logo="http://logo.protv.cc/picons/logos/KASHISH-NEWS.png" group-title="VT TVC | Hindi Live ", KASHISH NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280853&extension=.ts
-#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name=" ZEE NEWS" tvg-logo="http://logo.protv.cc/picons/logos/zeenews.png" group-title="VT TVC | Hindi Live ", ZEE NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156051&extension=.ts
-#EXTINF:-1 tvg-id="ZeeYuva.in" tvg-name=" ZEE YUVA" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-YUVA.jpg" group-title="VT TVC | Hindi Live ", ZEE YUVA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156151&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZEE RAJASTHAN" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-RAJASTHAN.jpg" group-title="VT TVC | Hindi Live ", ZEE RAJASTHAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156098&extension=.ts
-#EXTINF:-1 tvg-id="AndFlix.in" tvg-name=" AND FLIX HD" tvg-logo="http://logo.protv.cc/picons/logos/AND-FLIX.png" group-title="VT TVC | Hindi Live ", AND FLIX HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155990&extension=.ts
-#EXTINF:-1 tvg-id="AndPictures.in" tvg-name=" AND PICTURES HD" tvg-logo="http://logo.protv.cc/picons/logos/andpicture.jpg" group-title="VT TVC | Hindi Live ", AND PICTURES HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155997&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AND PICTURES" tvg-logo="http://logo.protv.cc/picons/logos/andpicture.jpg" group-title="VT TVC | Hindi Live ", AND PICTURES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280744&extension=.ts
-#EXTINF:-1 tvg-id="AndTV.in" tvg-name=" AND TV HD" tvg-logo="http://logo.protv.cc/picons/logos/andtvhd.png" group-title="VT TVC | Hindi Live ", AND TV HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155992&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AND TV" tvg-logo="http://logo.protv.cc/picons/logos/andtv.png" group-title="VT TVC | Hindi Live ", AND TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280745&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AND TV HD USA" tvg-logo="http://logo.protv.cc/picons/logos/andtvhd.png" group-title="VT TVC | Hindi Live ", AND TV HD USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157160&extension=.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name=" ANIMAL PLANET HD" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="VT TVC | Hindi Live ", ANIMAL PLANET HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156168&extension=.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name=" ANIMAL PLANET" tvg-logo="http://logo.protv.cc/picons/logos/animalplanet.png" group-title="VT TVC | Hindi Live ", ANIMAL PLANET
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280746&extension=.ts
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name=" BBC EARTH HD" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="VT TVC | Hindi Live ", BBC EARTH HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156012&extension=.ts
-#EXTINF:-1 tvg-id="BhaktiTV.in" tvg-name=" BHAKTI SAGAR HD" tvg-logo="http://logo.protv.cc/picons/logos/BHAKTI-SAGAR.jpg" group-title="VT TVC | Hindi Live ", BHAKTI SAGAR HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156154&extension=.ts
-#EXTINF:-1 tvg-id="Cineplex.in" tvg-name=" CINEPLEX HD" tvg-logo="http://logo.protv.cc/picons/logos/cineplexhd.jpg" group-title="VT TVC | Hindi Live ", CINEPLEX HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156003&extension=.ts
-#EXTINF:-1 tvg-id="Cineplex.in" tvg-name=" CINEPLEX" tvg-logo="http://logo.protv.cc/picons/logos/cineplex.png" group-title="VT TVC | Hindi Live ", CINEPLEX
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280749&extension=.ts
-#EXTINF:-1 tvg-id="DDNews.in" tvg-name=" DD NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/ddnews.jpg" group-title="VT TVC | Hindi Live ", DD NEWS HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155978&extension=.ts
-#EXTINF:-1 tvg-id="DDBihar.in" tvg-name=" DD BIHAR" tvg-logo="http://logo.protv.cc/picons/logos/DD-BIHAR.jpg" group-title="VT TVC | Hindi Live ", DD BIHAR
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156092&extension=.ts
-#EXTINF:-1 tvg-id="DDIndia.in" tvg-name=" DD INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ddindia.png" group-title="VT TVC | Hindi Live ", DD INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156095&extension=.ts
-#EXTINF:-1 tvg-id="DDManipur.in" tvg-name=" DD MP" tvg-logo="http://logo.protv.cc/picons/logos/DD-MP.jpeg" group-title="VT TVC | Hindi Live ", DD MP
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156093&extension=.ts
-#EXTINF:-1 tvg-id="DDNational.in" tvg-name=" DD NATIONAL HD" tvg-logo="http://logo.protv.cc/picons/logos/ddnationalhd.jpg" group-title="VT TVC | Hindi Live ", DD NATIONAL HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155977&extension=.ts
-#EXTINF:-1 tvg-id="DDRajasthan.in" tvg-name=" DD RAJASTHAN" tvg-logo="http://logo.protv.cc/picons/logos/ddrajashtan.jpg" group-title="VT TVC | Hindi Live ", DD RAJASTHAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156091&extension=.ts
-#EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-name=" DD UP" tvg-logo="http://logo.protv.cc/picons/logos/DD-UP.png" group-title="VT TVC | Hindi Live ", DD UP
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156090&extension=.ts
-#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name=" DD URDU" tvg-logo="http://logo.protv.cc/picons/logos/DD-URDU.png" group-title="VT TVC | Hindi Live ", DD URDU
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280827&extension=.ts
-#EXTINF:-1 tvg-id="DDSports.in" tvg-name=" DD SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/ddsports.jpg" group-title="VT TVC | Hindi Live ", DD SPORTS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280825&extension=.ts
-#EXTINF:-1 tvg-id="DDNational.in" tvg-name=" DD NATIONAL" tvg-logo="http://logo.protv.cc/picons/logos/ddnationalhd.jpg" group-title="VT TVC | Hindi Live ", DD NATIONAL
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280822&extension=.ts
-#EXTINF:-1 tvg-id="DDKisan.in" tvg-name=" DD KISAN" tvg-logo="http://logo.protv.cc/picons/logos/DD-KISAN.jpg" group-title="VT TVC | Hindi Live ", DD KISAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280820&extension=.ts
-#EXTINF:-1 tvg-id="DDKashir.in" tvg-name=" DD KASHIR" tvg-logo="http://logo.protv.cc/picons/logos/DD-KASHIR.jpg" group-title="VT TVC | Hindi Live ", DD KASHIR
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280819&extension=.ts
-#EXTINF:-1 tvg-id="DDBharati.in" tvg-name=" DD BHARTI" tvg-logo="http://logo.protv.cc/picons/logos/DD-BHARTI.png" group-title="VT TVC | Hindi Live ", DD BHARTI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156126&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HALLA BOL! USA" tvg-logo="http://logo.protv.cc/picons/logos/HALLA-BOL!.png" group-title="VT TVC | Hindi Live ", HALLA BOL! USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157166&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" KATHYANI TV USA" tvg-logo="http://logo.protv.cc/picons/logos/KATHYANI-TV.jpeg" group-title="VT TVC | Hindi Live ", KATHYANI TV USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157169&extension=.ts
-#EXTINF:-1 tvg-id="ShubhTV.in" tvg-name=" SHUBH TV USA" tvg-logo="http://logo.protv.cc/picons/logos/SHUBH-TV.jpg" group-title="VT TVC | Hindi Live ", SHUBH TV USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157168&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TOTAL TV USA" tvg-logo="http://logo.protv.cc/picons/logos/TOTAL-TV.png" group-title="VT TVC | Hindi Live ", TOTAL TV USA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=157167&extension=.ts
-#EXTINF:-1 tvg-id="FoodFood.in" tvg-name=" FOOD FOOD HD" tvg-logo="http://logo.protv.cc/picons/logos/FOOD-FOOD.jpeg" group-title="VT TVC | Hindi Live ", FOOD FOOD HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156105&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY WORLD HD" tvg-logo="http://logo.protv.cc/picons/logos/discoveryworld.png" group-title="VT TVC | Hindi Live ", DISCOVERY WORLD HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155999&extension=.ts
-#EXTINF:-1 tvg-id="DiscoveryJeet.in" tvg-name=" DISCOVERY JEET HD" tvg-logo="http://logo.protv.cc/picons/logos/discoveryjeet.png" group-title="VT TVC | Hindi Live ", DISCOVERY JEET HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156006&extension=.ts
-#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name=" DISCOVERY KIDS" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-KIDS-HD.jpg" group-title="VT TVC | Hindi Live ", DISCOVERY KIDS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156127&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY" tvg-logo="http://logo.protv.cc/picons/logos/discovery.png" group-title="VT TVC | Hindi Live ", DISCOVERY
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280754&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HUNGAMA BOL HADIPA" tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="VT TVC | Hindi Live ", HUNGAMA BOL HADIPA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156162&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HUNGAMA DIL DE HD" tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="VT TVC | Hindi Live ", HUNGAMA DIL DE HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156156&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HUNGAMA KADAK HITS" tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="VT TVC | Hindi Live ", HUNGAMA KADAK HITS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156167&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HUNGAMA NAZRANA HD" tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="VT TVC | Hindi Live ", HUNGAMA NAZRANA HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156157&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HUNGAMA POP PATAKA" tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="VT TVC | Hindi Live ", HUNGAMA POP PATAKA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156171&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" KRISHNA VANI HD" tvg-logo="http://logo.protv.cc/picons/logos/KRISHNA-VANI.png" group-title="VT TVC | Hindi Live ", KRISHNA VANI HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156107&extension=.ts
-#EXTINF:-1 tvg-id="LivingFoodz.in" tvg-name=" LIVING FOODZ HD" tvg-logo="http://logo.protv.cc/picons/logos/livingfoodzhd.png" group-title="VT TVC | Hindi Live ", LIVING FOODZ HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156007&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NAT GEO HD" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="VT TVC | Hindi Live ", NAT GEO HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156011&extension=.ts
-#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-name=" NAT GEO WILD HD" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="VT TVC | Hindi Live ", NAT GEO WILD HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155989&extension=.ts
-#EXTINF:-1 tvg-id="UTVAction.in" tvg-name=" STAR GOLD THRILLS" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" group-title="VT TVC | Hindi Live ", STAR GOLD THRILLS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155996&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR GOLD THRILLS" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" group-title="VT TVC | Hindi Live ", STAR GOLD THRILLS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1118072&extension=.ts
-#EXTINF:-1 tvg-id="UTV.in" tvg-name=" STAR GOLD THRILLS" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" group-title="VT TVC | Hindi Live ", STAR GOLD THRILLS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156005&extension=.ts
-#EXTINF:-1 tvg-id="UTVMovies.in" tvg-name=" STAR GOLD ROMANCE" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Star_Gold_Romance.png" group-title="VT TVC | Hindi Live ", STAR GOLD ROMANCE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156033&extension=.ts
-#EXTINF:-1 tvg-id="Arihant.in" tvg-name=" ARIHANT" tvg-logo="http://logo.protv.cc/picons/logos/arihant.png" group-title="VT TVC | Hindi Live ", ARIHANT
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156035&extension=.ts
-#EXTINF:-1 tvg-id="BigMagic.in" tvg-name=" BIG MAGIC" tvg-logo="http://logo.protv.cc/picons/logos/bigmagic.jpg" group-title="VT TVC | Hindi Live ", BIG MAGIC
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156129&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" BINDAS MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/bindas.jpg" group-title="VT TVC | Hindi Live ", BINDAS MOVIES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156032&extension=.ts
-#EXTINF:-1 tvg-id="CinemaTV.in" tvg-name=" CINEMA TV INDIA" tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-TV-INDIA.png" group-title="VT TVC | Hindi Live ", CINEMA TV INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280811&extension=.ts
-#EXTINF:-1 tvg-id="CinemaTV.in" tvg-name=" CINEMA TV" tvg-logo="http://logo.protv.cc/picons/logos/cinematv.jpg" group-title="VT TVC | Hindi Live ", CINEMA TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155979&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" COMEDY ACTIVE" tvg-logo="http://logo.protv.cc/picons/logos/comedyactive.png" group-title="VT TVC | Hindi Live ", COMEDY ACTIVE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155991&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DABANGG" tvg-logo="http://logo.protv.cc/picons/logos/dabangg.png" group-title="VT TVC | Hindi Live ", DABANGG
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156043&extension=.ts
-#EXTINF:-1 tvg-id="Dangal.in" tvg-name=" DANGAL" tvg-logo="http://logo.protv.cc/picons/logos/dangal.jpg" group-title="VT TVC | Hindi Live ", DANGAL
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156049&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DISH CINE ACTIVE" tvg-logo="http://logo.protv.cc/picons/logos/DISH-CINE-ACTIVE.png" group-title="VT TVC | Hindi Live ", DISH CINE ACTIVE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155993&extension=.ts
-#EXTINF:-1 tvg-id="DivyavaniTV.in" tvg-name=" DIVYA TV" tvg-logo="http://logo.protv.cc/picons/logos/divya.jpg" group-title="VT TVC | Hindi Live ", DIVYA TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156132&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DISNEY SD" tvg-logo="http://logo.protv.cc/picons/logos/disney.png" group-title="VT TVC | Hindi Live ", DISNEY SD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156000&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DISNEY CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/disney.png" group-title="VT TVC | Hindi Live ", DISNEY CHANNEL
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1158195&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DISNEY JUNIOR" tvg-logo="http://logo.protv.cc/picons/logos/DISNEY-JUNIOR-HD.png" group-title="VT TVC | Hindi Live ", DISNEY JUNIOR
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=811469&extension=.ts
-#EXTINF:-1 tvg-id="Enterr10.in" tvg-name=" ENTERR 10" tvg-logo="http://logo.protv.cc/picons/logos/enterr10.jpg" group-title="VT TVC | Hindi Live ", ENTERR 10
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280834&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ENTER 10 MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/ENTER-10-MOVIES.png" group-title="VT TVC | Hindi Live ", ENTER 10 MOVIES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155988&extension=.ts
-#EXTINF:-1 tvg-id="EPIC.in" tvg-name=" EPIC" tvg-logo="http://logo.protv.cc/picons/logos/epic.png" group-title="VT TVC | Hindi Live ", EPIC
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280835&extension=.ts
-#EXTINF:-1 tvg-id="EPIC.in" tvg-name=" EPIC HD" tvg-logo="http://logo.protv.cc/picons/logos/epic.png" group-title="VT TVC | Hindi Live ", EPIC HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156074&extension=.ts
-#EXTINF:-1 tvg-id="ETNOW.in" tvg-name=" ET NOW" tvg-logo="http://logo.protv.cc/picons/logos/ET-NOW.png" group-title="VT TVC | Hindi Live ", ET NOW
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156164&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" EVERGREEN CLASSIC" tvg-logo="http://logo.protv.cc/picons/logos/EVERGREEN-CLASSIC.jpg" group-title="VT TVC | Hindi Live ", EVERGREEN CLASSIC
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155994&extension=.ts
-#EXTINF:-1 tvg-id="FOXLife.in" tvg-name=" FOX LIFE HD" tvg-logo="http://logo.protv.cc/picons/logos/foxlifehd.png" group-title="VT TVC | Hindi Live ", FOX LIFE HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156023&extension=.ts
-#EXTINF:-1 tvg-id="FOXLife.in" tvg-name=" FOX LIFE" tvg-logo="http://logo.protv.cc/picons/logos/foxlife.png" group-title="VT TVC | Hindi Live ", FOX LIFE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280755&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" GANGA" tvg-logo="http://logo.protv.cc/picons/logos/ganga.jpg" group-title="VT TVC | Hindi Live ", GANGA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155981&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HARE KRISHNA HD" tvg-logo="http://logo.protv.cc/picons/logos/harekrishna.jpg" group-title="VT TVC | Hindi Live ", HARE KRISHNA HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156133&extension=.ts
-#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name=" HISTORY TV 18 HD" tvg-logo="http://logo.protv.cc/picons/logos/historytv18.jpg" group-title="VT TVC | Hindi Live ", HISTORY TV 18 HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156018&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HISTORY TV 18 FHD" tvg-logo="http://logo.protv.cc/picons/logos/historytv18.jpg" group-title="VT TVC | Hindi Live ", HISTORY TV 18 FHD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1118065&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HOUSEFULL ACTION" tvg-logo="http://logo.protv.cc/picons/logos/housefullaction.jpg" group-title="VT TVC | Hindi Live ", HOUSEFULL ACTION
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156055&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HOUSEFULL MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/housefullmovies.jpg" group-title="VT TVC | Hindi Live ", HOUSEFULL MOVIES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156054&extension=.ts
-#EXTINF:-1 tvg-id="IBC24.in" tvg-name=" IBC 24" tvg-logo="http://logo.protv.cc/picons/logos/IBC-24.jpg" group-title="VT TVC | Hindi Live ", IBC 24
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156082&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" IDN LOKMAT" tvg-logo="http://logo.protv.cc/picons/logos/IBN-LOKMAT.png" group-title="VT TVC | Hindi Live ", IDN LOKMAT
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156142&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" INDIA VOICE" tvg-logo="http://logo.protv.cc/picons/logos/INDIA-VOICE.jpg" group-title="VT TVC | Hindi Live ", INDIA VOICE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156143&extension=.ts
-#EXTINF:-1 tvg-id="IshwarTV.in" tvg-name=" ISHWAR TV" tvg-logo="http://logo.protv.cc/picons/logos/ISHWAR-TV.jpeg" group-title="VT TVC | Hindi Live ", ISHWAR TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156036&extension=.ts
-#EXTINF:-1 tvg-id="IshwarTV.in" tvg-name=" ISHWAR BHAKTI" tvg-logo="http://logo.protv.cc/picons/logos/ISHWAR-TV.jpeg" group-title="VT TVC | Hindi Live ", ISHWAR BHAKTI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280849&extension=.ts
-#EXTINF:-1 tvg-id="JantaTV.in" tvg-name=" JANTA TV" tvg-logo="http://logo.protv.cc/picons/logos/jantatv.jpg" group-title="VT TVC | Hindi Live ", JANTA TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156119&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" JAN TV" tvg-logo="http://logo.protv.cc/picons/logos/jantv.jpg" group-title="VT TVC | Hindi Live ", JAN TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280850&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MAHA MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/MAHA-MOVIES.jpeg" group-title="VT TVC | Hindi Live ", MAHA MOVIES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155986&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MAHA MOVIE" tvg-logo="http://logo.protv.cc/picons/logos/MAHA-MOVIES.jpeg" group-title="VT TVC | Hindi Live ", MAHA MOVIE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156063&extension=.ts
-#EXTINF:-1 tvg-id="Mastiii.in" tvg-name=" MASTII" tvg-logo="http://logo.protv.cc/picons/logos/MASTII-.png" group-title="VT TVC | Hindi Live ", MASTII
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156050&extension=.ts
-#EXTINF:-1 tvg-id="Miniplex.in" tvg-name=" MINIPLEX HD" tvg-logo="http://logo.protv.cc/picons/logos/miniplex.png" group-title="VT TVC | Hindi Live ", MINIPLEX HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156020&extension=.ts
-#EXTINF:-1 tvg-id="MirrorNow.in" tvg-name=" MIRROR NOW" tvg-logo="http://logo.protv.cc/picons/logos/Mirror_Now.png" group-title="VT TVC | Hindi Live ", MIRROR NOW
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156160&extension=.ts
-#EXTINF:-1 tvg-id="MNPlus.in" tvg-name=" MN PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/mn_plus.png" group-title="VT TVC | Hindi Live ", MN PLUS HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156025&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MNX HD" tvg-logo="http://logo.protv.cc/picons/logos/mnx_hd.png" group-title="VT TVC | Hindi Live ", MNX HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156021&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MOVIE HOUSE" tvg-logo="http://logo.protv.cc/picons/logos/MOVIE-HOUSE.jpg" group-title="VT TVC | Hindi Live ", MOVIE HOUSE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155980&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MOVIES ACTIVE" tvg-logo="http://logo.protv.cc/picons/logos/moviesactive.jpg" group-title="VT TVC | Hindi Live ", MOVIES ACTIVE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155995&extension=.ts
-#EXTINF:-1 tvg-id="HDMoviesNow.in" tvg-name=" MOVIES NOW HD" tvg-logo="http://logo.protv.cc/picons/logos/MOVIES-NOW-HD.jpg" group-title="VT TVC | Hindi Live ", MOVIES NOW HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156022
-#EXTINF:-1 tvg-id="" tvg-name=" MTUNES PLUS" tvg-logo="http://logo.protv.cc/picons/logos/MTUNES-.png" group-title="VT TVC | Hindi Live ", MTUNES PLUS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156076&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MULTIPLEX MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/MULTIPLEX-.jpeg" group-title="VT TVC | Hindi Live ", MULTIPLEX MOVIES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156077&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MTV BEATS FHD" tvg-logo="http://logo.protv.cc/picons/logos/mtvbeats.png" group-title="VT TVC | Hindi Live ", MTV BEATS FHD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1118070&extension=.ts
-#EXTINF:-1 tvg-id="MTVBeats.in" tvg-name=" MTV BEATS HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvbeats.jpg" group-title="VT TVC | Hindi Live ", MTV BEATS HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156031&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MTV PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvplus.jpg" group-title="VT TVC | Hindi Live ", MTV PLUS HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156002&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MTV HD" tvg-logo="http://logo.protv.cc/picons/logos/MTV-HD.png" group-title="VT TVC | Hindi Live ", MTV HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1118066&extension=.ts
-#EXTINF:-1 tvg-id="MTVIndia.mu" tvg-name=" MTV" tvg-logo="http://logo.protv.cc/picons/logos/mtv.png" group-title="VT TVC | Hindi Live ", MTV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280760&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MUSIC INDIA" tvg-logo="http://logo.protv.cc/picons/logos/musicindia.png" group-title="VT TVC | Hindi Live ", MUSIC INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156056&extension=.ts
-#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name=" NDTV 24x7" tvg-logo="http://logo.protv.cc/picons/logos/ndtv24x7.png" group-title="VT TVC | Hindi Live ", NDTV 24x7
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156116&extension=.ts
-#EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name=" NDTV GOOD TIMES" tvg-logo="http://logo.protv.cc/picons/logos/ndtvgoodtimes.png" group-title="VT TVC | Hindi Live ", NDTV GOOD TIMES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156075&extension=.ts
-#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name=" NDTV INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ndtvindia.png" group-title="VT TVC | Hindi Live ", NDTV INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156052&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NDTV PROFIT" tvg-logo="http://logo.protv.cc/picons/logos/NDTV-PROFIT.jpeg" group-title="VT TVC | Hindi Live ", NDTV PROFIT
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156114&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" OM SHANTI" tvg-logo="http://logo.protv.cc/picons/logos/OM-SHANTI.jpg" group-title="VT TVC | Hindi Live ", OM SHANTI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156080&extension=.ts
-#EXTINF:-1 tvg-id="ParasTV.in" tvg-name=" PARAS TV" tvg-logo="http://logo.protv.cc/picons/logos/parastv.jpg" group-title="VT TVC | Hindi Live ", PARAS TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156158&extension=.ts
-#EXTINF:-1 tvg-id="PeaceofMind.in" tvg-name=" PEACE OF MIND" tvg-logo="http://logo.protv.cc/picons/logos/peaceofmind.jpg" group-title="VT TVC | Hindi Live ", PEACE OF MIND
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156078&extension=.ts
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name=" POGO KIDS" tvg-logo="http://logo.protv.cc/picons/logos/POGO-KIDS.jpg" group-title="VT TVC | Hindi Live ", POGO KIDS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156128&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" PRARTHANA BHAWAN" tvg-logo="http://logo.protv.cc/picons/logos/PRARTHANA-BHAWAN.jpeg" group-title="VT TVC | Hindi Live ", PRARTHANA BHAWAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156149&extension=.ts
-#EXTINF:-1 tvg-id="PatrikaTVRajasthan.in" tvg-name=" PATRIKA TV" tvg-logo="http://logo.protv.cc/picons/logos/PATRIKA-TV.jpg" group-title="VT TVC | Hindi Live ", PATRIKA TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280876&extension=.ts
-#EXTINF:-1 tvg-id="PatrikaTVRajasthan.in" tvg-name=" RAJASTHAN PATRIKA" tvg-logo="http://logo.protv.cc/picons/logos/RAJASTHAN-PATRIKA.jpeg" group-title="VT TVC | Hindi Live ", RAJASTHAN PATRIKA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156148&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" REPUBLIC BHARAT" tvg-logo="http://logo.protv.cc/picons/logos/REPUBLIC-BHARAT.jpg" group-title="VT TVC | Hindi Live ", REPUBLIC BHARAT
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156040&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAHARA BIHAR" tvg-logo="http://logo.protv.cc/picons/logos/SAHARA-BIHAR.jpg" group-title="VT TVC | Hindi Live ", SAHARA BIHAR
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156066&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAHARA FILMY" tvg-logo="http://logo.protv.cc/picons/logos/SAHARA-FILMY.png" group-title="VT TVC | Hindi Live ", SAHARA FILMY
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156072&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAHARA MP" tvg-logo="http://logo.protv.cc/picons/logos/SAHARA-MP.png" group-title="VT TVC | Hindi Live ", SAHARA MP
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156067&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAHARA MUMBAI" tvg-logo="http://logo.protv.cc/picons/logos/SAHARA-MUMBAI.gif" group-title="VT TVC | Hindi Live ", SAHARA MUMBAI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156068&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAHARA NCR" tvg-logo="http://logo.protv.cc/picons/logos/SAHARA-NCR.jpg" group-title="VT TVC | Hindi Live ", SAHARA NCR
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156069&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAHARA ONE" tvg-logo="http://logo.protv.cc/picons/logos/saharaone.jpg" group-title="VT TVC | Hindi Live ", SAHARA ONE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156065&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAHARA SAMAY ALAMI" tvg-logo="http://logo.protv.cc/picons/logos/SAHARA-SAMAY-ALAMI.jpg" group-title="VT TVC | Hindi Live ", SAHARA SAMAY ALAMI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156071&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAHARA UP" tvg-logo="http://logo.protv.cc/picons/logos/SAHARA-TV.jpeg" group-title="VT TVC | Hindi Live ", SAHARA UP
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156070&extension=.ts
-#EXTINF:-1 tvg-id="SanskarTV.in" tvg-name=" SANSKAR TV" tvg-logo="http://logo.protv.cc/picons/logos/sanskartv.png" group-title="VT TVC | Hindi Live ", SANSKAR TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156124&extension=.ts
-#EXTINF:-1 tvg-id="Satsang.in" tvg-name=" SATSANG TV" tvg-logo="http://logo.protv.cc/picons/logos/SATSANG-TV.png" group-title="VT TVC | Hindi Live ", SATSANG TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156125&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SHOWBOX" tvg-logo="http://logo.protv.cc/picons/logos/SHOWBOX.png" group-title="VT TVC | Hindi Live ", SHOWBOX
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156134&extension=.ts
-#EXTINF:-1 tvg-id="ShubhTV.in" tvg-name=" SHUBH TV" tvg-logo="http://logo.protv.cc/picons/logos/SHUBH-TV.jpg" group-title="VT TVC | Hindi Live ", SHUBH TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156096&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SOHAM TV" tvg-logo="http://logo.protv.cc/picons/logos/sohamtv.jpg" group-title="VT TVC | Hindi Live ", SOHAM TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156079&extension=.ts
-#EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name=" SUDAR SHAN" tvg-logo="http://logo.protv.cc/picons/logos/SUDARSHAN-NEWS.jpeg" group-title="VT TVC | Hindi Live ", SUDAR SHAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280904&extension=.ts
-#EXTINF:-1 tvg-id="TataSkyBollywoodPremiere.in" tvg-name=" TATA SKY BOLLYWOOD HD" tvg-logo="http://logo.protv.cc/picons/logos/TATA-SKY.png" group-title="VT TVC | Hindi Live ", TATA SKY BOLLYWOOD HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156028&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" THE Q YOU HD" tvg-logo="http://logo.protv.cc/picons/logos/theqyou.png" group-title="VT TVC | Hindi Live ", THE Q YOU HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156131&extension=.ts
-#EXTINF:-1 tvg-id="Vedic.in" tvg-name=" VEDIC TV" tvg-logo="http://logo.protv.cc/picons/logos/VEDIC-TV.jpeg" group-title="VT TVC | Hindi Live ", VEDIC TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156085&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" WARNER BROS" tvg-logo="http://logo.protv.cc/picons/logos/WARNER-BROS.png" group-title="VT TVC | Hindi Live ", WARNER BROS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155998&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" YTV INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ytv.png" group-title="VT TVC | Hindi Live ", YTV INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280911&extension=.ts
-#EXTINF:-1 tvg-id="WOWCinema.in" tvg-name=" WOW CINEMA ONE" tvg-logo="http://logo.protv.cc/picons/logos/WOW-CINEMA-ONE.jpeg" group-title="VT TVC | Hindi Live ", WOW CINEMA ONE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280910&extension=.ts
-#EXTINF:-1 tvg-id="TV9.in" tvg-name=" TV9 BHARATVARSH" tvg-logo="http://logo.protv.cc/picons/logos/TV9-BHARATVARSH.png" group-title="VT TVC | Hindi Live ", TV9 BHARATVARSH
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280908&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" THEQ" tvg-logo="http://logo.protv.cc/picons/logos/THEQ-.png" group-title="VT TVC | Hindi Live ", THEQ
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280906&extension=.ts
-#EXTINF:-1 tvg-id="SuryaMovies.in" tvg-name=" SURYA CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/SURYA-MOVIES.jpeg" group-title="VT TVC | Hindi Live ", SURYA CINEMA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280905&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SHEMAROO TV" tvg-logo="http://logo.protv.cc/picons/logos/SHEMAROO-TV.jpg" group-title="VT TVC | Hindi Live ", SHEMAROO TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280897&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAMAY" tvg-logo="http://logo.protv.cc/picons/logos/SAMAY-.jpg" group-title="VT TVC | Hindi Live ", SAMAY
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280891&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" NATION FIRST" tvg-logo="http://logo.protv.cc/picons/logos/NATION-FIRST.png" group-title="VT TVC | Hindi Live ", NATION FIRST
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280867&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MANORANJAN" tvg-logo="http://logo.protv.cc/picons/logos/MANORANJAN-TV.jpg" group-title="VT TVC | Hindi Live ", MANORANJAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280860&extension=.ts
-#EXTINF:-1 tvg-id="LokSabhaTV.in" tvg-name=" LOK SABHA" tvg-logo="http://logo.protv.cc/picons/logos/LOK-SABHA.jpg" group-title="VT TVC | Hindi Live ", LOK SABHA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280856&extension=.ts
-#EXTINF:-1 tvg-id="HindiKhabar.in" tvg-name=" HINDI KHABAR" tvg-logo="http://logo.protv.cc/picons/logos/HINDI-KHABAR.jpeg" group-title="VT TVC | Hindi Live ", HINDI KHABAR
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156073&extension=.ts
-#EXTINF:-1 tvg-id="Jinvani.in" tvg-name=" JIN VANI" tvg-logo="http://logo.protv.cc/picons/logos/jinvani.jpg" group-title="VT TVC | Hindi Live ", JIN VANI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280851&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" INH 24X7" tvg-logo="http://logo.protv.cc/picons/logos/INH-24X7.png" group-title="VT TVC | Hindi Live ", INH 24X7
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280848&extension=.ts
-#EXTINF:-1 tvg-id="IndiaTV.in" tvg-name=" INDIA TV" tvg-logo="http://logo.protv.cc/picons/logos/INDIA-TV.png" group-title="VT TVC | Hindi Live ", INDIA TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156047&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" FIRST INDIA" tvg-logo="http://logo.protv.cc/picons/logos/FIRST-INDIA.jpg" group-title="VT TVC | Hindi Live ", FIRST INDIA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280838&extension=.ts
-#EXTINF:-1 tvg-id="E24.in" tvg-name=" E24" tvg-logo="http://logo.protv.cc/picons/logos/e24.png" group-title="VT TVC | Hindi Live ", E24
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280833&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DHAMAAL" tvg-logo="http://logo.protv.cc/picons/logos/dhamaal.jpg" group-title="VT TVC | Hindi Live ", DHAMAAL
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280828&extension=.ts
-#EXTINF:-1 tvg-id="DDGyanDarshan.in" tvg-name=" DARSHAN 24" tvg-logo="http://logo.protv.cc/picons/logos/darshan24.png" group-title="VT TVC | Hindi Live ", DARSHAN 24
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280815&extension=.ts
-#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-name=" CNBC AWAAZ" tvg-logo="http://logo.protv.cc/picons/logos/CNBC-AAWAZ.png" group-title="VT TVC | Hindi Live ", CNBC AWAAZ
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280812&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" BOX CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/boxcinema.png" group-title="VT TVC | Hindi Live ", BOX CINEMA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280810&extension=.ts
-#EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name=" BHARAT SAMACHAR" tvg-logo="http://logo.protv.cc/picons/logos/bharatsamachar.jpg" group-title="VT TVC | Hindi Live ", BHARAT SAMACHAR
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280806&extension=.ts
-#EXTINF:-1 tvg-id="BflixMovies.in" tvg-name=" BFLIX MOVIE" tvg-logo="http://logo.protv.cc/picons/logos/BFLIX-MOVIE.png" group-title="VT TVC | Hindi Live ", BFLIX MOVIE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280803&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" BANSAL" tvg-logo="http://logo.protv.cc/picons/logos/BANSAL-NEWS.jpeg" group-title="VT TVC | Hindi Live ", BANSAL
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280801&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ABZY MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/ABZY-MOVIES.jpg" group-title="VT TVC | Hindi Live ", ABZY MOVIES
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280795&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" A1 TV" tvg-logo="http://logo.protv.cc/picons/logos/a1tv.png" group-title="VT TVC | Hindi Live ", A1 TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280785&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZEE RAJASTAN NEWS" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Zee_Rajasthan.png" group-title="VT TVC | Hindi Live ", ZEE RAJASTAN NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112155&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZEE MP CHHATTISGA" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Zee_TV.png" group-title="VT TVC | Hindi Live ", ZEE MP CHHATTISGA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112154&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TOTAL HARYANA" tvg-logo="http://logo.protv.cc/picons/logos/TOTAL-HARYANA.png" group-title="VT TVC | Hindi Live ", TOTAL HARYANA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112153&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STV HARYANA NEWS" tvg-logo="http://logo.protv.cc/picons/logos/STVHARYANA-NEWS.jpeg" group-title="VT TVC | Hindi Live ", STV HARYANA NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112152&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SHUBH SANDESH TV" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/SANDESHNEWS.png" group-title="VT TVC | Hindi Live ", SHUBH SANDESH TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112151&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SHUBH CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/SHUBH-TV.jpg" group-title="VT TVC | Hindi Live ", SHUBH CINEMA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112150&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SAHARA FILMI" tvg-logo="http://logo.protv.cc/picons/logos/SAHARA-FILMY.png" group-title="VT TVC | Hindi Live ", SAHARA FILMI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112149&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" COLORS CINEPLEX BOLLYWOOD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Colors-Cineplex.png" group-title="VT TVC | Hindi Live ", COLORS CINEPLEX BOLLYWOOD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=946375&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MOVIE PLUS" tvg-logo="http://logo.protv.cc/picons/logos/MOVIE-PLUS.png" group-title="VT TVC | Hindi Live ", MOVIE PLUS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112148&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" KHABRAIN ABHI TAK" tvg-logo="" group-title="VT TVC | Hindi Live ", KHABRAIN ABHI TAK
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112147&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" INDIA TV" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/INDIA-TV.png" group-title="VT TVC | Hindi Live ", INDIA TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112146&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" IND 24" tvg-logo="http://logo.protv.cc/picons/logos/IND-24.jpg" group-title="VT TVC | Hindi Live ", IND 24
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112145&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" FIRANGI" tvg-logo="http://logo.protv.cc/picons/logos/firangi.png" group-title="VT TVC | Hindi Live ", FIRANGI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112144&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DILLAGII" tvg-logo="http://logo.protv.cc/picons/logos/dillagi.jpg" group-title="VT TVC | Hindi Live ", DILLAGII
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112143&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DD BHARATI" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/DDINDIA.png" group-title="VT TVC | Hindi Live ", DD BHARATI
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112142&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ANB NEWS" tvg-logo="http://logo.protv.cc/picons/logos/ANB-.jpg" group-title="VT TVC | Hindi Live ", ANB NEWS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112141&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ABZY DHAKAD" tvg-logo="http://logo.protv.cc/picons/logos/ABZY-DHAKAD.jpg" group-title="VT TVC | Hindi Live ", ABZY DHAKAD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112140&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ABZY COOL" tvg-logo="http://logo.protv.cc/picons/logos/ABZY-COOL.jpg" group-title="VT TVC | Hindi Live ", ABZY COOL
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112139&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" AALAMI SAHARA" tvg-logo="http://logo.protv.cc/picons/logos/AALAMI-SAHARA.jpg" group-title="VT TVC | Hindi Live ", AALAMI SAHARA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112138&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" 9X JALWA" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/9X-JALWA.png" group-title="VT TVC | Hindi Live ", 9X JALWA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112137&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ZEE BIHAR JHARKHAND" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/ZEENEWSBIHAR.png" group-title="VT TVC | Hindi Live ", ZEE BIHAR JHARKHAND
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112136&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SUPER HUNGAMA" tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="VT TVC | Hindi Live ", SUPER HUNGAMA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112135&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HUNGAMA" tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="VT TVC | Hindi Live ", HUNGAMA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112134&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY SCIENCE" tvg-logo="http://logo.protv.cc/picons/logos/025discoveryscience.png" group-title="VT TVC | Hindi Live ", DISCOVERY SCIENCE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112133&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" COOKING ACTIVE" tvg-logo="http://logo.protv.cc/picons/logos/cookingchannel.png" group-title="VT TVC | Hindi Live ", COOKING ACTIVE
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112130&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" VIDESHI KAHANIYA" tvg-logo="http://logo.protv.cc/picons/logos/THE-Q-KAHANIYAN.png" group-title="VT TVC | Hindi Live ", VIDESHI KAHANIYA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112129&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" THEATER" tvg-logo="http://logo.protv.cc/picons/logos/THEATER.png" group-title="VT TVC | Hindi Live ", THEATER
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112128&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ID" tvg-logo="http://logo.protv.cc/picons/logos/ID-HD.jpeg" group-title="VT TVC | Hindi Live ", ID
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112127&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" CLASSIC CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/classiccinema.jpg" group-title="VT TVC | Hindi Live ", CLASSIC CINEMA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112125&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" CLASSIC TV" tvg-logo="http://logo.protv.cc/picons/logos/CLASSIC-TV.jpeg" group-title="VT TVC | Hindi Live ", CLASSIC TV
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1118068&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" HOLLYWOOD LOCAL" tvg-logo="http://logo.protv.cc/picons/logos/hollywood.png" group-title="VT TVC | Hindi Live ", HOLLYWOOD LOCAL
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112126&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ADHBUT KAHANIYAN" tvg-logo="http://logo.protv.cc/picons/logos/THE-Q-KAHANIYAN.png" group-title="VT TVC | Hindi Live ", ADHBUT KAHANIYAN
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1112124&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ABP GANGA" tvg-logo="http://logo.protv.cc/picons/logos/ABP-GANGA.jpg" group-title="VT TVC | Hindi Live ", ABP GANGA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280791&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TIMES NOW NAVBHARAT FHD" tvg-logo="http://logo.protv.cc/picons/logos/timesnow.png" group-title="VT TVC | Hindi Live ", TIMES NOW NAVBHARAT FHD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1118069&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TS BOLLYWOOD PREMIER" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/TATASKY-BOLLYWOOD-PREMIERE.png" group-title="VT TVC | Hindi Live ", TS BOLLYWOOD PREMIER
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1118067&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" BBC EARTH FHD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/SONYBBCEARTHHD.png" group-title="VT TVC | Hindi Live ", BBC EARTH FHD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1118064&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TRAVEL XP" tvg-logo="http://logo.protv.cc/picons/logos/travelxp.png" group-title="VT TVC | Hindi Live ", TRAVEL XP
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280771&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TLC" tvg-logo="http://logo.protv.cc/picons/logos/tlc.png" group-title="VT TVC | Hindi Live ", TLC
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280770&extension=.ts
-#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-name=" NICK PLUS" tvg-logo="http://logo.protv.cc/picons/logos/nickplushd.png" group-title="VT TVC | Hindi Live ", NICK PLUS
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280763&extension=.ts
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name=" MAX" tvg-logo="http://logo.protv.cc/picons/logos/MAX-TV.png" group-title="VT TVC | Hindi Live ", MAX
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280759&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" D2H CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/d2hcinema.jpg" group-title="VT TVC | Hindi Live ", D2H CINEMA
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280751&extension=.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name=" CARTOON NETWORK" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetwork.png" group-title="VT TVC | Hindi Live ", CARTOON NETWORK
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=280748&extension=.ts
-
+#EXTINF:-1,|INDIA|UTSAV PLUS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/510907
+#EXTINF:-1,|HI| ZEE CLASSICS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276904
+#EXTINF:-1,|HI| ZEE ACTION
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276905
+#EXTINF:-1,|HI| ZEE TV HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276906
+#EXTINF:-1,|HI| ZEE CINEMA HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276907
+#EXTINF:-1,|HI| ZING
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276908
+#EXTINF:-1,|HI| STAR BHARAT HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276909
+#EXTINF:-1,|HI| STAR GOLD HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276910
+#EXTINF:-1,|HI| STAR GOLD SELECT HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276911
+#EXTINF:-1,|HI| STAR PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276912
+#EXTINF:-1,|HI| STAR UTSAV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276913
+#EXTINF:-1,|HI| STAR UTSAV MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276914
+#EXTINF:-1,|HI| SONY HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276915
+#EXTINF:-1,|HI| SONY MAX HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276916
+#EXTINF:-1,|HI| SONY MAX 2
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276917
+#EXTINF:-1,|HI| SONY PIX HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276918
+#EXTINF:-1,|HI| SONY BBC EARTH HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276919
+#EXTINF:-1,|HI| SONY SAB HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276920
+#EXTINF:-1,|HI| SONY PAL
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276921
+#EXTINF:-1,|HI| SONY WAH
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276922
+#EXTINF:-1,|HI| SONY YAY
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276923
+#EXTINF:-1,|HI| B4U MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276924
+#EXTINF:-1,|HI| COLORS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276925
+#EXTINF:-1,|HI| 9X JALWA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276926
+#EXTINF:-1,|HI| AAJ TAK HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276927
+#EXTINF:-1,|HI| AAJ TAK TEZ
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276928
+#EXTINF:-1,|HI| ZOOM TV HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276929
+#EXTINF:-1,|HI| AASTHA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276930
+#EXTINF:-1,|HI| AASTHA BHAJAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276931
+#EXTINF:-1,|HI| ABP NEWS INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276932
+#EXTINF:-1,|HI| AND PICTURES HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276933
+#EXTINF:-1,|HI| & TV HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276934
+#EXTINF:-1,|HI| ANIMAL PLANET HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276935
+#EXTINF:-1,|HI| ARIHANT
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276936
+#EXTINF:-1,|HI| BABY TV HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276937
+#EXTINF:-1,|HI| BIG MAGIC HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276938
+#EXTINF:-1,|HI| BINDAS MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276939
+#EXTINF:-1,|HI| CINEPLEX HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276940
+#EXTINF:-1,|HI| DD NATIONAL HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276942
+#EXTINF:-1,|HI| DD RAJASTHAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276943
+#EXTINF:-1,|HI| DD BHARATI
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276944
+#EXTINF:-1,|HI| DD BIHAR
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276945
+#EXTINF:-1,|HI| DD INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276946
+#EXTINF:-1,|HI| DD NEWS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276947
+#EXTINF:-1,|HI| DD SPORTS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276948
+#EXTINF:-1,|HI| DD URDU
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276950
+#EXTINF:-1,|HI| DD BHARTI
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276952
+#EXTINF:-1,|HI| DISCOVERY WORLD HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276953
+#EXTINF:-1,|HI| E 24
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276954
+#EXTINF:-1,|HI| ENTER 10 MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276955
+#EXTINF:-1,|HI| EPIC HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276956
+#EXTINF:-1,|HI| FOX LIFE HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276957
+#EXTINF:-1,|HI| HISTORY TV18 HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276958
+#EXTINF:-1,|HI| LIVING FOODZ HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276964
+#EXTINF:-1,|HI| MINIPLEX HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276965
+#EXTINF:-1,|HI| MOVIES ACTIVE
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276966
+#EXTINF:-1,|HI| MTV BEATS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276967
+#EXTINF:-1,|HI| MTV PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276968
+#EXTINF:-1,|HI| MUSIC INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276969
+#EXTINF:-1,|HI| NAT GEO WILD HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276970
+#EXTINF:-1,|HI| NATIONAL GEOGRAPHIC HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276971
+#EXTINF:-1,|HI| NEWS 18 ASSAM
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276972
+#EXTINF:-1,|HI| NEWS 18 INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276974
+#EXTINF:-1,|HI| NEWS 18 RAJASTHAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276975
+#EXTINF:-1,|HI| NEWS NATION
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276976
+#EXTINF:-1,|HI| REPUBLIC TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276978
+#EXTINF:-1,|HI| NICK PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276979
+#EXTINF:-1,|HI| PARAS TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276980
+#EXTINF:-1,|HI| PEACE OF MIND HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276981
+#EXTINF:-1,|HI| MAHA MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276982
+#EXTINF:-1,|HI| TATA SKY BOLLYWOOD PREMIERE HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276984
+#EXTINF:-1,|HI| UTV ACTION
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276985
+#EXTINF:-1,|HI| UTV HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276986
+#EXTINF:-1,|HI| VEDIC TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276987
+#EXTINF:-1,|HI| ZEE ANMOL
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276989
+#EXTINF:-1,|HI| ZEE ANMOL CINEMA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276990
+#EXTINF:-1,|HI| ZEE HINDUSTAN NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276991
+#EXTINF:-1,|HI| ZEE NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276992
+#EXTINF:-1,|HI| ZEE NEWS BIHAR
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276993
+#EXTINF:-1,|HI| ZEE NEWS MP/CHATTISGARH
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276994
+#EXTINF:-1,|HI| ZEE NEWS UP
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276995
+#EXTINF:-1,|HI| ZEE RAJASTHAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276996
+#EXTINF:-1,|HI| POGO KIDS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276997
+#EXTINF:-1,|HI| CINEMA TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276998
+#EXTINF:-1,|HI| GANGA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276999
+#EXTINF:-1,|HI| DISH CINE ACTIVE
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277000
+#EXTINF:-1,|HI| EVERGREEN CLASSIC
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277001
+#EXTINF:-1,|HI| DISNEY SD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277002
+#EXTINF:-1,|HI| CNBC TV18 NEWS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277003
+#EXTINF:-1,|HI| TIMES NOW HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277004
+#EXTINF:-1,|HI| NICK PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277005
+#EXTINF:-1,|HI| MNX HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277006
+#EXTINF:-1,|HI| MOVIES NOW HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277007
+#EXTINF:-1,|HI| MN PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277008
+#EXTINF:-1,|HI| DISNEY INTERNATIONAL HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277009
+#EXTINF:-1,|HI| TATA SKY BOLLYWOOD HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277010
+#EXTINF:-1,|HI| CN PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277011
+#EXTINF:-1,|HI| BINDAS MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277012
+#EXTINF:-1,|HI| UTV MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277013
+#EXTINF:-1,|HI| ISHWAR TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277014
+#EXTINF:-1,|HI| CARTOON NETWORK
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277015
+#EXTINF:-1,|HI| REPUBLIC BHARAT
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277016
+#EXTINF:-1,|HI| B4U MUSIC
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277017
+#EXTINF:-1,|HI| INDIA NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277018
+#EXTINF:-1,|HI| INDIA TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277019
+#EXTINF:-1,|HI| DANGAL
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277020
+#EXTINF:-1,|HI| MASTII
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277021
+#EXTINF:-1,|HI| NDTV INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277022
+#EXTINF:-1,|HI| INDIA NEWS MP
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277023
+#EXTINF:-1,|HI| INDIA NEWS UP
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277024
+#EXTINF:-1,|HI| INDIA NEWS HARYANA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277025
+#EXTINF:-1,|HI| INDIA NEWS RAJASTHAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277027
+#EXTINF:-1,|HI| SUDARSHAN NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277028
+#EXTINF:-1,|HI| NDTV GOOD TIMES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277038
+#EXTINF:-1,|HI| OM SHANTI
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277039
+#EXTINF:-1,|HI| IBC 24
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277040
+#EXTINF:-1,|HI| NEWS 24
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277041
+#EXTINF:-1,|HI| SHUBH TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277042
+#EXTINF:-1,|HI| CHANNEL WIN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277043
+#EXTINF:-1,|HI| RAMDHENU
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277044
+#EXTINF:-1,|HI| RENGONI
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277045
+#EXTINF:-1,|HI| FOOD FOOD HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277046
+#EXTINF:-1,|HI| DILLI AAJ TAKK
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277047
+#EXTINF:-1,|HI| PRAG NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277048
+#EXTINF:-1,|HI| TARANG Music
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277049
+#EXTINF:-1,|HI| NEWS 18 LIVE
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277050
+#EXTINF:-1,|HI| NDTV PROFIT
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277051
+#EXTINF:-1,|HI| NDTV 24x7
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277052
+#EXTINF:-1,|HI| INDIA TODAY
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277053
+#EXTINF:-1,|HI| 9X MUSIC
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277054
+#EXTINF:-1,|HI| E NEWS 24
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277055
+#EXTINF:-1,|HI| ZEE BUSINESS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277056
+#EXTINF:-1,|HI| SANSKAR TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277057
+#EXTINF:-1,|HI| SATSANG TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277058
+#EXTINF:-1,|HI| DISCOVERY KIDS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277059
+#EXTINF:-1,|HI| CHANNEL WIN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277060
+#EXTINF:-1,|HI| STAR GOLD 2
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277061
+#EXTINF:-1,|HI| AND EXPLORER HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277062
+#EXTINF:-1,|HI| MIRROR NOW
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277064
+#EXTINF:-1,|HI| ZEE YUVA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277066
+#EXTINF:-1,|HI| PRARTHANA BHAWAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277067
+#EXTINF:-1,|HI| RAJASTHAN PATRIKA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277068
+#EXTINF:-1,|HI| REPUBLIC NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277069
+#EXTINF:-1,|HI| IDN LOKMAT
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277070
+#EXTINF:-1,|HI| ZEE NEWS MP
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277071
+#EXTINF:-1,|HI| DIVYA TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277072
+#EXTINF:-1,|HI| TARANG TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277073
+#EXTINF:-1,|HI| ALANKAR TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277074
+#EXTINF:-1,|HI| TARANG MUSIC
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277075
+#EXTINF:-1,|HI| SARTHAK TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277076
+#EXTINF:-1,|HI| ZEE KALINGA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277077
