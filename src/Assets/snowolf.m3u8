@@ -1,6 +1,8 @@
-#EXTM3U x-tvg-url="https://tsepg.cf/epg.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg-url="https://tsepg.cf/epg.xml.gz"
+
+--------------------------------------------------------------------- SONYLIV --------------------------------------------------------------------
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SET HD"
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony SAB HD"
@@ -47,6 +49,8 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony Kal"
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+--------------------------------------------------------------------- ZEE5 --------------------------------------------------------------------
 #EXTINF:-1 tvg-id="24" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee TV"
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 #EXTINF:-1 tvg-id="25" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee TV HD"
@@ -137,28 +141,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Wion/default/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zing"
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Salaam"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
-#EXTINF:-1 tvg-id="70" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Marathi"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Marathi HD"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
-#EXTINF:-1 tvg-id="72" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Talkies"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Talkies HD"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
-#EXTINF:-1 tvg-id="74" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Bangla"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Bangla HD"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Bangla Cinema"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Tamil"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
-#EXTINF:-1 tvg-id="78" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Cinemalu"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
-#EXTINF:-1 tvg-id="79" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Kannada"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+
+-------------------------------------------- VOOT ------------------------------------------
 #EXTINF:-1 tvg-id="80" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sports18 1"
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_SD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sports18 1 HD"
@@ -233,6 +217,8 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallb
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_Cinema_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="116" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Oriya"
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
+
+------------------------------------------------ DISCOVERY -------------------------------------------------
 #EXTINF:-1 tvg-id="117" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Animal Planet English"
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="118" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Animal Planet Hindi"
@@ -267,6 +253,8 @@ https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 #EXTINF:-1 tvg-id="133" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","TLC Hindi HD"
 https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
+
+------------------------------------------------ SUNXT ---------------------------------------------------------
 #EXTINF:-1 tvg-id="134" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","UDAYA COMEDY"
 https://sports247.eu.org/app/strmm.php?cid=733&id=Udaya_Comedy_MOB-audio_33636_eng=33600-video=1680400.m3u8
 #EXTINF:-1 tvg-id="135" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","UDAYA MOVIES"
@@ -317,6 +305,8 @@ https://sports247.eu.org/app/strmm.php?cid=895&id=Sun_Music_HD_MOB-audio_98836_e
 https://sports247.eu.org/app/strmm.php?cid=676&id=Sun_News_MOB-audio_33636_eng=33600-video=1680400.m3u8
 #EXTINF:-1 tvg-id="158" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SUN TV HD"
 https://sports247.eu.org/app/strmm.php?cid=896&id=Sun_TV_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8
+
+================================================ KIDS ============================================================
 #EXTINF:-1 tvg-id="159" tvg-logo="" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","POGO"
 https://sports247.eu.org/app/strmm.php?cid=559&id=Pogo_Hindi_MOB-audio_33637_hin=33600-video=1680400.m3u8
 #EXTINF:-1 tvg-id="160" tvg-logo="" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","CARTOON NETWORK"
@@ -333,6 +323,9 @@ http://103.186.77.21:8000/play/a032/index.m3u8
 http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=1097666&extension=m3u8?#key=Toxic-TV&token=ARTURO
 #EXTINF:-1 tvg-id="166" tvg-logo="https://www.pngitem.com/pimgs/m/295-2955223_disney-channel-logo-de-hd-png-download.png" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Disney HD"
 https://fifabangladesh.xyz/DISNEYxRANAPK/play.m3u8
+
+
+=============================================== STAR CHANNELS =====================================================
 #EXTINF:-1 tvg-id="167" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR PLUS HD"
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:7E:74:74&stream=155971&extension=ts&play_token=vqlgwOwuwK
 #EXTINF:-1 tvg-id="168" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR BHARAT HD"
@@ -383,3 +376,4 @@ http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=1112131&exten
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=156011&extension=ts&play_token=hRHvkHPXAH
 #EXTINF:-1 tvg-id="191" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","NAT GEO WILD HD"
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155989&extension=ts&play_token=CMYC4hy7tZ
+
