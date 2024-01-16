@@ -1,6 +1,166 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
+--------------------------------------------------------------------- KIDS ----------------------------------------------------------------------
+
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK TAMIL
+http://tgaadi-web.tech/aadi.php?id=9186
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK TELUGU
+http://tgaadi-web.tech/aadi.php?id=9200
+#EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK HINDI
+http://tgaadi-web.tech/aadi.php?id=11633
+#EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",POGO HINDI
+http://tgaadi-web.tech/aadi.php?id=11666
+#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",NICK HINDI
+http://tgaadi-web.tech/aadi.php?id=11662
+#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",POGO TAMIL
+http://tgaadi-web.tech/aadi.php?id=11800
+#EXTINF:-1 tvg-id="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1024px-Nick.svg.png" group-title="KIDS",NICK TELUGU
+http://tgaadi-web.tech/aadi.php?id=58161
+#EXTINF:-1 tvg-id="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1024px-Nick.svg.png" group-title="KIDS",NICK TAMIL
+http://tgaadi-web.tech/aadi.php?id=11799
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC HINDI
+http://tgaadi-web.tech/aadi.php?id=11667
+#EXTINF:-1 tvg-id="9" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC MARATHI
+http://tgaadi-web.tech/aadi.php?id=11893
+#EXTINF:-1 tvg-id="10" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC MALAYALAM
+http://tgaadi-web.tech/aadi.php?id=11939
+#EXTINF:-1 tvg-id="11" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC KANNADA
+http://tgaadi-web.tech/aadi.php?id=11923
+#EXTINF:-1 tvg-id="12" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS", SONIC TAMIL
+http://tgaadi-web.tech/aadi.php?id=11802
+#EXTINF:-1 tvg-id="13" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC TELUGU 
+http://tgaadi-web.tech/aadi.php?id=58159
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS", SONIC GUJARATI
+http://tgaadi-web.tech/aadi.php?id=11905
+#EXTINF:-1 tvg-id="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/440px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY CHANNEL
+http://tgaadi-web.tech/aadi.php?id=11639
+#EXTINF:-1 tvg-id="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/440px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY 2
+http://tgaadi-web.tech/aadi.php?id=931
+#EXTINF:-1 tvg-id="17" tvg-logo="https://logohistory.net/wp-content/uploads/2023/09/Disney-Junior-Logo.png" group-title="KIDS",DISNEY JUNIOR ENGLISH
+http://tgaadi-web.tech/aadi.php?id=891
+#EXTINF:-1 tvg-id="18" tvg-logo="" group-title="KIDS", MARVEL KIDS HD
+http://tgaadi-web.tech/aadi.php?id=11649
+#EXTINF:-1 tvg-id="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1000px-Nick_HD_Logo.svg.png" group-title="KIDS",NICKELODEON HD+
+http://tgaadi-web.tech/aadi.php?id=11724
+#EXTINF:-1 tvg-id="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png" group-title="KIDS", DISNEY INTERNATIONAL HD
+http://tgaadi-web.tech/watch.php?id=22180
+#EXTINF:-1 tvg-id="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1000px-Nick_HD_Logo.svg.png" group-title="KIDS", NICK HD+
+http://tgaadi-web.tech/aadi.php?id=1079
+#EXTINF:-1 tvg-id="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" group-title="KIDS",HUNGAMA MULTI AUDIO
+http://tgaadi-web.tech/watch.php?id=22175
+#EXTINF:-1 tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Marvel_Animation_Logo.jpg" group-title="KIDS",MARVELS ANIMATION
+http://tgaadi-web.tech/aadi.php?id=16948
+#EXTINF:-1 tvg-id="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",DISCOVEREY KIDS HINDI 
+http://tgaadi-web.tech/aadi.php?id=641
+#EXTINF:-1 tvg-id="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",DISCOVEREY KIDS TAMIL
+http://tgaadi-web.tech/aadi.php?id=764
+#EXTINF:-1 tvg-id="26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS", DISCOVEREY KIDS TELUGU
+http://tgaadi-web.tech/aadi.php?id=58157
+#EXTINF:-1 tvg-id="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/440px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY MULTI AUDIO
+http://tgaadi-web.tech/aadi.php?id=25869
+#EXTINF:-1 tvg-id="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="KIDS",DISNEY HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156000&extension=ts&play_token=oBwOqQaOKg
+#EXTINF:-1 tvg-id="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/540px-Disney_XD_-_2015.svg.png" group-title="KIDS",DISNEY XD
+http://tgaadi-web.tech/aadi.php?id=2529
+#EXTINF:-1 tvg-id="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/800px-Nickelodeon_Logo.svg.png" group-title="KIDS",NICKTOONS
+http://tgaadi-web.tech/aadi.php?id=1839
+#EXTINF:-1 tvg-id="10430" tvg-logo="https://i.pinimg.com/736x/99/9c/cc/999cccfd4367c14a4f72e8ef2b58937f.jpg" group-title="KIDS",PEPPA PIG HINDI
+http://tgaadi-web.tech/aadi.php?id=10514
+#EXTINF:-1 tvg-id="9117" tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_k3vkuzv8/def_height/2700/def_width/2700/version/100012/type/1" group-title="KIDS", CHUCHU TV
+http://tgaadi-web.tech/aadi.php?id=9201
+#EXTINF:-1 tvg-id="63265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS", DISCOVERY KIDS FHD
+http://tgaadi-web.tech/aadi.php?id=134001
+#EXTINF:-1 tvg-id="1014" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="KIDS", SONY YAY TAMIL
+http://tgaadi-web.tech/aadi.php?id=1097
+#EXTINF:-1 tvg-id="976" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="KIDS", SONY YAY TELUGU
+http://tgaadi-web.tech/aadi.php?id=1059
+#EXTINF:-1 tvg-id="2719" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="KIDS", SONY YAY HINDI
+http://tgaadi-web.tech/aadi.php?id=2802
+#EXTINF:-1 tvg-id="11562" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" group-title="KIDS", HUNGAMA TV
+http://tgaadi-web.tech/aadi.php?id=11646
+
+#EXTINF:-2 tvg-id="" group-title=" 𝙋𝙇𝘼𝙔𝙇𝙄𝙎𝙏         𝘽𝙔         𝘼𝘼𝘿𝙄" tvg-logo="https://toppng.com/uploads/preview/welcome-png-black-and-white-11563129602lednix2jsm.png" ,𝐓𝐆_𝐀𝐀𝐃𝐈
+http://content://com.google.android.apps.docs.storage.legacy/enc%3Dencoded%3DH93BhpdZQuT-BY14GsSA9F_IIKkUsu6dUZByWajoN0Id_yf4DjGM-ZjWZd5ZMA%3D%3D
+
+#EXTINF:-1 tvg-id="59759" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/4c/56/3e4c5692-2f6c-ff25-2e16-447c50c2dc8b/859772826758_cover.jpg/592x592bb.webp" group-title="24×7 KIDS",SHARKDOG HD
+http://tgaadi-web.tech/aadi.php?id=59965
+#EXTINF:-1 tvg-id="59758" tvg-logo="https://toppng.com/uploads/preview/cuphead-logo-11679022069ou5xhrkzbx.png" group-title="24×7 KIDS", LIVE | ONEPLAY CUPHEAD SHOW HD
+http://tgaadi-web.tech/aadi.php?id=59964
+#EXTINF:-1 tvg-id="59757" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Angry_Birds_logos.svg/800px-Angry_Birds_logos.svg.png" group-title="24×7 KIDS", ANGRY BIRDS BLUE HD
+http://tgaadi-web.tech/aadi.php?id=59963
+#EXTINF:-1 tvg-id="59756" tvg-logo="https://toppng.com/uploads/preview/logo-sw-el-logo-de-los-super-wings-115631980220gxpk9iwzb.png" group-title="24×7 KIDS", SUPER WINGS HD
+http://tgaadi-web.tech/aadi.php?id=59962
+#EXTINF:-1 tvg-id="59755" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Angry_Birds_logos.svg/800px-Angry_Birds_logos.svg.png" group-title="24×7 KIDS", ANGRY BIRDS HD
+http://tgaadi-web.tech/aadi.php?id=59961
+#EXTINF:-1 tvg-id="59791" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oggy_and_the_Cockroaches_Logo.webp/600px-Oggy_and_the_Cockroaches_Logo.webp.png" group-title="24×7 KIDS",OGGY AND THE COCKROACHES
+http://tgaadi-web.tech/aadi.php?id=59997
+#EXTINF:-1 tvg-id="59983" tvg-logo="https://toppng.com/uploads/preview/ower-rangers-2018-logo-power-rangers-logo-2018-11563580032immcsxnazf.png" group-title="24×7 KIDS",POWER RANGERS
+http://tgaadi-web.tech/aadi.php?id=60190
+#EXTINF:-1 tvg-id="59985" tvg-logo="https://wallpapers.com/images/high/avengers-assemble-logo-8y4op06rnj1w6e9d.webp" group-title="24×7 KIDS",MARVEL AVENGERS ASSEMBLE
+http://tgaadi-web.tech/aadi.php?id=60192
+#EXTINF:-1 tvg-id="59990" tvg-logo="https://seeklogo.com/images/D/DORA-logo-834F56A2C2-seeklogo.com.png" group-title="24×7 KIDS", DORA THE EXPLORER
+http://tgaadi-web.tech/aadi.php?id=60197
+#EXTINF:-1 tvg-id="58392" tvg-logo="https://i1.sndcdn.com/artworks-UNz65cyRiSiwWF0r-G4ynXQ-t500x500.jpg" group-title="24×7 KIDS", NINJA HATTORI RETURNS-2012
+http://tgaadi-web.tech/aadi.php?id=58608
+#EXTINF:-1 tvg-id="58396" tvg-logo="https://i1.sndcdn.com/artworks-UNz65cyRiSiwWF0r-G4ynXQ-t500x500.jpg" group-title="24×7 KIDS", NINJA HATTORI HINDI
+http://tgaadi-web.tech/aadi.php?id=58612
+#EXTINF:-1 tvg-id="58397" tvg-logo="https://rare-gallery.com/thumbnail/49005-Spider-Man-The-New-Animated-Series-HD-Wallpaper.jpg" group-title="24×7 KIDS", SPIDER MAN-1995 96
+http://tgaadi-web.tech/aadi.php?id=58613
+#EXTINF:-1 tvg-id="58402" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="24×7 KIDS", KIDS CARTOON | SPIDER MAN-1994 45
+http://tgaadi-web.tech/aadi.php?id=58618
+#EXTINF:-1 tvg-id="58406" tvg-logo="https://rare-gallery.com/thumbnail/49005-Spider-Man-The-New-Animated-Series-HD-Wallpaper.jpg" group-title="24×7 KIDS", LIVE | KIDS CARTOON | SPIDER MAN-2008
+http://tgaadi-web.tech/aadi.php?id=58622
+#EXTINF:-1 tvg-id="58423" tvg-logo="https://rare-gallery.com/thumbnail/49005-Spider-Man-The-New-Animated-Series-HD-Wallpaper.jpg" group-title="24×7 KIDS", LIVE | KIDS CARTOON | SPIDER MAN-2003
+http://tgaadi-web.tech/aadi.php?id=58639
+#EXTINF:-1 tvg-id="58405" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="24×7 KIDS", SPIDER MAN-1999
+http://tgaadi-web.tech/aadi.php?id=58621
+#EXTINF:-1 tvg-id="22019" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cartoon_Network_HD%2B_India_logo.png/500px-Cartoon_Network_HD%2B_India_logo.png" group-title="KIDS", CARTOON NETWORK IND
+https://tg-aadi-web.000webhostapp.com/watch.php?id=22179
+#EXTINF:-1 tvg-id="58408" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="24×7 KIDS", SPIDER MAN-1981
+http://tgaadi-web.tech/aadi.php?id=58624
+#EXTINF:-1 tvg-id="58413" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="24×7 KIDS", SPIDER MAN-1967
+http://tgaadi-web.tech/aadi.php?id=58629
+#EXTINF:-1 tvg-id="58410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berlin_Sluggers_Logo.svg/1599px-Berlin_Sluggers_Logo.svg.png?20110608164619" group-title="24×7 KIDS", SLUGTERRA
+http://tgaadi-web.tech/aadi.php?id=58626
+#EXTINF:-1 tvg-id="58409" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/08/ShinChan-82694-2.png/revision/latest/scale-to-width-down/220?cb=20170717185335" group-title="24×7 KIDS", SHINCHAN
+http://tgaadi-web.tech/aadi.php?id=58625
+#EXTINF:-1 tvg-id="58414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/DuckTales_TV_logo.svg/440px-DuckTales_TV_logo.svg.png" group-title="24×7 KIDS", DUCK TALES-2017
+http://tgaadi-web.tech/aadi.php?id=58630
+#EXTINF:-1 tvg-id="58420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/DuckTales_TV_logo.svg/440px-DuckTales_TV_logo.svg.png" group-title="24×7 KIDS", DUCK TALES
+http://tgaadi-web.tech/aadi.php?id=5863
+#EXTINF:-1 tvg-id="58364" tvg-logo="https://cdn.anime-planet.com/characters/primary/naruto-uzumaki-1-285x399.webp?t=1648651726" group-title="24×7 KIDS",NARUTO
+http://tgaadi-web.tech/aadi.php?id=58580
+#EXTINF:-1 tvg-id="58418" tvg-logo="https://w7.pngwing.com/pngs/581/347/png-transparent-doraemon-poster-nobita-nobi-dorami-doraemon-desktop-doraemon-child-food-text-thumbnail.png" group-title="24×7 KIDS", DORAEMON HINDI
+http://tgaadi-web.tech/aadi.php?id=58634
+#EXTINF:-1 tvg-id="58416" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Ben_10_Ultimate_Alien_logo.svg/400px-Ben_10_Ultimate_Alien_logo.svg.png" group-title="24×7 KIDS", BEN 10 ULTIMATE ALIEN HINDI
+http://tgaadi-web.tech/aadi.php?id=58632
+#EXTINF:-1 tvg-id="58419" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Ben10Omniverse.svg/440px-Ben10Omniverse.svg.png" group-title="24×7 KIDS", BEN 10 OMNIVERSE HINDI
+http://tgaadi-web.tech/aadi.php?id=58635
+#EXTINF:-1 tvg-id="58426" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Ben_10_logo.svg/revision/latest/scale-to-width-down/250?cb=20170818022938" group-title="24×7 KIDS", BEN 10 CLASSIC HINDI
+http://tgaadi-web.tech/aadi.php?id=58642
+#EXTINF:-1 tvg-id="58422" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ben_10_Alien_Force_logo.svg/400px-Ben_10_Alien_Force_logo.svg.png" group-title="24×7 KIDS", BEN 10 ALIEN FORCE HINDI
+http://tgaadi-web.tech/aadi.php?id=58638
+#EXTINF:-1 tvg-id="58425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Angry_Birds_logos.svg/800px-Angry_Birds_logos.svg.png" group-title="24×7 KIDS", ANGRY BIRDS TOONS
+http://tgaadi-web.tech/aadi.php?id=58641
+#EXTINF:-1 tvg-id="58248" tvg-logo="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FtQged7mKJ3cUpNMq5IMeceZvyKP3cTyHqhNmKEQ0Vv8.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D5fc89334e792e2c9b294d1d328bf522cdede4cdf" group-title="24×7 KIDS", POKEMON
+http://tgaadi-web.tech/aadi.php?id=58464
+#EXTINF:-1 tvg-id="58275" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Shaun_the_Sheep.png/440px-Shaun_the_Sheep.png" group-title="24×7 KIDS",Shaun The Sheep
+http://tgaadi-web.tech/aadi.php?id=58491
+#EXTINF:-1 tvg-id="58234" tvg-logo="https://seeklogo.com/images/T/tom-and-jerry-logo-0F89FA6342-seeklogo.com.png" group-title="24×7 KIDS", Dragonball Z
+http://tgaadi-web.tech/aadi.php?id=58450
+#EXTINF:-1 tvg-id="58305" tvg-logo="https://www.vhv.rs/dpng/d/551-5516083_thomas-and-friends-read-and-play-hd-png.png" group-title="24×7 KIDS", Thomas And Friends
+http://tgaadi-web.tech/aadi.php?id=58521
+#EXTINF:-1 tvg-id="58377" tvg-logo="https://seeklogo.com/images/T/tom-and-jerry-logo-0F89FA6342-seeklogo.com.png" group-title="24×7 KIDS",Tom And Jerry.
+http://tgaadi-web.tech/aadi.php?id=58593
+#EXTINF:-1 tvg-id="63206" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Ben_10_Ultimate_Alien_logo.svg/400px-Ben_10_Ultimate_Alien_logo.svg.png" group-title="24×7 KIDS", BEN 10 ULTIMATE ALIEN HINDI
+http://tgaadi-web.tech/aadi.php?id=126223
+#EXTINF:-1 tvg-id="58387" tvg-logo="https://seeklogo.com/images/T/tom-and-jerry-logo-0F89FA6342-seeklogo.com.png" group-title="24×7 KIDS",Tom and Jerry..
+http://tgaadi-web.tech/aadi.php?id=58603
+#EXTINF:-1 tvg-id="58350" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29WZVRObOUcvFBTsALVE5vDJlKgST1DhLUQ&usqp=CAU" group-title="24×7 KIDS",The Dragon Ball Z movie collection
+http://tgaadi-web.tech/aadi.php?id=58566
+
 --------------------------------------------------------------------- SONYLIV --------------------------------------------------------------------
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SET HD"
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
