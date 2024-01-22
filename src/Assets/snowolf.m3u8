@@ -1,482 +1,598 @@
-#EXTM3U
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-
---------------------------------------------------------------------- KIDS ----------------------------------------------------------------------
-
-#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK TAMIL
-http://tgaadi-web.tech/aadi.php?id=9186
-#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK TELUGU
-http://tgaadi-web.tech/aadi.php?id=9200
-#EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK HINDI
-http://tgaadi-web.tech/aadi.php?id=11633
-#EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",POGO HINDI
-http://tgaadi-web.tech/aadi.php?id=11666
-#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",NICK HINDI
-http://tgaadi-web.tech/aadi.php?id=11662
-#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",POGO TAMIL
-http://tgaadi-web.tech/aadi.php?id=11800
-#EXTINF:-1 tvg-id="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1024px-Nick.svg.png" group-title="KIDS",NICK TELUGU
-http://tgaadi-web.tech/aadi.php?id=58161
-#EXTINF:-1 tvg-id="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1024px-Nick.svg.png" group-title="KIDS",NICK TAMIL
-http://tgaadi-web.tech/aadi.php?id=11799
-#EXTINF:-1 tvg-id="8" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC HINDI
-http://tgaadi-web.tech/aadi.php?id=11667
-#EXTINF:-1 tvg-id="9" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC MARATHI
-http://tgaadi-web.tech/aadi.php?id=11893
-#EXTINF:-1 tvg-id="10" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC MALAYALAM
-http://tgaadi-web.tech/aadi.php?id=11939
-#EXTINF:-1 tvg-id="11" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC KANNADA
-http://tgaadi-web.tech/aadi.php?id=11923
-#EXTINF:-1 tvg-id="12" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS", SONIC TAMIL
-http://tgaadi-web.tech/aadi.php?id=11802
-#EXTINF:-1 tvg-id="13" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC TELUGU 
-http://tgaadi-web.tech/aadi.php?id=58159
-#EXTINF:-1 tvg-id="14" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS", SONIC GUJARATI
-http://tgaadi-web.tech/aadi.php?id=11905
-#EXTINF:-1 tvg-id="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/440px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY CHANNEL
-http://tgaadi-web.tech/aadi.php?id=11639
-#EXTINF:-1 tvg-id="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/440px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY 2
-http://tgaadi-web.tech/aadi.php?id=931
-#EXTINF:-1 tvg-id="17" tvg-logo="https://logohistory.net/wp-content/uploads/2023/09/Disney-Junior-Logo.png" group-title="KIDS",DISNEY JUNIOR ENGLISH
-http://tgaadi-web.tech/aadi.php?id=891
-#EXTINF:-1 tvg-id="18" tvg-logo="" group-title="KIDS", MARVEL KIDS HD
-http://tgaadi-web.tech/aadi.php?id=11649
-#EXTINF:-1 tvg-id="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1000px-Nick_HD_Logo.svg.png" group-title="KIDS",NICKELODEON HD+
-http://tgaadi-web.tech/aadi.php?id=11724
-#EXTINF:-1 tvg-id="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png" group-title="KIDS", DISNEY INTERNATIONAL HD
-http://tgaadi-web.tech/watch.php?id=22180
-#EXTINF:-1 tvg-id="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1000px-Nick_HD_Logo.svg.png" group-title="KIDS", NICK HD+
-http://tgaadi-web.tech/aadi.php?id=1079
-#EXTINF:-1 tvg-id="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" group-title="KIDS",HUNGAMA MULTI AUDIO
-http://tgaadi-web.tech/watch.php?id=22175
-#EXTINF:-1 tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Marvel_Animation_Logo.jpg" group-title="KIDS",MARVELS ANIMATION
-http://tgaadi-web.tech/aadi.php?id=16948
-#EXTINF:-1 tvg-id="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",DISCOVEREY KIDS HINDI 
-http://tgaadi-web.tech/aadi.php?id=641
-#EXTINF:-1 tvg-id="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",DISCOVEREY KIDS TAMIL
-http://tgaadi-web.tech/aadi.php?id=764
-#EXTINF:-1 tvg-id="26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS", DISCOVEREY KIDS TELUGU
-http://tgaadi-web.tech/aadi.php?id=58157
-#EXTINF:-1 tvg-id="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/440px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY MULTI AUDIO
-http://tgaadi-web.tech/aadi.php?id=25869
-#EXTINF:-1 tvg-id="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="KIDS",DISNEY HD
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156000&extension=ts&play_token=oBwOqQaOKg
-#EXTINF:-1 tvg-id="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/540px-Disney_XD_-_2015.svg.png" group-title="KIDS",DISNEY XD
-http://tgaadi-web.tech/aadi.php?id=2529
-#EXTINF:-1 tvg-id="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/800px-Nickelodeon_Logo.svg.png" group-title="KIDS",NICKTOONS
-http://tgaadi-web.tech/aadi.php?id=1839
-#EXTINF:-1 tvg-id="10430" tvg-logo="https://i.pinimg.com/736x/99/9c/cc/999cccfd4367c14a4f72e8ef2b58937f.jpg" group-title="KIDS",PEPPA PIG HINDI
-http://tgaadi-web.tech/aadi.php?id=10514
-#EXTINF:-1 tvg-id="9117" tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_k3vkuzv8/def_height/2700/def_width/2700/version/100012/type/1" group-title="KIDS", CHUCHU TV
-http://tgaadi-web.tech/aadi.php?id=9201
-#EXTINF:-1 tvg-id="63265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS", DISCOVERY KIDS FHD
-http://tgaadi-web.tech/aadi.php?id=134001
-#EXTINF:-1 tvg-id="1014" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="KIDS", SONY YAY TAMIL
-http://tgaadi-web.tech/aadi.php?id=1097
-#EXTINF:-1 tvg-id="976" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="KIDS", SONY YAY TELUGU
-http://tgaadi-web.tech/aadi.php?id=1059
-#EXTINF:-1 tvg-id="2719" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="KIDS", SONY YAY HINDI
-http://tgaadi-web.tech/aadi.php?id=2802
-#EXTINF:-1 tvg-id="11562" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" group-title="KIDS", HUNGAMA TV
-http://tgaadi-web.tech/aadi.php?id=11646
-
-#EXTINF:-2 tvg-id="" group-title=" 𝙋𝙇𝘼𝙔𝙇𝙄𝙎𝙏         𝘽𝙔         𝘼𝘼𝘿𝙄" tvg-logo="https://toppng.com/uploads/preview/welcome-png-black-and-white-11563129602lednix2jsm.png" ,𝐓𝐆_𝐀𝐀𝐃𝐈
-http://content://com.google.android.apps.docs.storage.legacy/enc%3Dencoded%3DH93BhpdZQuT-BY14GsSA9F_IIKkUsu6dUZByWajoN0Id_yf4DjGM-ZjWZd5ZMA%3D%3D
-
-#EXTINF:-1 tvg-id="59759" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/4c/56/3e4c5692-2f6c-ff25-2e16-447c50c2dc8b/859772826758_cover.jpg/592x592bb.webp" group-title="24×7 KIDS",SHARKDOG HD
-http://tgaadi-web.tech/aadi.php?id=59965
-#EXTINF:-1 tvg-id="59758" tvg-logo="https://toppng.com/uploads/preview/cuphead-logo-11679022069ou5xhrkzbx.png" group-title="24×7 KIDS", LIVE | ONEPLAY CUPHEAD SHOW HD
-http://tgaadi-web.tech/aadi.php?id=59964
-#EXTINF:-1 tvg-id="59757" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Angry_Birds_logos.svg/800px-Angry_Birds_logos.svg.png" group-title="24×7 KIDS", ANGRY BIRDS BLUE HD
-http://tgaadi-web.tech/aadi.php?id=59963
-#EXTINF:-1 tvg-id="59756" tvg-logo="https://toppng.com/uploads/preview/logo-sw-el-logo-de-los-super-wings-115631980220gxpk9iwzb.png" group-title="24×7 KIDS", SUPER WINGS HD
-http://tgaadi-web.tech/aadi.php?id=59962
-#EXTINF:-1 tvg-id="59755" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Angry_Birds_logos.svg/800px-Angry_Birds_logos.svg.png" group-title="24×7 KIDS", ANGRY BIRDS HD
-http://tgaadi-web.tech/aadi.php?id=59961
-#EXTINF:-1 tvg-id="59791" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oggy_and_the_Cockroaches_Logo.webp/600px-Oggy_and_the_Cockroaches_Logo.webp.png" group-title="24×7 KIDS",OGGY AND THE COCKROACHES
-http://tgaadi-web.tech/aadi.php?id=59997
-#EXTINF:-1 tvg-id="59983" tvg-logo="https://toppng.com/uploads/preview/ower-rangers-2018-logo-power-rangers-logo-2018-11563580032immcsxnazf.png" group-title="24×7 KIDS",POWER RANGERS
-http://tgaadi-web.tech/aadi.php?id=60190
-#EXTINF:-1 tvg-id="59985" tvg-logo="https://wallpapers.com/images/high/avengers-assemble-logo-8y4op06rnj1w6e9d.webp" group-title="24×7 KIDS",MARVEL AVENGERS ASSEMBLE
-http://tgaadi-web.tech/aadi.php?id=60192
-#EXTINF:-1 tvg-id="59990" tvg-logo="https://seeklogo.com/images/D/DORA-logo-834F56A2C2-seeklogo.com.png" group-title="24×7 KIDS", DORA THE EXPLORER
-http://tgaadi-web.tech/aadi.php?id=60197
-#EXTINF:-1 tvg-id="58392" tvg-logo="https://i1.sndcdn.com/artworks-UNz65cyRiSiwWF0r-G4ynXQ-t500x500.jpg" group-title="24×7 KIDS", NINJA HATTORI RETURNS-2012
-http://tgaadi-web.tech/aadi.php?id=58608
-#EXTINF:-1 tvg-id="58396" tvg-logo="https://i1.sndcdn.com/artworks-UNz65cyRiSiwWF0r-G4ynXQ-t500x500.jpg" group-title="24×7 KIDS", NINJA HATTORI HINDI
-http://tgaadi-web.tech/aadi.php?id=58612
-#EXTINF:-1 tvg-id="58397" tvg-logo="https://rare-gallery.com/thumbnail/49005-Spider-Man-The-New-Animated-Series-HD-Wallpaper.jpg" group-title="24×7 KIDS", SPIDER MAN-1995 96
-http://tgaadi-web.tech/aadi.php?id=58613
-#EXTINF:-1 tvg-id="58402" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="24×7 KIDS", KIDS CARTOON | SPIDER MAN-1994 45
-http://tgaadi-web.tech/aadi.php?id=58618
-#EXTINF:-1 tvg-id="58406" tvg-logo="https://rare-gallery.com/thumbnail/49005-Spider-Man-The-New-Animated-Series-HD-Wallpaper.jpg" group-title="24×7 KIDS", LIVE | KIDS CARTOON | SPIDER MAN-2008
-http://tgaadi-web.tech/aadi.php?id=58622
-#EXTINF:-1 tvg-id="58423" tvg-logo="https://rare-gallery.com/thumbnail/49005-Spider-Man-The-New-Animated-Series-HD-Wallpaper.jpg" group-title="24×7 KIDS", LIVE | KIDS CARTOON | SPIDER MAN-2003
-http://tgaadi-web.tech/aadi.php?id=58639
-#EXTINF:-1 tvg-id="58405" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="24×7 KIDS", SPIDER MAN-1999
-http://tgaadi-web.tech/aadi.php?id=58621
-#EXTINF:-1 tvg-id="22019" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cartoon_Network_HD%2B_India_logo.png/500px-Cartoon_Network_HD%2B_India_logo.png" group-title="KIDS", CARTOON NETWORK IND
-https://tg-aadi-web.000webhostapp.com/watch.php?id=22179
-#EXTINF:-1 tvg-id="58408" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="24×7 KIDS", SPIDER MAN-1981
-http://tgaadi-web.tech/aadi.php?id=58624
-#EXTINF:-1 tvg-id="58413" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="24×7 KIDS", SPIDER MAN-1967
-http://tgaadi-web.tech/aadi.php?id=58629
-#EXTINF:-1 tvg-id="58410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berlin_Sluggers_Logo.svg/1599px-Berlin_Sluggers_Logo.svg.png?20110608164619" group-title="24×7 KIDS", SLUGTERRA
-http://tgaadi-web.tech/aadi.php?id=58626
-#EXTINF:-1 tvg-id="58409" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/08/ShinChan-82694-2.png/revision/latest/scale-to-width-down/220?cb=20170717185335" group-title="24×7 KIDS", SHINCHAN
-http://tgaadi-web.tech/aadi.php?id=58625
-#EXTINF:-1 tvg-id="58414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/DuckTales_TV_logo.svg/440px-DuckTales_TV_logo.svg.png" group-title="24×7 KIDS", DUCK TALES-2017
-http://tgaadi-web.tech/aadi.php?id=58630
-#EXTINF:-1 tvg-id="58420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/DuckTales_TV_logo.svg/440px-DuckTales_TV_logo.svg.png" group-title="24×7 KIDS", DUCK TALES
-http://tgaadi-web.tech/aadi.php?id=5863
-#EXTINF:-1 tvg-id="58364" tvg-logo="https://cdn.anime-planet.com/characters/primary/naruto-uzumaki-1-285x399.webp?t=1648651726" group-title="24×7 KIDS",NARUTO
-http://tgaadi-web.tech/aadi.php?id=58580
-#EXTINF:-1 tvg-id="58418" tvg-logo="https://w7.pngwing.com/pngs/581/347/png-transparent-doraemon-poster-nobita-nobi-dorami-doraemon-desktop-doraemon-child-food-text-thumbnail.png" group-title="24×7 KIDS", DORAEMON HINDI
-http://tgaadi-web.tech/aadi.php?id=58634
-#EXTINF:-1 tvg-id="58416" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Ben_10_Ultimate_Alien_logo.svg/400px-Ben_10_Ultimate_Alien_logo.svg.png" group-title="24×7 KIDS", BEN 10 ULTIMATE ALIEN HINDI
-http://tgaadi-web.tech/aadi.php?id=58632
-#EXTINF:-1 tvg-id="58419" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Ben10Omniverse.svg/440px-Ben10Omniverse.svg.png" group-title="24×7 KIDS", BEN 10 OMNIVERSE HINDI
-http://tgaadi-web.tech/aadi.php?id=58635
-#EXTINF:-1 tvg-id="58426" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Ben_10_logo.svg/revision/latest/scale-to-width-down/250?cb=20170818022938" group-title="24×7 KIDS", BEN 10 CLASSIC HINDI
-http://tgaadi-web.tech/aadi.php?id=58642
-#EXTINF:-1 tvg-id="58422" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ben_10_Alien_Force_logo.svg/400px-Ben_10_Alien_Force_logo.svg.png" group-title="24×7 KIDS", BEN 10 ALIEN FORCE HINDI
-http://tgaadi-web.tech/aadi.php?id=58638
-#EXTINF:-1 tvg-id="58425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Angry_Birds_logos.svg/800px-Angry_Birds_logos.svg.png" group-title="24×7 KIDS", ANGRY BIRDS TOONS
-http://tgaadi-web.tech/aadi.php?id=58641
-#EXTINF:-1 tvg-id="58248" tvg-logo="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FtQged7mKJ3cUpNMq5IMeceZvyKP3cTyHqhNmKEQ0Vv8.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D5fc89334e792e2c9b294d1d328bf522cdede4cdf" group-title="24×7 KIDS", POKEMON
-http://tgaadi-web.tech/aadi.php?id=58464
-#EXTINF:-1 tvg-id="58275" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Shaun_the_Sheep.png/440px-Shaun_the_Sheep.png" group-title="24×7 KIDS",Shaun The Sheep
-http://tgaadi-web.tech/aadi.php?id=58491
-#EXTINF:-1 tvg-id="58234" tvg-logo="https://seeklogo.com/images/T/tom-and-jerry-logo-0F89FA6342-seeklogo.com.png" group-title="24×7 KIDS", Dragonball Z
-http://tgaadi-web.tech/aadi.php?id=58450
-#EXTINF:-1 tvg-id="58305" tvg-logo="https://www.vhv.rs/dpng/d/551-5516083_thomas-and-friends-read-and-play-hd-png.png" group-title="24×7 KIDS", Thomas And Friends
-http://tgaadi-web.tech/aadi.php?id=58521
-#EXTINF:-1 tvg-id="58377" tvg-logo="https://seeklogo.com/images/T/tom-and-jerry-logo-0F89FA6342-seeklogo.com.png" group-title="24×7 KIDS",Tom And Jerry.
-http://tgaadi-web.tech/aadi.php?id=58593
-#EXTINF:-1 tvg-id="63206" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Ben_10_Ultimate_Alien_logo.svg/400px-Ben_10_Ultimate_Alien_logo.svg.png" group-title="24×7 KIDS", BEN 10 ULTIMATE ALIEN HINDI
-http://tgaadi-web.tech/aadi.php?id=126223
-#EXTINF:-1 tvg-id="58387" tvg-logo="https://seeklogo.com/images/T/tom-and-jerry-logo-0F89FA6342-seeklogo.com.png" group-title="24×7 KIDS",Tom and Jerry..
-http://tgaadi-web.tech/aadi.php?id=58603
-#EXTINF:-1 tvg-id="58350" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29WZVRObOUcvFBTsALVE5vDJlKgST1DhLUQ&usqp=CAU" group-title="24×7 KIDS",The Dragon Ball Z movie collection
-http://tgaadi-web.tech/aadi.php?id=58566
-
---------------------------------------------------------------------- SONYLIV --------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SET HD"
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony SAB HD"
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony PAL"
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony YAY"
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony Marathi"
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 tvg-id="6" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony AATH"
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony MAX HD"
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony MAX"
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 tvg-id="9" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony WAH"
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 tvg-id="10" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony MAX2"
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 tvg-id="11" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony PIX HD"
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 tvg-id="12" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony BBC Earth HD"
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1 tvg-id="13" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 1"
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-id="14" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 2"
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-id="15" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 3"
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 tvg-id="16" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 4"
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-id="17" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 5"
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 1 HD"
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-id="19" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony  TEN 2 HD"
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-id="20" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 3 HD"
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 4 HD"
-https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 tvg-id="22" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 5 HD"
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SONY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony Kal"
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
---------------------------------------------------------------------- ZEE5 --------------------------------------------------------------------
-#EXTINF:-1 tvg-id="24" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee TV"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
-#EXTINF:-1 tvg-id="25" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee TV HD"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","&TV"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","&TV HD"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Anmol"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Cinema"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Cinema HD"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","&Pictures"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","&Pictures HD"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Bollywood"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Action"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-#EXTINF:-1 tvg-id="35" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Anmol Cinema"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zing"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Marathi"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
-#EXTINF:-1 tvg-id="43" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Marathi HD"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Talkies"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-logo="" group-title="Zee Channels" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Zee Talkies HD"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
-
--------------------------------------------- VOOT ------------------------------------------
-#EXTINF:-1 tvg-id="80" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sports18 1"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sports18 1 HD"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1519040560_Channel_Logo_Web_Channel-Listing_500x500_Mtv1_320X320.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","MTV"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","MTV HD Plus"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","MTV Beats"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","MTV Beats HD"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="86" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","VH1"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/VH1_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="87" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Nick"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="88" tvg-logo="https://logodix.com/logo/900709.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Nick HD Plus"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="89" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Nick Junior"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="90" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sonic Nickelodeon"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="91" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Comedy Central"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="92" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Comedy Central HD"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Clubbing TV"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Rishtey"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="95" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Super"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Infinity"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="97" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Infinity HD"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="98" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Cineplex Superhits"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Cineplex"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Cineplex HD"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Cineplex Bollywood"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="102" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="103" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors HD"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="104" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Bangla"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="105" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Bangla HD"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Bangla Cinema"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_Cinema_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="107" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Kannada"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="108" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Kannada HD"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="109" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Kannada Cinema"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Marathi"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="111" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Marathi HD"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="112" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Tamil"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Tamil HD"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="114" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Gujarati"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="115" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Gujarati Cinema"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_Cinema_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="116" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="VOOT CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Colors Oriya"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
-
------------------------------------------------- DISCOVERY -------------------------------------------------
-#EXTINF:-1 tvg-id="117" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Animal Planet English"
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 tvg-id="118" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Animal Planet Hindi"
-https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
-#EXTINF:-1 tvg-id="119" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Discovery English HD"
-https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
-#EXTINF:-1 tvg-id="120" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Discovery Hindi HD"
-https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
-#EXTINF:-1 tvg-id="121" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Discovery Kids"
-https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
-#EXTINF:-1 tvg-id="122" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Discovery Science English"
-https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
-#EXTINF:-1 tvg-id="123" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Discovery Science Hindi"
-https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
-#EXTINF:-1 tvg-id="124" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Discovery Turbo"
-https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
-#EXTINF:-1 tvg-id="125" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","DMAX HD"
-https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
-#EXTINF:-1 tvg-id="126" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Eurosport HD"
-https://denver1769.pages.dev/Discovery/eurosport_hd_english.m3u8
-#EXTINF:-1 tvg-id="127" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Food Network English"
-https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
-#EXTINF:-1 tvg-id="128" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","HGTV English HD"
-https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
-#EXTINF:-1 tvg-id="129" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","ID English HD"
-https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
-#EXTINF:-1 tvg-id="130" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","ID Hindi HD"
-https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
-#EXTINF:-1 tvg-id="131" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","TRVL English HD"
-https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
-#EXTINF:-1 tvg-id="132" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","TLC English HD"
-https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
-#EXTINF:-1 tvg-id="133" tvg-logo="" group-title="DISCOVERY CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","TLC Hindi HD"
-https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
-
------------------------------------------------- SUNXT ---------------------------------------------------------
-#EXTINF:-1 tvg-id="134" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","UDAYA COMEDY"
-https://sports247.eu.org/app/strmm.php?cid=733&id=Udaya_Comedy_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="135" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","UDAYA MOVIES"
-https://sports247.eu.org/app/strmm.php?cid=678&id=Udaya_Movies_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="136" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","UDAYA HD"
-https://sports247.eu.org/app/strmm.php?cid=901&id=Udaya_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8
-#EXTINF:-1 tvg-id="137" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","UDAYA MUSIC"
-https://sports247.eu.org/app/strmm.php?cid=744&id=Udaya_Music_MOB-audio_33636_eng=33600-video=2906400.m3u8
-#EXTINF:-1 tvg-id="138" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","GEMINI COMEDY"
-https://sports247.eu.org/app/strmm.php?cid=729&id=Gemini_Comedy_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="139" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","GEMINI HD"
-https://sports247.eu.org/app/strmm.php?cid=897&id=Gemini_TV_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8
-#EXTINF:-1 tvg-id="140" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","GEMINI LIFE"
-https://sports247.eu.org/app/strmm.php?cid=684&id=Gemini_Life_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="141" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","GEMINI MOVIES HD"
-https://sports247.eu.org/app/strmm.php?cid=899&id=Gemini_Movies_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8
-#EXTINF:-1 tvg-id="142" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","GEMINI MUSIC"
-https://sports247.eu.org/app/strmm.php?cid=898&id=Gemini_Music_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","GEMINI NEWS"
-http://sansat.net:25461/fGyRSpbg/UvOKkxchG5vMpNE/95865
-#EXTINF:-1 tvg-id="144" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","KUSHI TV"
-https://sports247.eu.org/app/strmm.php?cid=558&id=Kushi_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="145" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","CHINTU TV"
-https://sports247.eu.org/app/strmm.php?cid=555&id=Chintu_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="146" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","CHUTTI TV"
-https://sports247.eu.org/app/strmm.php?cid=557&id=Chutti_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="147" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","KOCHU TV"
-https://sports247.eu.org/app/strmm.php?cid=557&id=Chutti_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="148" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SUN BANGLA"
-https://sports247.eu.org/app/strmm.php?cid=1669&id=Sun_Bangla_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="149" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SURYA MOVIES"
-https://sports247.eu.org/app/strmm.php?cid=1754&id=Surya_Movies_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="150" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SURYA MUSIC"
-https://sports247.eu.org/app/strmm.php?cid=747&id=Surya_Music_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="151" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SURYA TV HD"
-https://sports247.eu.org/app/strmm.php?cid=900&id=Surya_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8
-#EXTINF:-1 tvg-id="152" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SURYA COMEDY"
-https://sports247.eu.org/app/strmm.php?cid=1662&id=Surya_Comedy_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="153" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","KTV"
-https://sports247.eu.org/app/strmm.php?cid=894&id=KTV_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8
-#EXTINF:-1 tvg-id="154" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","ADHTIYA TV"
-https://sports247.eu.org/app/strmm.php?cid=709&id=Adithya_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="155" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SUN LIFE"
-https://sports247.eu.org/app/strmm.php?cid=682&id=Sun_Life_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="156" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SUN MUSIC HD"
-https://sports247.eu.org/app/strmm.php?cid=895&id=Sun_Music_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8
-#EXTINF:-1 tvg-id="157" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SUN NEWS"
-https://sports247.eu.org/app/strmm.php?cid=676&id=Sun_News_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="158" tvg-logo="" group-title="SUNXT" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SUN TV HD"
-https://sports247.eu.org/app/strmm.php?cid=896&id=Sun_TV_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8
-
-================================================ KIDS ============================================================
-#EXTINF:-1 tvg-id="159" tvg-logo="" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","POGO"
-https://sports247.eu.org/app/strmm.php?cid=559&id=Pogo_Hindi_MOB-audio_33637_hin=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="160" tvg-logo="" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","CARTOON NETWORK"
-https://sports247.eu.org/app/strmm.php?cid=816&id=Cartoon_Network_Hindi_MOB-audio_33644_hin=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="161" tvg-logo="" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SONY YAY"
-https://sports247.eu.org/app/strmm.php?cid=872&id=Sony_Yay_Hindi_MOB-audio_33636_eng=33600-video=1680400.m3u8
-#EXTINF:-1 tvg-id="162" tvg-logo="" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","THE Q KAHANIYAN"
-https://sports247.eu.org/app/strmm.php?cid=1920&id=The_Q_Kahaniyan_MOB-audio_98835_eng=98800-video=1680400.m3u8
-#EXTINF:-1 tvg-id="163" tvg-logo="" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","NICK"
-https://sports247.eu.org/app/strmm.php?cid=545&id=Nick_Hindi_MOB-audio_98841_hin=98800-video=1680400.m3u8
-#EXTINF:-1 tvg-id="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Hungama"
-http://103.186.77.21:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="165" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Hungama Tamil"
-http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=1097666&extension=m3u8?#key=Toxic-TV&token=ARTURO
-#EXTINF:-1 tvg-id="166" tvg-logo="https://www.pngitem.com/pimgs/m/295-2955223_disney-channel-logo-de-hd-png-download.png" group-title="KIDS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Disney HD"
-https://fifabangladesh.xyz/DISNEYxRANAPK/play.m3u8
-
-
-=============================================== STAR CHANNELS =====================================================
-#EXTINF:-1 tvg-id="167" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR PLUS HD"
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:7E:74:74&stream=155971&extension=ts&play_token=vqlgwOwuwK
-#EXTINF:-1 tvg-id="168" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR BHARAT HD"
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:7E:74:74&stream=156173&extension=ts&play_token=qMYUwsmJw9
-#EXTINF:-1 tvg-id="169" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR UTSAV HD"
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:7E:74:74&stream=156163&extension=ts&play_token=LMYPBXrB9e
-#EXTINF:-1 tvg-id="170" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR VIJAY HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155874&extension=ts&play_token=CStAsxHf8i
-#EXTINF:-1 tvg-id="171" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR PRAVAH HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155755&extension=ts&play_token=hguOcYXa8a
-#EXTINF:-1 tvg-id="172" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR UTSAV MOVIES HD"
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=1112131&extension=ts&play_token=OikfuTrSMt
-#EXTINF:-1 tvg-id="173" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR MAA MOVIES HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155842&extension=ts&play_token=zFB6ouj3GO
-#EXTINF:-1 tvg-id="174" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR GOLD HD"
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=155969&extension=ts&play_token=0afcwiKPmJ
-#EXTINF:-1 tvg-id="175" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR GOLD 2 HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=1112132&extension=ts&play_token=t2j2NuMKKR
-#EXTINF:-1 tvg-id="176" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR SUVARNA"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155705&extension=ts&play_token=1psd7x0MNk
-#EXTINF:-1 tvg-id="177" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR MAA MOVIES HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155842&extension=ts&play_token=tpjiBdFdTY
-#EXTINF:-1 tvg-id="178" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR MAA GOLD HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=281968&extension=ts&play_token=pVObXyWhaF
-#EXTINF:-1 tvg-id="179" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR GOLD SELECT HD"
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=155970&extension=ts&play_token=EAQsfeStvb
-#EXTINF:-1 tvg-id="180" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR MAA HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155843&extension=ts&play_token=IbZrIkn6K0
-#EXTINF:-1 tvg-id="181" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR SPORTS 1 HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=1104673&extension=ts&play_token=fF5JVAnbVC
-#EXTINF:-1 tvg-id="182" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR SPORTS 1 HINDI HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=1104672&extension=ts&play_token=SOcpOR5EqA
-#EXTINF:-1 tvg-id="183" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR SPORTS TAMIL HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155873&extension=ts&play_token=qFiHX7xtv6
-#EXTINF:-1 tvg-id="184" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR SPORTS SELECT 1 HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155972&extension=ts&play_token=PwVPYAxepK
-#EXTINF:-1 tvg-id="185" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR SPORTS SELECT 2 HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155973&extension=ts&play_token=gr4loAGuSR
-#EXTINF:-1 tvg-id="186" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR SPORTS 2 HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=1104674&extension=ts&play_token=PyFKtOZi36
-#EXTINF:-1 tvg-id="187" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR SPORTS 3 HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=1104675&extension=ts&play_token=y4RABtoYvL
-#EXTINF:-1 tvg-id="188" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR SPORTS 2 HINDI HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=1104674&extension=ts&play_token=PyFKtOZi36
-#EXTINF:-1 tvg-id="189" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","STAR UTSAV MOVIES"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=1112131&extension=ts&play_token=4v3mAL8X11
-#EXTINF:-1 tvg-id="190" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","NAT GEO HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=156011&extension=ts&play_token=hRHvkHPXAH
-#EXTINF:-1 tvg-id="191" tvg-logo="" group-title="STAR CHANNELS" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","NAT GEO WILD HD"
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155989&extension=ts&play_token=CMYC4hy7tZ
-
+#EXTINF:-1,|INDIA|UTSAV PLUS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/510907
+#EXTINF:-1,|HI| ZEE CLASSICS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276904
+#EXTINF:-1,|HI| ZEE ACTION
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276905
+#EXTINF:-1,|HI| ZEE TV HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276906
+#EXTINF:-1,|HI| ZEE CINEMA HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276907
+#EXTINF:-1,|HI| ZING
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276908
+#EXTINF:-1,|HI| STAR BHARAT HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276909
+#EXTINF:-1,|HI| STAR GOLD HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276910
+#EXTINF:-1,|HI| STAR GOLD SELECT HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276911
+#EXTINF:-1,|HI| STAR PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276912
+#EXTINF:-1,|HI| STAR UTSAV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276913
+#EXTINF:-1,|HI| STAR UTSAV MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276914
+#EXTINF:-1,|HI| SONY HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276915
+#EXTINF:-1,|HI| SONY MAX HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276916
+#EXTINF:-1,|HI| SONY MAX 2
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276917
+#EXTINF:-1,|HI| SONY PIX HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276918
+#EXTINF:-1,|HI| SONY BBC EARTH HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276919
+#EXTINF:-1,|HI| SONY SAB HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276920
+#EXTINF:-1,|HI| SONY PAL
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276921
+#EXTINF:-1,|HI| SONY WAH
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276922
+#EXTINF:-1,|HI| SONY YAY
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276923
+#EXTINF:-1,|HI| B4U MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276924
+#EXTINF:-1,|HI| COLORS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276925
+#EXTINF:-1,|HI| 9X JALWA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276926
+#EXTINF:-1,|HI| AAJ TAK HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276927
+#EXTINF:-1,|HI| AAJ TAK TEZ
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276928
+#EXTINF:-1,|HI| ZOOM TV HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276929
+#EXTINF:-1,|HI| AASTHA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276930
+#EXTINF:-1,|HI| AASTHA BHAJAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276931
+#EXTINF:-1,|HI| ABP NEWS INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276932
+#EXTINF:-1,|HI| AND PICTURES HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276933
+#EXTINF:-1,|HI| & TV HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276934
+#EXTINF:-1,|HI| ANIMAL PLANET HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276935
+#EXTINF:-1,|HI| ARIHANT
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276936
+#EXTINF:-1,|HI| BABY TV HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276937
+#EXTINF:-1,|HI| BIG MAGIC HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276938
+#EXTINF:-1,|HI| BINDAS MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276939
+#EXTINF:-1,|HI| CINEPLEX HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276940
+#EXTINF:-1,|HI| DD NATIONAL HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276942
+#EXTINF:-1,|HI| DD RAJASTHAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276943
+#EXTINF:-1,|HI| DD BHARATI
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276944
+#EXTINF:-1,|HI| DD BIHAR
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276945
+#EXTINF:-1,|HI| DD INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276946
+#EXTINF:-1,|HI| DD NEWS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276947
+#EXTINF:-1,|HI| DD SPORTS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276948
+#EXTINF:-1,|HI| DD URDU
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276950
+#EXTINF:-1,|HI| DD BHARTI
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276952
+#EXTINF:-1,|HI| DISCOVERY WORLD HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276953
+#EXTINF:-1,|HI| E 24
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276954
+#EXTINF:-1,|HI| ENTER 10 MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276955
+#EXTINF:-1,|HI| EPIC HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276956
+#EXTINF:-1,|HI| FOX LIFE HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276957
+#EXTINF:-1,|HI| HISTORY TV18 HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276958
+#EXTINF:-1,|HI| LIVING FOODZ HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276964
+#EXTINF:-1,|HI| MINIPLEX HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276965
+#EXTINF:-1,|HI| MOVIES ACTIVE
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276966
+#EXTINF:-1,|HI| MTV BEATS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276967
+#EXTINF:-1,|HI| MTV PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276968
+#EXTINF:-1,|HI| MUSIC INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276969
+#EXTINF:-1,|HI| NAT GEO WILD HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276970
+#EXTINF:-1,|HI| NATIONAL GEOGRAPHIC HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276971
+#EXTINF:-1,|HI| NEWS 18 ASSAM
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276972
+#EXTINF:-1,|HI| NEWS 18 INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276974
+#EXTINF:-1,|HI| NEWS 18 RAJASTHAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276975
+#EXTINF:-1,|HI| NEWS NATION
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276976
+#EXTINF:-1,|HI| REPUBLIC TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276978
+#EXTINF:-1,|HI| NICK PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276979
+#EXTINF:-1,|HI| PARAS TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276980
+#EXTINF:-1,|HI| PEACE OF MIND HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276981
+#EXTINF:-1,|HI| MAHA MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276982
+#EXTINF:-1,|HI| TATA SKY BOLLYWOOD PREMIERE HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276984
+#EXTINF:-1,|HI| UTV ACTION
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276985
+#EXTINF:-1,|HI| UTV HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276986
+#EXTINF:-1,|HI| VEDIC TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276987
+#EXTINF:-1,|HI| ZEE ANMOL
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276989
+#EXTINF:-1,|HI| ZEE ANMOL CINEMA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276990
+#EXTINF:-1,|HI| ZEE HINDUSTAN NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276991
+#EXTINF:-1,|HI| ZEE NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276992
+#EXTINF:-1,|HI| ZEE NEWS BIHAR
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276993
+#EXTINF:-1,|HI| ZEE NEWS MP/CHATTISGARH
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276994
+#EXTINF:-1,|HI| ZEE NEWS UP
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276995
+#EXTINF:-1,|HI| ZEE RAJASTHAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276996
+#EXTINF:-1,|HI| POGO KIDS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276997
+#EXTINF:-1,|HI| CINEMA TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276998
+#EXTINF:-1,|HI| GANGA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276999
+#EXTINF:-1,|HI| DISH CINE ACTIVE
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277000
+#EXTINF:-1,|HI| EVERGREEN CLASSIC
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277001
+#EXTINF:-1,|HI| DISNEY SD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277002
+#EXTINF:-1,|HI| CNBC TV18 NEWS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277003
+#EXTINF:-1,|HI| TIMES NOW HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277004
+#EXTINF:-1,|HI| NICK PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277005
+#EXTINF:-1,|HI| MNX HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277006
+#EXTINF:-1,|HI| MOVIES NOW HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277007
+#EXTINF:-1,|HI| MN PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277008
+#EXTINF:-1,|HI| DISNEY INTERNATIONAL HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277009
+#EXTINF:-1,|HI| TATA SKY BOLLYWOOD HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277010
+#EXTINF:-1,|HI| CN PLUS HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277011
+#EXTINF:-1,|HI| BINDAS MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277012
+#EXTINF:-1,|HI| UTV MOVIES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277013
+#EXTINF:-1,|HI| ISHWAR TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277014
+#EXTINF:-1,|HI| CARTOON NETWORK
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277015
+#EXTINF:-1,|HI| REPUBLIC BHARAT
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277016
+#EXTINF:-1,|HI| B4U MUSIC
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277017
+#EXTINF:-1,|HI| INDIA NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277018
+#EXTINF:-1,|HI| INDIA TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277019
+#EXTINF:-1,|HI| DANGAL
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277020
+#EXTINF:-1,|HI| MASTII
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277021
+#EXTINF:-1,|HI| NDTV INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277022
+#EXTINF:-1,|HI| INDIA NEWS MP
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277023
+#EXTINF:-1,|HI| INDIA NEWS UP
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277024
+#EXTINF:-1,|HI| INDIA NEWS HARYANA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277025
+#EXTINF:-1,|HI| INDIA NEWS RAJASTHAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277027
+#EXTINF:-1,|HI| SUDARSHAN NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277028
+#EXTINF:-1,|HI| NDTV GOOD TIMES
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277038
+#EXTINF:-1,|HI| OM SHANTI
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277039
+#EXTINF:-1,|HI| IBC 24
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277040
+#EXTINF:-1,|HI| NEWS 24
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277041
+#EXTINF:-1,|HI| SHUBH TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277042
+#EXTINF:-1,|HI| CHANNEL WIN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277043
+#EXTINF:-1,|HI| RAMDHENU
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277044
+#EXTINF:-1,|HI| RENGONI
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277045
+#EXTINF:-1,|HI| FOOD FOOD HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277046
+#EXTINF:-1,|HI| DILLI AAJ TAKK
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277047
+#EXTINF:-1,|HI| PRAG NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277048
+#EXTINF:-1,|HI| TARANG Music
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277049
+#EXTINF:-1,|HI| NEWS 18 LIVE
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277050
+#EXTINF:-1,|HI| NDTV PROFIT
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277051
+#EXTINF:-1,|HI| NDTV 24x7
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277052
+#EXTINF:-1,|HI| INDIA TODAY
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277053
+#EXTINF:-1,|HI| 9X MUSIC
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277054
+#EXTINF:-1,|HI| E NEWS 24
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277055
+#EXTINF:-1,|HI| ZEE BUSINESS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277056
+#EXTINF:-1,|HI| SANSKAR TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277057
+#EXTINF:-1,|HI| SATSANG TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277058
+#EXTINF:-1,|HI| DISCOVERY KIDS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277059
+#EXTINF:-1,|HI| CHANNEL WIN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277060
+#EXTINF:-1,|HI| STAR GOLD 2
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277061
+#EXTINF:-1,|HI| AND EXPLORER HD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277062
+#EXTINF:-1,|HI| MIRROR NOW
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277064
+#EXTINF:-1,|HI| ZEE YUVA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277066
+#EXTINF:-1,|HI| PRARTHANA BHAWAN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277067
+#EXTINF:-1,|HI| RAJASTHAN PATRIKA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277068
+#EXTINF:-1,|HI| REPUBLIC NEWS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277069
+#EXTINF:-1,|HI| IDN LOKMAT
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277070
+#EXTINF:-1,|HI| ZEE NEWS MP
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277071
+#EXTINF:-1,|HI| DIVYA TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277072
+#EXTINF:-1,|HI| TARANG TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277073
+#EXTINF:-1,|HI| ALANKAR TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277074
+#EXTINF:-1,|HI| TARANG MUSIC
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277075
+#EXTINF:-1,|HI| SARTHAK TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/277076
+#EXTINF:-1,|HI| ZEE KALINGA
+#EXTINF:-1,IN | Aapka Colors FHD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/514671
+#EXTINF:-1,HI | 4fun
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513319
+#EXTINF:-1,HI | 4fun Fit & Dance
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513332
+#EXTINF:-1,HI | AajTak International
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513311
+#EXTINF:-1,HI | Aastha Bhajan
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513288
+#EXTINF:-1,HI | Aastha TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513333
+#EXTINF:-1,HI | Arihant
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513331
+#EXTINF:-1,HI | B4U Movies
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513308
+#EXTINF:-1,HI | B4U Music
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513323
+#EXTINF:-1,HI | Colors Cineplex
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513303
+#EXTINF:-1,HI | Colors Rishtey
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513329
+#EXTINF:-1,HI | Desi Play TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513314
+#EXTINF:-1,HI | Food Food
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513301
+#EXTINF:-1,HI | Foodxp
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513284
+#EXTINF:-1,HI | Foodxp
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513315
+#EXTINF:-1,HI | India TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513295
+#EXTINF:-1,HI | India TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513320
+#EXTINF:-1,HI | Jus Hindi
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513316
+#EXTINF:-1,HI | MTV India
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513309
+#EXTINF:-1,HI | NDTV 24x7
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513307
+#EXTINF:-1,HI | Republic TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513334
+#EXTINF:-1,HI | SAB TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513321
+#EXTINF:-1,HI | Sahara One
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513337
+#EXTINF:-1,HI | Sahara Samay
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513322
+#EXTINF:-1,HI | Sanskar
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513281
+#EXTINF:-1,HI | Saregama Music
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513287
+#EXTINF:-1,HI | Saregama Music
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513292
+#EXTINF:-1,HI | SET Max
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513335
+#EXTINF:-1,HI | Shemaroo Bollywood
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513336
+#EXTINF:-1,HI | Shemaroo Filmigaane
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513300
+#EXTINF:-1,HI | Shemaroo Kids
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513313
+#EXTINF:-1,HI | Sony Entertainment Television
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513318
+#EXTINF:-1,HI | Sony KAL
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513310
+#EXTINF:-1,HI | Sony KAL
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513328
+#EXTINF:-1,HI | Sony Max 2
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513290
+#EXTINF:-1,HI | Sony Yay
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513298
+#EXTINF:-1,HI | Times Now
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513285
+#EXTINF:-1,HI | Times Now Navbharat
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513305
+#EXTINF:-1,HI | TV Asia
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513326
+#EXTINF:-1,HI | Vedic TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513317
+#EXTINF:-1,KANNADA | Aastha Kannada
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513341
+#EXTINF:-1,KANNADA | Colors Kannada
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513339
+#EXTINF:-1,KANNADA | SLATEPO16
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513343
+#EXTINF:-1,KANNADA | Udaya Comedy
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513348
+#EXTINF:-1,KANNADA | UDAYAMOVS
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513344
+#EXTINF:-1,KANNADA | UDAYAMSC
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513346
+#EXTINF:-1,KANNADA | Udaya TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513347
+#EXTINF:-1,MALAYALAM | Kairali News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513349
+#EXTINF:-1,MALAYALAM | Kairali TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513357
+#EXTINF:-1,MALAYALAM | Kairali We
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513352
+#EXTINF:-1,MALAYALAM | Mazhavil Manorama
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513355
+#EXTINF:-1,MALAYALAM | News18 Kerala
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513350
+#EXTINF:-1,MALAYALAM | SURCMDY
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513356
+#EXTINF:-1,MALAYALAM | Surya Movies
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513353
+#EXTINF:-1,MALAYALAM | Surya Music
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513354
+#EXTINF:-1,MALAYALAM | Surya TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513351
+#EXTINF:-1,PUNJABI | Chardikla Time TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513365
+#EXTINF:-1,PUNJABI | CHARDT
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513374
+#EXTINF:-1,PUNJABI | Desi Channel
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513372
+#EXTINF:-1,PUNJABI | Garv Punjab Gurbani
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513369
+#EXTINF:-1,PUNJABI | Garv Punjab Gurbani
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513370
+#EXTINF:-1,PUNJABI | Gurbaani TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513367
+#EXTINF:-1,PUNJABI | JUS Now
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513375
+#EXTINF:-1,PUNJABI | JUS Now
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513378
+#EXTINF:-1,PUNJABI | JUS One
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513384
+#EXTINF:-1,PUNJABI | JUSPUNCD
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513385
+#EXTINF:-1,PUNJABI | Jus Punjabi
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513366
+#EXTINF:-1,PUNJABI | JUS Punjabi Canada
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513368
+#EXTINF:-1,PUNJABI | JUST IN
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513371
+#EXTINF:-1,PUNJABI | News18 Punjab Haryana
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513373
+#EXTINF:-1,PUNJABI | News Only
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513381
+#EXTINF:-1,PUNJABI | Only Music
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513359
+#EXTINF:-1,PUNJABI | Pitaara
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513363
+#EXTINF:-1,PUNJABI | PTC Chak De
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513361
+#EXTINF:-1,PUNJABI | PTC Dhol TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513383
+#EXTINF:-1,PUNJABI | PTC Music
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513377
+#EXTINF:-1,PUNJABI | PTC News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513360
+#EXTINF:-1,PUNJABI | PTC Punjabi
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513382
+#EXTINF:-1,PUNJABI | PTC Punjabi Gold
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513380
+#EXTINF:-1,PUNJABI | PTC Simran
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513386
+#EXTINF:-1,PUNJABI | Sanjha TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513362
+#EXTINF:-1,PUNJABI | TV PUNJAB
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513358
+#EXTINF:-1,PUNJABI | TV PUNJAB
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513376
+#EXTINF:-1,TAMIL | AASTA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513426
+#EXTINF:-1,TAMIL | Adithya
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513424
+#EXTINF:-1,TAMIL | Colors Tamil
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513402
+#EXTINF:-1,TAMIL | Jaya Max
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513400
+#EXTINF:-1,TAMIL | Jaya Max
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513419
+#EXTINF:-1,TAMIL | Jaya Plus
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513407
+#EXTINF:-1,TAMIL | Jaya Plus
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513408
+#EXTINF:-1,TAMIL | Jaya TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513420
+#EXTINF:-1,TAMIL | JMovies
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513404
+#EXTINF:-1,TAMIL | JMovies
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513414
+#EXTINF:-1,TAMIL | KTV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513409
+#EXTINF:-1,TAMIL | News18 Tamil
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513403
+#EXTINF:-1,TAMIL | Raj Digital Plus
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513411
+#EXTINF:-1,TAMIL | Raj Digital Plus
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513415
+#EXTINF:-1,TAMIL | Raj Musix
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513417
+#EXTINF:-1,TAMIL | Raj Musix
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513423
+#EXTINF:-1,TAMIL | Raj News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513412
+#EXTINF:-1,TAMIL | Raj News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513421
+#EXTINF:-1,TAMIL | Raj TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513401
+#EXTINF:-1,TAMIL | Raj TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513410
+#EXTINF:-1,TAMIL | Saregama Tamil
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513418
+#EXTINF:-1,TAMIL | Saregama Tamil
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513425
+#EXTINF:-1,TAMIL | SUNLIFE
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513413
+#EXTINF:-1,TAMIL | SUN Music
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513406
+#EXTINF:-1,TAMIL | Sun News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513405
+#EXTINF:-1,TAMIL | SUN TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513422
+#EXTINF:-1,TELUGU | Aastha Telugu
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513393
+#EXTINF:-1,TELUGU | GEMIMSC
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513397
+#EXTINF:-1,TELUGU | Gemini Comedy
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513389
+#EXTINF:-1,TELUGU | Gemini Life
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513398
+#EXTINF:-1,TELUGU | Gemini Movies
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513390
+#EXTINF:-1,TELUGU | Gemini TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513391
+#EXTINF:-1,TELUGU | Saregama Telugu
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513394
+#EXTINF:-1,TELUGU | Saregama Telugu
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513399
+#EXTINF:-1,TELUGU | TV5 News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513396
+#EXTINF:-1,TELUGU | TV Asia Telugu
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513388
+#EXTINF:-1,URDU | ARY Digital
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513433
+#EXTINF:-1,URDU | ARY Digital
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513452
+#EXTINF:-1,URDU | ARY News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513434
+#EXTINF:-1,URDU | ARY News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513438
+#EXTINF:-1,URDU | ARY Zauq
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513427
+#EXTINF:-1,URDU | ARY Zauq
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513431
+#EXTINF:-1,URDU | Dunya TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513428
+#EXTINF:-1,URDU | Dunya TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513448
+#EXTINF:-1,URDU | Express News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513430
+#EXTINF:-1,URDU | Express News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513439
+#EXTINF:-1,URDU | GEO Kahani
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513432
+#EXTINF:-1,URDU | GEO Kahani
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513453
+#EXTINF:-1,URDU | GEO News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513445
+#EXTINF:-1,URDU | GEO News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513456
+#EXTINF:-1,URDU | GEO TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513429
+#EXTINF:-1,URDU | GEO TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513442
+#EXTINF:-1,URDU | HUM Masala
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513441
+#EXTINF:-1,URDU | HUM Masala
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513443
+#EXTINF:-1,URDU | HUM News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513451
+#EXTINF:-1,URDU | HUM News
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513454
+#EXTINF:-1,URDU | HUM Sitaray
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513436
+#EXTINF:-1,URDU | HUM Sitaray
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513447
+#EXTINF:-1,URDU | HUM TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513437
+#EXTINF:-1,URDU | HUM TV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513444
+#EXTINF:-1,URDU | PTV Global
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513440
+#EXTINF:-1,URDU | PTV Global
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513449
+#EXTINF:-1,URDU | QTV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513450
+#EXTINF:-1,URDU | QTV
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513455
+#EXTINF:-1,URDU | TV One
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/513435
+#EXTINF:-1,URDU | TV One
