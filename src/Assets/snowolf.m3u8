@@ -74,7 +74,6 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
 
-
 ===================================================================================================== DISCOVERY =================================================================================
 
 #EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/7eed96cb-3c78-42e3-aaef-364101bc5115.png", Discovery Channel 
@@ -263,3 +262,60 @@ http://longstream-03.ajaah.com/PlayBoxTV/SadhanaBhakti/playlist.m3u8
 http://longstream-01.ajaah.com/PlayBoxTV/AasthaBhajan/playlist.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Excitel" tvg-logo="https://th.bing.com/th/id/R.59ad8cfb1382f900b2333a71e916ff1c?rik=7njSmb%2fFnVgfMw&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2012%2f04%2faastha-tv-logo-1.jpg&ehk=12ZhdNNBBmhHOtmkKdCgTovlWT0IMVfP1M1x%2fKVaVKM%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",Aastha TV
 http://longstream-01.ajaah.com/PlayBoxTV/AasthaTV/playlist.m3u8
+
+
+#EXTINF:-1,Animal PlanetHD-Rs5
+http://148.113.5.31:8106/play/a00b/index.m3u8
+#EXTINF:-1,Colors HD-Rs 19
+http://148.113.5.31:8106/play/a00j/index.m3u8
+#EXTINF:-1,Discovery HD-Rs8
+http://148.113.5.31:8106/play/a00q/index.m3u8
+#EXTINF:-1,EUROSPORT HD-Rs 5.50
+http://148.113.5.31:8106/play/a00m/index.m3u8
+#EXTINF:-1,FOX Life HD-Rs 2
+http://148.113.5.31:8106/play/a025/index.m3u8
+#EXTINF:-1,HBO Family
+http://148.113.5.31:8106/play/a01b/index.m3u8
+#EXTINF:-1,HBO Hits HD
+http://148.113.5.31:8106/play/a018/index.m3u8
+#EXTINF:-1,HBO Signature
+http://148.113.5.31:8106/play/a01a/index.m3u8
+#EXTINF:-1,Nat Geo HD-Rs14
+http://148.113.5.31:8106/play/a00p/index.m3u8
+#EXTINF:-1,NatGeo Wild HD-Rs8
+http://148.113.5.31:8106/play/a00y/index.m3u8
+#EXTINF:-1,SET HD - Rs 19
+http://148.113.5.31:8106/play/a00l/index.m3u8
+#EXTINF:-1,SONY MAX HD -Rs 19
+http://148.113.5.31:8106/play/a00x/index.m3u8
+#EXTINF:-1,STAR JALSHA HD-Rs19
+http://148.113.5.31:8106/play/a003/index.m3u8
+#EXTINF:-1,STAR MOVIES HD-Rs19
+http://148.113.5.31:8106/play/a00o/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD-Rs19
+http://148.113.5.31:8106/play/a00v/index.m3u8
+#EXTINF:-1,Sports18 1 HD-Rs10
+http://148.113.5.31:8106/play/a00n/index.m3u8
+#EXTINF:-1,Star GOLD HD -Rs 19
+http://148.113.5.31:8106/play/a00c/index.m3u8
+#EXTINF:-1,Star Plus HD -Rs 19
+http://148.113.5.31:8106/play/a00i/index.m3u8
+#EXTINF:-1,StarSportSL1HD-Rs19
+http://148.113.5.31:8106/play/a00f/index.m3u8
+#EXTINF:-1,StarSportSL2HD-Rs10
+http://148.113.5.31:8106/play/a00g/index.m3u8
+#EXTINF:-1,StarSports1 HD-Rs19
+http://148.113.5.31:8106/play/a00t/index.m3u8
+#EXTINF:-1,StarSports2 HD-Rs19
+http://148.113.5.31:8106/play/a00u/index.m3u8
+#EXTINF:-1,Sun Bangla - Free
+http://148.113.5.31:8106/play/a00z/index.m3u8
+#EXTINF:-1,Travelxp- Rs 3
+http://148.113.5.31:8106/play/a01o/index.m3u8
+#EXTINF:-1,ZEE BANGLA HD-Rs 19
+http://148.113.5.31:8106/play/a00e/index.m3u8
+#EXTINF:-1,colorsBanglaHD-Rs14
+http://148.113.5.31:8106/play/a00s/index.m3u8
+#EXTINF:-1,nick HD+- Rs 10
+http://148.113.5.31:8106/play/a00h/index.m3u8
+
