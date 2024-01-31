@@ -264,58 +264,153 @@ http://longstream-01.ajaah.com/PlayBoxTV/AasthaBhajan/playlist.m3u8
 http://longstream-01.ajaah.com/PlayBoxTV/AasthaTV/playlist.m3u8
 
 
-#EXTINF:-1,Animal PlanetHD-Rs5
-http://148.113.5.31:8106/play/a00b/index.m3u8
-#EXTINF:-1,Colors HD-Rs 19
-http://148.113.5.31:8106/play/a00j/index.m3u8
-#EXTINF:-1,Discovery HD-Rs8
-http://148.113.5.31:8106/play/a00q/index.m3u8
-#EXTINF:-1,EUROSPORT HD-Rs 5.50
-http://148.113.5.31:8106/play/a00m/index.m3u8
-#EXTINF:-1,FOX Life HD-Rs 2
-http://148.113.5.31:8106/play/a025/index.m3u8
-#EXTINF:-1,HBO Family
-http://148.113.5.31:8106/play/a01b/index.m3u8
-#EXTINF:-1,HBO Hits HD
-http://148.113.5.31:8106/play/a018/index.m3u8
-#EXTINF:-1,HBO Signature
-http://148.113.5.31:8106/play/a01a/index.m3u8
-#EXTINF:-1,Nat Geo HD-Rs14
-http://148.113.5.31:8106/play/a00p/index.m3u8
-#EXTINF:-1,NatGeo Wild HD-Rs8
-http://148.113.5.31:8106/play/a00y/index.m3u8
-#EXTINF:-1,SET HD - Rs 19
-http://148.113.5.31:8106/play/a00l/index.m3u8
-#EXTINF:-1,SONY MAX HD -Rs 19
-http://148.113.5.31:8106/play/a00x/index.m3u8
-#EXTINF:-1,STAR JALSHA HD-Rs19
-http://148.113.5.31:8106/play/a003/index.m3u8
-#EXTINF:-1,STAR MOVIES HD-Rs19
-http://148.113.5.31:8106/play/a00o/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD-Rs19
-http://148.113.5.31:8106/play/a00v/index.m3u8
-#EXTINF:-1,Sports18 1 HD-Rs10
-http://148.113.5.31:8106/play/a00n/index.m3u8
-#EXTINF:-1,Star GOLD HD -Rs 19
-http://148.113.5.31:8106/play/a00c/index.m3u8
-#EXTINF:-1,Star Plus HD -Rs 19
-http://148.113.5.31:8106/play/a00i/index.m3u8
-#EXTINF:-1,StarSportSL1HD-Rs19
-http://148.113.5.31:8106/play/a00f/index.m3u8
-#EXTINF:-1,StarSportSL2HD-Rs10
-http://148.113.5.31:8106/play/a00g/index.m3u8
-#EXTINF:-1,StarSports1 HD-Rs19
-http://148.113.5.31:8106/play/a00t/index.m3u8
-#EXTINF:-1,StarSports2 HD-Rs19
-http://148.113.5.31:8106/play/a00u/index.m3u8
-#EXTINF:-1,Sun Bangla - Free
-http://148.113.5.31:8106/play/a00z/index.m3u8
-#EXTINF:-1,Travelxp- Rs 3
-http://148.113.5.31:8106/play/a01o/index.m3u8
-#EXTINF:-1,ZEE BANGLA HD-Rs 19
-http://148.113.5.31:8106/play/a00e/index.m3u8
-#EXTINF:-1,colorsBanglaHD-Rs14
-http://148.113.5.31:8106/play/a00s/index.m3u8
-#EXTINF:-1,nick HD+- Rs 10
-http://148.113.5.31:8106/play/a00h/index.m3u8
+====================================================================================== ZEE5 =============================================================================
+
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Talkies
+https://bq32.short.gy/joker?id=153&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Cinema HD
+https://bq32.short.gy/joker?id=165&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee TV HD
+https://bq32.short.gy/joker?id=167&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Cinemalu
+https://bq32.short.gy/joker?id=413&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Yuva
+https://bq32.short.gy/joker?id=414&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Anmol Cinema
+https://bq32.short.gy/joker?id=415&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee 24 Taas
+https://bq32.short.gy/joker?id=442&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Marathi
+https://bq32.short.gy/joker?id=445&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Anmol
+https://bq32.short.gy/joker?id=473&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Cinema
+https://bq32.short.gy/joker?id=484&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Bollywood
+https://bq32.short.gy/joker?id=487&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Action
+https://bq32.short.gy/joker?id=488&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",AL Jazeera
+https://bq32.short.gy/joker?id=494&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee News
+https://bq32.short.gy/joker?id=504&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee UP UK
+https://bq32.short.gy/joker?id=572&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Bangla
+https://bq32.short.gy/joker?id=625&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Tamil
+https://bq32.short.gy/joker?id=628&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Telugu
+https://bq32.short.gy/joker?id=638&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Hindustan
+https://bq32.short.gy/joker?id=652&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Punjabi HP Haryana
+https://bq32.short.gy/joker?id=654&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Business
+https://bq32.short.gy/joker?id=657&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee News MP Chattisgarh
+https://bq32.short.gy/joker?id=658&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Rajasthan
+https://bq32.short.gy/joker?id=659&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Bihar Jharkhand
+https://bq32.short.gy/joker?id=661&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Bangla Cinema
+https://bq32.short.gy/joker?id=685&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Kannada
+https://bq32.short.gy/joker?id=689&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Sarthak
+https://bq32.short.gy/joker?id=722&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Delhi NCR Haryana
+https://bq32.short.gy/joker?id=724&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Salaam
+https://bq32.short.gy/joker?id=728&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee 24 Kalak
+https://bq32.short.gy/joker?id=929&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Tehzeeb TV
+https://bq32.short.gy/joker?id=1252&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Cafe HD
+https://bq32.short.gy/joker?id=1319&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee TV
+https://bq32.short.gy/joker?id=1351&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Telugu HD
+https://bq32.short.gy/joker?id=1354&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Tamil HD
+https://bq32.short.gy/joker?id=1356&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Talkies HD
+https://bq32.short.gy/joker?id=1358&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Marathi HD
+https://bq32.short.gy/joker?id=1360&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Kannada HD
+https://bq32.short.gy/joker?id=1362&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Cinemalu HD
+https://bq32.short.gy/joker?id=1363&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Keralam HD
+https://bq32.short.gy/joker?id=1641&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Classic
+https://bq32.short.gy/joker?id=1691&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Picchar HD
+https://bq32.short.gy/joker?id=1746&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Punjabi
+https://bq32.short.gy/joker?id=1751&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Bangla HD
+https://bq32.short.gy/joker?id=1977&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Thirai
+https://bq32.short.gy/joker?id=2256&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Kannada News
+https://bq32.short.gy/joker?id=2742&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Zest HD
+https://bq32.short.gy/joker?id=2757&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Chitramandir
+https://bq32.short.gy/joker?id=2758&e=.m3u8
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="VT OTT | ZEE 5",Zee Ganga
+https://bq32.short.gy/joker?id=2761&e=.m3u8
 
