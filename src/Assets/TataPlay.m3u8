@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bw3WHU6nHpEvgTpJUgUkLA","kid":"osIoEgk8TRatPkGAY5qVeQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="842" group-title="Spiritual" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png",Somnath Temple
