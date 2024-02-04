@@ -1,51 +1,51 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 --------------------------------------------------------------------- SONYLIV --------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SET HD"
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","SET HD"
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony SAB HD"
+#EXTINF:-1 tvg-id="2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony SAB HD"
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony PAL"
+#EXTINF:-1 tvg-id="3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony PAL"
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony YAY"
+#EXTINF:-1 tvg-id="4" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony YAY"
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony Marathi"
+#EXTINF:-1 tvg-id="5" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony Marathi"
 https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 tvg-id="6" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony AATH"
+#EXTINF:-1 tvg-id="6" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony AATH"
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony MAX HD"
+#EXTINF:-1 tvg-id="7" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony MAX HD"
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony MAX"
+#EXTINF:-1 tvg-id="8" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony MAX"
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 tvg-id="9" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony WAH"
+#EXTINF:-1 tvg-id="9" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony WAH"
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 tvg-id="10" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony MAX2"
+#EXTINF:-1 tvg-id="10" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony MAX2"
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 tvg-id="11" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony PIX HD"
+#EXTINF:-1 tvg-id="11" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony PIX HD"
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 tvg-id="12" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony BBC Earth HD"
+#EXTINF:-1 tvg-id="12" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony BBC Earth HD"
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1 tvg-id="13" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 1"
+#EXTINF:-1 tvg-id="13" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 1"
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-id="14" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 2"
+#EXTINF:-1 tvg-id="14" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 2"
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-id="15" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 3"
+#EXTINF:-1 tvg-id="15" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 3"
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 tvg-id="16" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 4"
+#EXTINF:-1 tvg-id="16" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 4"
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-id="17" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 5"
+#EXTINF:-1 tvg-id="17" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 5"
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 1 HD"
+#EXTINF:-1 tvg-id="18" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 1 HD"
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-id="19" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony  TEN 2 HD"
+#EXTINF:-1 tvg-id="19" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony  TEN 2 HD"
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-id="20" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 3 HD"
+#EXTINF:-1 tvg-id="20" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 3 HD"
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 4 HD"
+#EXTINF:-1 tvg-id="21" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 4 HD"
 https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 tvg-id="22" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 5 HD"
+#EXTINF:-1 tvg-id="22" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony TEN 5 HD"
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SONY-LIV widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony Kal"
+#EXTINF:-1 tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SONY LIV" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","Sony Kal"
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 --------------------------------------------------------------------- ZEE5 --------------------------------------------------------------------
