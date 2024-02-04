@@ -230,3 +230,237 @@ https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 #EXTINF:-1 tvg-id="133" tvg-logo="" group-title="DISCOVERY+" widevine_license_type="widevine" widevine_license_url="https://proxy.uat.widevine.com/proxy?provider=widevine_test","TLC Hindi HD"
 https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
 
+
+
+----------------------------------------------------------------- CLOUD-CDN---------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png" group-title="CloudCdn",IN: & Pictures FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="CloudCdn",IN: & TV FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="CloudCdn",IN: & TV HD USA 
+http://tv.cloudcdn.me:80/live.ts?channelId=141&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/923856a.png" group-title="CloudCdn",IN: 9x Jalwa 
+http://tv.cloudcdn.me:80/live.ts?channelId=142&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0759b67.png" group-title="CloudCdn",IN: 9xm 
+http://tv.cloudcdn.me:80/live.ts?channelId=143&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png" group-title="CloudCdn",IN: Aaj Tak FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=144&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png" group-title="CloudCdn",IN: Aaj Tak UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=145&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/887fb6b.png" group-title="CloudCdn",IN: Aastha Bhajan 
+http://tv.cloudcdn.me:80/live.ts?channelId=146&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png" group-title="CloudCdn",IN: Aastha TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=147&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png" group-title="CloudCdn",IN: Aastha TV UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=148&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/56eaab9.png" group-title="CloudCdn",IN: ABP News India 
+http://tv.cloudcdn.me:80/live.ts?channelId=149&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/552f92c.png" group-title="CloudCdn",IN: Animal Planet Hindi 
+http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/27cf79e.png" group-title="CloudCdn",IN: B4U Kadak 
+http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/127afc4.png" group-title="CloudCdn",IN: B4U Movies 
+http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e1ee774.png" group-title="CloudCdn",IN: B4U Music 
+http://tv.cloudcdn.me:80/live.ts?channelId=153&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d11d123.png" group-title="CloudCdn",IN: B4U Plus 
+http://tv.cloudcdn.me:80/live.ts?channelId=154&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/56e863a.png" group-title="CloudCdn",IN: BBO Classic HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=86150&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b6ab8b.png" group-title="CloudCdn",IN: BBO HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=86148&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CloudCdn",IN: Bollywood Classic 
+http://tv.cloudcdn.me:80/live.ts?channelId=123916&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CloudCdn",IN: Bollywood HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=123915&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/53b880f.png" group-title="CloudCdn",IN: CNBC Awaaz FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=86147&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://147.182.195.61/panel/imageicon/21a37a8.png" group-title="CloudCdn",IN: CNBC TV 18 
+http://tv.cloudcdn.me:80/live.ts?channelId=49404&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5b37a02.png" group-title="CloudCdn",IN: CNN News 18 FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=28125&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/6ae38c6.png" group-title="CloudCdn",IN: Colors Cineplex Bollywood FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/711d60e.png" group-title="CloudCdn",IN: Colors Cineplex FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/99398d7.png" group-title="CloudCdn",IN: Colors Cineplex HD UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=156&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a7b988.png" group-title="CloudCdn",IN: Colors Cineplex Superhits FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=62413&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad083a7.png" group-title="CloudCdn",IN: Colors Infinity FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=157&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png" group-title="CloudCdn",IN: Colors Rishtey FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=158&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png" group-title="CloudCdn",IN: Colors Rishtey UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=159&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="CloudCdn",IN: Colors TV FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=160&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="CloudCdn",IN: Colors TV FHD. 
+http://tv.cloudcdn.me:80/live.ts?channelId=36129&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="Colors.uk" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="CloudCdn",IN: Colors TV FHD UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=161&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/794387b.png" group-title="CloudCdn",IN: DD News FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=163&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1ae366e.png" group-title="CloudCdn",IN: Discovery HD Hindi FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=164&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/bfd984c.png" group-title="CloudCdn",IN: Discovery Science Hindi 
+http://tv.cloudcdn.me:80/live.ts?channelId=166&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/766d3d6.png" group-title="CloudCdn",IN: Divyang News 
+http://tv.cloudcdn.me:80/live.ts?channelId=38555&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/16520b2.png" group-title="CloudCdn",IN: Divya TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=33135&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5c49268.png" group-title="CloudCdn",IN: ET Now FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=167&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/b35aa95.png" group-title="CloudCdn",IN: Food Food 
+http://tv.cloudcdn.me:80/live.ts?channelId=169&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c5f05af.png" group-title="CloudCdn",IN: GNT News 
+http://tv.cloudcdn.me:80/live.ts?channelId=36272&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5007540.png" group-title="CloudCdn",IN: Hare Krsna TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=33132&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c2f5c44.png" group-title="CloudCdn",IN: HBO 
+http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c65ab6d.png" group-title="CloudCdn",IN: India News 
+http://tv.cloudcdn.me:80/live.ts?channelId=33324&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0b1f1bc.png" group-title="CloudCdn",IN: India Today 
+http://tv.cloudcdn.me:80/live.ts?channelId=36126&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/71881e5.png" group-title="CloudCdn",IN: India TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=171&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c3b2eec.png" group-title="CloudCdn",IN: Mastiii TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=172&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/33145d2.png" group-title="CloudCdn",IN: Movies Now 
+http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ee6b44e.png" group-title="CloudCdn",IN: MTV Beats 
+http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/78c8cc9.png" group-title="CloudCdn",IN: MTV HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=174&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png" group-title="CloudCdn",IN: Music India 
+http://tv.cloudcdn.me:80/live.ts?channelId=175&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png" group-title="CloudCdn",IN: Nat Geo English 
+http://tv.cloudcdn.me:80/live.ts?channelId=125057&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png" group-title="CloudCdn",IN: Nat Geo Hindi 
+http://tv.cloudcdn.me:80/live.ts?channelId=176&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1380d86.png" group-title="CloudCdn",IN: Nat Geo Wild Hindi 
+http://tv.cloudcdn.me:80/live.ts?channelId=177&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f7d3859.png" group-title="CloudCdn",IN: NDTV 24X7 
+http://tv.cloudcdn.me:80/live.ts?channelId=29208&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/b7ae6a0.png" group-title="CloudCdn",IN: NDTV India 
+http://tv.cloudcdn.me:80/live.ts?channelId=178&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/593385a.png" group-title="CloudCdn",IN: NDTV Profit 
+http://tv.cloudcdn.me:80/live.ts?channelId=179&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/cd686e0.png" group-title="CloudCdn",IN: News18 
+http://tv.cloudcdn.me:80/live.ts?channelId=61901&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/17135d6.png" group-title="CloudCdn",IN: News Nation 
+http://tv.cloudcdn.me:80/live.ts?channelId=29702&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7380374.png" group-title="CloudCdn",IN: NewsX India 
+http://tv.cloudcdn.me:80/live.ts?channelId=36127&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.cloudcdn.online/images/republicbharat.png" group-title="CloudCdn",IN: Republic Bharat 
+http://tv.cloudcdn.me:80/live.ts?channelId=126084&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/3ae517f.png" group-title="CloudCdn",IN: Republic TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=33168&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CloudCdn",IN: Samay News 
+http://tv.cloudcdn.me:80/live.ts?channelId=128484&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/bb811d4.png" group-title="CloudCdn",IN: Sanskar TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=181&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/08c1472.png" group-title="CloudCdn",IN: Satsang TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=182&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/54d97b8.png" group-title="CloudCdn",IN: Sony Max 2 FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad286ec.png" group-title="CloudCdn",IN: Sony Max 2 UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=40479&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="CloudCdn",IN: Sony Max FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="CloudCdn",IN: Sony Max FHD. 
+http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d14875b.png" group-title="CloudCdn",IN: Sony Max HD UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dc6e2ef.png" group-title="CloudCdn",IN: Sony Pal FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0deace4.png" group-title="CloudCdn",IN: Sony Pix FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="CloudCdn",IN: Sony Sab FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=191&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2e77ad4.png" group-title="CloudCdn",IN: Sony Sab FHD. 
+http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="CloudCdn",IN: Sony Sab HD UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=192&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="CloudCdn",IN: Sony TV FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="CloudCdn",IN: Sony TV FHD. 
+http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="CloudCdn",IN: Sony TV FHD UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/73c26e8.png" group-title="CloudCdn",IN: Sony Wah FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2b7f152.png" group-title="CloudCdn",IN: Star Bharat FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4b1400a.png" group-title="CloudCdn",IN: Star Bharat FHD UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="CloudCdn",IN: Star Gold 2 FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="CloudCdn",IN: Star Gold FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="CloudCdn",IN: Star Gold FHD UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CloudCdn",IN: Star Gold Romance 
+http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ccc18c.png" group-title="CloudCdn",IN: Star Gold Select FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png" group-title="CloudCdn",IN: Star Movies FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/58a7cb9.png" group-title="CloudCdn",IN: Star Movies Select FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f6bcb3a.png" group-title="CloudCdn",IN: Star Plus FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4833657.png" group-title="CloudCdn",IN: Star Plus FHD. 
+http://tv.cloudcdn.me:80/live.ts?channelId=12357&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/534d0da.png" group-title="CloudCdn",IN: Star Plus FHD UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=201&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d6ddb63.png" group-title="CloudCdn",IN: Star Utsav 
+http://tv.cloudcdn.me:80/live.ts?channelId=12364&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/b4c4bfd.png" group-title="CloudCdn",IN: Swar Shree 
+http://tv.cloudcdn.me:80/live.ts?channelId=61658&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e83cabf.png" group-title="CloudCdn",IN: Times Now FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=204&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1098de6.png" group-title="CloudCdn",IN: TLC World HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=205&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b43b7a.png" group-title="CloudCdn",IN: TV NRI 
+http://tv.cloudcdn.me:80/live.ts?channelId=33136&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/bec6fb2.png" group-title="CloudCdn",IN: WION NEWS FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5f10964.png" group-title="CloudCdn",IN: Zee Action 
+http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/75016fe.png" group-title="CloudCdn",IN: Zee Anmol 
+http://tv.cloudcdn.me:80/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/86b8496.png" group-title="CloudCdn",IN: Zee Anmol Cinema 
+http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/597c1ee.png" group-title="CloudCdn",IN: Zee Bollywood 
+http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f37e353.png" group-title="CloudCdn",IN: Zee Business 
+http://tv.cloudcdn.me:80/live.ts?channelId=211&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/47ceb8d.png" group-title="CloudCdn",IN: Zee Café FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=212&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png" group-title="CloudCdn",IN: Zee Cinema FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c466520.png" group-title="CloudCdn",IN: Zee Cinema HD. 
+http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="CloudCdn",IN: Zee Cinema UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=214&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/187b8c7.png" group-title="CloudCdn",IN: Zee Classic 
+http://tv.cloudcdn.me:80/live.ts?channelId=43379&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a940f8d.png" group-title="CloudCdn",IN: Zee Hindustan 
+http://tv.cloudcdn.me:80/live.ts?channelId=25528&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ece589.png" group-title="CloudCdn",IN: Zee News 
+http://tv.cloudcdn.me:80/live.ts?channelId=216&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/550c14d.png" group-title="CloudCdn",IN: Zee TV FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/6248328.png" group-title="CloudCdn",IN: Zee TV FHD. 
+http://tv.cloudcdn.me:80/live.ts?channelId=12301&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f0673bc.png" group-title="CloudCdn",IN: Zee TV FHD UK 
+http://tv.cloudcdn.me:80/live.ts?channelId=218&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/b7147ce.png" group-title="CloudCdn",IN: Zee Zest FHD 
+http://tv.cloudcdn.me:80/live.ts?channelId=29704&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d8b8382.png" group-title="CloudCdn",IN: Zing TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=1868&deviceMac=00:1A:79:49:D0:93
+#EXTINF:-1 tvg-id="" tvg-logo="http://ujm.from-in.com/panel/imageicon/03b20a2.png" group-title="CloudCdn",IN: Zoom TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=1868&deviceMac=00:1A:79:49:D0:93
