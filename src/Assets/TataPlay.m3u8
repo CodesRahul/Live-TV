@@ -4,222 +4,222 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
 
-#EXTINF:-1 tvg-id="167" tvg-name="ZEE TV " group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",ZEE TV  
+#EXTINF:-1 tvg-id="167" tvg-name="ZEE TV " group-title="[Entertainment]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",ZEE TV  
 http://185.233.16.53/live/Alex422/Alex422M12/714943.ts
 
 
 
-#EXTINF:-1 tvg-id="167" tvg-name="ZEE BIOSKOP" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Hindi" tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_23.png",ZEE BIOSKOP
+#EXTINF:-1 tvg-id="167" tvg-name="ZEE BIOSKOP" group-title="[Entertainment]" tvg-language="Hindi" tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_23.png",ZEE BIOSKOP
 
 http://muka03.wanicelife.com:8880/live/D12m2447/47772223/60282.ts     
 
   
 
-#EXTINF:-1 tvg-id="167" tvg-name="ZEE TV HD" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",ZEE TV HD 
+#EXTINF:-1 tvg-id="167" tvg-name="ZEE TV HD" group-title="[Entertainment]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",ZEE TV HD 
 
 https://teachublive.link/mac/create.php?id=280773
 
-#EXTINF:-1 tvg-id="472" tvg-name="And TV HD" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD 
+#EXTINF:-1 tvg-id="472" tvg-name="And TV HD" group-title="[Entertainment]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
-#EXTINF:-1 tvg-id="2024" tvg-name="And TV" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV 
+#EXTINF:-1 tvg-id="2024" tvg-name="And TV" group-title="[Entertainment]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 
-#EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD 
+#EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD" group-title="[Entertainment]" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
 
-#EXTINF:-1 tvg-id="445" tvg-name="Zee Marathi" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi 
+#EXTINF:-1 tvg-id="445" tvg-name="Zee Marathi" group-title="[Entertainment]" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
 
-#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil 
+#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" group-title="[Entertainment]" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil 
 
 https://iamranapk-com-wcc9.spidy.online/JTBExRANAPK/play.m3u8?id=999
 
-#EXTINF:-1 tvg-id="689" tvg-name="Zee Kannada" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png",Zee Kannada 
+#EXTINF:-1 tvg-id="689" tvg-name="Zee Kannada" group-title="[Entertainment]" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png",Zee Kannada 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
 
    
-#EXTINF:-1 tvg-id="" tvg-name="Zee Kannada HD" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png",Zee Kannada HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Kannada HD" group-title="[Entertainment]" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png",Zee Kannada HD
 
 https://teachublive.link/mac/create.php?id=282553
 
      
         
-#EXTINF:-1 tvg-id="1977" tvg-name="Zee Bengali HD" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD 
+#EXTINF:-1 tvg-id="1977" tvg-name="Zee Bengali HD" group-title="[Entertainment]" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD 
 
 https://iamranapk-com-wcc9.spidy.online/JTBExRANAPK/play.m3u8?id=2549
 
-#EXTINF:-1 tvg-id="473" tvg-name="Zee Anmol" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol 
+#EXTINF:-1 tvg-id="473" tvg-name="Zee Anmol" group-title="[Entertainment]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
 
-#EXTINF:0 tvg-id="0-9-394" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-394/channel_web/1170x658717187404.png",Zee Chitramandir
+#EXTINF:0 tvg-id="0-9-394" group-title="[Entertainment]" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-394/channel_web/1170x658717187404.png",Zee Chitramandir
 
 https://tg-iptv.vercel.app/stream?type=zee&amp;id=0-9-394
 
-#EXTINF:0 tvg-id="0-9-privéhd" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-logo="https://i.ibb.co/ScVV35b/andprivehdlogo.png",&amp;Prive HD
+#EXTINF:0 tvg-id="0-9-privéhd" group-title="[Movies]" tvg-logo="https://i.ibb.co/ScVV35b/andprivehdlogo.png",&amp;Prive HD
 
 http://opplex.tv:8080/live/jur.naresh/112233/109963.m3u8
 
-#EXTINF:0 tvg-id="" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-logo="https://i.ibb.co/vXVqScY/andflixhdlogo.png",&amp;Flix HD
+#EXTINF:0 tvg-id="" group-title="[Movies]" tvg-logo="https://i.ibb.co/vXVqScY/andflixhdlogo.png",&amp;Flix HD
 
 http://opplex.tv:8080/live/jur.naresh/112233/66236.m3u8
 
-#EXTINF:0 tvg-id="ts1183" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080.png",&amp;Xplor HD
+#EXTINF:0 tvg-id="ts1183" group-title="[Movies]" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080.png",&amp;Xplor HD
 
 http://opplex.tv:8080/live/jur.naresh/112233/66241.m3u8
 
-#EXTINF:0 tvg-id="ts1183" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQP2lkAgClfAi7Djl__0s5QFX0gGOtOqBhQ&amp;usqp=CAU",HBO HD
+#EXTINF:0 tvg-id="ts1183" group-title="[Movies]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQP2lkAgClfAi7Djl__0s5QFX0gGOtOqBhQ&amp;usqp=CAU",HBO HD
 
 http://tv.cloudcdn.me:80/live.ts?channelId=49858&amp;uid=3842&amp;deviceMac=00:1A:79:90:1D:C2
 
 
-#EXTINF:-1 tvg-id="685" tvg-name="Zee Bangla Cinema" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema 
+#EXTINF:-1 tvg-id="685" tvg-name="Zee Bangla Cinema" group-title="[Movies]" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema 
 
 http://tv.cloudcdn.me:80/live.ts?channelId=119&amp;uid=13001&amp;deviceMac=00:1A:79:AB:DF:27
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/india/zee-bollywood-in.png" group-title="JOIN-TG-KASHURFLIX [Movies]",ZEE BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/india/zee-bollywood-in.png" group-title="[Movies]",ZEE BOLLYWOOD
 
 http://tv.cloudcdn.me:80/live.ts?channelId=210&amp;uid=13001&amp;deviceMac=00:1A:79:AB:DF:27
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TELUGU" tvg-logo="https://i.ibb.co/F76K7Qc/Photo-Room-20240215-082826.png" group-title="JOIN-TG-KASHURFLIX [Entertainment]",ZEE TELUGU 
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TELUGU" tvg-logo="https://i.ibb.co/F76K7Qc/Photo-Room-20240215-082826.png" group-title="[Entertainment]",ZEE TELUGU 
 
 http://tv.cloudcdn.me:80/live.ts?channelId=43468&amp;uid=3842&amp;deviceMac=00:1A:79:90:1D:C2
 
-#EXTINF:-1 tvg-id="722" tvg-name="Zee Sarthak" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Odia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png",Zee Sarthak 
+#EXTINF:-1 tvg-id="722" tvg-name="Zee Sarthak" group-title="[Entertainment]" tvg-language="Odia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png",Zee Sarthak 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesarthak/default/index.m3u8
 
-#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD 
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" group-title="[Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
-#EXTINF:-1 tvg-id="1839" tvg-name="And Pictures" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",And Pictures 
+#EXTINF:-1 tvg-id="1839" tvg-name="And Pictures" group-title="[Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",And Pictures 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 
-#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action 
+#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" group-title="[Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 
-#EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema 
+#EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" group-title="[Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="https://docdog.top/logo/countries/india/zeecafe.png" group-title="JOIN-TG-KASHURFLIX [Movies]",Zee Cafe HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="https://docdog.top/logo/countries/india/zeecafe.png" group-title="[Movies]",Zee Cafe HD
 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:bf:c7:32&amp;stream=155730&amp;extension=ts&amp;play_token=za0bjM88lA
 
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD 
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" group-title="[Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 
-#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema 
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" group-title="[Movies]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 
-#EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu 
+#EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" group-title="[Movies]" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Zee Classic" tvg-logo="https://docdog.top/logo/countries/india/zee-classic-in.png" group-title="JOIN-TG-KASHURFLIX [Movies]",Zee Classic
+#EXTINF:-1 tvg-id="" tvg-name="Zee Classic" tvg-logo="https://docdog.top/logo/countries/india/zee-classic-in.png" group-title="[Movies]",Zee Classic
 
 http://tv.cloudcdn.me:80/live.ts?channelId=43379&amp;uid=13001&amp;deviceMac=00:1A:79:AB:DF:27
 
-#EXTINF:-1 tvg-id="1358" tvg-name="Zee Talkies HD" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD 
+#EXTINF:-1 tvg-id="1358" tvg-name="Zee Talkies HD" group-title="[Movies]" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
 
-#EXTINF:-1 tvg-id="153" tvg-name="Zee Talkies" group-title="JOIN-TG-KASHURFLIX [Movies]" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies 
+#EXTINF:-1 tvg-id="153" tvg-name="Zee Talkies" group-title="[Movies]" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
 
-#EXTINF:-1 tvg-id="657" tvg-name="Zee Business" group-title="JOIN-TG-KASHURFLIX [Business]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business 
+#EXTINF:-1 tvg-id="657" tvg-name="Zee Business" group-title="[Business]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
 
-#EXTINF:-1 tvg-id="652" tvg-name="Zee Hindustan" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png",Zee Hindustan 
+#EXTINF:-1 tvg-id="652" tvg-name="Zee Hindustan" group-title="[News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png",Zee Hindustan 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
 
-#EXTINF:-1 tvg-id="661" tvg-name="Zee Bihar Jharkhand" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Bhojpuri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png",Zee Bihar Jharkhand 
+#EXTINF:-1 tvg-id="661" tvg-name="Zee Bihar Jharkhand" group-title="[News]" tvg-language="Bhojpuri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png",Zee Bihar Jharkhand 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/index.m3u8
 
-#EXTINF:-1 tvg-id="728" tvg-name="Zee Salaam" group-title="JOIN-TG-KASHURFLIX [Entertainment]" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam 
+#EXTINF:-1 tvg-id="728" tvg-name="Zee Salaam" group-title="[Entertainment]" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
 
-#EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak HD" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak HD 
+#EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak HD" group-title="[News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak HD 
 
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
-#EXTINF:-1 tvg-id="177" tvg-name="ABP News India" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News India 
+#EXTINF:-1 tvg-id="177" tvg-name="ABP News India" group-title="[News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News India 
 
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
-#EXTINF:-1 tvg-id="504" tvg-name="Zee News" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News 
+#EXTINF:-1 tvg-id="504" tvg-name="Zee News" group-title="[News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News 
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
 
-#EXTINF:-1 tvg-id="918" tvg-name="Bharat Samachar" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png",Bharat Samachar 
+#EXTINF:-1 tvg-id="918" tvg-name="Bharat Samachar" group-title="[News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png",Bharat Samachar 
 
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 
-#EXTINF:-1 tvg-id="231" tvg-name="News 18 India" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India 
+#EXTINF:-1 tvg-id="231" tvg-name="News 18 India" group-title="[News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India 
 
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB/DenverIsAlive.m3u8
 
-#EXTINF:-1 tvg-id="858" tvg-name="Republic English" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic English 
+#EXTINF:-1 tvg-id="858" tvg-name="Republic English" group-title="[News]" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic English 
 
 https://weblive.republicworld.com/httppush/ottr_republic_english/weblive/master.m3u8#DenverIsAlive
 
-#EXTINF:-1 tvg-id="858" tvg-name="Republic Hindi" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic Hindi 
+#EXTINF:-1 tvg-id="858" tvg-name="Republic Hindi" group-title="[News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic Hindi 
 
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/master.m3u8#DenverIsAlive
 
-#EXTINF:-1 tvg-id="530" tvg-name="News18 UP" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png",News18 UP 
+#EXTINF:-1 tvg-id="530" tvg-name="News18 UP" group-title="[News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png",News18 UP 
 
 https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB/DenverIsAlive.m3u8
 
-#EXTINF:-1 tvg-id="501" tvg-name="News 24" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24 
+#EXTINF:-1 tvg-id="501" tvg-name="News 24" group-title="[News]" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24 
 
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="518" tvg-name="Sudarshan News" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png",Sudarshan News 
+#EXTINF:-1 tvg-id="518" tvg-name="Sudarshan News" group-title="[News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png",Sudarshan News 
 
 https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
 
-#EXTINF:-1 tvg-id="258" tvg-name="NDTV India" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV India 
+#EXTINF:-1 tvg-id="258" tvg-name="NDTV India" group-title="[News]" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV India 
 
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
-#EXTINF:-1 tvg-id="259" tvg-name="NDTV Profit" group-title="JOIN-TG-KASHURFLIX [Business]" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",NDTV Profit 
+#EXTINF:-1 tvg-id="259" tvg-name="NDTV Profit" group-title="[Business]" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",NDTV Profit 
 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:bf:c7:32&amp;stream=1110638&amp;extension=ts&amp;play_token=FhrvhhjqaZ
 
-#EXTINF:-1 tvg-id="255" tvg-name="NDTV 24x7" group-title="JOIN-TG-KASHURFLIX [News]" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7 
+#EXTINF:-1 tvg-id="255" tvg-name="NDTV 24x7" group-title="[News]" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7 
 
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
-#EXTINF:-1 tvg-id="zee.zest.in" tvg-name="Zee Zest HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="JOIN-TG-KASHURFLIX [Entertainment]",Zee Zest HD
+#EXTINF:-1 tvg-id="zee.zest.in" tvg-name="Zee Zest HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="[Entertainment]",Zee Zest HD
 
 http://watchindia.net:8880/live/12171/04170628/2359.ts
 
-#EXTINF:-1 tvg-id="zeethirai.in" tvg-name="Zee Thirai" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png" group-title="JOIN-TG-KASHURFLIX [Movies]",Zee Thirai
+#EXTINF:-1 tvg-id="zeethirai.in" tvg-name="Zee Thirai" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png" group-title="[Movies]",Zee Thirai
 
 http://sansat.net:88/live/ZXLj0NFvZzvZ8QF/RMZ3LvpeYLX8Nwb/100171.ts
 
-#EXTINF:-1 tvg-id="zeeyuva.in" tvg-name="Zee Yuva" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_Yuva.png" group-title="JOIN-TG-KASHURFLIX [Entertainment]",Zee Yuva
+#EXTINF:-1 tvg-id="zeeyuva.in" tvg-name="Zee Yuva" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_Yuva.png" group-title="[Entertainment]",Zee Yuva
 
 http://watchindia.net:8880/live/12171/04170628/915.ts
 
-#EXTINF:-1 tvg-id="zeepunjabi.in" tvg-name="Zee Punjabi" tvg-logo="" group-title="JOIN-TG-KASHURFLIX [Entertainment]",Zee Punjabi
+#EXTINF:-1 tvg-id="zeepunjabi.in" tvg-name="Zee Punjabi" tvg-logo="" group-title="[Entertainment]",Zee Punjabi
 
 http://watchindia.net:8880/live/12171/04170628/1951.ts
 
