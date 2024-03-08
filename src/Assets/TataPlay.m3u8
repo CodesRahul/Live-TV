@@ -156,9 +156,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=789
 https://rftv.wtf/tp/tplay.mpd?contentID=245#KODIPROP:inputstream.adaptive.license_type=clearkey
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=245&key
-#EXTINF:-1 tvg-id=ts245 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies",STAR GOLD HD
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-link="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies" ,Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 
 
