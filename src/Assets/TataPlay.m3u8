@@ -69,6 +69,9 @@ https://rftv.wtf/tp/tplay.mpd?contentID=800
 #EXTINF:-1 tvg-id=ts217 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-870-j5mb6j80-v1/imageContent-870-j5mb6j80-m1.png" group-title="Marathi",Sangeet Marathi
 https://rftv.wtf/tp/tplay.mpd?contentID=217
 
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://i.postimg.cc/QC6KMRy6/9x-Jhakaas.png",9X Jhakaas
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_208482_und=208000-video=2137600.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=155&key
 #EXTINF:-1 tvg-id=ts155 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STMJNW_Thumbnail-v3/STMJNW_Thumbnail.png" group-title="Marathi",ABP Majha
@@ -155,10 +158,17 @@ https://rftv.wtf/tp/tplay.mpd?contentID=789
 #EXTINF:-1 tvg-id=ts245 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies",STAR GOLD HD
 https://rftv.wtf/tp/tplay.mpd?contentID=245#KODIPROP:inputstream.adaptive.license_type=clearkey
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-link="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies" ,Star Gold HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/wjJHVg8F/Star-Gold-2.jpg",Star Gold 2 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1112132
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/tJ5CnW40/Star-Gold-Thrills.jpg",Star Gold Thrills
+http://mag.trexlive.me:80/Michael88/Michael88/155996
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/tJ5CnW40/Star-Gold-Thrills.jpg",Star Gold Thrills
+https://uniflixbd.xyz/unuse/payplay/live.php?id=dc41c4d6f916&e=.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=245&key
 #EXTINF:-1 tvg-id=ts245 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Star_Gold_Select_logo.png" group-title="Movies",STAR GOLD SELECT HD
@@ -426,6 +436,9 @@ https://rftv.wtf/tp/tplay.mpd?contentID=484
 #EXTINF:-1 tvg-id=ts238 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network
 https://rftv.wtf/tp/tplay.mpd?contentID=238
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/6q6Xd8Wc/Cartoon-Network.jpg",Cartoon Network [SamsungTVPlus]
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=681&key
 #EXTINF:-1 tvg-id=ts681 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" group-title="Kids",Cartoon Network HD+
@@ -435,6 +448,9 @@ https://rftv.wtf/tp/tplay.mpd?contentID=681
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=239&key
 #EXTINF:-1 tvg-id=ts239 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Kids",Pogo
 https://rftv.wtf/tp/tplay.mpd?contentID=239
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/jj7WLkPz/download-10.jpg",Pogo [SamsungTVPlus]
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=138&key
@@ -456,8 +472,6 @@ https://rftv.wtf/tp/tplay.mpd?contentID=127
 #EXTINF:-1 tvg-id=ts118 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png" group-title="Kids",Nick Jr
 https://rftv.wtf/tp/tplay.mpd?contentID=118
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Hungama" tvg-link="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" group-title="Kids",Hungama
 http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
 
@@ -472,6 +486,11 @@ https://rftv.wtf/tp/tplay.mpd?contentID=587
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=119&key
 #EXTINF:-1 tvg-id=ts119 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Kids",Discovery Kids
 https://rftv.wtf/tp/tplay.mpd?contentID=119
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=45&key
+#EXTINF:-1 tvg-id=ts45 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Tata Sky",SONY YAY!
+https://rftv.wtf/tp/tplay.mpd?contentID=45
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=905&key
@@ -590,57 +609,60 @@ https://rftv.wtf/tp/tplay.mpd?contentID=554
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=103&key
-#EXTINF:-1 tvg-id=ts103 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png" group-title="Information",MTV
+#EXTINF:-1 tvg-id=ts103 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png" group-title="Music",MTV
 https://rftv.wtf/tp/tplay.mpd?contentID=103
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=406&key
-#EXTINF:-1 tvg-id=ts406 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="Information",MTV HD
+#EXTINF:-1 tvg-id=ts406 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="Music",MTV HD
 https://rftv.wtf/tp/tplay.mpd?contentID=406
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=236&key
-#EXTINF:-1 tvg-id=ts236 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1018-j5nhzme0-v1/imageContent-1018-j5nhzme0-m1.png" group-title="Information",MTV Beats
+#EXTINF:-1 tvg-id=ts236 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1018-j5nhzme0-v1/imageContent-1018-j5nhzme0-m1.png" group-title="Music",MTV Beats
 https://rftv.wtf/tp/tplay.mpd?contentID=236
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=405&key
-#EXTINF:-1 tvg-id=ts405 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Information",MTV Beats HD
+#EXTINF:-1 tvg-id=ts405 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Music",MTV Beats HD
 https://rftv.wtf/tp/tplay.mpd?contentID=405
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=139&key
-#EXTINF:-1 tvg-id=ts139 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png" group-title="Information",9XM
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png" group-title="Music",9XM
 https://rftv.wtf/tp/tplay.mpd?contentID=139
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=9&key
-#EXTINF:-1 tvg-id=ts9 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Information",B4U Music
+#EXTINF:-1 tvg-id=ts9 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Music",B4U Music
 https://rftv.wtf/tp/tplay.mpd?contentID=9
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/kXmsVQhQ/Show-Box-TV-logo.png",ShowBox
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=808&key
-#EXTINF:-1 tvg-id=ts808 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49809-k7454ppk-v3/imageContent-49809-k7454ppk-m6.png" group-title="Information",Tata Play Hits
+#EXTINF:-1 tvg-id=ts808 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49809-k7454ppk-v3/imageContent-49809-k7454ppk-m6.png" group-title="Music",Tata Play Hits
 https://rftv.wtf/tp/tplay.mpd?contentID=808
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=539&key
-#EXTINF:-1 tvg-id=ts539 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png" group-title="Information",VH1 HD
+#EXTINF:-1 tvg-id=ts539 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png" group-title="Music",VH1 HD
 https://rftv.wtf/tp/tplay.mpd?contentID=539
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=224&key
-#EXTINF:-1 tvg-id=ts224 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-946-j5mip6a0-v1/imageContent-946-j5mip6a0-m1.png" group-title="Information",E24
+#EXTINF:-1 tvg-id=ts224 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-946-j5mip6a0-v1/imageContent-946-j5mip6a0-m1.png" group-title="Music",E24
 https://rftv.wtf/tp/tplay.mpd?contentID=224
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=96&key
-#EXTINF:-1 tvg-id=ts96 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Information",Zoom
+#EXTINF:-1 tvg-id=ts96 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Music",Zoom
 https://rftv.wtf/tp/tplay.mpd?contentID=96
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=142&key
-#EXTINF:-1 tvg-id=ts142 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png" group-title="Information",UTV Bindass
+#EXTINF:-1 tvg-id=ts142 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png" group-title="Music",UTV Bindass
 https://rftv.wtf/tp/tplay.mpd?contentID=142
 
 -------------------------------------------- END-MUSIC ------------------------------------------
