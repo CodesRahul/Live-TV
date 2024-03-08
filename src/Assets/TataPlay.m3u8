@@ -69,10 +69,10 @@ https://rftv.wtf/tp/tplay.mpd?contentID=800
 #EXTINF:-1 tvg-id=ts217 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-870-j5mb6j80-v1/imageContent-870-j5mb6j80-m1.png" group-title="Marathi",Sangeet Marathi
 https://rftv.wtf/tp/tplay.mpd?contentID=217
 
-#EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png" tvg-chno="1441" group-title="Marathi" , Maiboli
+#EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png" tvg-chno="1441" group-title="Marathi", Maiboli
 https://i.mjh.nz/SamsungTVPlus/INBC1500014OM.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBC28000144H" tvg-id="INBC28000144H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20240131T032425SQUARE.png_20240131032426.png" tvg-chno="1443" group-title="Marathi" , 9X Jhakaas
+#EXTINF:-1 channel-id="samsung-INBC28000144H" tvg-id="INBC28000144H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20240131T032425SQUARE.png_20240131032426.png" tvg-chno="1443" group-title="Marathi", 9X Jhakaas
 https://i.mjh.nz/SamsungTVPlus/INBC28000144H.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -85,7 +85,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=155
 #EXTINF:-1 tvg-id=ts261 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11156-j96xbrfk-v1/imageContent-11156-j96xbrfk-m1.png" group-title="Marathi",Zee 24 Taas
 https://rftv.wtf/tp/tplay.mpd?contentID=261
 
-#EXTINF:-1 channel-id="samsung-INBD400001CP" tvg-id="INBD400001CP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20240131T032544SQUARE.png_20240131032545.png" tvg-chno="1061" group-title="Marathi" , Zee 24 Taas
+#EXTINF:-1 channel-id="samsung-INBD400001CP" tvg-id="INBD400001CP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20240131T032544SQUARE.png_20240131032545.png" tvg-chno="1061" group-title="Marathi", Zee 24 Taas
 https://i.mjh.nz/SamsungTVPlus/INBD400001CP.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -491,7 +491,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=119
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=45&key
-#EXTINF:-1 tvg-id=ts45 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Tata Sky",SONY YAY!
+#EXTINF:-1 tvg-id=ts45 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Kids",SONY YAY!
 https://rftv.wtf/tp/tplay.mpd?contentID=45
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -504,7 +504,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD47000042I.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1269&key
-#EXTINF:-1 tvg-id=ts1269 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHUMBKTV_Thumbnail-v2/CHUMBKTV_Thumbnail.png" group-title="Information",Chumbak TV
+#EXTINF:-1 tvg-id=ts1269 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHUMBKTV_Thumbnail-v2/CHUMBKTV_Thumbnail.png" group-title="Kids",Chumbak TV
 https://rftv.wtf/tp/tplay.mpd?contentID=1269
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
