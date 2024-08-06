@@ -207,9 +207,9 @@ http://14.102.123.50:5001/live/2065.m3u8
 http://14.102.123.50:5001/live/183.m3u8
 #EXTINF:-1 group-title="Music",Music India
 http://14.102.123.50:5001/live/250.m3u8
-#EXTINF:-1 group-title="Music",Music India (Alternate)
+#EXTINF:-1 group-title="Music",YRF Music 
 http://14.102.123.50:5001/live/2753.m3u8
-#EXTINF:-1 group-title="Music",YRF Music
+#EXTINF:-1 group-title="Music",Kadak Hits
 http://14.102.123.50:5001/live/1249.m3u8
 #EXTINF:-1 group-title="Music",9XM
 http://14.102.123.50:5001/live/587.m3u8
