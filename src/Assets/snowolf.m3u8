@@ -1,101 +1,50 @@
-
-#EXTM3U
-#EXTINF:-1 group-title="Marathi",Zee Marathi
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Zee_Marathi_logo.png/150px-Zee_Marathi_logo.png",Zee Marathi
 http://14.102.123.50:5001/live/445.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Marathi_logo.png
-
-#EXTINF:-1 group-title="Marathi",Zee Marathi HD
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zee_Marathi_HD_logo.png/150px-Zee_Marathi_HD_logo.png",Zee Marathi HD
 http://14.102.123.50:5001/live/1360.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Marathi_logo.png
-
-#EXTINF:-1 group-title="Marathi",Zee Talkies
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Zee_Talkies_Logo.png/150px-Zee_Talkies_Logo.png",Zee Talkies
 http://14.102.123.50:5001/live/153.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/7/7e/Zee_Talkies_Logo.png
-
-#EXTINF:-1 group-title="Marathi",Zee Talkies HD
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Zee_Talkies_HD_logo.png/150px-Zee_Talkies_HD_logo.png",Zee Talkies HD
 http://14.102.123.50:5001/live/1358.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/7/7e/Zee_Talkies_Logo.png
-
-#EXTINF:-1 group-title="Marathi",Zee Yuva
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Zee_Yuva_Logo.png/150px-Zee_Yuva_Logo.png",Zee Yuva
 http://14.102.123.50:5001/live/414.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/a/a7/Zee_Yuva_Logo.png
-
-#EXTINF:-1 group-title="Marathi",Shemaroo Marathi
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Shemaroo_Marathi_Bana_logo.png/150px-Shemaroo_Marathi_Bana_logo.png",Shemaroo Marathi
 http://14.102.123.50:5001/live/1452.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/4/48/Shemaroo_logo.png
-
-#EXTINF:-1 group-title="Marathi",Mayboli
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Mayboli_Logo.png/150px-Mayboli_Logo.png",Mayboli
 http://14.102.123.50:5001/live/736.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/7/70/Mayboli_logo.png
-
-#EXTINF:-1 group-title="Marathi",Colors Marathi HD
-http://14.102.123.50:5001/live/755.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/3/32/Colors_Marathi_HD_logo.png
-
-#EXTINF:-1 group-title="Marathi",Colors Marathi
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Colors_Marathi_Logo.png/150px-Colors_Marathi_Logo.png",Colors Marathi
 http://14.102.123.50:5001/live/1326.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/3/32/Colors_Marathi_HD_logo.png
-
-#EXTINF:-1 group-title="Marathi",Sony Marathi
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Colors_Marathi_HD_Logo.png/150px-Colors_Marathi_HD_Logo.png",Colors Marathi HD
+http://14.102.123.50:5001/live/755.m3u8
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sony_Marathi_logo.png/150px-Sony_Marathi_logo.png",Sony Marathi
 http://14.102.123.50:5001/live/1146.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/a/a4/Sony_Marathi_logo.png
-
-#EXTINF:-1 group-title="Marathi",Fakt Marathi
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Fakt_Marathi_logo.png/150px-Fakt_Marathi_logo.png",Fakt Marathi
 http://14.102.123.50:5001/live/738.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/1/1e/Fakt_Marathi_Logo.png
-
-#EXTINF:-1 group-title="Marathi",DD Sahyadri
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DD_Sahyadri_logo.png/150px-DD_Sahyadri_logo.png",DD Sahyadri
 http://14.102.123.50:5001/live/695.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/3/38/DD_Sahyadri_logo.png
-
-#EXTINF:-1 group-title="Marathi",Sun Marathi
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Sun_Marathi_logo.png/150px-Sun_Marathi_logo.png",Sun Marathi
 http://14.102.123.50:5001/live/2424.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/2/28/Sun_Marathi_Logo.png
-
-#EXTINF:-1 group-title="Marathi",Zee Chitramandal
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zee_Chitramandala_logo.png/150px-Zee_Chitramandala_logo.png",Zee Chitramandal
 http://14.102.123.50:5001/live/2758.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/1/1f/Zee_Chitramandal_Logo.png
-
-#EXTINF:-1 group-title="Marathi",Sangeet Marathi
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Sangeet_Marathi_Logo.png/150px-Sangeet_Marathi_Logo.png",Sangeet Marathi
 http://14.102.123.50:5001/live/735.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/6/6e/Sangeet_Marathi_Logo.png
-
-#EXTINF:-1 group-title="Marathi",News18 Lokmat
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/News18_Lokmat_Logo.png/150px-News18_Lokmat_Logo.png",News18 Lokmat
 http://14.102.123.50:5001/live/232.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/4/4e/News18_Lokmat_logo.png
-
-#EXTINF:-1 group-title="Marathi",9XM Jhakaas
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/9xm_Jhakaas_Logo.png/150px-9xm_Jhakaas_Logo.png",9xm Jhakaas
 http://14.102.123.50:5001/live/441.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/d/d4/9XM_Jhakaas_logo.png
-
-#EXTINF:-1 group-title="Marathi",Zee24 Taas
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_24_Taas_Logo.png/150px-Zee_24_Taas_Logo.png",Zee24 Taas
 http://14.102.123.50:5001/live/442.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/3/3b/Zee_24_Taas_Logo.png
-
-#EXTINF:-1 group-title="Marathi",ABP Majha
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/ABP_Majha_Logo.png/150px-ABP_Majha_Logo.png",ABP Majha
 http://14.102.123.50:5001/live/612.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/0/01/ABP_Majha_Logo.png
-
-#EXTINF:-1 group-title="Marathi",TV9 Marathi
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/TV9_Marathi_logo.png/150px-TV9_Marathi_logo.png",TV9 Marathi
 http://14.102.123.50:5001/live/617.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/1/1a/TV9_Marathi_Logo.png
-
-#EXTINF:-1 group-title="Marathi",Saam TV
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Saam_TV_logo.png/150px-Saam_TV_logo.png",Saam TV
 http://14.102.123.50:5001/live/691.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/2/2e/Saam_TV_logo.png
-
-#EXTINF:-1 group-title="Marathi",Lokshahi Marathi
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Lokshahi_Logo.png/150px-Lokshahi_Logo.png",Loksahi Marathi
 http://14.102.123.50:5001/live/1293.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/4/47/Lokshahi_Marathi_Logo.png
-
-#EXTINF:-1 group-title="Marathi",Jai Maharashtra
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Jai_Maharashtra_Logo.png/150px-Jai_Maharashtra_Logo.png",Jai Maharashtra
 http://14.102.123.50:5001/live/1394.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/4/42/Jai_Maharashtra_Logo.png
-
-#EXTINF:-1 group-title="Marathi",Pudhari News
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Pudhari_News_Logo.png/150px-Pudhari_News_Logo.png",Pudhari News
 http://14.102.123.50:5001/live/2935.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/a/a2/Pudhari_News_Logo.png
-
-#EXTINF:-1 group-title="Marathi",Top News Marathi
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Top_News_Marathi_Logo.png/150px-Top_News_Marathi_Logo.png",Top News Marathi
 http://14.102.123.50:5001/live/1972.m3u8
-#EXT-X-IMAGE: http://upload.wikimedia.org/wikipedia/commons/b/b9/Top_News_Marathi_Logo.png
