@@ -176,6 +176,8 @@ http://14.102.123.50:5001/live/554.m3u8
 http://14.102.123.50:5001/live/872.m3u8
 #EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sports YAY 
 https://yuvraj.fun/sliv/index.m3u8?ch=SonyYaySD&id=2011746
+#EXTINF:1 tvg-logo="https://www.epicon.in/img/gubbare-logo.png" group-title="Kids",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master_1080.m3u8
 #EXTINF:-1 group-title="Kids",Animax
 http://14.102.123.50:5001/live/2258.m3u8
 #EXTINF:-1 group-title="Kids",Jio Kids
@@ -209,6 +211,51 @@ http://14.102.123.50:5001/live/1955.m3u8
 #EXTINF:-1 group-title="Information",Zee Zest
 http://14.102.123.50:5001/live/2948.m3u8
 
+
+// Discovery
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/7eed96cb-3c78-42e3-aaef-364101bc5115.png", Discovery Channel 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Channel.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2022/06/08/29d580fc-9bac-4b28-a315-b98bad41e7d4.png", Discovery Science  
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Science.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/686381d9-5ec1-4281-a169-d445daa66d2c.png", Animal Plannet 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Animal_Planet.m3u8
+
+#EXTINF:-1 
+tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/a363a4f2-d346-45f7-91b3-e9067c53d4ea.png", TLC 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/TLC.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/0e38f005-1d15-4b87-bac5-77deeb4f900e.png", Discovery Turbo 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Turbo.m3u8
+
+#EXTINF:-1 
+tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2022/06/08/55d22b57-7a60-41ed-b149-d109849aa379.png", Investigation Discovery 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/e81e70aa-2cb4-4cdc-9596-b17072c7227d.png", Euro Sport 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Eurosport.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/b47e7ecc-6b07-4e17-976a-b5d7d14932d8.png", DMAX 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/DMAX.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png", Food 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Food_Network.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/f24c50c6-b65b-408e-bf71-a46f58df4827.png", Discovery Kids 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Kids.m3u8
+
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://seeklogo.com/images/H/hgtv-logo-C6693DCA5A-seeklogo.com.png", HGTV 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/HGTV.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Investigation_Discovery_HD.png/revision/latest/scale-to-width-down/250?cb=20130116175440", Investigation Discovery 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://logodix.com/logo/747477.jpg", TRVL Channel 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/TRVL_Channel.m3u8
+
+
 // Music
 #EXTINF:-1 group-title="Music",MTV Beats
 http://14.102.123.50:5001/live/1400.m3u8
@@ -226,6 +273,8 @@ http://14.102.123.50:5001/live/1320.m3u8
 http://14.102.123.50:5001/live/2065.m3u8
 #EXTINF:-1 group-title="Music",B4U Music
 http://14.102.123.50:5001/live/183.m3u8
+#EXTINF:1 tvg-logo="https://www.epicon.in/img/new-show-box-logo.png" group-title="Music",Show Box
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 #EXTINF:-1 group-title="Music",Music India
 http://14.102.123.50:5001/live/250.m3u8
 #EXTINF:-1 group-title="Music",YRF Music 
@@ -255,25 +304,5 @@ http://14.102.123.50:5001/live/1103.m3u8
 #EXTINF:-1 group-title="Music",Boogle Music
 http://14.102.123.50:5001/live/962.m3u8
 
-// Sports
 
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports", Sony TEN 1
-https://yuvraj.fun/sliv/index.m3u8?ch=TEN1SD&id=2011739
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports", Sony TEN 2
-https://yuvraj.fun/sliv/index.m3u8?ch=TEN2SD&id=2020590
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports", Sony TEN 3
-https://yuvraj.fun/sliv/index.m3u8?ch=TEN3SD&id=2020592
-#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports", Sony TEN 4
-https://yuvraj.fun/sliv/index.m3u8?ch=TEN4SD&id=2020437
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports", Sony TEN 5
-https://yuvraj.fun/sliv/index.m3u8?ch=SONYSIXSD&id=2020594
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports", Sony TEN 1 HD
-https://yuvraj.fun/sliv/index.m3u8?ch=TEN1HD&id=2011747
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports", Sony TEN 2 HD
-https://yuvraj.fun/sliv/index.m3u8?ch=TEN2HD&id=2020434
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports", Sony TEN 3 HD
-https://yuvraj.fun/sliv/index.m3u8?ch=TEN3HD&id=2020591
-#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports", Sony TEN 4 HD
-https://yuvraj.fun/sliv/index.m3u8?ch=ten4hd&id=2020589
-#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports", Sony TEN 5 HD
-https://yuvraj.fun/sliv/index.m3u8?ch=SONYSIXHD&id=2020593
+
