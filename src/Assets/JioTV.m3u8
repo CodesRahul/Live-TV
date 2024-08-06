@@ -21,6 +21,8 @@ http://14.102.123.50:5001/live/755.m3u8
 http://14.102.123.50:5001/live/1326.m3u8
 #EXTINF:-1 group-title="Marathi",Sony Marathi
 http://14.102.123.50:5001/live/1146.m3u8
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Marathi", Sony Marathi
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyMarathi&id=2011740
 #EXTINF:-1 group-title="Marathi",Fakt Marathi
 http://14.102.123.50:5001/live/738.m3u8
 #EXTINF:-1 group-title="Marathi",DD Sahyadri
@@ -63,14 +65,18 @@ http://14.102.123.50:5001/live/1351.m3u8
 http://14.102.123.50:5001/live/167.m3u8
 #EXTINF:-1 group-title="Entertainment",Zee Anmol
 http://14.102.123.50:5001/live/473.m3u8
-#EXTINF:-1 group-title="Entertainment",SET
-http://14.102.123.50:5001/live/1396.m3u8
-#EXTINF:-1 group-title="Entertainment",SET HD
-http://14.102.123.50:5001/live/291.m3u8
-#EXTINF:-1 group-title="Entertainment",Sony SAB HD
-http://14.102.123.50:5001/live/471.m3u8
-#EXTINF:-1 group-title="Entertainment",Sony Wah
-http://14.102.123.50:5001/live/1393.m3u8
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SETHD&id=2011671
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment", Sony SAB HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SABHD&id=2011749
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment", Sony PAL
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyPalSD&id=2011741
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Entertainment", Sony WAH
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyWah&id=2011906
+#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="Entertainment", Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment", Sony AATH
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyAathSD&id=2011641
 #EXTINF:-1 group-title="Entertainment",&TV
 http://14.102.123.50:5001/live/2024.m3u8
 #EXTINF:-1 group-title="Entertainment",&TV HD
@@ -99,12 +105,23 @@ http://14.102.123.50:5001/live/1295.m3u8
 http://14.102.123.50:5001/live/1839.m3u8
 #EXTINF:-1 group-title="Movies",&Pictures HD
 http://14.102.123.50:5001/live/185.m3u8
+
 #EXTINF:-1 group-title="Movies",Sony Max
 http://14.102.123.50:5001/live/289.m3u8
 #EXTINF:-1 group-title="Movies",Sony Max2
 http://14.102.123.50:5001/live/483.m3u8
 #EXTINF:-1 group-title="Movies",Sony Max HD
 http://14.102.123.50:5001/live/476.m3u8
+
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies", Sony MAX
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxSD&id=2011745
+
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies", Sony MAX2
+https://yuvraj.fun/sliv/index.m3u8?ch=MAX2&id=2011908
+
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies", Sony MAX HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxhd&id=2011670
+
 #EXTINF:-1 group-title="Movies",Colors Cineplex Superhit
 http://14.102.123.50:5001/live/1450.m3u8
 #EXTINF:-1 group-title="Movies",Colors Cineplex Bollywood
@@ -120,11 +137,11 @@ http://14.102.123.50:5001/live/2762.m3u8
 
 // English
 #EXTINF:-1 group-title="English",Zee Cafe
-http://14.102.123.50:5001/live/136
-
-4.m3u8
+http://14.102.123.50:5001/live/1364.m3u8
 #EXTINF:-1 group-title="English",Zee Cafe HD
 http://14.102.123.50:5001/live/1319.m3u8
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="English", Sony PIX HD
+https://yuvraj.fun/sliv/index.m3u8?ch=PIXHD&id=2011748
 #EXTINF:-1 group-title="English",&Flix
 http://14.102.123.50:5001/live/3046.m3u8
 #EXTINF:-1 group-title="English",&Flix HD
@@ -157,6 +174,8 @@ http://14.102.123.50:5001/live/815.m3u8
 http://14.102.123.50:5001/live/554.m3u8
 #EXTINF:-1 group-title="Kids",Sony YAY
 http://14.102.123.50:5001/live/872.m3u8
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sports YAY 
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyYaySD&id=2011746
 #EXTINF:-1 group-title="Kids",Animax
 http://14.102.123.50:5001/live/2258.m3u8
 #EXTINF:-1 group-title="Kids",Jio Kids
@@ -169,6 +188,8 @@ http://14.102.123.50:5001/live/2774.m3u8
 http://14.102.123.50:5001/live/578.m3u8
 #EXTINF:-1 group-title="Information",Animal Planet HD
 http://14.102.123.50:5001/live/566.m3u8
+#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Information", Sony BBC Earth HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
 #EXTINF:-1 group-title="Information",Travel XP HD
 http://14.102.123.50:5001/live/562.m3u8
 #EXTINF:-1 group-title="Information",Discovery
@@ -234,50 +255,25 @@ http://14.102.123.50:5001/live/1103.m3u8
 #EXTINF:-1 group-title="Music",Boogle Music
 http://14.102.123.50:5001/live/962.m3u8
 
-// SonyLIV
-#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SET HD
-https://yuvraj.fun/sliv/index.m3u8?ch=SETHD&id=2011671
-#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONYLIV", Sony SAB HD
-https://yuvraj.fun/sliv/index.m3u8?ch=SABHD&id=2011749
-#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SONYLIV", Sony PAL
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyPalSD&id=2011741
-#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SONYLIV", Sony YAY
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyYaySD&id=2011746
-#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SONYLIV", Sony AATH
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyAathSD&id=2011641
-#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONYLIV", Sony Marathi
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyMarathi&id=2011740
-#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SONYLIV", Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLIV", Sony BBC Earth HD
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
-#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONYLIV", Sony PIX HD
-https://yuvraj.fun/sliv/index.m3u8?ch=PIXHD&id=2011748
-#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SONYLIV", Sony WAH
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyWah&id=2011906
-#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SONYLIV", Sony MAX
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxSD&id=2011745
-#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SONYLIV", Sony MAX HD
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxhd&id=2011670
-#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONYLIV", Sony MAX2
-https://yuvraj.fun/sliv/index.m3u8?ch=MAX2&id=2011908
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 1
+// Sports
+
+#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports", Sony TEN 1
 https://yuvraj.fun/sliv/index.m3u8?ch=TEN1SD&id=2011739
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 2
+#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports", Sony TEN 2
 https://yuvraj.fun/sliv/index.m3u8?ch=TEN2SD&id=2020590
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 3
+#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports", Sony TEN 3
 https://yuvraj.fun/sliv/index.m3u8?ch=TEN3SD&id=2020592
-#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 4
+#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports", Sony TEN 4
 https://yuvraj.fun/sliv/index.m3u8?ch=TEN4SD&id=2020437
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 5
+#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports", Sony TEN 5
 https://yuvraj.fun/sliv/index.m3u8?ch=SONYSIXSD&id=2020594
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 1 HD
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports", Sony TEN 1 HD
 https://yuvraj.fun/sliv/index.m3u8?ch=TEN1HD&id=2011747
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 2 HD
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports", Sony TEN 2 HD
 https://yuvraj.fun/sliv/index.m3u8?ch=TEN2HD&id=2020434
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 3 HD
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports", Sony TEN 3 HD
 https://yuvraj.fun/sliv/index.m3u8?ch=TEN3HD&id=2020591
-#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 4 HD
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports", Sony TEN 4 HD
 https://yuvraj.fun/sliv/index.m3u8?ch=ten4hd&id=2020589
-#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONYLIV", Sony TEN 5 HD
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports", Sony TEN 5 HD
 https://yuvraj.fun/sliv/index.m3u8?ch=SONYSIXHD&id=2020593
