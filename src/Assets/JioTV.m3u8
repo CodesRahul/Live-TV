@@ -100,14 +100,6 @@ http://14.102.123.50:5001/live/1295.m3u8
 http://14.102.123.50:5001/live/1839.m3u8
 #EXTINF:-1 group-title="Movies",&Pictures HD
 http://14.102.123.50:5001/live/185.m3u8
-
-#EXTINF:-1 group-title="Movies",Sony Max
-http://14.102.123.50:5001/live/289.m3u8
-#EXTINF:-1 group-title="Movies",Sony Max2
-http://14.102.123.50:5001/live/483.m3u8
-#EXTINF:-1 group-title="Movies",Sony Max HD
-http://14.102.123.50:5001/live/476.m3u8
-
 #EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies", Sony MAX
 https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxSD&id=2011745
 
@@ -145,8 +137,6 @@ http://14.102.123.50:5001/live/1322.m3u8
 http://14.102.123.50:5001/live/1349.m3u8
 #EXTINF:-1 group-title="English",&Xplore HD
 http://14.102.123.50:5001/live/1668.m3u8
-#EXTINF:-1 group-title="English",Comedy Central
-http://14.102.123.50:5001/live/1327.m3u8
 #EXTINF:-1 group-title="English",Colors Infinity
 http://14.102.123.50:5001/live/1325.m3u8
 #EXTINF:-1 group-title="English",Colors Infinity HD
