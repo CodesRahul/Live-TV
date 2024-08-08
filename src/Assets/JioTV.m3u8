@@ -5,24 +5,22 @@
 http://14.102.123.50:5001/live/445.m3u8
 #EXTINF:-1 group-title="Marathi",Zee Marathi HD
 http://14.102.123.50:5001/live/1360.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Yuva
+http://14.102.123.50:5001/live/414.m3u8
+#EXTINF:-1 group-title="Marathi",Colors Marathi
+http://14.102.123.50:5001/live/1326.m3u8
+#EXTINF:-1 group-title="Marathi",Colors Marathi HD
+http://14.102.123.50:5001/live/755.m3u8
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Marathi", Sony Marathi
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyMarathi&id=2011740
 #EXTINF:-1 group-title="Marathi",Zee Talkies
 http://14.102.123.50:5001/live/153.m3u8
 #EXTINF:-1 group-title="Marathi",Zee Talkies HD
 http://14.102.123.50:5001/live/1358.m3u8
-#EXTINF:-1 group-title="Marathi",Zee Yuva
-http://14.102.123.50:5001/live/414.m3u8
 #EXTINF:-1 group-title="Marathi",Shemaroo Marathi
 http://14.102.123.50:5001/live/1452.m3u8
 #EXTINF:-1 group-title="Marathi",Mayboli
 http://14.102.123.50:5001/live/736.m3u8
-#EXTINF:-1 group-title="Marathi",Colors Marathi HD
-http://14.102.123.50:5001/live/755.m3u8
-#EXTINF:-1 group-title="Marathi",Colors Marathi
-http://14.102.123.50:5001/live/1326.m3u8
-#EXTINF:-1 group-title="Marathi",Sony Marathi
-http://14.102.123.50:5001/live/1146.m3u8
-#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Marathi", Sony Marathi
-https://yuvraj.fun/sliv/index.m3u8?ch=SonyMarathi&id=2011740
 #EXTINF:-1 group-title="Marathi",Fakt Marathi
 http://14.102.123.50:5001/live/738.m3u8
 #EXTINF:-1 group-title="Marathi",DD Sahyadri
