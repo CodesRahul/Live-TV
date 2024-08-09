@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-// Marathi
 #EXTINF:-1 group-title="Marathi",Zee Marathi
 http://14.102.123.50:5001/live/445.m3u8
 #EXTINF:-1 group-title="Marathi",Zee Marathi HD
