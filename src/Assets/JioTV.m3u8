@@ -1,4 +1,3 @@
-
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 group-title="Marathi",Zee Marathi
 http://14.102.123.50:5001/live/445.m3u8
@@ -51,7 +50,7 @@ http://14.102.123.50:5001/live/2935.m3u8
 http://14.102.123.50:5001/live/1972.m3u8
 
 // Entertainment
-#EXTINF:-1,Star Plus HD -Rs 19
+#EXTINF:-1,Star Plus HD
 http://103.84.57.155:8000/play/a080/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors
 http://14.102.123.50:5001/live/1368.m3u8
@@ -73,20 +72,18 @@ http://103.84.57.155:8000/play/a0a8/index.m3u8
 http://103.84.57.155:8000/play/a084/index.m3u8
 
 // Movies
-#EXTINF:-1 group-title="Movies",Star GOLD HD -Rs 10
+#EXTINF:-1 group-title="Movies",Star GOLD HD
 http://103.84.57.155:8000/play/a09m/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Gold Thrills- Rs 2
+#EXTINF:-1 group-title="Movies",Star Gold Thrills
 http://103.84.57.155:8000/play/a0c7/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold 2
 http://103.84.57.155:8000/play/a0c9/index.m3u8
 #EXTINF:-1,Star Gold Romance- Rs 2
 http://103.84.57.155:8000/play/a0c8/index.m3u8
-
 #EXTINF:-1 group-title="Movies",Sony MAX HD
 http://103.84.57.155:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="Movies",SONY MAX 2
 http://103.84.57.155:8000/play/a0cc/index.m3u8
-
 #EXTINF:-1 group-title="Movies",Zee Cinema
 http://14.102.123.50:5001/live/484.m3u8
 #EXTINF:-1 group-title="Movies",Zee Cinema HD
@@ -101,8 +98,7 @@ http://14.102.123.50:5001/live/487.m3u8
 http://14.102.123.50:5001/live/1691.m3u8
 #EXTINF:-1 group-title="Movies",Zee Action
 http://14.102.123.50:5001/live/488.m3u8
-
-#EXTINF:-1,Evergreen Classics-Rs45
+#EXTINF:-1,Evergreen Classics
 http://103.84.57.155:8000/play/a0ca/index.m3u8
 #EXTINF:-1 group-title="Movies",B4U Movies
 http://14.102.123.50:5001/live/182.m3u8
@@ -112,7 +108,6 @@ http://14.102.123.50:5001/live/1295.m3u8
 http://14.102.123.50:5001/live/1839.m3u8
 #EXTINF:-1 group-title="Movies",&Pictures HD
 http://14.102.123.50:5001/live/185.m3u8
-
 #EXTINF:-1 group-title="Movies",Colors Cineplex Superhit
 http://14.102.123.50:5001/live/1450.m3u8
 #EXTINF:-1 group-title="Movies",Colors Cineplex Bollywood
@@ -139,7 +134,7 @@ http://103.84.57.155:8000/play/a09t/index.m3u8
 http://14.102.123.50:5001/live/3046.m3u8
 #EXTINF:-1 group-title="English",&Flix HD
 http://14.102.123.50:5001/live/1322.m3u8
-#EXTINF:-1 group-title="English",&flix HD-Rs 19
+#EXTINF:-1 group-title="English",&flix HD
 http://103.84.57.155:8000/play/a083/index.m3u8
 #EXTINF:-1 group-title="English",MOVIES NOW
 http://103.84.57.155:8000/play/a034/index.m3u8
