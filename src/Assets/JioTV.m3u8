@@ -78,7 +78,7 @@ http://103.84.57.155:8000/play/a09m/index.m3u8
 http://103.84.57.155:8000/play/a0c7/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold 2
 http://103.84.57.155:8000/play/a0c9/index.m3u8
-#EXTINF:-1,Star Gold Romance- Rs 2
+#EXTINF:-1,Star Gold Romance 
 http://103.84.57.155:8000/play/a0c8/index.m3u8
 #EXTINF:-1 group-title="Movies",Sony MAX HD
 http://103.84.57.155:8000/play/a02b/index.m3u8
@@ -142,7 +142,6 @@ http://103.84.57.155:8000/play/a024/index.m3u8
 http://103.84.57.155:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="English",&Prive HD
 http://14.102.123.50:5001/live/1349.m3u8
-
 #EXTINF:-1 group-title="English",MN+ HD
 http://103.84.57.155:8000/play/a08s/index.m3u8
 #EXTINF:-1 group-title="English",Romedy NOW
