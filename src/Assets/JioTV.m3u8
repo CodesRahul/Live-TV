@@ -10,8 +10,6 @@ http://14.102.123.50:5001/live/414.m3u8
 http://14.102.123.50:5001/live/1326.m3u8
 #EXTINF:-1 group-title="Marathi",Colors Marathi HD
 http://14.102.123.50:5001/live/755.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Marathi",Star Pravah HD
-https://allinonereborn.in/dittotv.php?id=909
 #EXTINF:-1 group-title="Marathi",Zee Talkies
 http://14.102.123.50:5001/live/153.m3u8
 #EXTINF:-1 group-title="Marathi",Zee Talkies HD
@@ -69,6 +67,10 @@ http://14.102.123.50:5001/live/473.m3u8
 http://14.102.123.50:5001/live/2024.m3u8
 #EXTINF:-1 group-title="Entertainment",&TV HD
 http://14.102.123.50:5001/live/472.m3u8
+#EXTINF:-1 group-title="Entertainment",SONY SAB
+http://103.84.57.155:8000/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="Entertainment",SET HD
+http://103.84.57.155:8000/play/a084/index.m3u8
 
 // Movies
 #EXTINF:-1 group-title="Movies",Star GOLD HD -Rs 10
@@ -82,7 +84,7 @@ http://103.84.57.155:8000/play/a0c8/index.m3u8
 
 #EXTINF:-1 group-title="Movies",Sony MAX HD
 http://103.84.57.155:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Movies",SONY MAX 2 - Rs 1
+#EXTINF:-1 group-title="Movies",SONY MAX 2
 http://103.84.57.155:8000/play/a0cc/index.m3u8
 
 #EXTINF:-1 group-title="Movies",Zee Cinema
@@ -129,9 +131,9 @@ http://14.102.123.50:5001/live/2762.m3u8
 http://14.102.123.50:5001/live/1364.m3u8
 #EXTINF:-1 group-title="English",Zee Cafe HD
 http://14.102.123.50:5001/live/1319.m3u8
-#EXTINF:-1 group-title="English",ZEE Cafe HD - Rs19
+#EXTINF:-1 group-title="English",ZEE Cafe HD
 http://103.84.57.155:8000/play/a08r/index.m3u8
-#EXTINF:-1 group-title="English",Sony PIX HD - Rs 15
+#EXTINF:-1 group-title="English",Sony PIX HD
 http://103.84.57.155:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="English",&Flix
 http://14.102.123.50:5001/live/3046.m3u8
@@ -149,9 +151,9 @@ http://103.84.57.155:8000/play/a00w/index.m3u8
 http://14.102.123.50:5001/live/1349.m3u8
 #EXTINF:-1 group-title="English",&Xplore HD
 http://14.102.123.50:5001/live/1668.m3u8
-#EXTINF:-1 group-title="English",MN+ HD-Rs 10
+#EXTINF:-1 group-title="English",MN+ HD
 http://103.84.57.155:8000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="English",Romedy NOW-Rs 6
+#EXTINF:-1 group-title="English",Romedy NOW
 http://103.84.57.155:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="English",Colors Infinity
 http://14.102.123.50:5001/live/1325.m3u8
@@ -183,7 +185,7 @@ http://14.102.123.50:5001/live/554.m3u8
 http://14.102.123.50:5001/live/872.m3u8
 #EXTINF:-1 group-title="Kids", Sony YAY 
 https://yuvraj.fun/sliv/index.m3u8?ch=SonyYaySD&id=2011746
-#EXTINF:1 tvg-logo="https://www.epicon.in/img/gubbare-logo.png" group-title="Kids",Gubbare
+#EXTINF:1 group-title="Kids",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_1080.m3u8
 #EXTINF:-1 group-title="Kids",Animax
 http://14.102.123.50:5001/live/2258.m3u8
@@ -195,16 +197,19 @@ http://14.102.123.50:5001/live/2774.m3u8
 // Information
 #EXTINF:-1 group-title="Information",National Geo HD
 http://103.84.57.155:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Information",NAT Geo Wild HD
+http://103.84.57.155:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Information",History TV18 HD
 http://14.102.123.50:5001/live/578.m3u8
 #EXTINF:-1 group-title="Information",Animal Planet HD
 http://14.102.123.50:5001/live/566.m3u8
-
 #EXTINF:-1 group-title="Information",Discovery
 http://14.102.123.50:5001/live/575.m3u8
 #EXTINF:-1 group-title="Information",Discovery HD
 http://14.102.123.50:5001/live/463.m3u8
-#EXTINF:-1 group-title="Information",FOX Life HD-Rs 2
+#EXTINF:-1 group-title="Information",Sony BBC EarHD
+http://103.84.57.155:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="Information",FOX Life HD
 http://103.84.57.155:8000/play/a0ce/index.m3u8
 #EXTINF:-1 group-title="Information",Travel XP HD
 http://14.102.123.50:5001/live/562.m3u8
