@@ -12,16 +12,20 @@ http://14.102.123.50:5001/live/1326.m3u8
 http://14.102.123.50:5001/live/755.m3u8
 #EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Marathi", Sony Marathi
 https://yuvraj.fun/sliv/index.m3u8?ch=SonyMarathi&id=2011740
+#EXTINF:-1 tvg-logo="" group-title="Marathi",Star Pravah HD
+https://allinonereborn.in/dittotv.php?id=909
 #EXTINF:-1 group-title="Marathi",Zee Talkies
 http://14.102.123.50:5001/live/153.m3u8
 #EXTINF:-1 group-title="Marathi",Zee Talkies HD
 http://14.102.123.50:5001/live/1358.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Marathi",PRAVAH PICTURE
+https://allinonereborn.in/dittotv.php?id=2590
 #EXTINF:-1 group-title="Marathi",Shemaroo Marathi
 http://14.102.123.50:5001/live/1452.m3u8
 #EXTINF:-1 group-title="Marathi",Mayboli
 http://14.102.123.50:5001/live/736.m3u8
 #EXTINF:-1 group-title="Marathi",Fakt Marathi
-http://14.102.123.50:5001/live/738.m3u8
+https://allinonereborn.in/dittotv.php?id=2058
 #EXTINF:-1 group-title="Marathi",DD Sahyadri
 http://14.102.123.50:5001/live/695.m3u8
 #EXTINF:-1 group-title="Marathi",Sun Marathi
