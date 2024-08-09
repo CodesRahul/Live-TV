@@ -126,16 +126,12 @@ http://14.102.123.50:5001/live/2762.m3u8
 http://14.102.123.50:5001/live/1364.m3u8
 #EXTINF:-1 group-title="English",Zee Cafe HD
 http://14.102.123.50:5001/live/1319.m3u8
-#EXTINF:-1 group-title="English",ZEE Cafe HD
-http://103.84.57.155:8000/play/a08r/index.m3u8
 #EXTINF:-1 group-title="English",Sony PIX HD
 http://103.84.57.155:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="English",&Flix
 http://14.102.123.50:5001/live/3046.m3u8
 #EXTINF:-1 group-title="English",&Flix HD
 http://14.102.123.50:5001/live/1322.m3u8
-#EXTINF:-1 group-title="English",&flix HD
-http://103.84.57.155:8000/play/a083/index.m3u8
 #EXTINF:-1 group-title="English",MOVIES NOW
 http://103.84.57.155:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="English",STAR WORLD HD
