@@ -170,7 +170,7 @@ http://14.102.123.50:5001/live/559.m3u8
 http://103.84.57.155:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Kids",hungama tv
 http://103.84.57.155:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="Kids",MARVEL HQ
+#EXTINF:-1 group-title="Kids",Super Hungama
 http://103.84.57.155:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="Kids",Sonic
 http://14.102.123.50:5001/live/815.m3u8
