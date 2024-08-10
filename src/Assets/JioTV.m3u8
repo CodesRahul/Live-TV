@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1 group-title="Marathi",Star Pravah HD
+http://tv.cloudcdn.me/live.ts?channelId=28128&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Marathi",Zee Marathi
 http://14.102.123.50:5001/live/445.m3u8
 #EXTINF:-1 group-title="Marathi",Zee Marathi HD
@@ -136,8 +138,8 @@ http://14.102.123.50:5001/live/3046.m3u8
 http://14.102.123.50:5001/live/1322.m3u8
 #EXTINF:-1 group-title="English",MOVIES NOW
 http://103.84.57.155:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="English",STAR WORLD HD
-http://103.84.57.155:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="English",STAR MOVIES HD
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="English",StarMovies Select HD
 http://103.84.57.155:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="English",&Prive HD
@@ -177,7 +179,7 @@ http://14.102.123.50:5001/live/872.m3u8
 #EXTINF:1 group-title="Kids",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_1080.m3u8
 #EXTINF:-1 group-title="Kids",Animax
-http://14.102.123.50:5001/live/2258.m3u8
+https://jmp2.uk/SamsungTVPlus/INBD13000043W.m3u8
 #EXTINF:-1 group-title="Kids",Jio Kids
 http://14.102.123.50:5001/live/1430.m3u8
 #EXTINF:-1 group-title="Kids",Power Kids
