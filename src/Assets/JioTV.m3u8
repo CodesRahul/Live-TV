@@ -1,170 +1,305 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-chno="1" group-title="Movies",Colors Cineplex HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=1477
-#EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" tvg-chno="2" group-title="News",Aaj Tak
-https://tootvnet.xyz/Jio/stream.m3u8?id=173
-#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-chno="3" group-title="Entertainment",Colors HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=144
-#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-chno="4" group-title="Entertainment",Zee TV HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=167
-#EXTINF:-1 tvg-id="1984" tvg-name="Sports18 1 HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" tvg-chno="5" group-title="Sports",Sports18 1 HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=1984
-#EXTINF:-1 tvg-id="629" tvg-name="ETV Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Telugu.png" tvg-chno="6" group-title="Entertainment",ETV Telugu
-https://tootvnet.xyz/Jio/stream.m3u8?id=629
-#EXTINF:-1 tvg-id="689" tvg-name="Zee Kannada" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png" tvg-chno="7" group-title="Entertainment",Zee Kannada
-https://tootvnet.xyz/Jio/stream.m3u8?id=689
-#EXTINF:-1 tvg-id="757" tvg-name="Colors Kannada HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" tvg-chno="8" group-title="Entertainment",Colors Kannada HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=757
-#EXTINF:-1 tvg-id="638" tvg-name="Zee Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" tvg-chno="9" group-title="Entertainment",Zee Telugu
-https://tootvnet.xyz/Jio/stream.m3u8?id=638
-#EXTINF:-1 tvg-id="231" tvg-name="News 18 India" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_7.png" tvg-chno="10" group-title="News",News 18 India
-https://tootvnet.xyz/Jio/stream.m3u8?id=231
-#EXTINF:-1 tvg-id="701" tvg-name="Dangal" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dangal.png" tvg-chno="11" group-title="Entertainment",Dangal
-https://tootvnet.xyz/Jio/stream.m3u8?id=701
-#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-chno="12" group-title="Entertainment",SET HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=291
-#EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" tvg-chno="13" group-title="Entertainment",Colors Marathi HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=755
-#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-chno="14" group-title="Entertainment",Sony SAB
-https://tootvnet.xyz/Jio/stream.m3u8?id=154
-#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" tvg-chno="15" group-title="Devotional",Aastha
-https://tootvnet.xyz/Jio/stream.m3u8?id=175
-#EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-chno="16" group-title="Entertainment",Sun TV HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=896
-#EXTINF:-1 tvg-id="235" tvg-name="India TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_TV.png" tvg-chno="17" group-title="News",India TV
-https://tootvnet.xyz/Jio/stream.m3u8?id=235
-#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" tvg-chno="18" group-title="Entertainment",Sony SAB HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=471
-#EXTINF:-1 tvg-id="672" tvg-name="ABP Ananda" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ananda.png" tvg-chno="19" group-title="News",ABP Ananda
-https://tootvnet.xyz/Jio/stream.m3u8?id=672
-#EXTINF:-1 tvg-id="1370" tvg-name="Colors Kannada SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" tvg-chno="20" group-title="Entertainment",Colors Kannada SD
-https://tootvnet.xyz/Jio/stream.m3u8?id=1370
-#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-chno="21" group-title="Entertainment",Zee Tamil
-https://tootvnet.xyz/Jio/stream.m3u8?id=628
-#EXTINF:-1 tvg-id="657" tvg-name="Zee Business" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png" tvg-chno="22" group-title="Business News",Zee Business
-https://tootvnet.xyz/Jio/stream.m3u8?id=657
-#EXTINF:-1 tvg-id="617" tvg-name="TV9 Maharashtra" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" tvg-chno="23" group-title="News",TV9 Maharashtra
-https://tootvnet.xyz/Jio/stream.m3u8?id=617
-#EXTINF:-1 tvg-id="177" tvg-name="ABP News India" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png" tvg-chno="24" group-title="News",ABP News India
-https://tootvnet.xyz/Jio/stream.m3u8?id=177
-#EXTINF:-1 tvg-id="625" tvg-name="Zee Bangla" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" tvg-chno="25" group-title="Entertainment",Zee Bangla
-https://tootvnet.xyz/Jio/stream.m3u8?id=625
-#EXTINF:-1 tvg-id="619" tvg-name="TV9 Karnataka" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Karnataka.png" tvg-chno="26" group-title="News",TV9 Karnataka
-https://tootvnet.xyz/Jio/stream.m3u8?id=619
-#EXTINF:-1 tvg-id="445" tvg-name="Zee Marathi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" tvg-chno="27" group-title="Entertainment",Zee Marathi
-https://tootvnet.xyz/Jio/stream.m3u8?id=445
-#EXTINF:-1 tvg-id="1251" tvg-name="TV9 Bharatvarsh" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" tvg-chno="28" group-title="News",TV9 Bharatvarsh
-https://tootvnet.xyz/Jio/stream.m3u8?id=1251
-#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" tvg-chno="29" group-title="Movies",Colors Cineplex
-https://tootvnet.xyz/Jio/stream.m3u8?id=482
-#EXTINF:-1 tvg-id="1403" tvg-name="Republic Bharat" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png" tvg-chno="30" group-title="News",Republic Bharat
-https://tootvnet.xyz/Jio/stream.m3u8?id=1403
-#EXTINF:-1 tvg-id="722" tvg-name="Zee Sarthak" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sarthak_TV.png" tvg-chno="31" group-title="Entertainment",Zee Sarthak
-https://tootvnet.xyz/Jio/stream.m3u8?id=722
-#EXTINF:-1 tvg-id="190" tvg-name="CNBC Awaaz" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" tvg-chno="32" group-title="Business News",CNBC Awaaz
-https://tootvnet.xyz/Jio/stream.m3u8?id=190
-#EXTINF:-1 tvg-id="891" tvg-name="Sony Ten 2 HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-chno="33" group-title="Sports",Sony Ten 2 HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=891
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-chno="34" group-title="Movies",Zee Cinema HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=165
-#EXTINF:-1 tvg-id="196" tvg-name="Colors Gujarati" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Gujarati.png" tvg-chno="35" group-title="Entertainment",Colors Gujarati
-https://tootvnet.xyz/Jio/stream.m3u8?id=196
-#EXTINF:-1 tvg-id="1326" tvg-name="Colors Marathi SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" tvg-chno="36" group-title="Entertainment",Colors Marathi SD
-https://tootvnet.xyz/Jio/stream.m3u8?id=1326
-#EXTINF:-1 tvg-id="612" tvg-name="ABP Majha" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" tvg-chno="37" group-title="News",ABP Majha
-https://tootvnet.xyz/Jio/stream.m3u8?id=612
-#EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png" tvg-chno="38" group-title="Entertainment",Zee Telugu HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=1354
-#EXTINF:-1 tvg-id="1362" tvg-name="Zee Kannada HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png" tvg-chno="39" group-title="Entertainment",Zee Kannada HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=1362
-#EXTINF:-1 tvg-id="778" tvg-name="Public TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_TV.png" tvg-chno="40" group-title="News",Public TV
-https://tootvnet.xyz/Jio/stream.m3u8?id=778
-#EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" tvg-chno="41" group-title="Entertainment",Rishtey
-https://tootvnet.xyz/Jio/stream.m3u8?id=279
-#EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-chno="42" group-title="Entertainment",And TV HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=472
-#EXTINF:-1 tvg-id="756" tvg-name="Colors Bengali HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" tvg-chno="43" group-title="Entertainment",Colors Bengali HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=756
-#EXTINF:-1 tvg-id="618" tvg-name="TV9 Telugu News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-chno="44" group-title="News",TV9 Telugu News
-https://tootvnet.xyz/Jio/stream.m3u8?id=618
-#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-chno="45" group-title="Movies",And Pictures HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=185
-#EXTINF:-1 tvg-id="504" tvg-name="Zee News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" tvg-chno="46" group-title="News",Zee News
-https://tootvnet.xyz/Jio/stream.m3u8?id=504
-#EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-chno="47" group-title="Movies",KTV HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=894
-#EXTINF:-1 tvg-id="501" tvg-name="News 24" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_24.png" tvg-chno="48" group-title="News",News 24
-https://tootvnet.xyz/Jio/stream.m3u8?id=501
-#EXTINF:-1 tvg-id="632" tvg-name="Sakshi tv" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sakshi_tv.png" tvg-chno="49" group-title="News",Sakshi tv
-https://tootvnet.xyz/Jio/stream.m3u8?id=632
-#EXTINF:-1 tvg-id="1368" tvg-name="Colors SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" tvg-chno="50" group-title="Entertainment",Colors SD
-https://tootvnet.xyz/Jio/stream.m3u8?id=1368
-#EXTINF:-1 tvg-id="143" tvg-name="CNBC Tv18 Prime HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" tvg-chno="51" group-title="Business News",CNBC Tv18 Prime HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=143
-#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" tvg-chno="52" group-title="Infotainment",History TV18 HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=146
-#EXTINF:-1 tvg-id="153" tvg-name="Zee Talkies" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" tvg-chno="53" group-title="Movies",Zee Talkies
-https://tootvnet.xyz/Jio/stream.m3u8?id=153
-#EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" tvg-chno="54" group-title="Sports",Sony Ten 5 HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=155
-#EXTINF:-1 tvg-id="162" tvg-name="Sony Ten 1 HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-chno="55" group-title="Sports",Sony Ten 1 HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=162
-#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" tvg-chno="56" group-title="Lifestyle",Travelxp HD
-https://tootvnet.xyz/Jio/stream.m3u8?id=164
-#EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" tvg-chno="57" group-title="Kids",Cartoon Network Telugu
-https://tootvnet.xyz/Jio/stream.m3u8?id=166
-#EXTINF:-1 tvg-id="180" tvg-name="Asianet News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_News.png" tvg-chno="58" group-title="News",Asianet News
-https://tootvnet.xyz/Jio/stream.m3u8?id=180
-#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Movies.png" tvg-chno="59" group-title="Movies",B4U Movies
-https://tootvnet.xyz/Jio/stream.m3u8?id=182
-#EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-chno="60" group-title="Music",B4U Music
-https://tootvnet.xyz/Jio/stream.m3u8?id=183
-#EXTINF:-1 tvg-id="193" tvg-name="CNN" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" tvg-chno="61" group-title="News",CNN
-https://tootvnet.xyz/Jio/stream.m3u8?id=193
-#EXTINF:-1 tvg-id="198" tvg-name="Colors Oriya" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Oriya.png" tvg-chno="62" group-title="Entertainment",Colors Oriya
-https://tootvnet.xyz/Jio/stream.m3u8?id=198
-#EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" tvg-chno="63" group-title="Entertainment",DD National
-https://tootvnet.xyz/Jio/stream.m3u8?id=202
-#EXTINF:-1 tvg-id="203" tvg-name="DD News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png" tvg-chno="64" group-title="News",DD News
-https://tootvnet.xyz/Jio/stream.m3u8?id=203
-#EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" tvg-chno="65" group-title="Sports",DD Sports
-https://tootvnet.xyz/Jio/stream.m3u8?id=204
-#EXTINF:-1 tvg-id="212" tvg-name="ET Now" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now.png" tvg-chno="66" group-title="Business News",ET Now
-https://tootvnet.xyz/Jio/stream.m3u8?id=212
-#EXTINF:-1 tvg-id="232" tvg-name="News18 Lokmat" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_Lokmat.png" tvg-chno="67" group-title="News",News18 Lokmat
-https://tootvnet.xyz/Jio/stream.m3u8?id=232
-#EXTINF:-1 tvg-id="242" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_English.png" tvg-chno="68" group-title="Infotainment",Discovery
-https://tootvnet.xyz/Jio/stream.m3u8?id=242
-#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="69" group-title="Music",MTV
-https://tootvnet.xyz/Jio/stream.m3u8?id=248
-#EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-chno="70" group-title="Music",Music India
-https://tootvnet.xyz/Jio/stream.m3u8?id=250
-#EXTINF:-1 tvg-id="252" tvg-name="ETV Cinema" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png" tvg-chno="71" group-title="Movies",ETV Cinema
-https://tootvnet.xyz/Jio/stream.m3u8?id=252
-#EXTINF:-1 tvg-id="255" tvg-name="NDTV 24x7" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png" tvg-chno="72" group-title="News",NDTV 24x7
-https://tootvnet.xyz/Jio/stream.m3u8?id=255
-#EXTINF:-1 tvg-id="258" tvg-name="NDTV India" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" tvg-chno="73" group-title="News",NDTV India
-https://tootvnet.xyz/Jio/stream.m3u8?id=258
-#EXTINF:-1 tvg-id="259" tvg-name="NDTV Profit" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Profit.png" tvg-chno="74" group-title="Business News",NDTV Profit
-https://tootvnet.xyz/Jio/stream.m3u8?id=259
-#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" tvg-chno="75" group-title="Infotainment",Animal Planet HD World
-https://tootvnet.xyz/Jio/stream.m3u8?id=286
-#EXTINF:-1 tvg-id="288" tvg-name="Sanskar" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png" tvg-chno="76" group-title="Devotional",Sanskar
-https://tootvnet.xyz/Jio/stream.m3u8?id=288
-#EXTINF:-1 tvg-id="289" tvg-name="Sony Max SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" tvg-chno="77" group-title="Movies",Sony Max SD
-https://tootvnet.xyz/Jio/stream.m3u8?id=289
-#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Tamil.png" tvg-chno="78" group-title="Kids",sonic Tamil
-https://tootvnet.xyz/Jio/stream.m3u8?id=290
-#EXTINF:-1 tvg-id="383" tvg-name="Times NOW" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_NOW.png" tvg-chno="79" group-title="News",Times NOW
-https://tootvnet.xyz/Jio/stream.m3u8?id=383
-#EXTINF:-1 tvg-id="400" tvg-name="PM e Vidya 01" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_1.png" tvg-chno="80" group-title="Educational",PM e Vidya 01
-https://tootvnet.xyz/Jio/stream.m3u8?id=400
-#EXTINF:-1 tvg-id="401" tvg-name="Swayam Prabha 19" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png" tvg-chno="81" group-title="Educational",Swayam Prabha 19
-https://tootvnet.xyz/Jio/stream.m3u8?id=401
-#EXTINF:-1 tvg-id="402" tvg-name="PM e Vidya 02" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_2.png" tvg-chno="82" group-title="Educational",PM e Vidya 02
-https://tootvnet.xyz/Jio/stream.m3u8?id=402
-#EXTINF:-1 tvg-id="403" tvg-name="Swayam Prabha 20" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png" tvg-chno="83" group-title="Educational",Swayam Prabha 20
-https://tootvnet.xyz/Jio/stream.m3u8?id=403
-#EXTINF:-1 tvg-id="404" tvg-name="PM e Vidya 07" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_7.png" tvg-chno="84" group-title="Educational",PM e Vidya 07
-https://tootvnet.xyz/Jio/stream.m3u8?id=404
-#EXTINF:-1 tvg-id="405" tvg-name="PM e Vidya 03" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1 group-title="Marathi",Zee Marathi
+http://14.102.123.50:5001/live/445.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Marathi HD
+http://14.102.123.50:5001/live/1360.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Yuva
+http://14.102.123.50:5001/live/414.m3u8
+#EXTINF:-1 group-title="Marathi",Colors Marathi
+http://14.102.123.50:5001/live/1326.m3u8
+#EXTINF:-1 group-title="Marathi",Colors Marathi HD
+http://14.102.123.50:5001/live/755.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Talkies
+http://14.102.123.50:5001/live/153.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Talkies HD
+http://14.102.123.50:5001/live/1358.m3u8
+#EXTINF:-1 group-title="Marathi",Shemaroo Marathi
+http://14.102.123.50:5001/live/1452.m3u8
+#EXTINF:-1 group-title="Marathi",Mayboli
+http://14.102.123.50:5001/live/736.m3u8
+#EXTINF:-1 group-title="Marathi",Fakt Marathi
+http://14.102.123.50:5001/live/738.m3u8
+#EXTINF:-1 group-title="Marathi",DD Sahyadri
+http://14.102.123.50:5001/live/695.m3u8
+#EXTINF:-1 group-title="Marathi",Sun Marathi
+http://14.102.123.50:5001/live/2424.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Chitramandal
+http://14.102.123.50:5001/live/2758.m3u8
+#EXTINF:-1 group-title="Marathi",Sangeet Marathi
+http://14.102.123.50:5001/live/735.m3u8
+#EXTINF:-1 group-title="Marathi",9XM Jhakaas
+http://14.102.123.50:5001/live/441.m3u8
+
+#EXTINF:-1 group-title="Marathi",Zee24 Taas
+http://14.102.123.50:5001/live/442.m3u8
+#EXTINF:-1 group-title="Marathi",ABP Majha
+http://14.102.123.50:5001/live/612.m3u8
+#EXTINF:-1 group-title="Marathi",TV9 Marathi
+http://14.102.123.50:5001/live/617.m3u8
+#EXTINF:-1 group-title="Marathi",Saam TV
+http://14.102.123.50:5001/live/691.m3u8
+#EXTINF:-1 group-title="Marathi",Lokshahi Marathi
+http://14.102.123.50:5001/live/1293.m3u8
+#EXTINF:-1 group-title="Marathi",News18 Lokmat
+http://14.102.123.50:5001/live/232.m3u8
+#EXTINF:-1 group-title="Marathi",Jai Maharashtra
+http://14.102.123.50:5001/live/1394.m3u8
+#EXTINF:-1 group-title="Marathi",Pudhari News
+http://14.102.123.50:5001/live/2935.m3u8
+#EXTINF:-1 group-title="Marathi",Top News Marathi
+http://14.102.123.50:5001/live/1972.m3u8
+
+// Entertainment
+#EXTINF:-1,Star Plus HD
+http://103.84.57.155:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Colors
+http://14.102.123.50:5001/live/1368.m3u8
+#EXTINF:-1 group-title="Entertainment",Colors HD
+http://14.102.123.50:5001/live/144.m3u8
+#EXTINF:-1 group-title="Entertainment",Zee TV
+http://14.102.123.50:5001/live/1351.m3u8
+#EXTINF:-1 group-title="Entertainment",Zee TV HD
+http://14.102.123.50:5001/live/167.m3u8
+#EXTINF:-1 group-title="Entertainment",Zee Anmol
+http://14.102.123.50:5001/live/473.m3u8
+#EXTINF:-1 group-title="Entertainment",&TV
+http://14.102.123.50:5001/live/2024.m3u8
+#EXTINF:-1 group-title="Entertainment",&TV HD
+http://14.102.123.50:5001/live/472.m3u8
+#EXTINF:-1 group-title="Entertainment",SONY SAB
+http://103.84.57.155:8000/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="Entertainment",SET HD
+http://103.84.57.155:8000/play/a084/index.m3u8
+
+// Movies
+#EXTINF:-1 group-title="Movies",Star GOLD HD
+http://103.84.57.155:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold Thrills
+http://103.84.57.155:8000/play/a0c7/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold 2
+http://103.84.57.155:8000/play/a0c9/index.m3u8
+#EXTINF:-1,Star Gold Romance 
+http://103.84.57.155:8000/play/a0c8/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony MAX HD
+http://103.84.57.155:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Movies",SONY MAX 2
+http://103.84.57.155:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="Movies",Zee Cinema
+http://14.102.123.50:5001/live/484.m3u8
+#EXTINF:-1 group-title="Movies",Zee Cinema HD
+http://14.102.123.50:5001/live/165.m3u8
+#EXTINF:-1 group-title="Movies",Zee Anmol Cinema
+http://14.102.123.50:5001/live/415.m3u8
+#EXTINF:-1 group-title="Movies",Zee Anmol Cinema2
+http://14.102.123.50:5001/live/2761.m3u8
+#EXTINF:-1 group-title="Movies",Zee Bollywood
+http://14.102.123.50:5001/live/487.m3u8
+#EXTINF:-1 group-title="Movies",Zee Classic
+http://14.102.123.50:5001/live/1691.m3u8
+#EXTINF:-1 group-title="Movies",Zee Action
+http://14.102.123.50:5001/live/488.m3u8
+#EXTINF:-1,Evergreen Classics
+http://103.84.57.155:8000/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="Movies",B4U Movies
+http://14.102.123.50:5001/live/182.m3u8
+#EXTINF:-1 group-title="Movies",B4U Kadak
+http://14.102.123.50:5001/live/1295.m3u8
+#EXTINF:-1 group-title="Movies",&Pictures
+http://14.102.123.50:5001/live/1839.m3u8
+#EXTINF:-1 group-title="Movies",&Pictures HD
+http://14.102.123.50:5001/live/185.m3u8
+#EXTINF:-1 group-title="English",&Xplore HD
+http://14.102.123.50:5001/live/1668.m3u8
+#EXTINF:-1 group-title="Movies",Colors Cineplex Superhit
+http://14.102.123.50:5001/live/1450.m3u8
+#EXTINF:-1 group-title="Movies",Colors Cineplex Bollywood
+http://14.102.123.50:5001/live/1763.m3u8
+#EXTINF:-1 group-title="Movies",Colors Cineplex
+http://14.102.123.50:5001/live/482.m3u8
+#EXTINF:-1 group-title="Movies",Colors Cineplex HD
+http://14.102.123.50:5001/live/1477.m3u8
+#EXTINF:-1 group-title="Movies",Hiff Movies
+http://14.102.123.50:5001/live/3060.m3u8
+#EXTINF:-1 group-title="Movies",NH Studios
+http://14.102.123.50:5001/live/2762.m3u8
+
+// English
+#EXTINF:-1 group-title="English",Zee Cafe
+http://14.102.123.50:5001/live/1364.m3u8
+#EXTINF:-1 group-title="English",Zee Cafe HD
+http://14.102.123.50:5001/live/1319.m3u8
+#EXTINF:-1 group-title="English",Sony PIX HD
+http://103.84.57.155:8000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="English",&Flix
+http://14.102.123.50:5001/live/3046.m3u8
+#EXTINF:-1 group-title="English",&Flix HD
+http://14.102.123.50:5001/live/1322.m3u8
+#EXTINF:-1 group-title="English",MOVIES NOW
+http://103.84.57.155:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="English",STAR WORLD HD
+http://103.84.57.155:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="English",StarMovies Select HD
+http://103.84.57.155:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="English",&Prive HD
+http://14.102.123.50:5001/live/1349.m3u8
+#EXTINF:-1 group-title="English",MN+ HD
+http://103.84.57.155:8000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="English",Romedy NOW
+http://103.84.57.155:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="English",Colors Infinity
+http://14.102.123.50:5001/live/1325.m3u8
+#EXTINF:-1 group-title="English",Colors Infinity HD
+http://14.102.123.50:5001/live/1158.m3u8
+
+// Kids
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://14.102.123.50:5001/live/816.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network HD
+http://14.102.123.50:5001/live/1079.m3u8
+#EXTINF:-1 group-title="Kids",Nick
+http://14.102.123.50:5001/live/545.m3u8
+#EXTINF:-1 group-title="Kids",Nick HD
+http://14.102.123.50:5001/live/1226.m3u8
+#EXTINF:-1 group-title="Kids",Pogo
+http://14.102.123.50:5001/live/559.m3u8
+#EXTINF:-1 group-title="Kids",Disney Channel
+http://103.84.57.155:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Kids",hungama tv
+http://103.84.57.155:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Kids",Super Hungama
+http://103.84.57.155:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Kids",Sonic
+http://14.102.123.50:5001/live/815.m3u8
+#EXTINF:-1 group-title="Kids",Discovery Kids
+http://14.102.123.50:5001/live/554.m3u8
+#EXTINF:-1 group-title="Kids",Sony YAY
+http://14.102.123.50:5001/live/872.m3u8
+#EXTINF:1 group-title="Kids",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master_1080.m3u8
+#EXTINF:-1 group-title="Kids",Animax
+http://14.102.123.50:5001/live/2258.m3u8
+#EXTINF:-1 group-title="Kids",Jio Kids
+http://14.102.123.50:5001/live/1430.m3u8
+#EXTINF:-1 group-title="Kids",Power Kids
+http://14.102.123.50:5001/live/2774.m3u8
+
+// Information
+#EXTINF:-1 group-title="Information",National Geo HD
+http://103.84.57.155:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Information",NAT Geo Wild HD
+http://103.84.57.155:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Information",History TV18 HD
+http://14.102.123.50:5001/live/578.m3u8
+#EXTINF:-1 group-title="Information",Animal Planet HD
+http://14.102.123.50:5001/live/566.m3u8
+#EXTINF:-1 group-title="Information",Discovery
+http://14.102.123.50:5001/live/575.m3u8
+#EXTINF:-1 group-title="Information",Discovery HD
+http://14.102.123.50:5001/live/463.m3u8
+#EXTINF:-1 group-title="Information",Sony BBC EarHD
+http://103.84.57.155:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="Information",FOX Life HD
+http://103.84.57.155:8000/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="Information",Travel XP HD
+http://14.102.123.50:5001/live/562.m3u8
+#EXTINF:-1 group-title="Information",TLC
+http://14.102.123.50:5001/live/571.m3u8
+#EXTINF:-1 group-title="Information",TLC HD
+http://14.102.123.50:5001/live/479.m3u8
+#EXTINF:-1 group-title="Information",Epic
+http://14.102.123.50:5001/live/481.m3u8
+#EXTINF:-1 group-title="Information",Food Food
+http://14.102.123.50:5001/live/561.m3u8
+#EXTINF:-1 group-title="Information",Food XP
+http://14.102.123.50:5001/live/1955.m3u8
+#EXTINF:-1 group-title="Information",Zee Zest
+http://14.102.123.50:5001/live/2948.m3u8
+
+
+// Discovery
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/7eed96cb-3c78-42e3-aaef-364101bc5115.png", Discovery Channel 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Channel.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2022/06/08/29d580fc-9bac-4b28-a315-b98bad41e7d4.png", Discovery Science  
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Science.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/686381d9-5ec1-4281-a169-d445daa66d2c.png", Animal Plannet 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Animal_Planet.m3u8
+
+#EXTINF:-1 
+tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/a363a4f2-d346-45f7-91b3-e9067c53d4ea.png", TLC 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/TLC.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/0e38f005-1d15-4b87-bac5-77deeb4f900e.png", Discovery Turbo 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Turbo.m3u8
+
+#EXTINF:-1 
+tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2022/06/08/55d22b57-7a60-41ed-b149-d109849aa379.png", Investigation Discovery 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/e81e70aa-2cb4-4cdc-9596-b17072c7227d.png", Euro Sport 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Eurosport.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/b47e7ecc-6b07-4e17-976a-b5d7d14932d8.png", DMAX 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/DMAX.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png", Food 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Food_Network.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/f24c50c6-b65b-408e-bf71-a46f58df4827.png", Discovery Kids 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Kids.m3u8
+
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://seeklogo.com/images/H/hgtv-logo-C6693DCA5A-seeklogo.com.png", HGTV 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/HGTV.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Investigation_Discovery_HD.png/revision/latest/scale-to-width-down/250?cb=20130116175440", Investigation Discovery 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://logodix.com/logo/747477.jpg", TRVL Channel 
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/TRVL_Channel.m3u8
+
+
+// Music
+#EXTINF:-1 group-title="Music",MTV Beats
+http://14.102.123.50:5001/live/1400.m3u8
+#EXTINF:-1 group-title="Music",MTV Beats HD
+http://14.102.123.50:5001/live/753.m3u8
+#EXTINF:-1 group-title="Music",MTV
+http://14.102.123.50:5001/live/248.m3u8
+#EXTINF:-1 group-title="Music",MTV HD
+http://14.102.123.50:5001/live/1145.m3u8
+#EXTINF:-1 group-title="Music",VH1
+http://14.102.123.50:5001/live/1378.m3u8
+#EXTINF:-1 group-title="Music",VH1 HD
+http://14.102.123.50:5001/live/1320.m3u8
+#EXTINF:-1 group-title="Music",Saregama Music
+http://14.102.123.50:5001/live/2065.m3u8
+#EXTINF:-1 group-title="Music",B4U Music
+http://14.102.123.50:5001/live/183.m3u8
+#EXTINF:1 group-title="Music",Show Box
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
+#EXTINF:-1 group-title="Music",Music India
+http://14.102.123.50:5001/live/250.m3u8
+#EXTINF:-1 group-title="Music",YRF Music 
+http://14.102.123.50:5001/live/2753.m3u8
+#EXTINF:-1 group-title="Music",Kadak Hits
+http://14.102.123.50:5001/live/1249.m3u8
+#EXTINF:-1 group-title="Music",9XM
+http://14.102.123.50:5001/live/587.m3u8
+#EXTINF:-1 group-title="Music",9XM Jalwa
+http://14.102.123.50:5001/live/440.m3u8
+#EXTINF:-1 group-title="Music",E24
+http://14.102.123.50:5001/live/591.m3u8
+#EXTINF:-1 group-title="Music",Zing
+http://14.102.123.50:5001/live/585.m3u8
+#EXTINF:-1 group-title="Music",Masti
+http://14.102.123.50:5001/live/584.m3u8
+#EXTINF:-1 group-title="Music",Zoom
+http://14.102.123.50:5001/live/592.m3u8
+#EXTINF:-1 group-title="Music",Dil Se
+http://14.102.123.50:5001/live/2036.m3u8
+#EXTINF:-1 group-title="Music",Artist Aloud
+http://14.102.123.50:5001/live/2043.m3u8
+#EXTINF:-1 group-title="Music",Boogle Music
+http://14.102.123.50:5001/live/962.m3u8
