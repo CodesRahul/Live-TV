@@ -214,7 +214,6 @@ http://14.102.123.50:5001/live/1955.m3u8
 #EXTINF:-1 group-title="Information",Zee Zest
 http://14.102.123.50:5001/live/2948.m3u8
 
-
 // Discovery
 #EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/7eed96cb-3c78-42e3-aaef-364101bc5115.png", Discovery Channel 
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Channel.m3u8
@@ -247,7 +246,6 @@ https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Fo
 
 #EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/f24c50c6-b65b-408e-bf71-a46f58df4827.png", Discovery Kids 
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Kids.m3u8
-
 
 #EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://seeklogo.com/images/H/hgtv-logo-C6693DCA5A-seeklogo.com.png", HGTV 
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/HGTV.m3u8
