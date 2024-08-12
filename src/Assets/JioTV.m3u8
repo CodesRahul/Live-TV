@@ -17,8 +17,6 @@ http://14.102.123.50:5001/live/153.m3u8
 http://14.102.123.50:5001/live/1358.m3u8
 #EXTINF:-1 group-title="Marathi",Shemaroo Marathi
 http://14.102.123.50:5001/live/1452.m3u8
-#EXTINF:-1 group-title="Marathi",Mayboli
-http://14.102.123.50:5001/live/736.m3u8
 #EXTINF:-1 group-title="Marathi",Fakt Marathi
 http://14.102.123.50:5001/live/738.m3u8
 #EXTINF:-1 group-title="Marathi",DD Sahyadri
@@ -31,7 +29,6 @@ http://14.102.123.50:5001/live/2758.m3u8
 http://14.102.123.50:5001/live/735.m3u8
 #EXTINF:-1 group-title="Marathi",9XM Jhakaas
 http://14.102.123.50:5001/live/441.m3u8
-
 #EXTINF:-1 group-title="Marathi",Zee24 Taas
 http://14.102.123.50:5001/live/442.m3u8
 #EXTINF:-1 group-title="Marathi",ABP Majha
