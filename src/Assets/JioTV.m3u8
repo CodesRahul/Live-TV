@@ -73,6 +73,8 @@ http://103.84.57.155:8000/play/a084/index.m3u8
 // Movies
 #EXTINF:-1 group-title="Movies",Star GOLD HD
 http://103.84.57.155:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="Movies",Star GOLD SELECT HD
+http://103.84.57.155:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Thrills
 http://103.84.57.155:8000/play/a0c7/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold 2
