@@ -77,6 +77,8 @@ http://103.84.57.155:8000/play/a09m/index.m3u8
 http://103.84.57.155:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Thrills
 http://103.84.57.155:8000/play/a0c7/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold 2 HD
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=247
 #EXTINF:-1 group-title="Movies",Star Gold 2
 http://103.84.57.155:8000/play/a0c9/index.m3u8
 #EXTINF:-1,Star Gold Romance 
@@ -99,12 +101,6 @@ http://14.102.123.50:5001/live/487.m3u8
 http://14.102.123.50:5001/live/1691.m3u8
 #EXTINF:-1 group-title="Movies",Zee Action
 http://14.102.123.50:5001/live/488.m3u8
-#EXTINF:-1,Evergreen Classics
-http://103.84.57.155:8000/play/a0ca/index.m3u8
-#EXTINF:-1 group-title="Movies",B4U Movies
-http://14.102.123.50:5001/live/182.m3u8
-#EXTINF:-1 group-title="Movies",B4U Kadak
-http://14.102.123.50:5001/live/1295.m3u8
 #EXTINF:-1 group-title="Movies",&Pictures
 http://14.102.123.50:5001/live/1839.m3u8
 #EXTINF:-1 group-title="Movies",&Pictures HD
@@ -119,6 +115,24 @@ http://14.102.123.50:5001/live/1763.m3u8
 http://14.102.123.50:5001/live/482.m3u8
 #EXTINF:-1 group-title="Movies",Colors Cineplex HD
 http://14.102.123.50:5001/live/1477.m3u8
+#EXTINF:-1 group-title="Movies",Miniplex HD
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=224
+#EXTINF:-1 group-title="Movies",TataPlay Bollywood Premium HD
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=222
+#EXTINF:-1,Goldmine Movies
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=217
+#EXTINF:-1,Evergreen Classics
+http://103.84.57.155:8000/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="Movies",B4U Movies
+http://14.102.123.50:5001/live/182.m3u8
+#EXTINF:-1 group-title="Movies",B4U Kadak
+http://14.102.123.50:5001/live/1295.m3u8
+#EXTINF:-1 group-title="Movies",Hollywood Tadka
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7925
+#EXTINF:-1 group-title="Movies",Bollywood Premium
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7894
+#EXTINF:-1 group-title="Movies",South Talkies
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8002
 #EXTINF:-1 group-title="Movies",Hiff Movies
 http://14.102.123.50:5001/live/3060.m3u8
 #EXTINF:-1 group-title="Movies",NH Studios
@@ -188,9 +202,9 @@ http://14.102.123.50:5001/live/2774.m3u8
 
 // Information
 #EXTINF:-1 group-title="Information",National Geo HD
-http://14.102.123.50:9080/play/a04e
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=197
 #EXTINF:-1 group-title="Information",NAT Geo Wild HD
-http://14.102.123.50:9080/play/a043
+https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=198
 #EXTINF:-1 group-title="Information",History TV18 HD
 http://14.102.123.50:5001/live/578.m3u8
 #EXTINF:-1 group-title="Information",Animal Planet HD
