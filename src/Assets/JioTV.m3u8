@@ -5,6 +5,10 @@ http://tv.cloudcdn.me/live.ts?channelId=28128&uid=6469&deviceMac=00:1A:79:B7:2F:
 http://14.102.123.50:5001/live/445.m3u8
 #EXTINF:-1 group-title="Marathi",Zee Marathi HD
 http://14.102.123.50:5001/live/1360.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Marathi HD Airtel
+http://116.202.46.40:789/ZEE_MARATHI/index.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Marathi HD 1
+http://116.202.46.40:9023/ZEE_MARATHI/index.m3u8
 #EXTINF:-1 group-title="Marathi",Zee Yuva
 http://14.102.123.50:5001/live/414.m3u8
 #EXTINF:-1 group-title="Marathi",Colors Marathi
@@ -15,6 +19,10 @@ http://14.102.123.50:5001/live/755.m3u8
 http://14.102.123.50:5001/live/153.m3u8
 #EXTINF:-1 group-title="Marathi",Zee Talkies HD
 http://14.102.123.50:5001/live/1358.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Talkies HD 1
+http://116.202.46.40:9023/ZEE_TALKIES_MARATHI/index.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Talkies HD Airtel
+http://116.202.46.40:789/ZEE_TALKIES_MARATHI/index.m3u8
 #EXTINF:-1 group-title="Marathi",Shemaroo Marathi
 http://14.102.123.50:5001/live/1452.m3u8
 #EXTINF:-1 group-title="Marathi",Fakt Marathi
@@ -51,6 +59,8 @@ http://14.102.123.50:5001/live/1972.m3u8
 // Entertainment
 #EXTINF:-1,Star Plus HD
 http://103.84.57.155:8000/play/a080/index.m3u8
+#EXTINF:-1,Star Bharat HD
+http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors
 http://14.102.123.50:5001/live/1368.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors HD
@@ -71,20 +81,29 @@ http://103.84.57.155:8000/play/a0a8/index.m3u8
 http://103.84.57.155:8000/play/a084/index.m3u8
 
 // Movies
-#EXTINF:-1 group-title="Movies",Star GOLD HD
+#EXTINF:-1 group-title="Movies",Star GOLD HD 
+http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
+#EXTINF:-1 group-title="Movies",Star GOLD HD 1
 http://103.84.57.155:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="Movies",Star GOLD HD CDN
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Movies",Star GOLD SELECT HD
 http://103.84.57.155:8000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="Movies",Star GOLD SELECT HD 1
+http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Thrills
 http://103.84.57.155:8000/play/a0c7/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold 2 HD
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=247
+http://tv.cloudcdn.me/live.ts?channelId=33165&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Movies",Star Gold 2
 http://103.84.57.155:8000/play/a0c9/index.m3u8
 #EXTINF:-1,Star Gold Romance 
-http://103.84.57.155:8000/play/a0c8/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=128485&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+
 #EXTINF:-1 group-title="Movies",Sony MAX HD
 http://103.84.57.155:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony MAX HD 1
+http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
 #EXTINF:-1 group-title="Movies",SONY MAX 2
 http://103.84.57.155:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="Movies",Zee Cinema
@@ -124,7 +143,7 @@ https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=217
 #EXTINF:-1,Evergreen Classics
 http://103.84.57.155:8000/play/a0ca/index.m3u8
 #EXTINF:-1 group-title="Movies",B4U Movies
-http://14.102.123.50:5001/live/182.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=152&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Movies",B4U Kadak
 http://14.102.123.50:5001/live/1295.m3u8
 #EXTINF:-1 group-title="Movies",Hollywood Tadka
@@ -137,6 +156,8 @@ https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8002
 http://14.102.123.50:5001/live/3060.m3u8
 #EXTINF:-1 group-title="Movies",NH Studios
 http://14.102.123.50:5001/live/2762.m3u8
+#EXTINF:-1 group-title="Movies", BBO Classic
+http://tv.cloudcdn.me/live.ts?channelId=86150&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
 // English
 #EXTINF:-1 group-title="English",Zee Cafe
@@ -153,10 +174,10 @@ http://14.102.123.50:5001/live/1322.m3u8
 http://14.102.123.50:9080/play/a04w
 #EXTINF:-1 group-title="English",MOVIES NOW
 http://103.84.57.155:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="English",STAR MOVIES HD
+#EXTINF:-1 group-title="English",StarMovies HD
 http://tv.cloudcdn.me/live.ts?channelId=198&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="English",StarMovies Select HD
-http://103.84.57.155:8000/play/a00w/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="English",&Prive HD
 http://14.102.123.50:5001/live/1349.m3u8
 #EXTINF:-1 group-title="English",MN+ HD
