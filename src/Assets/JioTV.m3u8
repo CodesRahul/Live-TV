@@ -60,7 +60,7 @@ http://14.102.123.50:5001/live/1972.m3u8
 #EXTINF:-1,Star Plus HD
 http://103.84.57.155:8000/play/a080/index.m3u8
 #EXTINF:-1,Star Bharat HD
-http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
+http://103.84.57.155:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors
 http://14.102.123.50:5001/live/1368.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors HD
@@ -83,30 +83,20 @@ http://103.84.57.155:8000/play/a084/index.m3u8
 // Movies
 #EXTINF:-1 group-title="Movies",Star GOLD HD 
 http://103.84.57.155:8000/play/a09m/index.m3u8
-#EXTINF:-1 group-title="Movies",Star GOLD HD 1
-http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
 #EXTINF:-1 group-title="Movies",Star GOLD HD CDN
 http://tv.cloudcdn.me/live.ts?channelId=196&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Movies",Star GOLD SELECT HD
 http://103.84.57.155:8000/play/a09p/index.m3u8
-#EXTINF:-1 group-title="Movies",Star GOLD SELECT HD 1
-http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Thrills
 http://103.84.57.155:8000/play/a0c7/index.m3u8
-
 #EXTINF:-1 group-title="Movies",Star Gold 2
 http://103.84.57.155:8000/play/a0c9/index.m3u8
-
 #EXTINF:-1 group-title="Movies",Star Gold 2 HD
 http://tv.cloudcdn.me/live.ts?channelId=33165&uid=6469&deviceMac=00:1A:79:B7:2F:EA
-
 #EXTINF:-1,Star Gold Romance 
 http://103.84.57.155:8000/play/a0c8/index.m3u8
-
 #EXTINF:-1 group-title="Movies",Sony MAX HD
 http://103.84.57.155:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony MAX HD 1
-http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
 #EXTINF:-1 group-title="Movies",SONY MAX 2
 http://103.84.57.155:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="Movies",Zee Cinema
@@ -137,10 +127,6 @@ http://14.102.123.50:5001/live/1763.m3u8
 http://14.102.123.50:5001/live/482.m3u8
 #EXTINF:-1 group-title="Movies",Colors Cineplex HD
 http://14.102.123.50:5001/live/1477.m3u8
-#EXTINF:-1 group-title="Movies",Miniplex HD
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=224
-#EXTINF:-1 group-title="Movies",TataPlay Bollywood Premium HD
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=222
 #EXTINF:-1,Goldmine Movies
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=217
 #EXTINF:-1,Evergreen Classics
@@ -149,13 +135,10 @@ http://103.84.57.155:8000/play/a0ca/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=152&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Movies",B4U Kadak
 http://14.102.123.50:5001/live/1295.m3u8
-
 #EXTINF:-1 group-title="Movies",Hiff Movies
 http://14.102.123.50:5001/live/3060.m3u8
 #EXTINF:-1 group-title="Movies",NH Studios
 http://14.102.123.50:5001/live/2762.m3u8
-#EXTINF:-1 group-title="Movies", BBO Classic
-http://tv.cloudcdn.me/live.ts?channelId=86150&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
 // English
 #EXTINF:-1 group-title="English",Zee Cafe
@@ -213,8 +196,6 @@ http://14.102.123.50:5001/live/872.m3u8
 #EXTINF:1 group-title="Kids",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_1080.m3u8
 
-
-
 // Information
 #EXTINF:-1 group-title="Information",National Geo HD
 http://103.84.57.155:8000/play/a00x/index.m3u8
@@ -228,6 +209,8 @@ http://14.102.123.50:5001/live/566.m3u8
 http://14.102.123.50:5001/live/575.m3u8
 #EXTINF:-1 group-title="Information",Discovery HD
 http://14.102.123.50:5001/live/463.m3u8
+#EXTINF:-1 group-title="Information",Discovery Science
+http://103.84.57.155:8000/play/a0bw/index.m3u8
 #EXTINF:-1 group-title="Information",Sony BBC EarHD
 http://103.84.57.155:8000/play/a09q/index.m3u8
 #EXTINF:-1 group-title="Information",FOX Life HD
