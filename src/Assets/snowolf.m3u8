@@ -448,7 +448,6 @@ http://119.156.26.155:8000/play/a05v/index.m3u8
 #EXTINF:-1,nick HD+
 http://119.156.26.155:8000/play/a07i/index.m3u8
 
-#EXTM3U
 #EXTINF:-1,&FLIX HD
 http://103.124.251.164:28015/play/a01s/index.m3u8
 #EXTINF:-1,&PICTURES HD
