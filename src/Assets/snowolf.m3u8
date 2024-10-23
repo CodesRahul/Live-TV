@@ -1073,24 +1073,12 @@ https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=12711
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=12718
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HINDI",SWADESH NEWS 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=12725
+
+
 #EXTINF:-1 tvg-id="sports18.in" tvg-logo="" group-title="SPORTS",SPORTS 18 4K 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18739
 #EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="SPORTS",STAR SPORTS 4K UHD hevc 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=909
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",OLYMPICS 4K UHD hevc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48490
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKY SPORTS F1 4K UHD hevc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47868
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKY SPORTS MAIN EVENT 4K UHD hevc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47875
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",5 SPORTS 4K UHD hevc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18930
-#EXTINF:-1 tvg-id="rai1.it" tvg-logo="" group-title="SPORTS",HUB SPORTS PREMIUM 4K UHD hevc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18919
-#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-logo="" group-title="SPORTS",BIG TEN 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13072
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 4K UHD hevc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13037
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-logo="" group-title="SPORTS",EUROSPORTS 1 4K 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=12995
 #EXTINF:-1 tvg-id="eurosport2.uk" tvg-logo="" group-title="SPORTS",EUROSPORTS 2 4K 
@@ -1103,336 +1091,16 @@ https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18728
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13051
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="" group-title="SPORTS",TEN 3 4K (HINDI) 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13058
-#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS OHIO 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18921
-#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS SAN DIEGO 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18941
-#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOCAL 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=955
-#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTH 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4934
-#EXTINF:-1 tvg-id="ballysportssoutheast.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTH EAST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=12925
-#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTH WEST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47896
-#EXTINF:-1 tvg-id="ballysportssun.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS SUN 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47903
-#EXTINF:-1 tvg-id="ballysportswest.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS WEST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47910
-#EXTINF:-1 tvg-id="ballysportswisconsin.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS WINSCONSIN 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47917
-#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS DETRIOT 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13002
-#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS FLORIDA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13016
-#EXTINF:-1 tvg-id="ballysportsgreatlakes.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS GREAT LAKES 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13009
-#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS MIDWEST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13023
-#EXTINF:-1 tvg-id="ballysportsnorth.us" tvg-logo="" group-title="SPORTS",BALLY SPORTS NORTH 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=12961
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",EUROSPORTS INDIA FHD 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=12905
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",RUSH SPORTS 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=796
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",FLOW SPORTS 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=797
-#EXTINF:-1 tvg-id="mavtv.us" tvg-logo="" group-title="SPORTS",MAV TV 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=6310
-#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-logo="" group-title="SPORTS",MSG FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=6105
-#EXTINF:-1 tvg-id="madisonsquaregarden2.us" tvg-logo="" group-title="SPORTS",MSG 2 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=6106
-#EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-logo="" group-title="SPORTS",MSG PLUS FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=6107
-#EXTINF:-1 tvg-id="madisonsquaregardenplussyracuse.us" tvg-logo="" group-title="SPORTS",MSG 2 PLUS FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=6108
-#EXTINF:-1 tvg-id="altitudesport.us" tvg-logo="" group-title="SPORTS",ALTITUDE SPORTS 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8003
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NESN 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=10735
-#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-logo="" group-title="SPORTS",NESN PLUS 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=6087
-#EXTINF:-1 tvg-id="comcastsnynewyorksportsnet.us" tvg-logo="" group-title="SPORTS",SNY FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=6109
-#EXTINF:-1 tvg-id="accnetwork.us" tvg-logo="" group-title="SPORTS",ESPN ACCN 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13665
-#EXTINF:-1 tvg-id="nbcwluc.us" tvg-logo="" group-title="SPORTS",MARQUEE SPORTS NETWORK 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=6099
-#EXTINF:-1 tvg-id="tnt.us" tvg-logo="" group-title="SPORTS",TNT 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4920
-#EXTINF:-1 tvg-id="cbssportsnetwork.us" tvg-logo="" group-title="SPORTS",CBS SPORTS HQ 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=799
-#EXTINF:-1 tvg-id="goltv.us" tvg-logo="" group-title="SPORTS",GOL TV 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=800
-#EXTINF:-1 tvg-id="nbatv.us" tvg-logo="" group-title="SPORTS",NBA TV USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=805
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-logo="" group-title="SPORTS",NBA TV CA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=798
 #EXTINF:-1 tvg-id="starsportsselect1.in" tvg-logo="" group-title="SPORTS",STAR SPORTS SELECT 1 HD 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=801
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="" group-title="SPORTS",STAR SPORTS SELECT 2 4K 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=802
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo="" group-title="SPORTS",SONY SPORTS 5 4K 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=804
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="" group-title="SPORTS",TEN 1 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=808
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="" group-title="SPORTS",TEN 2 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=803
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="" group-title="SPORTS",TEN 3 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=806
-#EXTINF:-1 tvg-id="beinsports.us" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=807
-#EXTINF:-1 tvg-id="beinsport.ca" tvg-logo="" group-title="SPORTS",BEIN SPORTS CANADA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=816
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="" group-title="SPORTS",TSN 1 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=809
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-logo="" group-title="SPORTS",TSN 2 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=810
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-logo="" group-title="SPORTS",TSN 3 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=811
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-logo="" group-title="SPORTS",TSN 4 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=812
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-logo="" group-title="SPORTS",TSN 5 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=815
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-logo="" group-title="SPORTS",SPORTSNET EAST 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=821
-#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-logo="" group-title="SPORTS",SPORTSNET WEST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=837
-#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-logo="" group-title="SPORTS",SPORTSNET PACIFIC 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=818
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-logo="" group-title="SPORTS",SPORTSNET ONE 4K  cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=814
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-logo="" group-title="SPORTS",SPORTSNET ONTARIO 4K  cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=817
-#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-logo="" group-title="SPORTS",SPORTSNET 360 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=813
-#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-logo="" group-title="SPORTS",SPORTSNET WORLD 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=822
-#EXTINF:-1 tvg-id="sportsnetworldplus1.ca" tvg-logo="" group-title="SPORTS",SPORTSNET WORLD 1 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47987
-#EXTINF:-1 tvg-id="sportsnetworldplus2.ca" tvg-logo="" group-title="SPORTS",SPORTSNET WORLD 2 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47994
-#EXTINF:-1 tvg-id="sportsnetworldplus3.ca" tvg-logo="" group-title="SPORTS",SPORTSNET WORLD 3 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48001
-#EXTINF:-1 tvg-id="sportsnetworldplus4.ca" tvg-logo="" group-title="SPORTS",SPORTSNET WORLD 4 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48008
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",REV TV 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8410
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="SPORTS",FOX RACING 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48169
-#EXTINF:-1 tvg-id="espn.us" tvg-logo="" group-title="SPORTS",ESPN 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=819
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",B TV 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=820
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",FNTSY SPORTS NETWORK 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=838
-#EXTINF:-1 tvg-id="fightnetwork.ca" tvg-logo="" group-title="SPORTS",FIGHT NETWORK 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=823
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-logo="" group-title="SPORTS",NFL NETWORK 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=826
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-logo="" group-title="SPORTS",NFL REDZONE 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=824
-#EXTINF:-1 tvg-id="wwe.us" tvg-logo="" group-title="SPORTS",WWE NETWORK 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=827
-#EXTINF:-1 tvg-id="espn.us" tvg-logo="" group-title="SPORTS",ESPN 1 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=828
-#EXTINF:-1 tvg-id="espn2.us" tvg-logo="" group-title="SPORTS",ESPN 2 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=830
-#EXTINF:-1 tvg-id="espnnews.us" tvg-logo="" group-title="SPORTS",ESPN NEWS 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=829
-#EXTINF:-1 tvg-id="espnu.us" tvg-logo="" group-title="SPORTS",ESPN U 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=833
-#EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-logo="" group-title="SPORTS",ESPN LONGHORN NETWORK 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=832
-#EXTINF:-1 tvg-id="secnetwork.us" tvg-logo="" group-title="SPORTS",ESPN SEC NETWORK 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=831
-#EXTINF:-1 tvg-id="cbssportsnetwork.us" tvg-logo="" group-title="SPORTS",CBS SPORTS NETWORK 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=834
-#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-logo="" group-title="SPORTS",NBCSN 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=835
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-logo="" group-title="SPORTS",GOLF CHANNEL CA 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47945
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-logo="" group-title="SPORTS",GOLF CHANNEL US 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=836
-#EXTINF:-1 tvg-id="nbcsportsnorthwest.us" tvg-logo="" group-title="SPORTS",NBC SPORTS CHICAGO+ 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=847
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NBC SPORTS CALIFORNIA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=839
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NBC SPORTS WASHINGTON+ 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=843
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NBC SPORTS NORTHWEST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=841
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NBC SPORTS WASHINGTON 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=842
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NBC SPORTS CHICAGO 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=840
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NBC SPORTS BOSTON 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=845
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NBC SPORTS BAY AREA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=849
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-logo="" group-title="SPORTS",TENNIS CHANNEL 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=846
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",TENNIS CHANNEL 2 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=844
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",TENNIS CHANNEL 3 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=859
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",TENNIS CHANNEL 4 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=848
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",TENNIS CHANNEL 5 4k 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=850
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-logo="" group-title="SPORTS",TNT SPORTS 1 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=853
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-logo="" group-title="SPORTS",TNT SPORTS 2 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=851
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-logo="" group-title="SPORTS",TNT SPORTS 3 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=852
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-logo="" group-title="SPORTS",BT ESPN 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=856
-#EXTINF:-1 tvg-id="elevensports.uk" tvg-logo="" group-title="SPORTS",ELEVEN SPORTS THREE 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=855
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ELEVEN SPORTS 1 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=885
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ELEVEN SPORTS 2 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=884
-#EXTINF:-1 tvg-id="boxnation.uk" tvg-logo="" group-title="SPORTS",BT SPORTS BOX NATION 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=874
-#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-logo="" group-title="SPORTS",BTN 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=857
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET SOUTHWEST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=865
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET PITTSBURGH 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=858
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET ROCKY MOUNTAIN 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=861
-#EXTINF:-1 tvg-id="sportystuff.uk" tvg-logo="" group-title="SPORTS",SPORTY STUFF TV 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7847
-#EXTINF:-1 tvg-id="mutv.uk" tvg-logo="" group-title="SPORTS",MUTV 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7848
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-logo="" group-title="SPORTS",ELEVEN SPORTS 4K UHD hevc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=825
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-logo="" group-title="SPORTS",ESPN DEPORTES 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13561
-#EXTINF:-1 tvg-id="foxcrickethd.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 501 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4210
-#EXTINF:-1 tvg-id="foxleaguehd.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 502 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4211
-#EXTINF:-1 tvg-id="foxsports503hd.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 503 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4212
-#EXTINF:-1 tvg-id="foxfootyhd.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 504 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4213
-#EXTINF:-1 tvg-id="foxsports505hd.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 505 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4214
-#EXTINF:-1 tvg-id="foxsports506hd.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 506 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4215
-#EXTINF:-1 tvg-id="foxsportsmorehd.au" tvg-logo="" group-title="SPORTS",FOX SPORTS 507 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4216
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-logo="" group-title="SPORTS",MLB NETWORK 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7962
-#EXTINF:-1 tvg-id="mlbstrikezone.us" tvg-logo="" group-title="SPORTS",MLB STRIKEZONE 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7963
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS CRICKET HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5009
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS FOOTBALL HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5010
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SUPER SPORTS FOOTBALL PLUS HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5011
-#EXTINF:-1 tvg-id="supersportgolf.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS GOLF HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5012
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS GRANDSTAND HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5013
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS LA LIGA HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5014
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS MAXIMO CHAMPIONSHIP HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5015
-#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS MOTORSPORT HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5016
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS PREMIER LEAGUE HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5017
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS TENNIS HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5018
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS VARIETY 1 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5019
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS VARIETY 2 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=5020
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="" group-title="SPORTS",SUPER SPORTS VARIETY 3 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=933
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SUPER SPORTS VARIETY 4 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=918
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SUPER SPORTS BLITZ HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47833
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SUPER SPORTS PLAY HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47840
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SUPER SPORTS PSL HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47847
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SUPER SPORTS RUGBY HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47854
-#EXTINF:-1 tvg-id="hubsports1.sg" tvg-logo="" group-title="SPORTS",HUB SPORTS 1 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47811
-#EXTINF:-1 tvg-id="hubsports2.sg" tvg-logo="" group-title="SPORTS",HUB SPORTS 2 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47818
-#EXTINF:-1 tvg-id="hubsports3hd.sg" tvg-logo="" group-title="SPORTS",HUB SPORTS 3 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=47825
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 1 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7883
-#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 2 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7884
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 3 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7885
-#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 4 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7886
-#EXTINF:-1 tvg-id="beinsports.us" tvg-logo="" group-title="SPORTS",BEIN SPORTS US 1 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7910
-#EXTINF:-1 tvg-id="beinsportsxtraes.us" tvg-logo="" group-title="SPORTS",BEIN SPORTS ESP 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7911
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-logo="" group-title="SPORTS",BEIN SPORTS CONNECT 3 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=18917
-#EXTINF:-1 tvg-id="beinsports4.us" tvg-logo="" group-title="SPORTS",BEIN SPORTS CONNECT 4 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7912
-#EXTINF:-1 tvg-id="beinsports5.us" tvg-logo="" group-title="SPORTS",BEIN SPORTS CONNECT 5 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7913
-#EXTINF:-1 tvg-id="beinsports6.us" tvg-logo="" group-title="SPORTS",BEIN SPORTS CONNECT 6 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7914
-#EXTINF:-1 tvg-id="beinsports7.us" tvg-logo="" group-title="SPORTS",BEIN SPORTS CONNECT 7 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7915
-#EXTINF:-1 tvg-id="beinsports8.us" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 8 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7916
-#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-logo="" group-title="SPORTS",BEIN SPORTS XTRA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7917
-#EXTINF:-1 tvg-id="motortrend.us" tvg-logo="" group-title="SPORTS",MOTOR TREND 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8481
-#EXTINF:-1 tvg-id="hpitv.ca" tvg-logo="" group-title="SPORTS",HPITV 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48127
-#EXTINF:-1 tvg-id="hpitv.ca" tvg-logo="" group-title="SPORTS",HPITV CAN 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48134
-#EXTINF:-1 tvg-id="hpitv.ca" tvg-logo="" group-title="SPORTS",HPITV WEST 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48148
-#EXTINF:-1 tvg-id="hpitvinternational.ca" tvg-logo="" group-title="SPORTS",HPI INTERNATIONAL 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48141
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY RHYMES HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7843
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CHILLOU 24x7 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=6309
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",PEPPA PIG HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1082
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICK CA 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=6146
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",PAW PATROL HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1083
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",PAW PATROL SERIES HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1084
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY BUS 1 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1085
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",ODDBODS LIVE 2 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1086
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",MIKE & MIA HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1087
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",ODDBODS LIVE 3 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1088
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",P.J MASK LIVE HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1089
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",ODDBODS LIVE HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1090
+
+
 #EXTINF:-1 tvg-id="disneyinternationalhd.in" tvg-logo="" group-title="KIDS",DISNEY INDIA 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1091
 #EXTINF:-1 tvg-id="disneyjunior.in" tvg-logo="" group-title="KIDS",MARVEL HQ 
@@ -1441,244 +1109,23 @@ https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1092
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1093
 #EXTINF:-1 tvg-id="hungama.in" tvg-logo="" group-title="KIDS",HUNGAMA KIDS HD 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1094
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CHU CHU TV HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1095
 #EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="KIDS",ETV BAL BHARAT INDIA 4K 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7906
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY FIRST TV 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1121
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY TV CA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14693
-#EXTINF:-1 tvg-id="teletoon.ca" tvg-logo="" group-title="KIDS",TELETOON WEST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14605
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 1 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8501
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 2 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8505
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 3 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8509
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 4 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8513
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 5 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8517
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 6 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8521
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 7 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8525
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 8 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8529
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 9 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8533
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 10 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8537
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 11 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8541
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 12 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8545
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 13 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8549
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 14 FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8553
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 15 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48176
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 16 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48183
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 17 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48190
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 18 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48197
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 19 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48204
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 20 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48211
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 21 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48218
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 22 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48225
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 23 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48232
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 24 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48239
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 25 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=http://spr3.cloud.xxx-cdn.org:7293/CA-DAZN_25_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 26 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48253
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 27 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48260
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 28 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=http://spr3.cloud.xxx-cdn.org:7293/CA-DAZN_28_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 29 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48274
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 30 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48281
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 31 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48288
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 32 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=http://spr3.cloud.xxx-cdn.org:7293/CA-DAZN_32_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 33 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48302
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 34 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48309
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 35 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48316
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 36 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48323
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 37 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48330
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 38 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48337
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 39 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48344
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 40 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48351
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 41 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48358
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 42 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48365
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 43 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48372
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 44 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48379
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 45 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48386
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 46 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48393
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 47 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48400
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 48 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48407
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 49 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48414
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DAZN & ESPN PPV",DAZN PPV 50 HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48421
-#EXTINF:-1 tvg-id="foxsportsracing.ca" tvg-logo="" group-title="SPORTS",FOX SPORTS RACING 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8485
-#EXTINF:-1 tvg-id="foxsportswestprimeticket.us" tvg-logo="" group-title="SPORTS",FOX SPORTS PRIME TICKET 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=869
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",FOX SPORTSTIME OHIO 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=863
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",FOX SUNSPORTS MIA 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=867
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",FOX SPORTS YES NETWORK 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=868
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",FOX SPORTS OHIO-Z1 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=866
-#EXTINF:-1 tvg-id="foxsportsohiocincinnati.us" tvg-logo="" group-title="SPORTS",FOX SPORTS CINCINNATI 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=871
-#EXTINF:-1 tvg-id="foxsportsarizona.us" tvg-logo="" group-title="SPORTS",FOX SPORTS ARIZONA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=864
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="" group-title="SPORTS",FOX SPORTS 1 USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=873
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-logo="" group-title="SPORTS",FOX SPORTS 2 USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=870
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",FOX COLLEGE SPORTS CENTRAL 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=872
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",FOX COLLEGE SPORTS PACIFIC HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=877
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS NEWS 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4217
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS ACTION 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=875
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS ARENA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=876
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=7887
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS MIX 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=879
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS MAIN EVENT 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=882
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS FOOTBALL 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=899
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS CRICKET 4K* 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=878
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS F1 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=881
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS GOLF 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=901
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS RACING 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=12070
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",UNBEATEN 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=883
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-logo="" group-title="SPORTS",VIA PLAY SPORTS 1 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=913
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",VIA PLAY EXTRA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=917
-#EXTINF:-1 tvg-id="gameplus.ca" tvg-logo="" group-title="ENGLISH CA",GAME PLUS 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48162
-#EXTINF:-1 tvg-id="wild.ca" tvg-logo="" group-title="ENGLISH CA",WILD TV CAN 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48155
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="ENGLISH CA",STAR LIFE FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=48120
-#EXTINF:-1 tvg-id="travelxphd.in" tvg-logo="" group-title="ENGLISH CA",TRAVEL XP FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13553
-#EXTINF:-1 tvg-id="zeecafe.in" tvg-logo="" group-title="ENGLISH CA",ZEE CAFE HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=17
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENGLISH CA",FAITH TV 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14621
-#EXTINF:-1 tvg-id="discoveryturbo.in" tvg-logo="" group-title="ENGLISH CA",DISCOVERY TURBO INDIA 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=126
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENGLISH CA",JOY 10 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14629
-#EXTINF:-1 tvg-id="ctvhalifax.ca" tvg-logo="" group-title="ENGLISH CA",CTV NOVA SCOTIA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14637
-#EXTINF:-1 tvg-id="ctvcomedywest.ca" tvg-logo="" group-title="ENGLISH CA",COMEDY WEST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14645
-#EXTINF:-1 tvg-id="ctvlifechannel.ca" tvg-logo="" group-title="ENGLISH CA",CTV LIFE 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14653
-#EXTINF:-1 tvg-id="makeful.ca" tvg-logo="" group-title="ENGLISH CA",MAKEFUL 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14661
-#EXTINF:-1 tvg-id="citytvwinnipeg.ca" tvg-logo="" group-title="ENGLISH CA",CITY TV WINNIPEG 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14669
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENGLISH CA",PBS 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14677
-#EXTINF:-1 tvg-id="wgncanada.ca" tvg-logo="" group-title="ENGLISH CA",WGN 9 CHICAGO 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=14685
+
 #EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-logo="" group-title="KIDS",CARTOON NETWORK EAST 4K cc 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1124
 #EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-logo="" group-title="KIDS",CARTOON NETWORK WEST 4K cc 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13697
-#EXTINF:-1 tvg-id="ytv.ca" tvg-logo="" group-title="KIDS",YTV EAST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1098
-#EXTINF:-1 tvg-id="ytv.ca" tvg-logo="" group-title="KIDS",YTV WEST 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13641
-#EXTINF:-1 tvg-id="teennick.us" tvg-logo="" group-title="KIDS",TEEN NICK 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8407
-#EXTINF:-1 tvg-id="nickelodeon.us" tvg-logo="" group-title="KIDS",NICKELODEON USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8032
-#EXTINF:-1 tvg-id="familyjr.ca" tvg-logo="" group-title="KIDS",FAMILY JR 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4137
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",FAMILY CHRGD 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=4138
-#EXTINF:-1 tvg-id="tvo.ca" tvg-logo="" group-title="KIDS",TVO KIDS HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1096
-#EXTINF:-1 tvg-id="teletoon.ca" tvg-logo="" group-title="KIDS",TELETOON FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1099
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",FOX BABY TV FHD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1100
+
+
 #EXTINF:-1 tvg-id="disneyxd.ca" tvg-logo="" group-title="KIDS",DISNEY XD 4K cc 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1101
-#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-logo="" group-title="KIDS",DISNEY JR 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1102
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",KIDS 4U SPECIAL HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1103
-#EXTINF:-1 tvg-id="treehouse.ca" tvg-logo="" group-title="KIDS",TREEHOUSE 4K cc 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1104
+
+
 #EXTINF:-1 tvg-id="disneychannel.ca" tvg-logo="" group-title="KIDS",DISNEY CHANNEL 4K 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1105
 #EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-logo="" group-title="KIDS",CARTOON NETWORK 4K cc 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1106
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",RED LITTLE CAR HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1107
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-logo="" group-title="KIDS",DISNEY XD USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1108
-#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-logo="" group-title="KIDS",NICKLODEON 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1109
-#EXTINF:-1 tvg-id="nickjr.us" tvg-logo="" group-title="KIDS",NICK JR USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1111
-#EXTINF:-1 tvg-id="nicktoons.uk" tvg-logo="" group-title="KIDS",NICKTOONS 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1112
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",RTE JUNIOR 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1113
 #EXTINF:-1 tvg-id="nickjunior.uk" tvg-logo="" group-title="KIDS",NICK JR UK HD 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1114
 #EXTINF:-1 tvg-id="cartoonnetwork.in" tvg-logo="" group-title="KIDS",CARTOON NETWORK PLUS HD 
@@ -1691,8 +1138,6 @@ https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1110
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1117
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-logo="" group-title="KIDS",DISCOVERY KIDS INDIA 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1118
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="" group-title="KIDS",DISNEY JR USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1119
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-logo="" group-title="KIDS",DISNEY CHANNEL INDIA 4K 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1097
 #EXTINF:-1 tvg-id="sonyyay.in" tvg-logo="" group-title="KIDS",SONY YAY 
@@ -1703,62 +1148,14 @@ https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=8344
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1122
 #EXTINF:-1 tvg-id="sonicnickelodeon.in" tvg-logo="" group-title="KIDS",SONIC NICKLODEON INDIA HINDI 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1134
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-logo="" group-title="KIDS",DISNEY XD PACIFIC USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1123
-#EXTINF:-1 tvg-id="boomerang.us" tvg-logo="" group-title="KIDS",BOOMERANG 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1125
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY CHANNEL PACIFIC USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1126
-#EXTINF:-1 tvg-id="cartoonito.uk" tvg-logo="" group-title="KIDS",CARTONITO 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1127
-#EXTINF:-1 tvg-id="nickelodeonplus1.uk" tvg-logo="" group-title="KIDS",NICKELODEON UK  PLUS 1 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1128
-#EXTINF:-1 tvg-id="boomerangplus1.uk" tvg-logo="" group-title="KIDS",BOOMERANG  1 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1129
-#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-logo="" group-title="KIDS",CARTOON NETWORK UK HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1130
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="" group-title="KIDS",DISNEY JR PACIFIC USA 4K 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1131
-#EXTINF:-1 tvg-id="boomerang.uk" tvg-logo="" group-title="KIDS",BOOMERANG UK HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1132
-#EXTINF:-1 tvg-id="popplus1.uk" tvg-logo="" group-title="KIDS",POP TV  PLUS 1 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1133
-#EXTINF:-1 tvg-id="disneychannel.uk" tvg-logo="" group-title="KIDS",DISNEY CHANNEL UK HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1135
-#EXTINF:-1 tvg-id="pop.uk" tvg-logo="" group-title="KIDS",POP TV HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1136
-#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-logo="" group-title="KIDS",NICKELODEON UK HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1137
 #EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="KIDS",ETV BAL BHARAT HIN 4K 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1138
-#EXTINF:-1 tvg-id="nickjunior.uk" tvg-logo="" group-title="KIDS",NICK JR UK 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1140
 #EXTINF:-1 tvg-id="nicktoons.uk" tvg-logo="" group-title="KIDS",NICKTOONS HD 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1141
-#EXTINF:-1 tvg-id="cbeebies.uk" tvg-logo="" group-title="KIDS",CBEEBIES UK HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1142
-#EXTINF:-1 tvg-id="tinypop.uk" tvg-logo="" group-title="KIDS",TINY POP UK 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1143
-#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-logo="" group-title="KIDS",NICK JR TOO UK HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1144
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY NURSERY RHYMES 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1145
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",KIDS TV HD 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1146
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",KIDS TOM AND JERRY 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1147
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",PEPPA PIG LIVE 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1148
-#EXTINF:-1 tvg-id="popmax.uk" tvg-logo="" group-title="KIDS",POP MAX UK 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1149
-#EXTINF:-1 tvg-id="babytv.uk" tvg-logo="" group-title="KIDS",BABY TK UK 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1150
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",PJ MASKS 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1151
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",KIDS ZONE 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1152
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",RONGEEN TV 
-https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=12642
 
 #EXTINF:-1 tvg-id="starzcomedy.us" tvg-logo="" group-title="PREMIUM MOVIES",STARZ COMEDY 4K cc 
 https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=1454
