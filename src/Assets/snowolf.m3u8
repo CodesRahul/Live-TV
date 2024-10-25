@@ -44,6 +44,53 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1,SONY PAL
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
+
+///// ZEE /////
+
+#EXTINF:-1,ZEE TV HD
+https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
+
+#EXTINF:-1,ZEE CAFE HD
+https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
+
+#EXTINF:-1,&TV HD
+https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
+
+#EXTINF:-1,ZEE CINEMA HD
+https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+
+#EXTINF:-1,&FLIX HD
+https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
+
+#EXTINF:-1,&PRIVE HD
+https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+
+#EXTINF:-1,& PICTURES HD
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
+
+
+#EXTINF:-1,& XPLORER HD
+https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
+
+#EXTINF:-1,ZEE ACTION CINEMA
+https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+
+#EXTINF:-1,ZEE BOLLYWOOD 
+https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
+
+#EXTINF:-1,ZEE ANMOL CINEMA 
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
+
+#EXTINF:-1,ZEE ANMOL CINEMA 2
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
+
+#EXTINF:-1,ZEE ZEST HD
+https://live.drmlive-02.workers.dev/zee/zee-zest-hd.m3u8
+
+#EXTINF:-1,BIG MAGIC 
+https://live.drmlive-02.workers.dev/zee/big-magic.m3u8
+
+
 #EXTINF:-1,South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
