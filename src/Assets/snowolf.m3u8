@@ -1,46 +1,61 @@
 #EXTM3U
-
 #EXTINF:-1,SONY PIX HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1,SET HD 
-https://dai.google.com/ssai/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#EXTINF:-1,SONY SET HD 
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
 #EXTINF:-1,Sony SAB HD 
-https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
 #EXTINF:-1,Sony PAL 
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
 #EXTINF:-1,Sony YAY 
-https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
 #EXTINF:-1,Sony BBC Earth HD
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
 #EXTINF:-1,Sony Max HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
 #EXTINF:-1,Ten 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
 #EXTINF:-1,Ten 2 HD
 https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
 #EXTINF:-1,Ten 3 HD
 https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
 #EXTINF:-1,Ten 4 HD
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+
 #EXTINF:-1,Ten 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
 #EXTINF:-1,Sony Max 2
-https://dai.google.com/ssai/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+#EXTINF:-1,Sony Wah
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+#EXTINF:-1,SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
 #EXTINF:-1,South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
+
 #EXTINF:-1,Movies Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
-#EXTINF:-1,Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Masti
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
-#EXTINF:-1,MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-
 
 #EXTINF:-1,Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
 #EXTINF:-1,Dangal2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
@@ -48,59 +63,43 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 
 
-
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="goy" tvg-name="movies" tvg-shift="3" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0824b942cecba2886443004138a8e860/en/16x9/640x360/462420fb60c727041533c7a90cea1438_1920x1080.jpg
+#EXTINF:-1 tvg-id="goy" tvg-name="Hindi Movies" tvg-shift="3" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0824b942cecba2886443004138a8e860/en/16x9/640x360/462420fb60c727041533c7a90cea1438_1920x1080.jpg
 " group-title="Hindi Movies",World Famous Lover
-
 https://media-content.akamaized.net/video/aee640270aa2154bdb6cabc91baeb19a/9/hls/h264_high.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="yttt" tvg-shift="2" tvg-logo="https://qqcdnpictest.mxplay.com/pic/51b4d4703538b2f079dc953e42a115a0/en/16x9/640x360/ed0f5615d4077cb8325cbbf11f3b949b_1920x1080.jpg
-" group-title="hindi mmm",Dear Comrade (Hindi Dubbed)
-
+" group-title="Hindi Movies",Dear Comrade
 https://media-content.akamaized.net/video/2434e259c8e9f9838edb2b78ec31b361/10/hls/h264_high.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies",World Famous Lover
-
 https://media-content.akamaized.net/video/aee640270aa2154bdb6cabc91baeb19a/9/hls/h264_high.m3u8
 
-#EXTINF:-1 group-title="Hindi Movies",Dear Comrade (Hindi Dubbed)
-
+#EXTINF:-1 group-title="Hindi Movies",Dear Comrade
 https://media-content.akamaized.net/video/2434e259c8e9f9838edb2b78ec31b361/10/hls/h264_high.m3u8
 
-#EXTINF:-1 group-title="Hindi Movies",Chennai Central (Hindi Dubbed)
-
+#EXTINF:-1 group-title="Hindi Movies",Chennai Central
 https://media-content.akamaized.net/video/992398219257b3726a293ad9ecfb2b97/hls/h264_high.m3u8
 
-#EXTINF:-1 group-title="Hindi Movies",Heart Attack 3 (Hindi Dubbed)
-
+#EXTINF:-1 group-title="Hindi Movies",Heart Attack 3
 https://media-content.akamaized.net/video/5f1847d998bcfedc782444f86023a9a5/hls/h264_baseline.m3u8
 
-#EXTINF:-1 group-title="Hindi Movies",Dwaraka (Hindi Dubbed)
-
+#EXTINF:-1 group-title="Hindi Movies",Dwaraka
 https://media-content.akamaized.net/video/bd793fcb4ab819662baa350bcfd982c2/3/hls/h264_high.m3u8
 
-#EXTINF:-1 group-title="Hindi Movies",Har Din Diwali (Hindi Dubbed)
-
+#EXTINF:-1 group-title="Hindi Movies",Har Din Diwali
 https://media-content.akamaized.net/video/f69f77e0f27431d1185936dcbf0dc927/2/hls/h264_high.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies",Dil Dhadak Dhadak 
-
 https://media-content.akamaized.net/video/cab31ebbe13dde9aa9e50252b6e63532/hls/h264_high.m3u8
 
-#EXTINF:-1 group-title="Hindi Movies",Naaka Bandhi (Hindi Dubbed)
-
+#EXTINF:-1 group-title="Hindi Movies",Naaka Bandhi
 https://media-content.akamaized.net/video/f5e937a032b8c3308f9676f987332164/hls/h264_high.m3u8
 
-#EXTINF:-1 group-title="Hindi Movies",Mega Crocodile (Hindi Dubbed
-
+#EXTINF:-1 group-title="Hindi Movies",Mega Crocodile
 https://media-content.akamaized.net/video/2729fb6a4a98dff0bbd6cc34828ac3e5/hls/h264_high.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies",Jurassic Attack
-
 https://media-content.akamaized.net/video/f08287fca23fa51b6bfe8d3bed2db360/hls/h264_high.m3u8
 
 
