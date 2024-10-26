@@ -1,4 +1,7 @@
 #EXTM3U
+
+//// SONY ////
+
 #EXTINF:-1,SONY PIX HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
@@ -128,47 +131,5 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1,Dangal2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="goy" tvg-name="Hindi Movies" tvg-shift="3" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0824b942cecba2886443004138a8e860/en/16x9/640x360/462420fb60c727041533c7a90cea1438_1920x1080.jpg
-" group-title="Hindi Movies",World Famous Lover
-https://media-content.akamaized.net/video/aee640270aa2154bdb6cabc91baeb19a/9/hls/h264_high.m3u8
-
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="yttt" tvg-shift="2" tvg-logo="https://qqcdnpictest.mxplay.com/pic/51b4d4703538b2f079dc953e42a115a0/en/16x9/640x360/ed0f5615d4077cb8325cbbf11f3b949b_1920x1080.jpg
-" group-title="Hindi Movies",Dear Comrade
-https://media-content.akamaized.net/video/2434e259c8e9f9838edb2b78ec31b361/10/hls/h264_high.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",World Famous Lover
-https://media-content.akamaized.net/video/aee640270aa2154bdb6cabc91baeb19a/9/hls/h264_high.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Dear Comrade
-https://media-content.akamaized.net/video/2434e259c8e9f9838edb2b78ec31b361/10/hls/h264_high.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Chennai Central
-https://media-content.akamaized.net/video/992398219257b3726a293ad9ecfb2b97/hls/h264_high.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Heart Attack 3
-https://media-content.akamaized.net/video/5f1847d998bcfedc782444f86023a9a5/hls/h264_baseline.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Dwaraka
-https://media-content.akamaized.net/video/bd793fcb4ab819662baa350bcfd982c2/3/hls/h264_high.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Har Din Diwali
-https://media-content.akamaized.net/video/f69f77e0f27431d1185936dcbf0dc927/2/hls/h264_high.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Dil Dhadak Dhadak 
-https://media-content.akamaized.net/video/cab31ebbe13dde9aa9e50252b6e63532/hls/h264_high.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Naaka Bandhi
-https://media-content.akamaized.net/video/f5e937a032b8c3308f9676f987332164/hls/h264_high.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Mega Crocodile
-https://media-content.akamaized.net/video/2729fb6a4a98dff0bbd6cc34828ac3e5/hls/h264_high.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Jurassic Attack
-https://media-content.akamaized.net/video/f08287fca23fa51b6bfe8d3bed2db360/hls/h264_high.m3u8
 
 
