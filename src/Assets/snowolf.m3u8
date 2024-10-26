@@ -47,6 +47,22 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 ///// ZEE /////
 
+#EXTINF:-1,ZEE MARATHI 
+https://la.drmlive.au/tp/zee-9z5383486.m3u8
+
+#EXTINF:-1,ZEE MARATHI HD
+https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
+
+
+#EXTINF:-1,ZEE YUVA
+https://la.drmlive.au/tp/zee-zeeyuva.m3u8
+
+#EXTINF:-1,ZEE TALKIES 
+https://la.drmlive.au/tp/zee-9z5383489.m3u8
+
+#EXTINF:-1,ZEE TALKIES HD 
+https://la.drmlive.au/tp/zee-zeetalkies.m3u8
+
 #EXTINF:-1,ZEE TV HD
 https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 
