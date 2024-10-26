@@ -131,5 +131,8 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1,Dangal2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1,ZEE 24 TAAS
+https://la.drmlive.au/tp/zee-zee24taas.m3u8
 
-
+#EXTINF:-1,ZEE NEWS
+https://la.drmlive.au/tp/zee-zeenews.m3u8
