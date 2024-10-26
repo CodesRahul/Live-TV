@@ -74,6 +74,9 @@ https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
 #EXTINF:-1,&TV HD
 https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 
+#EXTINF:-1,ZEE CINEMA
+https://la.drmlive.au/tp/zee-zeecinema.m3u8
+
 #EXTINF:-1,ZEE CINEMA HD
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 
@@ -83,9 +86,11 @@ https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 #EXTINF:-1,&PRIVE HD
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
+#EXTINF:-1,& PICTURES
+https://la.drmlive.au/tp/zee-pictures.m3u8
+
 #EXTINF:-1,& PICTURES HD
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
-
 
 #EXTINF:-1,& XPLORER HD
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
@@ -107,7 +112,6 @@ https://live.drmlive-02.workers.dev/zee/zee-zest-hd.m3u8
 
 #EXTINF:-1,BIG MAGIC 
 https://live.drmlive-02.workers.dev/zee/big-magic.m3u8
-
 
 #EXTINF:-1,South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
