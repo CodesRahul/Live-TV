@@ -269,96 +269,20 @@ https://live.drmlive-02.workers.dev/yupptv/premium/dhoom.m3u8
 #EXTINF:-1 tvg-id="Colors" tvg-name="Colors" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/COLORS_TV-white.png" group-title="Entertainment",Colors
 #https://live.drmlive-02.workers.dev/yupptv/premium/colorsme.m3u8
 
-#EXTINF:-1 tvg-id="Rishtey-AU" tvg-name="Rishtey AU" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Rishtey_APAC_TV_white.png" group-title="Entertainment",Rishtey AU
-https://live.drmlive-02.workers.dev/yupptv/premium/rishteyau.m3u8
-
 #EXTINF:-1 tvg-id="Colors-Cineplex-US" tvg-name="Colors Cineplex USA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Cineplex_TV_white.png" group-title="Movies",Colors Cineplex USA
 https://live.drmlive-02.workers.dev/yupptv/premium/colorscineplexus.m3u8
 
 #EXTINF:-1 tvg-id="MTV-India" tvg-name="MTV India" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/mtv-india-white.png" group-title="Music",MTV India
 #https://live.drmlive-02.workers.dev/yupptv/premium/mtvindia.m3u8
 
-#EXTINF:-1 tvg-id="Colors-Super" tvg-name="Colors Super" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/colors-super-white.png" group-title="Entertainment",Colors Super
-https://live.drmlive-02.workers.dev/yupptv/premium/colorssuper.m3u8
-
-#EXTINF:-1 tvg-id="Hamdard-TV" tvg-name="Hamdard TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/hamdardtv-black.png" group-title="News",Hamdard TV
-https://live.drmlive-02.workers.dev/yupptv/premium/hamdardtv.m3u8
-
-
 #EXTINF:-1 tvg-id="republic-bharat" tvg-name="Republic Bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/R-Bharat-RED.png" tvg-language="Hindi" group-title="NEWS",Republic Bharat
 https://live.drmlive-02.workers.dev/yupptv/fta/republic-bharat.m3u8
+
 #EXTINF:-1 tvg-id="tv9-bharatvarsh" tvg-name="TV9 Bharatvarsh" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TV9-Bharatvarsh_black.png" tvg-language="Hindi" group-title="NEWS",TV9 Bharatvarsh
 https://live.drmlive-02.workers.dev/yupptv/fta/tv9-bharatvarsh.m3u8
+
 #EXTINF:-1 tvg-id="ndtv-india" tvg-name="NDTV INDIA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ndtv-india-white.png" tvg-language="Hindi" group-title="NEWS",NDTV INDIA
 https://live.drmlive-02.workers.dev/yupptv/fta/ndtv-india.m3u8
-#EXTINF:-1 tvg-id="ndtv-rajasthan" tvg-name="NDTV Rajasthan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/NDTV_Rajasthan_TV_black.png" tvg-language="Hindi" group-title="NEWS",NDTV Rajasthan
-https://live.drmlive-02.workers.dev/yupptv/fta/ndtv-rajasthan.m3u8
-#EXTINF:-1 tvg-id="news-nation" tvg-name="News Nation" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/News-Nation_TV_black.png" tvg-language="Hindi" group-title="NEWS",News Nation
-https://live.drmlive-02.workers.dev/yupptv/fta/news-nation.m3u8
-#EXTINF:-1 tvg-id="ndtv-mp" tvg-name="NDTV MP" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/NDTV_MP_black.png" tvg-language="Hindi" group-title="NEWS",NDTV MP
-https://live.drmlive-02.workers.dev/yupptv/fta/ndtv-mp.m3u8
-#EXTINF:-1 tvg-id="news-11-bharat" tvg-name="News 11 Bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/News-11-Bharat_TV_black.png" tvg-language="Hindi" group-title="NEWS",News 11 Bharat
-https://live.drmlive-02.workers.dev/yupptv/fta/news-11-bharat.m3u8
-#EXTINF:-1 tvg-id="inh-24x7" tvg-name="INH 24X7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/INH-24X7_TV_black.png" tvg-language="Hindi" group-title="NEWS",INH 24X7
-https://live.drmlive-02.workers.dev/yupptv/fta/inh-24x7.m3u8
-#EXTINF:-1 tvg-id="bansal-news" tvg-name="Bansal News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Bansal-News_TV_black.png" tvg-language="Hindi" group-title="NEWS",Bansal News
-https://live.drmlive-02.workers.dev/yupptv/fta/bansal-news.m3u8
-#EXTINF:-1 tvg-id="bharat-samachar" tvg-name="Bharat Samachar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Bharat-Samachar_TV_black.png" tvg-language="Hindi" group-title="NEWS",Bharat Samachar
-https://live.drmlive-02.workers.dev/yupptv/fta/bharat-samachar.m3u8
-#EXTINF:-1 tvg-id="kashish-news" tvg-name="Kashish News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Kashish-News_TV_black.png" tvg-language="Hindi" group-title="NEWS",Kashish News
-https://live.drmlive-02.workers.dev/yupptv/fta/kashish-news.m3u8
-#EXTINF:-1 tvg-id="swaraj-express-smbc" tvg-name="Swaraj Express SMBC" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Swaraj-Express-SMBC_TV_black.png" tvg-language="Hindi" group-title="NEWS",Swaraj Express SMBC
-https://live.drmlive-02.workers.dev/yupptv/fta/swaraj-express-smbc.m3u8
-#EXTINF:-1 tvg-id="khabrain-abhi-tak" tvg-name="Khabrain Abhi Tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Khabrain-Abhi-Tak_TV_black.png" tvg-language="Hindi" group-title="NEWS",Khabrain Abhi Tak
-https://live.drmlive-02.workers.dev/yupptv/fta/khabrain-abhi-tak.m3u8
-#EXTINF:-1 tvg-id="hindi-khabar" tvg-name="Hindi Khabar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Hindi-Khabar_TV_black.png" tvg-language="Hindi" group-title="NEWS",Hindi Khabar
-https://live.drmlive-02.workers.dev/yupptv/fta/hindi-khabar.m3u8
-#EXTINF:-1 tvg-id="network-10" tvg-name="Network 10" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Network-10_TV_black.png" tvg-language="Hindi" group-title="NEWS",Network 10
-https://live.drmlive-02.workers.dev/yupptv/fta/network-10.m3u8
-#EXTINF:-1 tvg-id="india-voice" tvg-name="India Voice" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/India-Voice_TV_black.png" tvg-language="Hindi" group-title="NEWS",India Voice
-https://live.drmlive-02.workers.dev/yupptv/fta/india-voice.m3u8
-#EXTINF:-1 tvg-id="apn-news" tvg-name="APN News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/APN-News_TV_black.png" tvg-language="Hindi" group-title="NEWS",APN News
-https://live.drmlive-02.workers.dev/yupptv/fta/apn-news.m3u8
-#EXTINF:-1 tvg-id="sudarshan-news" tvg-name="Sudarshan News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sudarshan-news-black.png" tvg-language="Hindi" group-title="NEWS",Sudarshan News
-https://live.drmlive-02.workers.dev/yupptv/fta/sudarshan-news.m3u8
-#EXTINF:-1 tvg-id="total-tv" tvg-name="Total TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Total-TV_black.png" tvg-language="Hindi" group-title="NEWS",Total TV
-https://live.drmlive-02.workers.dev/yupptv/fta/total-tv.m3u8
-#EXTINF:-1 tvg-id="news-1-india" tvg-name="News 1 India" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/News-1-India_TV_black.png" tvg-language="Hindi" group-title="NEWS",News 1 India
-https://live.drmlive-02.workers.dev/yupptv/fta/news-1-india.m3u8
-#EXTINF:-1 tvg-id="jan-tv" tvg-name="Jan TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Insync_TV_black.png" tvg-language="Hindi" group-title="NEWS",Jan TV
-https://live.drmlive-02.workers.dev/yupptv/fta/jan-tv.m3u8
-#EXTINF:-1 tvg-id="a1-tv" tvg-name="A1 TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/A1-TV_black.png" tvg-language="Hindi" group-title="NEWS",A1 TV
-https://live.drmlive-02.workers.dev/yupptv/fta/a1-tv.m3u8
-#EXTINF:-1 tvg-id="jantantra-tv" tvg-name="Jantantra TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Jantantra-TV_black.png" tvg-language="Hindi" group-title="NEWS",Jantantra TV
-https://live.drmlive-02.workers.dev/yupptv/fta/jantantra-tv.m3u8
-#EXTINF:-1 tvg-id="tv9-news" tvg-name="TV9 News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TV9_Telugu_black_1.png" tvg-language="Telugu" group-title="NEWS",TV9 News
-https://live.drmlive-02.workers.dev/yupptv/fta/tv9-news.m3u8
-#EXTINF:-1 tvg-id="tv5" tvg-name="TV5" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/tv5-black.png" tvg-language="Telugu" group-title="NEWS",TV5
-https://live.drmlive-02.workers.dev/yupptv/fta/tv5.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/N-TV-new-black.png" tvg-language="Telugu" group-title="NEWS",NTV
-https://live.drmlive-02.workers.dev/yupptv/fta/ntv.m3u8
-#EXTINF:-1 tvg-id="big-tv" tvg-name="BIG TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BIG-TV_black.png" tvg-language="Telugu" group-title="NEWS",BIG TV
-https://live.drmlive-02.workers.dev/yupptv/fta/big-tv.m3u8
-#EXTINF:-1 tvg-id="mahaa-tv" tvg-name="Mahaa TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/mahaa-tv-black.png" tvg-language="Telugu" group-title="NEWS",Mahaa TV
-https://live.drmlive-02.workers.dev/yupptv/fta/mahaa-tv.m3u8
-#EXTINF:-1 tvg-id="sakshi-tv" tvg-name="Sakshi TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sakshi-tv-black.png" tvg-language="Telugu" group-title="NEWS",Sakshi TV
-https://live.drmlive-02.workers.dev/yupptv/fta/sakshi-tv.m3u8
-#EXTINF:-1 tvg-id="6tv" tvg-name="6TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Six_TV_512x512.png" tvg-language="Telugu" group-title="NEWS",6TV
-https://live.drmlive-02.workers.dev/yupptv/fta/6tv.m3u8
-#EXTINF:-1 tvg-id="v6-news" tvg-name="V6 News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/v6-news-black.png" tvg-language="Telugu" group-title="NEWS",V6 News
-https://live.drmlive-02.workers.dev/yupptv/fta/v6-news.m3u8
-#EXTINF:-1 tvg-id="cvr-english-news" tvg-name="CVR English News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cvr-english-news-black.png" tvg-language="Telugu" group-title="NEWS",CVR English News
-https://live.drmlive-02.workers.dev/yupptv/fta/cvr-english-news.m3u8
-#EXTINF:-1 tvg-id="t-news" tvg-name="T News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/t-news-black.png" tvg-language="Telugu" group-title="NEWS",T News
-https://live.drmlive-02.workers.dev/yupptv/fta/t-news.m3u8
-#EXTINF:-1 tvg-id="hmtv" tvg-name="HMTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/hmtv-black.png" tvg-language="Telugu" group-title="NEWS",HMTV
-https://live.drmlive-02.workers.dev/yupptv/fta/hmtv.m3u8
-#EXTINF:-1 tvg-id="cvr-news" tvg-name="CVR News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cvr-news-black.png" tvg-language="Telugu" group-title="NEWS",CVR News
-https://live.drmlive-02.workers.dev/yupptv/fta/cvr-news.m3u8
-#EXTINF:-1 tvg-id="inews" tvg-name="iNews" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/inews-black.png" tvg-language="Telugu" group-title="NEWS",iNews
-https://live.drmlive-02.workers.dev/yupptv/fta/inews.m3u8
-#EXTINF:-1 tvg-id="10tv" tvg-name="10TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/10tv-black.png" tvg-language="Telugu" group-title="NEWS",10TV
-https://live.drmlive-02.workers.dev/yupptv/fta/10tv.m3u8
 
 #EXTINF:-1 tvg-id="jai-maharashtra" tvg-name="Jai Maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Jai-Maharashtra_TV_black.png" tvg-language="Marathi" group-title="NEWS",Jai Maharashtra
 https://live.drmlive-02.workers.dev/yupptv/fta/jai-maharashtra.m3u8
@@ -366,16 +290,11 @@ https://live.drmlive-02.workers.dev/yupptv/fta/jai-maharashtra.m3u8
 #EXTINF:-1 tvg-id="tv9-maharashtra" tvg-name="TV9 Maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TV9_Marathi_white_1.png" tvg-language="Marathi" group-title="NEWS",TV9 Maharashtra
 https://live.drmlive-02.workers.dev/yupptv/fta/tv9-maharashtra.m3u8
 
-
-
 #EXTINF:-1 tvg-id="republic-tv" tvg-name="Republic TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Repulic-RED.png" tvg-language="ENG" group-title="NEWS",Republic TV
 https://live.drmlive-02.workers.dev/yupptv/fta/republic-tv.m3u8
 
 #EXTINF:-1 tvg-id="dd-india" tvg-name="DD INDIA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/DDINDIA_TV_black.png" tvg-language="ENG" group-title="NEWS",DD INDIA
 https://live.drmlive-02.workers.dev/yupptv/fta/dd-india.m3u8
-
-#EXTINF:-1 tvg-id="news9live" tvg-name="News9Live" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/News9Live_TV_black.png" tvg-language="ENG" group-title="NEWS",News9Live
-https://live.drmlive-02.workers.dev/yupptv/fta/news9live.m3u8
 
 #EXTINF:-1 tvg-id="ndtv-24x7" tvg-name="NDTV 24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/NDTV-24x7_Black.png" tvg-language="ENG" group-title="NEWS",NDTV 24x7
 https://live.drmlive-02.workers.dev/yupptv/fta/ndtv-24x7.m3u8
@@ -383,31 +302,11 @@ https://live.drmlive-02.workers.dev/yupptv/fta/ndtv-24x7.m3u8
 #EXTINF:-1 tvg-id="ndtv-profit" tvg-name="NDTV Profit" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/NDTV-Profit_TV_black.png" tvg-language="ENG" group-title="NEWS",NDTV Profit
 https://live.drmlive-02.workers.dev/yupptv/fta/ndtv-profit.m3u8
 
-#EXTINF:-1 tvg-id="hornbill-tv" tvg-name="Hornbill TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Hornbill-TV_black.png" tvg-language="ENG" group-title="NEWS",Hornbill TV
-https://live.drmlive-02.workers.dev/yupptv/fta/hornbill-tv.m3u8
-
-#EXTINF:-1 tvg-id="danger-vision-tv" tvg-name="DANGER VISION TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/512X512_balck.png" tvg-language="ENG" group-title="NEWS",DANGER VISION TV
-https://live.drmlive-02.workers.dev/yupptv/fta/danger-vision-tv.m3u8
-
-
-#EXTINF:-1 tvg-id="iit-jee-crash-course" tvg-name="Turito IIT JEE" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Crash_Course_IIT-JEE_TV_black.png" tvg-language="SPO" group-title="Education",Turito IIT JEE
-https://live.drmlive-02.workers.dev/yupptv/fta/iit-jee-crash-course.m3u8
-
-
 #EXTINF:-1 tvg-id="drive-in-movie-channel" tvg-name="DRIVE IN MOVIE CHANNEL" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/drivein_channel_512X512_balck.png" tvg-language="ENG" group-title="MOV",DRIVE IN MOVIE CHANNEL
 https://live.drmlive-02.workers.dev/yupptv/fta/drive-in-movie-channel.m3u8
 
-#EXTINF:-1 tvg-id="tensions-tv" tvg-name="TENSIONS TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/tensiontv_512X512_balck.png" tvg-language="ENG" group-title="MOV",TENSIONS TV
-https://live.drmlive-02.workers.dev/yupptv/fta/tensions-tv.m3u8
-
-#EXTINF:-1 tvg-id="dabangg" tvg-name="Dabangg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Dabangg_TV_black.png" tvg-language="Bhojpuri" group-title="MOV",Dabangg
-https://live.drmlive-02.workers.dev/yupptv/fta/dabangg.m3u8
-
 #EXTINF:-1 tvg-id="bollywood-hungama" tvg-name="Bollywood Hungama" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Bollywood-Hungama_TV_black.png" tvg-language="Hindi" group-title="ENT",Bollywood Hungama
 https://live.drmlive-02.workers.dev/yupptv/fta/bollywood-hungama.m3u8
-
-#EXTINF:-1 tvg-id="anjan-tv" tvg-name="Anjan TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Anjan-TV_black.png" tvg-language="Hindi" group-title="ENT",Anjan TV
-https://live.drmlive-02.workers.dev/yupptv/fta/anjan-tv.m3u8
 
 #EXTINF:-1 tvg-id="bollywood-4u" tvg-name="BOLLYWOOD 4U" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bollywood4u_512X512_balck.png" tvg-language="Hindi" group-title="ENT",BOLLYWOOD 4U
 https://live.drmlive-02.workers.dev/yupptv/fta/bollywood-4u.m3u8
@@ -434,11 +333,6 @@ https://live.drmlive-02.workers.dev/yupptv/fta/kiddo.m3u8
 #EXTINF:-1 tvg-id="love-2-hate-tv" tvg-name="LOVE 2 HATE TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/love2hate_512X512_balck.png" tvg-language="ENG" group-title="ENT",LOVE 2 HATE TV
 https://live.drmlive-02.workers.dev/yupptv/fta/love-2-hate-tv.m3u8
 
-#EXTINF:-1 tvg-id="weshort" tvg-name="WESHORT" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/weshort_512X512_balck.png" tvg-language="ENG" group-title="ENT",WESHORT
-https://live.drmlive-02.workers.dev/yupptv/fta/weshort.m3u8
-
-#EXTINF:-1 tvg-id="heartfelt-tv" tvg-name="HEARTFELT TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/heartfelt_512X512_balck.png" tvg-language="ENG" group-title="ENT",HEARTFELT TV
-https://live.drmlive-02.workers.dev/yupptv/fta/heartfelt-tv.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-tv-classics" tvg-name="CARTOON TV CLASSICS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cartoon_classics_512X512_balck.png" tvg-language="ENG" group-title="ENT",CARTOON TV CLASSICS
 https://live.drmlive-02.workers.dev/yupptv/fta/cartoon-tv-classics.m3u8
