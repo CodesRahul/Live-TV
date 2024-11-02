@@ -269,6 +269,9 @@ https://drmlive.in/discoveryplus/tlc.m3u8
 #EXTINF:-1 tvg-id="605" group-title="Discovery" tvg-logo="", Travel HD
 https://drmlive.in/discoveryplus/travel.m3u8
 
+#EXTINF:-1 tvg-id="603" group-title="Discovery" tvg-logo="", Discovery ID HD
+https://drmlive.in/discoveryplus/discoveryid.m3u8
+
 #EXTINF:-1 tvg-id="605" group-title="Discovery" tvg-logo=" ", HGTV HD
 https://drmlive.in/discoveryplus/hgtv.m3u8
 
