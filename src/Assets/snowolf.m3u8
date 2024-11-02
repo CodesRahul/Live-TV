@@ -246,22 +246,28 @@ https://live.drmlive-02.workers.dev/jc/232.m3u8
 
 //// DISCOVERY ////
 
-#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Discovery Channel 
-https://live.drmlive-02.workers.dev/jc/232.m3u8
+#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="", Discovery Channel 
+https://drmlive.in/discoveryplus/discoveryhd.m3u8
 
-#EXTINF:-1 tvg-id="602" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Animal Planet
-https://live.drmlive-02.workers.dev/jc/232.m3u8
-
-
-#EXTINF:-1 tvg-id="603" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Discovery Science
-https://live.drmlive-02.workers.dev/jc/232.m3u8
-
-#EXTINF:-1 tvg-id="604" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", DMAX
-https://live.drmlive-02.workers.dev/jc/232.m3u8
+#EXTINF:-1 tvg-id="602" group-title="Discovery" tvg-logo="", Animal Planet
+https://drmlive.in/discoveryplus/animalplanet.m3u8
 
 
-#EXTINF:-1 tvg-id="605" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", TLC HD
-https://live.drmlive-02.workers.dev/jc/232.m3u8
+#EXTINF:-1 tvg-id="603" group-title="Discovery" tvg-logo="", Discovery Science
+https://drmlive.in/discoveryplus/discoverysci.m3u8
+
+#EXTINF:-1 tvg-id="604" group-title="Discovery" tvg-logo="", DMAX
+https://drmlive.in/discoveryplus/dmax.m3u8
+
+
+#EXTINF:-1 tvg-id="605" group-title="Discovery" tvg-logo="", TLC HD
+https://drmlive.in/discoveryplus/tlc.m3u8
+
+#EXTINF:-1 tvg-id="605" group-title="Discovery" tvg-logo="", Travel HD
+https://drmlive.in/discoveryplus/travel.m3u8
+
+#EXTINF:-1 tvg-id="605" group-title="Discovery" tvg-logo=" ", HGTV HD
+https://drmlive.in/discoveryplus/hgtv.m3u8
 
 
 
