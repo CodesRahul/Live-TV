@@ -244,6 +244,26 @@ https://live.drmlive-02.workers.dev/jc/492.m3u8
 https://live.drmlive-02.workers.dev/jc/232.m3u8
 
 
+//// DISCOVERY ////
+
+#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Discovery Channel 
+https://live.drmlive-02.workers.dev/jc/232.m3u8
+
+#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Animal Planet
+https://live.drmlive-02.workers.dev/jc/232.m3u8
+
+
+#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Discovery Science
+https://live.drmlive-02.workers.dev/jc/232.m3u8
+
+#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", DMAX
+https://live.drmlive-02.workers.dev/jc/232.m3u8
+
+
+#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", TLC HD
+https://live.drmlive-02.workers.dev/jc/232.m3u8
+
+
 
 //// Other ////
 
