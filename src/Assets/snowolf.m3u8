@@ -256,6 +256,9 @@ https://drmlive.in/discoveryplus/animalplanet.m3u8
 #EXTINF:-1 tvg-id="603" group-title="Discovery" tvg-logo="", Discovery Science
 https://drmlive.in/discoveryplus/discoverysci.m3u8
 
+#EXTINF:-1 tvg-id="603" group-title="Discovery" tvg-logo="", Discovery Kids
+https://drmlive.in/discoveryplus/discoverykids.m3u8
+
 #EXTINF:-1 tvg-id="604" group-title="Discovery" tvg-logo="", DMAX
 https://drmlive.in/discoveryplus/dmax.m3u8
 
