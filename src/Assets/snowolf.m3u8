@@ -249,18 +249,18 @@ https://live.drmlive-02.workers.dev/jc/232.m3u8
 #EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Discovery Channel 
 https://live.drmlive-02.workers.dev/jc/232.m3u8
 
-#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Animal Planet
+#EXTINF:-1 tvg-id="602" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Animal Planet
 https://live.drmlive-02.workers.dev/jc/232.m3u8
 
 
-#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Discovery Science
+#EXTINF:-1 tvg-id="603" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", Discovery Science
 https://live.drmlive-02.workers.dev/jc/232.m3u8
 
-#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", DMAX
+#EXTINF:-1 tvg-id="604" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", DMAX
 https://live.drmlive-02.workers.dev/jc/232.m3u8
 
 
-#EXTINF:-1 tvg-id="601" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", TLC HD
+#EXTINF:-1 tvg-id="605" group-title="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png", TLC HD
 https://live.drmlive-02.workers.dev/jc/232.m3u8
 
 
