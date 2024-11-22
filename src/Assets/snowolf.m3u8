@@ -344,266 +344,269 @@ https://live.drmlive-02.workers.dev/yupptv/fta/maiboli.m3u8
 
 // SONIC PLAYLIST //
 
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Pictures | HD" tvg-logo="" group-title="INDIA",[IN] Pictures | HD
+#EXTINF:-1 tvg-id="" tvg-name="Pictures | HD" tvg-logo="" group-title="INDIA",Pictures | HD
 http://supersonictv.live:8080/976546/188156/85437
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Pictures | SD" tvg-logo="" group-title="INDIA",[IN] Pictures | SD
+#EXTINF:-1 tvg-id="" tvg-name="Pictures | SD" tvg-logo="" group-title="INDIA",Pictures | SD
 http://supersonictv.live:8080/976546/188156/85438
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Salaam" tvg-logo="" group-title="INDIA",[IN] Zee Salaam
+#EXTINF:-1 tvg-id="" tvg-name="Zee Salaam" tvg-logo="" group-title="INDIA",Zee Salaam
 http://supersonictv.live:8080/976546/188156/85439
-#EXTINF:-1 tvg-id="" tvg-name="[IN] And Flix | HD" tvg-logo="" group-title="INDIA",[IN] And Flix | HD
+#EXTINF:-1 tvg-id="" tvg-name="And Flix | HD" tvg-logo="" group-title="INDIA",And Flix | HD
 http://supersonictv.live:8080/976546/188156/85440
-#EXTINF:-1 tvg-id="" tvg-name="[IN] And Flix" tvg-logo="" group-title="INDIA",[IN] And Flix
+#EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="" group-title="INDIA",And Flix
 http://supersonictv.live:8080/976546/188156/85441
-#EXTINF:-1 tvg-id="" tvg-name="[IN] And Prive HD" tvg-logo="" group-title="INDIA",[IN] And Prive HD
+#EXTINF:-1 tvg-id="" tvg-name="And Prive HD" tvg-logo="" group-title="INDIA",And Prive HD
 http://supersonictv.live:8080/976546/188156/85442
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Classic" tvg-logo="" group-title="INDIA",[IN] Zee Classic
+#EXTINF:-1 tvg-id="" tvg-name="Zee Classic" tvg-logo="" group-title="INDIA",Zee Classic
 http://supersonictv.live:8080/976546/188156/85443
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Tv | SD" tvg-logo="" group-title="INDIA",[IN] Zee Tv | SD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tv | SD" tvg-logo="" group-title="INDIA",Zee Tv | SD
 http://supersonictv.live:8080/976546/188156/85444
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Cinema | SD" tvg-logo="" group-title="INDIA",[IN] Zee Cinema | SD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema | SD" tvg-logo="" group-title="INDIA",Zee Cinema | SD
 http://supersonictv.live:8080/976546/188156/85445
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Cinema | HD" tvg-logo="" group-title="INDIA",[IN] Zee Cinema | HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema | HD" tvg-logo="" group-title="INDIA",Zee Cinema | HD
 http://supersonictv.live:8080/976546/188156/85446
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Cinemalu | SD" tvg-logo="" group-title="INDIA",[IN] Zee Cinemalu | SD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinemalu | SD" tvg-logo="" group-title="INDIA",Zee Cinemalu | SD
 http://supersonictv.live:8080/976546/188156/85447
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Cafe | SD" tvg-logo="" group-title="INDIA",[IN] Zee Cafe | SD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe | SD" tvg-logo="" group-title="INDIA",Zee Cafe | SD
 http://supersonictv.live:8080/976546/188156/85448
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD India" tvg-logo="" group-title="INDIA",[IN] DD India
+#EXTINF:-1 tvg-id="" tvg-name="DD India" tvg-logo="" group-title="INDIA",DD India
 http://supersonictv.live:8080/976546/188156/85449
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD News" tvg-logo="" group-title="INDIA",[IN] DD News
+#EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="" group-title="INDIA",DD News
 http://supersonictv.live:8080/976546/188156/85450
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee news" tvg-logo="" group-title="INDIA",[IN] Zee news
+#EXTINF:-1 tvg-id="" tvg-name="Zee news" tvg-logo="" group-title="INDIA",Zee news
 http://supersonictv.live:8080/976546/188156/85451
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Tv | HD" tvg-logo="" group-title="INDIA",[IN] Zee Tv | HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tv | HD" tvg-logo="" group-title="INDIA",Zee Tv | HD
 http://supersonictv.live:8080/976546/188156/85452
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Cafe | HD" tvg-logo="" group-title="INDIA",[IN] Zee Cafe | HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe | HD" tvg-logo="" group-title="INDIA",Zee Cafe | HD
 http://supersonictv.live:8080/976546/188156/85453
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee anmol" tvg-logo="" group-title="INDIA",[IN] Zee anmol
+#EXTINF:-1 tvg-id="" tvg-name="Zee anmol" tvg-logo="" group-title="INDIA",Zee anmol
 http://supersonictv.live:8080/976546/188156/85454
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zing" tvg-logo="" group-title="INDIA",[IN] Zing
+#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="" group-title="INDIA",Zing
 http://supersonictv.live:8080/976546/188156/85455
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Magic" tvg-logo="" group-title="INDIA",[IN] Zee Magic
+#EXTINF:-1 tvg-id="" tvg-name="Zee Magic" tvg-logo="" group-title="INDIA",Zee Magic
 http://supersonictv.live:8080/976546/188156/85456
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Marati | HD" tvg-logo="" group-title="INDIA",[IN] Zee Marati | HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Marati | HD" tvg-logo="" group-title="INDIA",Zee Marati | HD
 http://supersonictv.live:8080/976546/188156/85457
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Yuva" tvg-logo="" group-title="INDIA",[IN] Zee Yuva
+#EXTINF:-1 tvg-id="" tvg-name="Zee Yuva" tvg-logo="" group-title="INDIA",Zee Yuva
 http://supersonictv.live:8080/976546/188156/85458
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Living Foodz" tvg-logo="" group-title="INDIA",[IN] Living Foodz
+#EXTINF:-1 tvg-id="" tvg-name="Living Foodz" tvg-logo="" group-title="INDIA",Living Foodz
 http://supersonictv.live:8080/976546/188156/85459
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Action | HD" tvg-logo="" group-title="INDIA",[IN] Zee Action | HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action | HD" tvg-logo="" group-title="INDIA",Zee Action | HD
 http://supersonictv.live:8080/976546/188156/85460
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Bangla | SD" tvg-logo="" group-title="INDIA",[IN] Zee Bangla | SD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla | SD" tvg-logo="" group-title="INDIA",Zee Bangla | SD
 http://supersonictv.live:8080/976546/188156/85461
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Bangla | HD" tvg-logo="" group-title="INDIA",[IN] Zee Bangla | HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla | HD" tvg-logo="" group-title="INDIA",Zee Bangla | HD
 http://supersonictv.live:8080/976546/188156/85462
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Punjabi" tvg-logo="" group-title="INDIA",[IN] Zee Punjabi
+#EXTINF:-1 tvg-id="" tvg-name="Zee Punjabi" tvg-logo="" group-title="INDIA",Zee Punjabi
 http://supersonictv.live:8080/976546/188156/85463
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Tamil" tvg-logo="" group-title="INDIA",[IN] Zee Tamil
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tamil" tvg-logo="" group-title="INDIA",Zee Tamil
 http://supersonictv.live:8080/976546/188156/85464
-#EXTINF:-1 tvg-id="" tvg-name="[IN] 9xo music (English)" tvg-logo="" group-title="INDIA",[IN] 9xo music (English)
+#EXTINF:-1 tvg-id="" tvg-name="9xo music (English)" tvg-logo="" group-title="INDIA",9xo music (English)
 http://supersonictv.live:8080/976546/188156/85465
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee 24 Taas (Marathi)" tvg-logo="" group-title="INDIA",[IN] Zee 24 Taas (Marathi)
+#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Taas (Marathi)" tvg-logo="" group-title="INDIA",Zee 24 Taas (Marathi)
 http://supersonictv.live:8080/976546/188156/85466
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee 24 Kalak (Gujarati)" tvg-logo="" group-title="INDIA",[IN] Zee 24 Kalak (Gujarati)
+#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Kalak (Gujarati)" tvg-logo="" group-title="INDIA",Zee 24 Kalak (Gujarati)
 http://supersonictv.live:8080/976546/188156/85467
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Business" tvg-logo="" group-title="INDIA",[IN] Zee Business
+#EXTINF:-1 tvg-id="" tvg-name="Zee Business" tvg-logo="" group-title="INDIA",Zee Business
 http://supersonictv.live:8080/976546/188156/85468
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Hindustan" tvg-logo="" group-title="INDIA",[IN] Zee Hindustan
+#EXTINF:-1 tvg-id="" tvg-name="Zee Hindustan" tvg-logo="" group-title="INDIA",Zee Hindustan
 http://supersonictv.live:8080/976546/188156/85469
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee TALKIES MARATHI" tvg-logo="" group-title="INDIA",[IN] Zee TALKIES MARATHI
+#EXTINF:-1 tvg-id="" tvg-name="Zee TALKIES MARATHI" tvg-logo="" group-title="INDIA",Zee TALKIES MARATHI
 http://supersonictv.live:8080/976546/188156/85470
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Sarthak TV" tvg-logo="" group-title="INDIA",[IN] Zee Sarthak TV
+#EXTINF:-1 tvg-id="" tvg-name="Zee Sarthak TV" tvg-logo="" group-title="INDIA",Zee Sarthak TV
 http://supersonictv.live:8080/976546/188156/85471
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Talkies | HD" tvg-logo="" group-title="INDIA",[IN] Zee Talkies | HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Talkies | HD" tvg-logo="" group-title="INDIA",Zee Talkies | HD
 http://supersonictv.live:8080/976546/188156/85472
-#EXTINF:-1 tvg-id="" tvg-name="[IN] & TV | SD" tvg-logo="" group-title="INDIA",[IN] & TV | SD
+#EXTINF:-1 tvg-id="" tvg-name="& TV | SD" tvg-logo="" group-title="INDIA",& TV | SD
 http://supersonictv.live:8080/976546/188156/85473
-#EXTINF:-1 tvg-id="" tvg-name="[IN] & TV | HD" tvg-logo="" group-title="INDIA",[IN] & TV | HD
+#EXTINF:-1 tvg-id="" tvg-name="& TV | HD" tvg-logo="" group-title="INDIA",& TV | HD
 http://supersonictv.live:8080/976546/188156/85474
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Aaj Tak | HD" tvg-logo="" group-title="INDIA",[IN] Aaj Tak | HD
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Tak | HD" tvg-logo="" group-title="INDIA",Aaj Tak | HD
 http://supersonictv.live:8080/976546/188156/85475
-#EXTINF:-1 tvg-id="" tvg-name="[IN] BBC World News| HD" tvg-logo="" group-title="INDIA",[IN] BBC World News| HD
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News| HD" tvg-logo="" group-title="INDIA",BBC World News| HD
 http://supersonictv.live:8080/976546/188156/85476
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD Bangla" tvg-logo="" group-title="INDIA",[IN] DD Bangla
+#EXTINF:-1 tvg-id="" tvg-name="DD Bangla" tvg-logo="" group-title="INDIA",DD Bangla
 http://supersonictv.live:8080/976546/188156/85477
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD Bihar" tvg-logo="" group-title="INDIA",[IN] DD Bihar
+#EXTINF:-1 tvg-id="" tvg-name="DD Bihar" tvg-logo="" group-title="INDIA",DD Bihar
 http://supersonictv.live:8080/976546/188156/85478
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD Girnar" tvg-logo="" group-title="INDIA",[IN] DD Girnar
+#EXTINF:-1 tvg-id="" tvg-name="DD Girnar" tvg-logo="" group-title="INDIA",DD Girnar
 http://supersonictv.live:8080/976546/188156/85479
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD Kisan" tvg-logo="" group-title="INDIA",[IN] DD Kisan
+#EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="" group-title="INDIA",DD Kisan
 http://supersonictv.live:8080/976546/188156/85480
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD Malayalam" tvg-logo="" group-title="INDIA",[IN] DD Malayalam
+#EXTINF:-1 tvg-id="" tvg-name="DD Malayalam" tvg-logo="" group-title="INDIA",DD Malayalam
 http://supersonictv.live:8080/976546/188156/85481
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD Punjabi" tvg-logo="" group-title="INDIA",[IN] DD Punjabi
+#EXTINF:-1 tvg-id="" tvg-name="DD Punjabi" tvg-logo="" group-title="INDIA",DD Punjabi
 http://supersonictv.live:8080/976546/188156/85482
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD Odia" tvg-logo="" group-title="INDIA",[IN] DD Odia
+#EXTINF:-1 tvg-id="" tvg-name="DD Odia" tvg-logo="" group-title="INDIA",DD Odia
 http://supersonictv.live:8080/976546/188156/85483
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD Sahyadri" tvg-logo="" group-title="INDIA",[IN] DD Sahyadri
+#EXTINF:-1 tvg-id="" tvg-name="DD Sahyadri" tvg-logo="" group-title="INDIA",DD Sahyadri
 http://supersonictv.live:8080/976546/188156/85484
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DD Yadagiri" tvg-logo="" group-title="INDIA",[IN] DD Yadagiri
+#EXTINF:-1 tvg-id="" tvg-name="DD Yadagiri" tvg-logo="" group-title="INDIA",DD Yadagiri
 http://supersonictv.live:8080/976546/188156/85485
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Divya TV (Hindi)" tvg-logo="" group-title="INDIA",[IN] Divya TV (Hindi)
+#EXTINF:-1 tvg-id="" tvg-name="Divya TV (Hindi)" tvg-logo="" group-title="INDIA",Divya TV (Hindi)
 http://supersonictv.live:8080/976546/188156/85486
-#EXTINF:-1 tvg-id="" tvg-name="[IN] EZ mall (Hindi)" tvg-logo="" group-title="INDIA",[IN] EZ mall (Hindi)
+#EXTINF:-1 tvg-id="" tvg-name="EZ mall (Hindi)" tvg-logo="" group-title="INDIA",EZ mall (Hindi)
 http://supersonictv.live:8080/976546/188156/85487
-#EXTINF:-1 tvg-id="" tvg-name="[IN] India TV News (English)" tvg-logo="" group-title="INDIA",[IN] India TV News (English)
+#EXTINF:-1 tvg-id="" tvg-name="India TV News (English)" tvg-logo="" group-title="INDIA",India TV News (English)
 http://supersonictv.live:8080/976546/188156/85488
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Makkal TV (Tamil)" tvg-logo="" group-title="INDIA",[IN] Makkal TV (Tamil)
+#EXTINF:-1 tvg-id="" tvg-name="Makkal TV (Tamil)" tvg-logo="" group-title="INDIA",Makkal TV (Tamil)
 http://supersonictv.live:8080/976546/188156/85489
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Sanskar Tv (Hindi)" tvg-logo="" group-title="INDIA",[IN] Sanskar Tv (Hindi)
+#EXTINF:-1 tvg-id="" tvg-name="Sanskar Tv (Hindi)" tvg-logo="" group-title="INDIA",Sanskar Tv (Hindi)
 http://supersonictv.live:8080/976546/188156/85490
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Wion (English)" tvg-logo="" group-title="INDIA",[IN] Wion (English)
+#EXTINF:-1 tvg-id="" tvg-name="Wion (English)" tvg-logo="" group-title="INDIA",Wion (English)
 http://supersonictv.live:8080/976546/188156/85491
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee 24 Ghanta (Bangla)" tvg-logo="" group-title="INDIA",[IN] Zee 24 Ghanta (Bangla)
+#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Ghanta (Bangla)" tvg-logo="" group-title="INDIA",Zee 24 Ghanta (Bangla)
 http://supersonictv.live:8080/976546/188156/85492
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Etc (Hindi)" tvg-logo="" group-title="INDIA",[IN] Zee Etc (Hindi)
+#EXTINF:-1 tvg-id="" tvg-name="Zee Etc (Hindi)" tvg-logo="" group-title="INDIA",Zee Etc (Hindi)
 http://supersonictv.live:8080/976546/188156/85493
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Talkies | SD (Marathi)" tvg-logo="" group-title="INDIA",[IN] Zee Talkies | SD (Marathi)
+#EXTINF:-1 tvg-id="" tvg-name="Zee Talkies | SD (Marathi)" tvg-logo="" group-title="INDIA",Zee Talkies | SD (Marathi)
 http://supersonictv.live:8080/976546/188156/85494
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee News UP UK (Hindi)" tvg-logo="" group-title="INDIA",[IN] Zee News UP UK (Hindi)
+#EXTINF:-1 tvg-id="" tvg-name="Zee News UP UK (Hindi)" tvg-logo="" group-title="INDIA",Zee News UP UK (Hindi)
 http://supersonictv.live:8080/976546/188156/85495
-#EXTINF:-1 tvg-id="" tvg-name="[IN] A Plus | SD" tvg-logo="" group-title="INDIA",[IN] A Plus | SD
+#EXTINF:-1 tvg-id="" tvg-name="A Plus | SD" tvg-logo="" group-title="INDIA",A Plus | SD
 http://supersonictv.live:8080/976546/188156/85496
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Atv | SD" tvg-logo="" group-title="INDIA",[IN] Atv | SD
+#EXTINF:-1 tvg-id="" tvg-name="Atv | SD" tvg-logo="" group-title="INDIA",Atv | SD
 http://supersonictv.live:8080/976546/188156/85497
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Express ent | SD" tvg-logo="" group-title="INDIA",[IN] Express ent | SD
+#EXTINF:-1 tvg-id="" tvg-name="Express ent | SD" tvg-logo="" group-title="INDIA",Express ent | SD
 http://supersonictv.live:8080/976546/188156/85498
-#EXTINF:-1 tvg-id="" tvg-name="[IN] AAJ ENTERTAINMENT  | SD" tvg-logo="" group-title="INDIA",[IN] AAJ ENTERTAINMENT  | SD
+#EXTINF:-1 tvg-id="" tvg-name="AAJ ENTERTAINMENT  | SD" tvg-logo="" group-title="INDIA",AAJ ENTERTAINMENT  | SD
 http://supersonictv.live:8080/976546/188156/85499
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Aaj News | SD" tvg-logo="" group-title="INDIA",[IN] Aaj News | SD
+#EXTINF:-1 tvg-id="" tvg-name="Aaj News | SD" tvg-logo="" group-title="INDIA",Aaj News | SD
 http://supersonictv.live:8080/976546/188156/85500
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Samaa | SD" tvg-logo="" group-title="INDIA",[IN] Samaa | SD
+#EXTINF:-1 tvg-id="" tvg-name="Samaa | SD" tvg-logo="" group-title="INDIA",Samaa | SD
 http://supersonictv.live:8080/976546/188156/85501
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Dawn News | SD" tvg-logo="" group-title="INDIA",[IN] Dawn News | SD
+#EXTINF:-1 tvg-id="" tvg-name="Dawn News | SD" tvg-logo="" group-title="INDIA",Dawn News | SD
 http://supersonictv.live:8080/976546/188156/85502
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Express News | SD" tvg-logo="" group-title="INDIA",[IN] Express News | SD
+#EXTINF:-1 tvg-id="" tvg-name="Express News | SD" tvg-logo="" group-title="INDIA",Express News | SD
 http://supersonictv.live:8080/976546/188156/85503
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Ary News wd | SD" tvg-logo="" group-title="INDIA",[IN] Ary News wd | SD
+#EXTINF:-1 tvg-id="" tvg-name="Ary News wd | SD" tvg-logo="" group-title="INDIA",Ary News wd | SD
 http://supersonictv.live:8080/976546/188156/85504
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Ary Zindagi | SD" tvg-logo="" group-title="INDIA",[IN] Ary Zindagi | SD
+#EXTINF:-1 tvg-id="" tvg-name="Ary Zindagi | SD" tvg-logo="" group-title="INDIA",Ary Zindagi | SD
 http://supersonictv.live:8080/976546/188156/85505
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Aryd World | SD" tvg-logo="" group-title="INDIA",[IN] Aryd World | SD
+#EXTINF:-1 tvg-id="" tvg-name="Aryd World | SD" tvg-logo="" group-title="INDIA",Aryd World | SD
 http://supersonictv.live:8080/976546/188156/85506
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Film World | SD" tvg-logo="" group-title="INDIA",[IN] Film World | SD
+#EXTINF:-1 tvg-id="" tvg-name="Film World | SD" tvg-logo="" group-title="INDIA",Film World | SD
 http://supersonictv.live:8080/976546/188156/85507
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Manoranjan | SD" tvg-logo="" group-title="INDIA",[IN] Manoranjan | SD
+#EXTINF:-1 tvg-id="" tvg-name="Manoranjan | SD" tvg-logo="" group-title="INDIA",Manoranjan | SD
 http://supersonictv.live:8080/976546/188156/85508
-#EXTINF:-1 tvg-id="" tvg-name="[IN] BOL NEWS FHD" tvg-logo="" group-title="INDIA",[IN] BOL NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="BOL NEWS FHD" tvg-logo="" group-title="INDIA",BOL NEWS FHD
 http://supersonictv.live:8080/976546/188156/85509
-#EXTINF:-1 tvg-id="" tvg-name="[IN] ARY World UK" tvg-logo="" group-title="INDIA",[IN] ARY World UK
+#EXTINF:-1 tvg-id="" tvg-name="ARY World UK" tvg-logo="" group-title="INDIA",ARY World UK
 http://supersonictv.live:8080/976546/188156/85510
-#EXTINF:-1 tvg-id="" tvg-name="[IN] ARY NEWS HD" tvg-logo="" group-title="INDIA",[IN] ARY NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="ARY NEWS HD" tvg-logo="" group-title="INDIA",ARY NEWS HD
 http://supersonictv.live:8080/976546/188156/85511
-#EXTINF:-1 tvg-id="" tvg-name="[IN] GEO NEWS" tvg-logo="" group-title="INDIA",[IN] GEO NEWS
+#EXTINF:-1 tvg-id="" tvg-name="GEO NEWS" tvg-logo="" group-title="INDIA",GEO NEWS
 http://supersonictv.live:8080/976546/188156/85512
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Geo Tez" tvg-logo="" group-title="INDIA",[IN] Geo Tez
+#EXTINF:-1 tvg-id="" tvg-name="Geo Tez" tvg-logo="" group-title="INDIA",Geo Tez
 http://supersonictv.live:8080/976546/188156/85513
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Dunya News" tvg-logo="" group-title="INDIA",[IN] Dunya News
+#EXTINF:-1 tvg-id="" tvg-name="Dunya News" tvg-logo="" group-title="INDIA",Dunya News
 http://supersonictv.live:8080/976546/188156/85514
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Samaa News" tvg-logo="" group-title="INDIA",[IN] Samaa News
+#EXTINF:-1 tvg-id="" tvg-name="Samaa News" tvg-logo="" group-title="INDIA",Samaa News
 http://supersonictv.live:8080/976546/188156/85515
-#EXTINF:-1 tvg-id="" tvg-name="[IN] EXPRESS NEWS HD" tvg-logo="" group-title="INDIA",[IN] EXPRESS NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="EXPRESS NEWS HD" tvg-logo="" group-title="INDIA",EXPRESS NEWS HD
 http://supersonictv.live:8080/976546/188156/85516
-#EXTINF:-1 tvg-id="" tvg-name="[IN] NEWS 24 HD" tvg-logo="" group-title="INDIA",[IN] NEWS 24 HD
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24 HD" tvg-logo="" group-title="INDIA",NEWS 24 HD
 http://supersonictv.live:8080/976546/188156/85517
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Channel 44 UK" tvg-logo="" group-title="INDIA",[IN] Channel 44 UK
+#EXTINF:-1 tvg-id="" tvg-name="Channel 44 UK" tvg-logo="" group-title="INDIA",Channel 44 UK
 http://supersonictv.live:8080/976546/188156/85518
-#EXTINF:-1 tvg-id="" tvg-name="[IN] DIN NEWS HD" tvg-logo="" group-title="INDIA",[IN] DIN NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="DIN NEWS HD" tvg-logo="" group-title="INDIA",DIN NEWS HD
 http://supersonictv.live:8080/976546/188156/85519
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Roze News" tvg-logo="" group-title="INDIA",[IN] Roze News
+#EXTINF:-1 tvg-id="" tvg-name="Roze News" tvg-logo="" group-title="INDIA",Roze News
 http://supersonictv.live:8080/976546/188156/85520
-#EXTINF:-1 tvg-id="" tvg-name="[IN] News One HD" tvg-logo="" group-title="INDIA",[IN] News One HD
+#EXTINF:-1 tvg-id="" tvg-name="News One HD" tvg-logo="" group-title="INDIA",News One HD
 http://supersonictv.live:8080/976546/188156/85521
-#EXTINF:-1 tvg-id="" tvg-name="[IN] A Plus" tvg-logo="" group-title="INDIA",[IN] A Plus
+#EXTINF:-1 tvg-id="" tvg-name="A Plus" tvg-logo="" group-title="INDIA",A Plus
 http://supersonictv.live:8080/976546/188156/85522
-#EXTINF:-1 tvg-id="" tvg-name="[IN] TV One" tvg-logo="" group-title="INDIA",[IN] TV One
+#EXTINF:-1 tvg-id="" tvg-name="TV One" tvg-logo="" group-title="INDIA",TV One
 http://supersonictv.live:8080/976546/188156/85523
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Geo Entertainment" tvg-logo="" group-title="INDIA",[IN] Geo Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="Geo Entertainment" tvg-logo="" group-title="INDIA",Geo Entertainment
 http://supersonictv.live:8080/976546/188156/85524
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Geo TV" tvg-logo="" group-title="INDIA",[IN] Geo TV
+#EXTINF:-1 tvg-id="" tvg-name="Geo TV" tvg-logo="" group-title="INDIA",Geo TV
 http://supersonictv.live:8080/976546/188156/85525
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Geo Kahani" tvg-logo="" group-title="INDIA",[IN] Geo Kahani
+#EXTINF:-1 tvg-id="" tvg-name="Geo Kahani" tvg-logo="" group-title="INDIA",Geo Kahani
 http://supersonictv.live:8080/976546/188156/85526
-#EXTINF:-1 tvg-id="" tvg-name="[IN] AAJ ENTERTAINMENT" tvg-logo="" group-title="INDIA",[IN] AAJ ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="AAJ ENTERTAINMENT" tvg-logo="" group-title="INDIA",AAJ ENTERTAINMENT
 http://supersonictv.live:8080/976546/188156/85527
-#EXTINF:-1 tvg-id="" tvg-name="[IN] QURAN TV" tvg-logo="" group-title="INDIA",[IN] QURAN TV
+#EXTINF:-1 tvg-id="" tvg-name="QURAN TV" tvg-logo="" group-title="INDIA",QURAN TV
 http://supersonictv.live:8080/976546/188156/85528
-#EXTINF:-1 tvg-id="" tvg-name="[IN] PTV Home" tvg-logo="" group-title="INDIA",[IN] PTV Home
+#EXTINF:-1 tvg-id="" tvg-name="PTV Home" tvg-logo="" group-title="INDIA",PTV Home
 http://supersonictv.live:8080/976546/188156/85529
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Venus TV HD" tvg-logo="" group-title="INDIA",[IN] Venus TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Venus TV HD" tvg-logo="" group-title="INDIA",Venus TV HD
 http://supersonictv.live:8080/976546/188156/85530
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Kay2 TV" tvg-logo="" group-title="INDIA",[IN] Kay2 TV
+#EXTINF:-1 tvg-id="" tvg-name="Kay2 TV" tvg-logo="" group-title="INDIA",Kay2 TV
 http://supersonictv.live:8080/976546/188156/85531
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Joo Music" tvg-logo="" group-title="INDIA",[IN] Joo Music
+#EXTINF:-1 tvg-id="" tvg-name="Joo Music" tvg-logo="" group-title="INDIA",Joo Music
 http://supersonictv.live:8080/976546/188156/85532
-#EXTINF:-1 tvg-id="" tvg-name="[IN] AVT KHYBER" tvg-logo="" group-title="INDIA",[IN] AVT KHYBER
+#EXTINF:-1 tvg-id="" tvg-name="AVT KHYBER" tvg-logo="" group-title="INDIA",AVT KHYBER
 http://supersonictv.live:8080/976546/188156/85533
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Geo Super" tvg-logo="" group-title="INDIA",[IN] Geo Super
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="" group-title="INDIA",Geo Super
 http://supersonictv.live:8080/976546/188156/85534
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Makkah Live HD" tvg-logo="" group-title="INDIA",[IN] Makkah Live HD
+#EXTINF:-1 tvg-id="" tvg-name="Makkah Live HD" tvg-logo="" group-title="INDIA",Makkah Live HD
 http://supersonictv.live:8080/976546/188156/85535
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Madinah Live HD" tvg-logo="" group-title="INDIA",[IN] Madinah Live HD
+#EXTINF:-1 tvg-id="" tvg-name="Madinah Live HD" tvg-logo="" group-title="INDIA",Madinah Live HD
 http://supersonictv.live:8080/976546/188156/85536
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Quran TV" tvg-logo="" group-title="INDIA",[IN] Quran TV
+#EXTINF:-1 tvg-id="" tvg-name="Quran TV" tvg-logo="" group-title="INDIA",Quran TV
 http://supersonictv.live:8080/976546/188156/85537
-#EXTINF:-1 tvg-id="" tvg-name="[IN] ARY QTV" tvg-logo="" group-title="INDIA",[IN] ARY QTV
+#EXTINF:-1 tvg-id="" tvg-name="ARY QTV" tvg-logo="" group-title="INDIA",ARY QTV
 http://supersonictv.live:8080/976546/188156/85538
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Minhaj TV" tvg-logo="" group-title="INDIA",[IN] Minhaj TV
+#EXTINF:-1 tvg-id="" tvg-name="Minhaj TV" tvg-logo="" group-title="INDIA",Minhaj TV
 http://supersonictv.live:8080/976546/188156/85539
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Madani Channel Urdu" tvg-logo="" group-title="INDIA",[IN] Madani Channel Urdu
+#EXTINF:-1 tvg-id="" tvg-name="Madani Channel Urdu" tvg-logo="" group-title="INDIA",Madani Channel Urdu
 http://supersonictv.live:8080/976546/188156/85540
-#EXTINF:-1 tvg-id="" tvg-name="[IN] MADANI CHANNEL ENGLISH" tvg-logo="" group-title="INDIA",[IN] MADANI CHANNEL ENGLISH
+#EXTINF:-1 tvg-id="" tvg-name="MADANI CHANNEL ENGLISH" tvg-logo="" group-title="INDIA",MADANI CHANNEL ENGLISH
 http://supersonictv.live:8080/976546/188156/85541
-#EXTINF:-1 tvg-id="" tvg-name="[IN] ZEE TV HD" tvg-logo="" group-title="INDIA",[IN] ZEE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="" group-title="INDIA",ZEE TV HD
 http://supersonictv.live:8080/976546/188156/85542
-#EXTINF:-1 tvg-id="" tvg-name="[IN] ZEE CINEMA HD" tvg-logo="" group-title="INDIA",[IN] ZEE CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="INDIA",ZEE CINEMA HD
 http://supersonictv.live:8080/976546/188156/85543
-#EXTINF:-1 tvg-id="" tvg-name="[IN] ZEE ACTION" tvg-logo="" group-title="INDIA",[IN] ZEE ACTION
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="" group-title="INDIA",ZEE ACTION
 http://supersonictv.live:8080/976546/188156/85544
-#EXTINF:-1 tvg-id="" tvg-name="[IN] STAR GOLD HD" tvg-logo="" group-title="INDIA",[IN] STAR GOLD HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="" group-title="INDIA",STAR GOLD HD
 http://supersonictv.live:8080/976546/188156/85545
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Sony Mix HD" tvg-logo="" group-title="INDIA",[IN] Sony Mix HD
+#EXTINF:-1 tvg-id="" tvg-name="Sony Mix HD" tvg-logo="" group-title="INDIA",Sony Mix HD
 http://supersonictv.live:8080/976546/188156/85546
-#EXTINF:-1 tvg-id="" tvg-name="[IN] SAB TV HD" tvg-logo="" group-title="INDIA",[IN] SAB TV HD
+#EXTINF:-1 tvg-id="" tvg-name="SAB TV HD" tvg-logo="" group-title="INDIA",SAB TV HD
 http://supersonictv.live:8080/976546/188156/85547
-#EXTINF:-1 tvg-id="" tvg-name="[IN] SONY MAX 2" tvg-logo="" group-title="INDIA",[IN] SONY MAX 2
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="" group-title="INDIA",SONY MAX 2
 http://supersonictv.live:8080/976546/188156/85548
-#EXTINF:-1 tvg-id="" tvg-name="[IN] STAR MOVIES FHD" tvg-logo="" group-title="INDIA",[IN] STAR MOVIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES FHD" tvg-logo="" group-title="INDIA",STAR MOVIES FHD
 http://supersonictv.live:8080/976546/188156/85549
-#EXTINF:-1 tvg-id="" tvg-name="[IN] BOLLYWOOD PREMIER FHD" tvg-logo="" group-title="INDIA",[IN] BOLLYWOOD PREMIER FHD
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD PREMIER FHD" tvg-logo="" group-title="INDIA",BOLLYWOOD PREMIER FHD
 http://supersonictv.live:8080/976546/188156/85550
-#EXTINF:-1 tvg-id="" tvg-name="[IN] COLORS CINEPLEX HD" tvg-logo="" group-title="INDIA",[IN] COLORS CINEPLEX HD
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="" group-title="INDIA",COLORS CINEPLEX HD
 http://supersonictv.live:8080/976546/188156/85551
-#EXTINF:-1 tvg-id="" tvg-name="[IN] ZEE BOLLYWOOD" tvg-logo="" group-title="INDIA",[IN] ZEE BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="" group-title="INDIA",ZEE BOLLYWOOD
 http://supersonictv.live:8080/976546/188156/85552
-#EXTINF:-1 tvg-id="" tvg-name="[IN] ZEE ETC" tvg-logo="" group-title="INDIA",[IN] ZEE ETC
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ETC" tvg-logo="" group-title="INDIA",ZEE ETC
 http://supersonictv.live:8080/976546/188156/85553
-#EXTINF:-1 tvg-id="" tvg-name="[IN] B4U Plus" tvg-logo="" group-title="INDIA",[IN] B4U Plus
+#EXTINF:-1 tvg-id="" tvg-name="B4U Plus" tvg-logo="" group-title="INDIA",B4U Plus
 http://supersonictv.live:8080/976546/188156/85554
-#EXTINF:-1 tvg-id="" tvg-name="[IN] B4U Movies" tvg-logo="" group-title="INDIA",[IN] B4U Movies
+#EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="" group-title="INDIA",B4U Movies
 http://supersonictv.live:8080/976546/188156/85555
-#EXTINF:-1 tvg-id="" tvg-name="[IN] B4U Music" tvg-logo="" group-title="INDIA",[IN] B4U Music
+#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="" group-title="INDIA",B4U Music
 http://supersonictv.live:8080/976546/188156/85556
-#EXTINF:-1 tvg-id="" tvg-name="[IN] Aaho Music" tvg-logo="" group-title="INDIA",[IN] Aaho Music
+#EXTINF:-1 tvg-id="" tvg-name="Aaho Music" tvg-logo="" group-title="INDIA",Aaho Music
 http://supersonictv.live:8080/976546/188156/85557
-#EXTINF:-1 tvg-id="" tvg-name="[IN] 9X JALWA" tvg-logo="" group-title="INDIA",[IN] 9X JALWA
+#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="" group-title="INDIA",9X JALWA
 http://supersonictv.live:8080/976546/188156/85558
-#EXTINF:-1 tvg-id="" tvg-name="[IN] & Pictures HD" tvg-logo="" group-title="INDIA",[IN] & Pictures HD
+#EXTINF:-1 tvg-id="" tvg-name="& Pictures HD" tvg-logo="" group-title="INDIA",& Pictures HD
 http://supersonictv.live:8080/976546/188156/85559
-#EXTINF:-1 tvg-id="" tvg-name="[IN] MBC Bollywood HD" tvg-logo="" group-title="INDIA",[IN] MBC Bollywood HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood HD" tvg-logo="" group-title="INDIA",MBC Bollywood HD
 http://supersonictv.live:8080/976546/188156/85560
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR GOLD FHD" tvg-logo="" group-title="INDIA",[IN]  IN STAR GOLD FHD
+#EXTINF:-1 tvg-id="" tvg-name=" IN STAR GOLD FHD" tvg-logo="" group-title="INDIA", IN STAR GOLD FHD
 http://supersonictv.live:8080/976546/188156/85561
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR JALSHA MOVIES FHD" tvg-logo="" group-title="INDIA",[IN]  IN STAR JALSHA MOVIES FHD
+#EXTINF:-1 tvg-id="" tvg-name=" IN STAR JALSHA MOVIES FHD" tvg-logo="" group-title="INDIA", IN STAR JALSHA MOVIES FHD
 http://supersonictv.live:8080/976546/188156/85562
-#EXTINF:-1 tvg-id="" tvg-name="[IN] STAR MOVIES SELECT FHD" tvg-logo="" group-title="INDIA",[IN] STAR MOVIES SELECT FHD
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT FHD" tvg-logo="" group-title="INDIA",STAR MOVIES SELECT FHD
 http://supersonictv.live:8080/976546/188156/85563
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR SPORTS 1 FHD" tvg-logo="" group-title="INDIA",[IN]  IN STAR SPORTS 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name=" IN STAR SPORTS 1 FHD" tvg-logo="" group-title="INDIA", IN STAR SPORTS 1 FHD
 http://supersonictv.live:8080/976546/188156/85564
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR SPORTS 1 FHD HINDI" tvg-logo="" group-title="INDIA",[IN]  IN STAR SPORTS 1 FHD HINDI
+#EXTINF:-1 tvg-id="" tvg-name=" IN STAR SPORTS 1 FHD HINDI" tvg-logo="" group-title="INDIA", IN STAR SPORTS 1 FHD HINDI
 http://supersonictv.live:8080/976546/188156/85565
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR SPORTS 2 FHD" tvg-logo="" group-title="INDIA",[IN]  IN STAR SPORTS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name=" IN STAR SPORTS 2 FHD" tvg-logo="" group-title="INDIA", IN STAR SPORTS 2 FHD
 http://supersonictv.live:8080/976546/188156/85566
-#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="INDIA",[IN]  IN STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name=" IN STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="INDIA", IN STAR SPORTS SELECT 2 HD
 http://supersonictv.live:8080/976546/188156/85567
-#EXTINF:-1 tvg-id="" tvg-name="[IN] STAR VIJAY FHD" tvg-logo="" group-title="IND
+#EXTINF:-1 tvg-id="" tvg-name="STAR VIJAY FHD" tvg-logo="" group-title="IND
+
+
+
