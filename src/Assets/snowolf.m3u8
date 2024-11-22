@@ -163,6 +163,13 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="BBO" tvg-name="BBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movies",BBO
+https://live.drmlive-02.workers.dev/yupptv/premium/bbo.m3u8
+
+#EXTINF:-1 tvg-id="BBO-Classic" tvg-name="BBO Classic" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO%20CLASSIC_TV_black_1.png" group-title="Movies",BBO Classic
+https://live.drmlive-02.workers.dev/yupptv/premium/bboclassic.m3u8
+
+
 /// KIDS ///
 
 #EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" ,SONY YAY!
@@ -273,11 +280,6 @@ https://live.drmlive-02.workers.dev/yupptv/fta/tv9-maharashtra.m3u8
 https://la.drmlive.au/tp/zee-zeenews.m3u8
 
 
-#EXTINF:-1 tvg-id="BBO" tvg-name="BBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movies",BBO
-https://live.drmlive-02.workers.dev/yupptv/premium/bbo.m3u8
-
-#EXTINF:-1 tvg-id="BBO-Classic" tvg-name="BBO Classic" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO%20CLASSIC_TV_black_1.png" group-title="Movies",BBO Classic
-https://live.drmlive-02.workers.dev/yupptv/premium/bboclassic.m3u8
 
 #EXTINF:-1 tvg-id="190" group-title="Business" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg",CNBC Awaaz
 https://live.drmlive-02.workers.dev/jc/190.m3u8
