@@ -103,10 +103,10 @@ https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1,&FLIX HD
-https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
+https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
 
 #EXTINF:-1,&PRIVE HD
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+https://la.drmlive.au/tp/zee-9z5543514.m3u8
 
 #EXTINF:-1,& PICTURES
 https://la.drmlive.au/tp/zee-pictures.m3u8
@@ -115,7 +115,7 @@ https://la.drmlive.au/tp/zee-pictures.m3u8
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 
 #EXTINF:-1,& XPLORER HD
-https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
+https://la.drmlive.au/tp/zee-209.m3u8
 
 #EXTINF:-1,ZEE ACTION CINEMA
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
